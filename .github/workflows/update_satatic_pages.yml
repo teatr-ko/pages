@@ -72,12 +72,12 @@ jobs:
           path: 'static'
           ref: 'master'
 
-      - name: Checkout static media repository
+      - name: Checkout static news media repository
         uses: actions/checkout@v2
         with:
           repository: 'teatr-ko/static-news'
           token: ${{ secrets.ACCESS_TOKEN }}
-          path: 'static'
+          path: 'static-news'
           ref: 'master'
 
       - name: Sync static media
