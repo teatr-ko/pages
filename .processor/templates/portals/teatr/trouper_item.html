@@ -1,0 +1,101 @@
+{% extends "portals/teatr/default.html" %}
+{% load portal_tags %}
+{% load typogrify_tags %}
+
+{% block title %}{{trouper.surname}} {{trouper.name}}{% endblock %}
+{% block keywords %}{{item.keywords}}{% endblock %}
+
+{% block content %} 
+
+  <h1 class= "header_t ">{{trouper.surname|typogrify}} 
+	  {{trouper.name|typogrify}}
+	  {{trouper.patronymic|typogrify}}	
+  </h1>
+	<center><table align="center" width="60%"><tr><td>
+	{% if trouper.image %} 		  
+		<a rel="" title="" href="{{ trouper.image.url_full|change_file_end }}">
+	  		<img class="l lightbox bordered" src="{{ trouper.image.url_full }}"/>
+		</a>
+	
+	{% endif %} 
+	
+	{% if trouper.date_of_birth %}
+		<br><div >{{trouper.date_of_birth|date:"d.m.y"}}   року народження </div>
+	{% endif %} 
+  
+	
+	{% if trouper.on_the_stage %} 
+		<div >на сцені театру з {{trouper.on_the_stage|date:"d.m.y"}}</div>
+	{% endif %} 
+	</td></tr></table></center>
+	
+	{% if trouper_gallery %}
+	
+	 <center><p>
+			<ul id="mycarousel" class="jcarousel-skin-tango">
+				{% for image_gallery in trouper_gallery %}
+			
+					<li>
+						<a href= "{{ image_gallery.image.url_full|change_file_end }}"  
+						{% if image_gallery.trouper_role %}
+							title = "{{ image_gallery.trouper_role.personage}}"
+						{% else %}
+							title = "{{ image_gallery.image_title}}"
+						{% endif %} >
+						
+							<img src="{{ image_gallery }}" class="lightbox news_body_bottom" 
+                            {% if image_gallery.trouper_role %}
+                                title = "{{ image_gallery.trouper_role.personage}}"
+                            {% else %}
+                                title = "{{ image_gallery.image_title}}"
+                            {% endif %} />
+						</a>
+					</li>	
+					
+				{% endfor %}
+			</ul>
+	</p></center>
+  {% endif %}
+  
+ 	
+		{% for k, v in dict.items %}
+			{% if k == 'staff' and v %}
+			<div class= "header_t "><p>Участь у постановках</p></div>
+			{% else %}
+				{% if k == 'grown' and v %}
+					<div class= "header_t "><p>Ролі</p></div> 
+				{% else %} 
+					{% if v %}
+						<div class= "header_t "><p>Ролі в дитячих виставах</p></div>
+					 
+					{% endif %}
+				{% endif %}	   
+			{% endif %}
+			
+			 
+			{% for performance, role in v.items %}
+			
+			
+				<div >
+				
+				{% for r in role %} 
+				
+					{% if r.personage %}
+					<b>{{r.personage.person}}</b> -
+					{% endif %} 
+				{% endfor %}
+				
+				<a  style="font-weight: normal" href = "{%  url 'portal-performance-item' performance.unique_name %}">{{performance}}</a>
+					(реж. {{performance.producer}})
+				</div>
+		
+			{% endfor %}
+			
+		{% endfor %}
+		
+	{% if trouper.addition %}
+		{{trouper.addition|typogrify|safe}}		
+	{% endif %}
+		
+		
+{% endblock %}

@@ -1,0 +1,96 @@
+# This is a basic workflow to help you get started with Actions
+
+name: build and push static site
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Setup Java JDK
+        uses: actions/setup-java@v2.0.0
+        with:
+          java-version: 11
+          distribution: adopt
+          java-package: jre
+
+      - name: Checkout site repository
+        uses: actions/checkout@v2
+        with: 
+          repository: 'askoldova/ng'
+          token: ${{ secrets.ACCESS_TOKEN }}
+          ref: 'main'
+          path: 'pages'
+
+      - name: Generate pages
+        run: |
+          mkdir -pv tmp && \
+          curl --header 'Authorization: token ${{ secrets.GITHUB_TOKEN }}' \
+            --location https://maven.pkg.github.com/andriyg76/pages-processor/ee/andriyg/os/pages-processor/0.0.3/pages-processor-0.0.3.jar \
+            -o ./tmp/pages-processor.jar --fail &&
+          java -jar ./tmp/pages-processor.jar
+
+      - name: Set git user
+        run: |
+          cd pages && \
+          git config user.email "action@github.com" && \
+          git config user.name "GitHub action"
+
+      - name: Commit changes
+        run: |
+          cd pages && \
+          git add -A && \
+          git status --porcelain -z | \
+            cut -c 4- -z | \
+            xargs --null git commit -m "site generation" \
+              || { if [[ "$?" -ne 123 ]] ; then false ; fi } && \
+          git push -v
+
+      - name: Checkout static media repository
+        uses: actions/checkout@v2
+        with: 
+          repository: 'teatr-ko/static'
+          token: ${{ secrets.ACCESS_TOKEN }}
+          path: 'static'
+          ref: 'master'
+
+      - name: Checkout static media repository
+        uses: actions/checkout@v2
+        with:
+          repository: 'teatr-ko/static-news'
+          token: ${{ secrets.ACCESS_TOKEN }}
+          path: 'static'
+          ref: 'master'
+
+      - name: Sync static media
+        run: |
+          rsync -rv ./static/ ./pages/media/kol/ --exclude .git
+          rsync -rv ./static-news/ ./pages/media/kol/news --exclude .git
+
+      - name: Commit changes
+        run: |
+          cd pages && \
+          git add -A && \
+          git status --porcelain -z | \
+            cut -c 4- -z | \
+            xargs --null git commit -m "site generation" || { if [[ "$?" -ne 123 ]] ; then false ; fi } && \
+          git push -v
+

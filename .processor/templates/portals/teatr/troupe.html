@@ -1,0 +1,46 @@
+{% extends "portals/teatr/default.html" %}
+{% load portal_tags %}
+{% load typogrify_tags %}
+
+{% block title %} Трупа {% endblock %}
+{% block keywords %}Трупа, Актори{% endblock %}
+
+{% block content %} 
+	<table style="width: 100%">
+	{% for row in troupe %}
+		<tr>
+		{% for a in row %}
+			<td style="width: 50%">
+			{% if a %}
+			{% url 'portal-trouper-item' a.unique_name as url %}
+	
+		<p style = "text-align: justify;">
+		{% if a.has_page %}
+			{% if a.image %} 
+			
+			<a href="{{ url }}"><img class="bordered" style="float:left; margin-right:10px" src="{{ a.image.url_full }}"><br><h1 class="header_left">{{ a.surname|typogrify }} {{ a.name|typogrify }}</h1></a>	
+				
+			{% else %}
+			<a href="{{ url }}"><h1 class="header_left">{{ a.surname|typogrify }} {{ a.name|typogrify }}</h1></a>
+		
+			{% endif %} 
+		
+			
+		{% else %}
+			{% if a.image %} 
+				<img class="bordered" style="float: left;" src="{{ a.image.url_full }}">
+			{% endif %} 
+		<h1 class="header_left">{{ a.name|typogrify }} {{ a.surname|typogrify }}</h1>
+		{% endif %}
+		</p>
+		<br><br><br>
+		{% endif %}
+		</td>
+        {% endfor %}
+		</tr>
+	{% endfor %}
+	</table>
+
+	<p align="center"><a href="/involved/">Актори, задіяні у спектаклях театру</a></p>
+
+{% endblock %}

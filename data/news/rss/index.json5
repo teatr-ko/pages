@@ -1,0 +1,7 @@
+{
+  "_page": {
+    "output": "news/rss/index.html",
+    "template": "redirect"
+  },
+  "redirect": "/news.rss"
+}
