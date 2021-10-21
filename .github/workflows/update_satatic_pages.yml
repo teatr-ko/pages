@@ -35,7 +35,7 @@ jobs:
       - name: Checkout site repository
         uses: actions/checkout@v2
         with: 
-          repository: 'askoldova/ng'
+          repository: 'teatr-ko/ng'
           token: ${{ secrets.ACCESS_TOKEN }}
           ref: 'main'
           path: 'pages'
