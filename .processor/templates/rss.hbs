@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>{{ title }}</title>
-        <link>{{ url }}</link>
-        <description>{{ title }}</description>
-        {{#each entries}}
+        <title>{{ feed.caption }}</title>
+        <link>{{ feed.link }}</link>
+        <description>{{ feed.title }}</description>
+        {{#each feed.items}}
             <item>
                 <title>{{ caption }}</title>
                 <link>{{ link }}</link>
                 <description><![CDATA[
-                    {{{ text }}}
+                    {{{ description }}}
                     ]]></description>
                 <pubDate>{{ rss_date }}</pubDate>
                 <guid>{{ link }}</guid>
