@@ -1,0 +1,12 @@
+{
+  "_page": {
+    "output": "archive/index.html",
+    "template": "page"
+  },
+  "body": "<p>Новини</p>",
+  "caption": "Статті , відео про Коломийський театр",
+  "news": null,
+  "not_exist": false,
+  "published": true,
+  "url": "archive/"
+}

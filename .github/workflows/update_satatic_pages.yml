@@ -82,8 +82,8 @@ jobs:
 
       - name: Sync static media
         run: |
-          rsync -rv ./static/ ./pages/media/kol/ --exclude .git
-          rsync -rv ./static-news/ ./pages/media/kol/news --exclude .git
+          rsync -rv ./static/ ./pages/korg/kol/ --exclude .git
+          rsync -rv ./static-news/ ./pages/korg/kol/news --exclude .git
 
       - name: Commit changes
         run: |
