@@ -1,0 +1,7 @@
+{
+  "_page": {
+    "output": "admin/index.html",
+    "template": "redirect"
+  },
+  "redirect": "//localhost:8000/admin/"
+}
