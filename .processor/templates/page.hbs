@@ -1,9 +1,13 @@
-{% extends "portals/teatr/default.html" %}
-{% load portal_tags %}
-{% load typogrify_tags %}
-{% block title %}{{page.caption}}{% endblock %}
-{% block keywords %}{{page.keywords}}{% endblock %}
-  
-{% block content %}
-	<div id="content">{{ page.body|typogrify|safe }}</div>
-{% endblock %}
+{{#partial "caption"}}
+    {{ caption }}
+{{/partial}}
+
+{{#partial "keywords"}}
+    {{ keywords }}
+{{/partial}}
+
+{{#partial "content"}}
+	<div id="content">{{{ body }}}</div>
+{{/partial}}
+
+{{> default }}
