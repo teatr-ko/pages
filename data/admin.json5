@@ -3,5 +3,5 @@
     "output": "admin/index.html",
     "template": "redirect"
   },
-  "redirect": "//localhost:8000/admin/"
+  "redirect": "https://teatr-ng.kolomyya.org/admin/"
 }
