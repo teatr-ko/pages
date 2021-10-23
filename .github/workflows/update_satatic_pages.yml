@@ -44,7 +44,7 @@ jobs:
         run: |
           mkdir -pv tmp && \
           curl --header 'Authorization: token ${{ secrets.GITHUB_TOKEN }}' \
-            --location https://maven.pkg.github.com/andriyg76/pages-processor/ee/andriyg/os/pages-processor/0.0.3/pages-processor-0.0.3.jar \
+            --location https://maven.pkg.github.com/andriyg76/pages-processor/ee/andriyg/os/pages-processor/0.0.4/pages-processor-0.0.4.jar \
             -o ./tmp/pages-processor.jar --fail &&
           java -jar ./tmp/pages-processor.jar
 
