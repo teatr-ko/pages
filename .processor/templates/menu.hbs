@@ -1,1 +1,20 @@
--= menu here =-
+<script type = "text/javascript">
+    ddlevelsmenu.setup("ddtopmenubar", "topbar") //ddlevelsmenu.setup("mainmenuid", "topbar")
+</script>
+
+<div id = "ddtopmenubar" class = "wireframemenu">
+    <ul id="main_teatr">
+        {{#each menu.items}}
+        <li><a href="{{ url }}" {{#if items}} rel="ddsubmenu{{ @index }}"{{/if}}>{{ caption }}</a>
+        {{#if items}}
+            <ul id="ddsubmenu{{ @index }}" class="ddsubmenustyle">
+            {{#each items}}
+                <li><a href="{{ url }}">{{ caption }}</a>
+            {{/each}}
+            </ul>
+        {{/if}}
+        {{/each}}
+    </ul>
+
+</div>
+
