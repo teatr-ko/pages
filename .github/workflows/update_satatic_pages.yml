@@ -70,7 +70,7 @@ jobs:
           repository: 'teatr-ko/static'
           token: ${{ secrets.ACCESS_TOKEN }}
           path: 'static'
-          ref: 'master'
+          ref: 'main'
 
       - name: Checkout static news media repository
         uses: actions/checkout@v2
@@ -78,12 +78,12 @@ jobs:
           repository: 'teatr-ko/static-news'
           token: ${{ secrets.ACCESS_TOKEN }}
           path: 'static-news'
-          ref: 'master'
+          ref: 'main'
 
       - name: Sync static media
         run: |
-          rsync -rv ./static/ ./pages/korg/kol/ --exclude .git
-          rsync -rv ./static-news/ ./pages/korg/kol/news --exclude .git
+          rsync -rv ./static/ ./pages/korg/kol/ --exclude .git --exclude .gitignore
+          rsync -rv ./static-news/ ./pages/korg/kol/news --exclude .git --exclude .gitignore
 
       - name: Commit changes
         run: |
