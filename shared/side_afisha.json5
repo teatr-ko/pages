@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "place": "м. Болехів -&amp;nbsp;РБК",
+      "date": "Четвер,&amp;nbsp;28.10.21",
+      "time": "10:00",
+      "performance": "Анничка",
+      "url": "https://ng-teatr.kolomyya.org/performances/annychka/",
+      "author": "Іван&amp;nbsp;Озаркевич",
+      "genre": "комедіо-опера"
+    },
+    {
+      "place": "Caserta (Касерта, Італія) - &amp;#8220;Teatro Don&amp;nbsp;Bosco&amp;#8221;",
+      "date": null,
+      "time": "11:00",
+      "performance": "Boa&amp;nbsp;constrictor",
+      "url": "https://ng-teatr.kolomyya.org/performances/constrictor/",
+      "author": "Іван&amp;nbsp;Франко",
+      "genre": "Драма"
+    }
+  ]
+}

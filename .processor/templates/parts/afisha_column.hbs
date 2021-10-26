@@ -1,1 +1,16 @@
-{{{ . }}}
+<table border="0" cellpadding="1" cellspacing="0">
+
+    {{#each items}}
+    <tr><td align = "left">
+        {{#date}}
+        <h2 class = "se5">{{{ date }}}</h2>
+        <br>
+        {{/date}}
+        <div>
+	  		<span class = "se2"><b>{{ time }}</b> - <span class = "se3">{{{ place }}}.</span> </span>
+	 		<span class = "se2">{{{ author }}} <a href = "{{ url }}">"{{{ performance }}}"</a> <span class = "se3">{{{ genre }}}</span> </span>
+        </div>
+        <br>
+    </td></tr>
+    {{/each}}
+</table>
