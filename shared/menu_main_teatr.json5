@@ -40,18 +40,11 @@
           "url": "/history/1939/"
         },
         {
-          "caption": "1989 - 2010 рр.",
+          "caption": "1989 - 2011 рр.",
           "id": 27,
           "items": [],
           "level": 2,
           "url": "/history/1989/"
-        },
-        {
-          "caption": "2011 - 2020рр.",
-          "id": 38,
-          "items": [],
-          "level": 2,
-          "url": "/history/2020/"
         }
       ],
       "level": 1,
@@ -187,20 +180,6 @@
           "items": [],
           "level": 2,
           "url": "/kol_presentations/2018/"
-        },
-        {
-          "caption": "XI фестиваль - 2019 р.",
-          "id": 39,
-          "items": [],
-          "level": 2,
-          "url": "/kol_presentations/2019/"
-        },
-        {
-          "caption": "XIІ фестиваль - 2021 р.",
-          "id": 40,
-          "items": [],
-          "level": 2,
-          "url": "/kol_presentations/2021/"
         }
       ],
       "level": 1,
@@ -212,6 +191,13 @@
       "items": [],
       "level": 1,
       "url": "/archive/"
+    },
+    {
+      "caption": "Форум",
+      "id": 15,
+      "items": [],
+      "level": 1,
+      "url": "http://forum.kolomyya.org/viewtopic.php?f=17&t=963/"
     }
   ],
   "name": "main_teatr"

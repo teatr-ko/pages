@@ -1,0 +1,36 @@
+{{#partial "caption"}}
+    Театр | Афіша
+{{/partial}}
+
+{{#partial "keywords"}}
+    Театр | Афіша
+{{/partial}}
+
+{{#partial "content"}}
+
+<h2 class="header_t"> Афіша на {{{ this_my }}} року </h2>
+
+<table border = "0" cellpadding = "1" cellspacing = "0">
+	
+{{#each items}}
+	 <tr><td align = "left">
+        {{#date}}
+        <h2 class = "se5">{{{ date }}}</h2>
+        <br>
+        {{/date}}
+	  	<div>
+	  		<span class = "se2"><b>{{ time }}</b> - <span class = "se3">{{{ place }}}.</span> </span>
+	 		<span class = "se2">{{{ author }}} <a href = "{{ url }}">"{{{ performance }}}"</a> <span class = "se3">{{{ genre }}}</span> </span>
+	 	</div>
+		<br>
+	  </tr></td>
+{{/each}}
+
+</table>
+<div style = "align: right"><a href="{{ other_url }}" title = "Переглянути афішу на {{{ other_period }}} місяць"> Афіша на {{{ other_my }}} року</a></div>
+{% endif %}
+<br>
+
+{{/partial}}
+
+{{> default }}

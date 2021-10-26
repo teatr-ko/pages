@@ -1,0 +1,26 @@
+{
+  "_page": {
+    "output": "afisha/current/index.html",
+    "template": "afisha"
+  },
+  "items": [
+    {
+      "author": "Пітер&nbsp;Шеффер",
+      "date": "Вівторок,&nbsp;26.10.21",
+      "genre": "Сучасна містерія на дві дії",
+      "performance": "<span class=\"caps\">EQUUS</span>",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "12:30",
+      "url": "//ng-teatr.kolomyya.org/performances/equus/"
+    },
+    {
+      "author": "Іван&nbsp;Франко",
+      "date": "Середа,&nbsp;27.10.21",
+      "genre": "Драма",
+      "performance": "Boa&nbsp;constrictor",
+      "place": "Napoli (Неаполь, Італія) - &#8220;Teatro San&nbsp;Ferdinando&#8221;",
+      "time": "13:30",
+      "url": "//ng-teatr.kolomyya.org/performances/constrictor/"
+    }
+  ]
+}
