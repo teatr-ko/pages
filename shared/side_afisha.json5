@@ -1,24 +1,5 @@
 {
-  "items": [
-    {
-      "author": "Вільям&nbsp;Шекспір",
-      "date": "Четвер,&nbsp;18.11.21",
-      "genre": "трагедія",
-      "performance": "Гамлет",
-      "place": "Pompei (Помпей, Італія) - Teatro &#8220;Di Costanzo&nbsp;Mattiello&#8221;",
-      "time": "12:00",
-      "url": "//ng-teatr.kolomyya.org/performances/hamlet/"
-    },
-    {
-      "author": "Теннессі Вільямс (переклад з англійської&nbsp;Р.Коломієць)",
-      "date": null,
-      "genre": "Драма",
-      "performance": "Будинок на&nbsp;злам",
-      "place": "м. Болехів -&nbsp;РБК",
-      "time": "13:30",
-      "url": "//ng-teatr.kolomyya.org/performances/houseforscrap/"
-    }
-  ],
+  "items": [],
   "other_my": "Жовтень&nbsp;2021",
   "other_period": "попередній",
   "other_url": "/afisha/current/",

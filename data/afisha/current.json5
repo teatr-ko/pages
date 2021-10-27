@@ -5,22 +5,67 @@
   },
   "items": [
     {
-      "author": "Пітер&nbsp;Шеффер",
-      "date": "Вівторок,&nbsp;26.10.21",
-      "genre": "Сучасна містерія на дві дії",
-      "performance": "<span class=\"caps\">EQUUS</span>",
+      "author": "Алехандро&nbsp;Касона",
+      "date": "Неділя,&nbsp;03.10.21",
+      "genre": "трагікомедія",
+      "performance": "Три ідеальні&nbsp;подружжя",
       "place": "м.Коломия -&nbsp;театр",
-      "time": "12:30",
-      "url": "//ng-teatr.kolomyya.org/performances/equus/"
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/three_ideal_marriage/"
+    },
+    {
+      "author": "В.Орлова",
+      "date": "Неділя,&nbsp;10.10.21",
+      "genre": "Казка",
+      "performance": "Золоте&nbsp;курча",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/kurcha/"
+    },
+    {
+      "author": "Тарас&nbsp;Шевченко",
+      "date": null,
+      "genre": "народна драма",
+      "performance": "Мати-наймичка",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/maty/"
+    },
+    {
+      "author": "за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
+      "date": "Неділя,&nbsp;17.10.21",
+      "genre": "сучасна українська казка",
+      "performance": "Пастка для&nbsp;орла",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/eagle_trap/"
+    },
+    {
+      "author": "Іван&nbsp;Карпенко-Карий",
+      "date": null,
+      "genre": "Комедія",
+      "performance": "Сто&nbsp;тисяч",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/sto_tysiach/"
+    },
+    {
+      "author": "Іван&nbsp;Озаркевич",
+      "date": "Четвер,&nbsp;28.10.21",
+      "genre": "комедіо-опера",
+      "performance": "Анничка",
+      "place": "м. Болехів -&nbsp;РБК",
+      "time": "10:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/annychka/"
     },
     {
       "author": "Іван&nbsp;Франко",
-      "date": "Середа,&nbsp;27.10.21",
+      "date": null,
       "genre": "Драма",
       "performance": "Boa&nbsp;constrictor",
-      "place": "Napoli (Неаполь, Італія) - &#8220;Teatro San&nbsp;Ferdinando&#8221;",
-      "time": "13:30",
-      "url": "//ng-teatr.kolomyya.org/performances/constrictor/"
+      "place": "Caserta (Касерта, Італія) - &#8220;Teatro Don&nbsp;Bosco&#8221;",
+      "time": "11:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/constrictor/"
     }
   ],
   "other_my": "Листопад&nbsp;2021",
