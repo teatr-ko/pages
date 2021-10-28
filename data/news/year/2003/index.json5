@@ -1,0 +1,52 @@
+{
+  "_page": {
+    "output": "news/year/2003/index.html",
+    "template": "news_page"
+  },
+  "navigate_url": "/news/year/2003/pg/",
+  "news": [
+    {
+      "date": "17 листопада 2003&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2003/47699/theatre_small_ix_crop.jpg\" class=\"news_lead\">На запрошення Генерального консула України Василя Боєчка в м.Сучава (Румунія) відбулися гастролі Коломийського обласного драматичного&nbsp;театру&#8230;</p>",
+      "title": "Вінок шани Ользі Кобилянській",
+      "url": "/news/item/47699"
+    }
+  ],
+  "page": 1,
+  "pages": [
+    1
+  ],
+  "pages_cnt": 1,
+  "years": [
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2021",
+      "year": 2021
+    },
+    {
+      "next": true,
+      "previous": false,
+      "url": "/news/year/2012",
+      "year": 2012
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2011",
+      "year": 2011
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2010",
+      "year": 2010
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": null,
+      "year": 2003
+    }
+  ]
+}

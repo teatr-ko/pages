@@ -1,0 +1,106 @@
+{
+  "_page": {
+    "output": "news/year/2013/pg/13/index.html",
+    "template": "news_page"
+  },
+  "navigate_url": "/news/year/2013/pg/",
+  "news": [
+    {
+      "date": "02 лютого 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/49135/01_small_ix_crop.jpg\" class=\"news_lead\">В Італії озарківчани проведуть три тижні. Там покажуть свої вистави-візитівки - містерією &#8220;Гуцульський рік&#8221; і музичну комедію &#8220;Як наші діди&nbsp;парубкували&#8221;.</p>",
+      "title": "Коломийський театр поїхав на гастролі в Італію",
+      "url": "/news/item/49135"
+    },
+    {
+      "date": "31 січня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/49100/01_small_ix_crop.jpg\" class=\"news_lead\">Гріховне кохання, інтимні стосунки, які осуджуються усіма суспільними й церковними канонами і трактуються клерикалами, як&nbsp;розпуста&#8230;</p>",
+      "title": "Зворотня сторона гріха",
+      "url": "/news/item/49100"
+    },
+    {
+      "date": "29 січня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/49031/01_small_ix_crop.jpg\" class=\"news_lead\">Таку назву має нова вистава озарківчан. Постановка з попередженням - &#8220;тільки для дорослих&#8221;. І актори і глядачі весь час перебували на&nbsp;сцені.</p>",
+      "title": "У Коломийському театрі з'явилися \"Коханці\"",
+      "url": "/news/item/49031"
+    },
+    {
+      "date": "03 січня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/48693/01_small_ix_crop.jpg\" class=\"news_lead\">Коломиянам показали &#8220;Бороду&#8221;. Короткометражний фільм представив у кінотеатрі &#8220;Стрічка&#8221; сам режисер Дмитро&nbsp;Сухолиткий-Собчук.</p>",
+      "title": "Коломиянам показали фільм \"Борода\"",
+      "url": "/news/item/48693"
+    }
+  ],
+  "page": 13,
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "pages_cnt": 13,
+  "years": [
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2021",
+      "year": 2021
+    },
+    {
+      "next": true,
+      "previous": false,
+      "url": "/news/year/2016",
+      "year": 2016
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2015",
+      "year": 2015
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2014",
+      "year": 2014
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": null,
+      "year": 2013
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2012",
+      "year": 2012
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2011",
+      "year": 2011
+    },
+    {
+      "next": false,
+      "previous": true,
+      "url": "/news/year/2010",
+      "year": 2010
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2003",
+      "year": 2003
+    }
+  ]
+}

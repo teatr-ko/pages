@@ -1,0 +1,124 @@
+{
+  "_page": {
+    "output": "news/year/2013/pg/9/index.html",
+    "template": "news_page"
+  },
+  "navigate_url": "/news/year/2013/pg/",
+  "news": [
+    {
+      "date": "15 травня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/50978/01_small_ix_crop.jpg\" class=\"news_lead\">З 19 по 26 травня 2013 року у Мукачеві проходитиме традиційний <span class=\"caps\">XIV</span> Міжнародний фестиваль етнічних театрів&nbsp;національних&#8230;</p>",
+      "title": "До Мукачева з'їдуться актори з України, Росії та Угорщини (ПРОГРАМА)",
+      "url": "/news/item/50978"
+    },
+    {
+      "date": "29 квітня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/50786/01_small_ix_crop.jpg\" class=\"news_lead\">Цей шлях до розумного Арлекіна у мене особисто умовно проліг цього року між двома точками, які я&nbsp;означив&#8230;</p>",
+      "title": "Театральний вокзал для дев’ятьох подорожніх або шляхом розумного Арлекіна...",
+      "url": "/news/item/50786"
+    },
+    {
+      "date": "24 квітня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/50757/01_small_ix_crop.jpg\" class=\"news_lead\">Минулого тижня з гастролями до Сміли приїздив Коломийський академічний обласний український&nbsp;драматичний&#8230;</p>",
+      "title": "Оксана Мегерко: \"У Смілі я відчуваю глядача, з ним не хочеться прощатися\"",
+      "url": "/news/item/50757"
+    },
+    {
+      "date": "17 квітня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/50547/01_small_ix_crop.jpg\" class=\"news_lead\">На два дні Полтава мистецька перетворилася на плацдарм для нових театральних вражень для&nbsp;справжніх&#8230;</p>",
+      "title": "Коломийський театр \"говорив\" з полтавськими глядачами на болючі теми сучасності",
+      "url": "/news/item/50547"
+    },
+    {
+      "date": "15 квітня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/50498/01_small_ix_crop.jpg\" class=\"news_lead\">Коломийський академічний обласний український драматичний театр імені Івана Озаркевича - на&nbsp;гастролях.</p>",
+      "title": "Коломийський театр з успіхом гастролює",
+      "url": "/news/item/50498"
+    },
+    {
+      "date": "14 квітня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/50448/01_small_ix_crop.jpg\" class=\"news_lead\">У другий день гастролей колектив Коломийського театру розважав полтавських театралів&nbsp;трагікомедією&#8230;</p>",
+      "title": "Мораль по-коломийськи",
+      "url": "/news/item/50448"
+    },
+    {
+      "date": "14 квітня 2013&nbsp;р.",
+      "lead": "<p><img src=\"/korg/kol/news/2013/50450/01_small_ix_crop.jpg\" class=\"news_lead\"><span class=\"dquo\">&#8220;</span>Пані Дульська - владна й деспотична жінка. Її мораль - це відсутність будь-яких моральних норм і&nbsp;принципів&#8230;</p>",
+      "title": "Як кременчужани розбирались з \"Мораллю пані Дульської\"",
+      "url": "/news/item/50450"
+    }
+  ],
+  "page": 9,
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "pages_cnt": 13,
+  "years": [
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2021",
+      "year": 2021
+    },
+    {
+      "next": true,
+      "previous": false,
+      "url": "/news/year/2016",
+      "year": 2016
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2015",
+      "year": 2015
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2014",
+      "year": 2014
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": null,
+      "year": 2013
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2012",
+      "year": 2012
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2011",
+      "year": 2011
+    },
+    {
+      "next": false,
+      "previous": true,
+      "url": "/news/year/2010",
+      "year": 2010
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2003",
+      "year": 2003
+    }
+  ]
+}

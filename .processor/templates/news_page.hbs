@@ -1,0 +1,102 @@
+{{#partial "caption"}}Новини{{/partial}}
+
+{{#partial "keywords"}}Театр | Новини{{/partial}}
+
+{{#partial "addheaders" }}
+    <link rel="stylesheet" type="text/css" href="/korg/css/paginator.css"/>
+    <script type="text/javascript" src="/korg/js/paginator.js"></script>
+{{/partial}}
+
+{{#partial "content"}}
+    <style>
+        .se1 {
+            color: #2E3C9F;
+            font-weight: normal;
+            text-align: justify;
+            font-size: 10px;
+            margin-bottom: 0px;
+            margin-top: 8px;
+        }
+
+        .se2 {
+            color: #000000;
+            font-weight: normal;
+            text-align: justify;
+            font-size: 12pt;
+        }
+
+        .se3 {
+            color: #64605E;
+            font-weight: normal;
+            text-align: justify;
+            font-size: 12pt;
+        }
+
+        .se4 {
+            color: #2E3C9D;
+            font-weight: normal;
+            text-align: justify;
+            font-size: 15px;
+        }
+    </style>
+
+    <center>
+        <table width="80%">
+            <tr>
+                <td>
+
+                    <div id="paginator" class="paginator">{{#each pages }}
+                        <a href="{{ ../navigate_url }}{{ . }}/">{{ . }}</a>{{/each}}</div>
+                    <br><br>
+                    <script type="text/javascript">new Paginator('paginator', {{ pages_cnt }}, 10, {{ page }}, "{{ navigate_url }}")</script>
+
+                    {{#each news}}
+                        <a class="font-size: 9pt" href="{{ url }}">{{ title }}</a>
+                        <br>
+
+                        <div class="currentDate">{{{ date }}}</div>
+
+                        <div class="se2">
+                            <img class="news_lead" src="{{ n.image_small.url_full }}">
+                            {{{ lead }}}
+                        </div>
+                        <br><br>
+
+
+                    {{/each}}
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id="paginator2" class="paginator">
+                        {{#each years}}
+                            {{#unless url}}
+                                <strong>{{ year }}&nbsp;рік</strong>
+                            {{/unless}}
+
+                            {{#if url}}
+                                {{#if next}}
+                                    ...&nbsp;<a href="{{ url }}/">наступні&nbsp;роки</a>&nbsp;
+                                {{/if}}
+                                {{#if previous}}
+                                    ...&nbsp;<a href="{{ url }}/">попередні&nbsp;роки</a>&nbsp;
+                                {{/if}}
+                                {{#unless previous}}
+                                    {{#unless next}}
+                                        <a href="{{ url }}/">{{ year }}&nbsp;рік</a>&nbsp;
+                                    {{/unless}}
+                                {{/unless}}
+                            {{/if}}
+                            {{#unless @last}} :: {{/unless}}
+                        {{/each}}
+                    </div>
+                    <br><br>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+{{/partial}}
+
+{{> default }}

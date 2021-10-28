@@ -1,4 +1,9 @@
 {
+  "_page": {
+    "output": "news/year/2021/pg/1/index.html",
+    "template": "news_page"
+  },
+  "navigate_url": "/news/year/2021/pg/",
   "news": [
     {
       "date": "12 жовтня 2021&nbsp;р.",
@@ -41,6 +46,45 @@
       "lead": "<p><img src=\"/korg/kol/news/2021/58442/teatr-anons-part2-080921_small_ix_crop.jpg\" class=\"news_lead\">У рамках «Коломийських представлень» своє мистецтво вже продемонстрували актори Київського театру Івана Франка, Дніпровського&nbsp;телетеатру&#8230;</p>",
       "title": "У Коломиї триває театральний фестиваль \"КОЛОМИЙСЬКІ ПРЕДСТАВЛЕННЯ\" (відеосюжет)",
       "url": "/news/item/58442"
+    }
+  ],
+  "page": 1,
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "pages_cnt": 3,
+  "years": [
+    {
+      "next": false,
+      "previous": false,
+      "url": null,
+      "year": 2021
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2020",
+      "year": 2020
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2019",
+      "year": 2019
+    },
+    {
+      "next": false,
+      "previous": true,
+      "url": "/news/year/2018",
+      "year": 2018
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2003",
+      "year": 2003
     }
   ]
 }

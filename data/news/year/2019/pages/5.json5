@@ -1,0 +1,68 @@
+{
+  "_page": {
+    "output": "news/year/2019/pg/5/index.html",
+    "template": "news_page"
+  },
+  "navigate_url": "/news/year/2019/pg/",
+  "news": [
+    {
+      "date": "29 березня 2019&nbsp;р.",
+      "lead": "Його називають великим театром – маленького міста. Мова про Коломийський обласний академічний драматичний театр імені&nbsp;Озаркевича&#8230;",
+      "title": "Великий театр маленького міста. Коломийський театр у день народження Мельпомени прихилив лаштунки (відеосюжет)",
+      "url": "/news/item/58391"
+    }
+  ],
+  "page": 5,
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "pages_cnt": 5,
+  "years": [
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2021",
+      "year": 2021
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2020",
+      "year": 2020
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": null,
+      "year": 2019
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2018",
+      "year": 2018
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2017",
+      "year": 2017
+    },
+    {
+      "next": false,
+      "previous": true,
+      "url": "/news/year/2016",
+      "year": 2016
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2003",
+      "year": 2003
+    }
+  ]
+}
