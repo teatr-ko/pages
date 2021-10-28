@@ -1,0 +1,271 @@
+{
+  "_page": {
+    "output": "performances_group/for_m/index.html",
+    "template": "teatr/performances"
+  },
+  "afisha": [
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/constrictor/08_small_ix_crop.jpg"
+        },
+        "name": "Boa&nbsp;constrictor",
+        "url": "/performances/constrictor/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/annychka/01_small_ix_crop.jpg"
+        },
+        "name": "Анничка",
+        "url": "/performances/annychka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/houseforscrap/houseforscrap_small_ix_crop.jpg"
+        },
+        "name": "Будинок на&nbsp;злам",
+        "url": "/performances/houseforscrap/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/vii/08_small_ix_crop.jpg"
+        },
+        "name": "Вій",
+        "url": "/performances/vii/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/hutsulskyi_rik/09_small_ix_crop.jpg"
+        },
+        "name": "Гуцульський&nbsp;рік",
+        "url": "/performances/hutsulskyi_rik/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dialog/16.02_05_small_ix_crop.jpg"
+        },
+        "name": "Діалог, якого не&nbsp;було",
+        "url": "/performances/dialog/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zaycyamy/03_small_ix_crop.jpg"
+        },
+        "name": "За двома&nbsp;зайцями",
+        "url": "/performances/zaycyamy/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zvidky_berytsia_dity/01_small_ix_crop.jpg"
+        },
+        "name": "Звідки беруться&nbsp;діти",
+        "url": "/performances/zvidky_berytsia_dity/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zemlya/01_small_ix_crop.jpg"
+        },
+        "name": "Земля",
+        "url": "/performances/zemlya/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/moroka/140793486_small_ix_crop.jpg"
+        },
+        "name": "Іродова&nbsp;морока",
+        "url": "/performances/moroka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/simya/23_small_ix_crop.jpg"
+        },
+        "name": "Кайдашева&nbsp;сім’я",
+        "url": "/performances/simya/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kontrakt/12.02_06_small_ix_crop.jpg"
+        },
+        "name": "Контракт",
+        "url": "/performances/kontrakt/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_small_ix_crop.jpg"
+        },
+        "name": "Коханий&nbsp;нелюб",
+        "url": "/performances/kohanyi_nelub/"
+      },
+      {
+        "image": {
+          "name": "ЕЗОП. Коломийський академічний обласний український драматичний театр імені Івана&nbsp;Озаркевича",
+          "url": "/korg/kol/portals/teatr/performances/ezop/ezop_small_ix_crop.jpg"
+        },
+        "name": "Лисиця й Виноград&nbsp;(Езоп)",
+        "url": "/performances/ezop/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/maty-najmychka/04_small_ix_crop.jpg"
+        },
+        "name": "Мати-наймичка",
+        "url": "/performances/maty/"
+      },
+      {
+        "image": {
+          "name": "Фото Роман&nbsp;Захарчук",
+          "url": "/korg/kol/portals/teatr/performances/miss_julie/01_small_ix_crop.jpg"
+        },
+        "name": "Міс&nbsp;Жулі",
+        "url": "/performances/miss_julie/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dulska/01_small_ix_crop.jpg"
+        },
+        "name": "Мораль пані&nbsp;Дульської",
+        "url": "/performances/dulska/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/myluvannya/05_small_ix_crop.jpg"
+        },
+        "name": "На милування нема&nbsp;силування",
+        "url": "/performances/myluvannya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/nelehalka/01_small_ix_crop.jpg"
+        },
+        "name": "Нелегалка",
+        "url": "/performances/nelehalka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/rozvahy/04.12_18_small_ix_crop.jpg"
+        },
+        "name": "Нічні розваги з молодим&nbsp;Козерогом",
+        "url": "/performances/rozvahy/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/huska/16.02_20_small_ix_crop.jpg"
+        },
+        "name": "Отак загинув&nbsp;Гуска",
+        "url": "/performances/huska/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/01_small_ix_crop.jpg"
+        },
+        "name": "Пограбування&nbsp;опівночі",
+        "url": "/performances/porhabuvanniya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "А я тебе іще&nbsp;кохаю…",
+          "url": "/korg/kol/portals/teatr/performances/kochayu/romans1_small_ix_crop.jpg"
+        },
+        "name": "Романс про&nbsp;закоханих",
+        "url": "/performances/romans/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/svatannya/04_small_ix_crop.jpg"
+        },
+        "name": "Сватання на&nbsp;Гончарівці",
+        "url": "/performances/svatannya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/taina_cv/16.02_13_small_ix_crop.jpg"
+        },
+        "name": "Таїни сільського&nbsp;цвинтаря",
+        "url": "/performances/taina_cv/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/lubov/00_small_ix_crop.jpg"
+        },
+        "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
+        "url": "/performances/lubov/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/y_nediliu_rano/y_nediliu_rano_1_small_ix_crop.jpg"
+        },
+        "name": "У неділю рано зілля&nbsp;копала",
+        "url": "/performances/y_nediliu_rano/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/faraony/06_small_ix_crop.jpg"
+        },
+        "name": "Фараони",
+        "url": "/performances/faraony/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/yak_didy/12_small_ix_crop.jpg"
+        },
+        "name": "Як наші діди&nbsp;парубкували",
+        "url": "/performances/yak_didy/"
+      },
+      null
+    ]
+  ]
+}

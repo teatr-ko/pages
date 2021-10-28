@@ -1,0 +1,113 @@
+{
+  "_page": {
+    "output": "performances_group/archive/index.html",
+    "template": "teatr/performances"
+  },
+  "afisha": [
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/equus/14_small_ix_crop.jpg"
+        },
+        "name": "<span class=\"caps\">EQUUS</span>",
+        "url": "/performances/equus/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/8_liubliachyh/04_small_ix_crop.jpg"
+        },
+        "name": "Вісім люблячих&nbsp;жінок ",
+        "url": "/performances/8_liubliachyh/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/hamlet/08_small_ix_crop.jpg"
+        },
+        "name": "Гамлет",
+        "url": "/performances/hamlet/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/divka/17.02_01_small_ix_crop.jpg"
+        },
+        "name": "Дівка на відданню, або На милованє нема&nbsp;силованє",
+        "url": "/performances/divka/"
+      }
+    ],
+    [
+      {
+        "image": null,
+        "name": "Камінний&nbsp;хрест",
+        "url": "/performances/stonecross/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kohantsi/27_small_ix_crop.jpg"
+        },
+        "name": "Коханці",
+        "url": "/performances/kohantsi/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/06_small_ix_crop.jpg"
+        },
+        "name": "Ніч на&nbsp;полонині",
+        "url": "/performances/nich_na_polonyni/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/povernennya/29.11.01_small_ix_crop.jpg"
+        },
+        "name": "Повернення",
+        "url": "/performances/povernennya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/almazy/29.11.01_small_ix_crop.jpg"
+        },
+        "name": "Сосиски, консерви і небо в&nbsp;алмазах",
+        "url": "/performances/almazy/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ol_soldatyk/23.11.01_small_ix_crop.jpg"
+        },
+        "name": "Стійкий олов’яний&nbsp;солдатик",
+        "url": "/performances/ol_soldatyk/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sueta/04_small_ix_crop.jpg"
+        },
+        "name": "Суєта",
+        "url": "/performances/sueta/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/terytoria/05.12_18_small_ix_crop.jpg"
+        },
+        "name": "Територія&nbsp;Б",
+        "url": "/performances/terytoria/"
+      }
+    ]
+  ]
+}

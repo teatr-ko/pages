@@ -1,0 +1,34 @@
+{{#partial "caption"}}Репертуар {{ caption }}{{/partial}}
+{{#partial "keywords"}}Репертуар {{ caption }}{{/partial}}
+
+{{#partial "content"}}
+    <table style="width: 100%">
+        {{#each afisha}}
+            <tr>
+                {{#each .}}
+                    <td style="width: 50%">
+                        {{#if .}}
+                        <p style="text-align: justify;">
+                            {{#if image}}
+                                <a href="{{ url }}">
+
+                                    <img class="bordered" style="float:left; margin-right:10px"
+                                         src="{{ image.url }}" title="{{{ image.name }}}"/><br/>
+                                <h1 class="header_left"> {{{ name }}} </h1></a>
+                            {{/if}}
+                            {{#unless image}}
+
+                                <a href="{{ url }}"><br/>
+                                    <h1 class="header_left"> {{{ name }}} </h1></a>
+                            {{/unless}}
+                            </p>
+                        {{/if}}
+                        {{#unless .}}&nbsp;{{/unless}}
+                    </td>
+                {{/each}}
+            </tr>
+        {{/each}}
+    </table>
+{{/partial}}
+
+{{> default }}
