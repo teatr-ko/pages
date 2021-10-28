@@ -7,20 +7,13 @@
     [
       {
         "image": {
-          "name": "",
-          "url": "/korg/kol/portals/teatr/performances/dialog/16.02_05_small_ix_crop.jpg"
-        },
-        "name": "Діалог, якого не&nbsp;було",
-        "url": "/performances/dialog/"
-      },
-      {
-        "image": {
           "name": "Фото Роман&nbsp;Захарчук",
           "url": "/korg/kol/portals/teatr/performances/miss_julie/01_small_ix_crop.jpg"
         },
         "name": "Міс&nbsp;Жулі",
         "url": "/performances/miss_julie/"
-      }
+      },
+      null
     ]
   ]
 }

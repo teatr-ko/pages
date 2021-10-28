@@ -1,0 +1,40 @@
+{{#partial "caption"}}Трупа{{ caption }}{{/partial}}
+{{#partial "keywords"}}Трупа, Актори{{ caption }}{{/partial}}
+
+{{#partial "content"}}
+    <table style="width: 100%">
+        {{#each troupe }}
+            <tr>
+                {{#each .}}
+                    <td style="width: 50%">
+                        {{#if .}}
+                        <p style="text-align: justify;">
+                            {{#if has_page}}
+                                <a href="{{ url }}">
+                                    {{#if image}}
+                                        <img class="bordered" style="float:left; margin-right:10px"
+                                             src="{{ image.url }}"><br>
+                                    {{/if}}
+                                <h1 class="header_left">{{{ full_name }}}</h1></a>
+                            {{/if}}
+                            {{#unless has_page}}
+                                {{#if image}}
+                                    <img class="bordered" style="float: left;" src="{{ image.url }}">
+                                {{/if}}
+                                <h1 class="header_left">{{{ full_name }}}</h1>
+                            {{/unless}}
+                            </p>
+                            <br><br>
+                        {{/if}}
+                        {{#unless .}}&nbsp;{{/unless}}
+                    </td>
+                {{/each}}
+            </tr>
+        {{/each}}
+    </table>
+
+    <p align="center"><a href="/involved/">Актори, задіяні у спектаклях театру</a></p>
+
+{{/partial}}
+
+{{> default }}

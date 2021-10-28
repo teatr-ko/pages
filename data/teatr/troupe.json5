@@ -1,0 +1,300 @@
+{
+  "_page": {
+    "output": "troupe/index.html",
+    "template": "teatr/troupe"
+  },
+  "troupe": [
+    [
+      {
+        "full_name": "Володимир&nbsp;Архангельський",
+        "has_page": true,
+        "image": {
+          "name": "Володимир Архангельський",
+          "url": "/korg/kol/portals/teatr/troup/arkhangelskii/arkhangelskii_main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/arkhangelskii/"
+      },
+      {
+        "full_name": "Богданович, член НСТДУ Базилевич&nbsp;Богдан",
+        "has_page": true,
+        "image": {
+          "name": "Богданович, член НСТДУ Базилевич Богдан",
+          "url": "/korg/kol/portals/teatr/troup/bbazylevych/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/bbazylevych/"
+      }
+    ],
+    [
+      {
+        "full_name": "Володимир&nbsp;Гелецький",
+        "has_page": true,
+        "image": {
+          "name": "Володимир Гелецький",
+          "url": "/korg/kol/portals/teatr/troup/vheletskyi/00_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/vheletskyi/"
+      },
+      {
+        "full_name": "Оксана&nbsp;Гладирук",
+        "has_page": true,
+        "image": {
+          "name": "Оксана Гладирук",
+          "url": "/korg/kol/portals/teatr/troup/masiuk/01_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/gladyruk_o/"
+      }
+    ],
+    [
+      {
+        "full_name": "Дмитро&nbsp;Гливко",
+        "has_page": true,
+        "image": {
+          "name": "Дмитро Гливко",
+          "url": "/korg/kol/portals/teatr/troup/glyvko/glyvko__gal_ix.jpg"
+        },
+        "url": "/troupe/glyvko/"
+      },
+      {
+        "full_name": "Вячеслав&nbsp;Глушко",
+        "has_page": true,
+        "image": {
+          "name": "Вячеслав Глушко",
+          "url": "/korg/kol/portals/teatr/troup/glushko/glushko_main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/glushko/"
+      }
+    ],
+    [
+      {
+        "full_name": "Людмила,  членкиня НСТДУ&nbsp;Євтушенко",
+        "has_page": true,
+        "image": {
+          "name": "Людмила,  членкиня НСТДУ Євтушенко",
+          "url": "/korg/kol/portals/teatr/troup/lyevtushenko/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/lyevtushenko/"
+      },
+      {
+        "full_name": "Владислав&nbsp;Іванченко",
+        "has_page": true,
+        "image": {
+          "name": "Владислав Іванченко",
+          "url": "/korg/kol/portals/teatr/troup/ivanchenko/ivanchenko_main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/ivanchenko/"
+      }
+    ],
+    [
+      {
+        "full_name": "Марія&nbsp;Катеринчук",
+        "has_page": true,
+        "image": {
+          "name": "Марія Катеринчук",
+          "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/mkaterynchuk/"
+      },
+      {
+        "full_name": "Степан&nbsp;Кінел",
+        "has_page": true,
+        "image": {
+          "name": "Степан Кінел",
+          "url": "/korg/kol/portals/teatr/troup/kinel/kinel__gal_ix.jpg"
+        },
+        "url": "/troupe/kinel/"
+      }
+    ],
+    [
+      {
+        "full_name": "з.а. України, членкиня НСТДУ Комарова&nbsp;Надія,",
+        "has_page": true,
+        "image": {
+          "name": "з.а. України, членкиня НСТДУ Комарова Надія,",
+          "url": "/korg/kol/portals/teatr/troup/nkomarova/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/nkomarova/"
+      },
+      {
+        "full_name": "Ілля&nbsp;Косар",
+        "has_page": true,
+        "image": {
+          "name": "Ілля Косар",
+          "url": "/korg/kol/portals/teatr/troup/kosar_i/kosar_main__gal_ix.jpg"
+        },
+        "url": "/troupe/kosar_i/"
+      }
+    ],
+    [
+      {
+        "full_name": "Оксана, членкиня НСТДУ&nbsp;Курко",
+        "has_page": true,
+        "image": {
+          "name": "Оксана, членкиня НСТДУ Курко",
+          "url": "/korg/kol/portals/teatr/troup/okurko/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/okurko/"
+      },
+      {
+        "full_name": "Любомир&nbsp;Лаюк",
+        "has_page": true,
+        "image": {
+          "name": "Любомир Лаюк",
+          "url": "/korg/kol/portals/teatr/troup/laiuk_l/lajiuk__gal_ix.jpg"
+        },
+        "url": "/troupe/laiuk_l/"
+      }
+    ],
+    [
+      {
+        "full_name": "Іван&nbsp;Максимчук",
+        "has_page": true,
+        "image": {
+          "name": "Іван Максимчук",
+          "url": "/korg/kol/portals/teatr/troup/maksymchuk_m/maksymchuk__gal_ix.jpg"
+        },
+        "url": "/troupe/maksymchuk_m/"
+      },
+      {
+        "full_name": "член НСТДУ Мардарій&nbsp;Роман,",
+        "has_page": true,
+        "image": {
+          "name": "член НСТДУ Мардарій Роман,",
+          "url": "/korg/kol/portals/teatr/troup/rmardariy/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/rmardariy/"
+      }
+    ],
+    [
+      {
+        "full_name": "Дмитро&nbsp;Мельничук",
+        "has_page": true,
+        "image": {
+          "name": "Дмитро Мельничук",
+          "url": "/korg/kol/portals/teatr/troup/107/melnuchyk__gal_ix.jpg"
+        },
+        "url": "/troupe/melnychuk_d/"
+      },
+      {
+        "full_name": "Любов, членкиня НСТДУ&nbsp;Моцок",
+        "has_page": true,
+        "image": {
+          "name": "Любов, членкиня НСТДУ Моцок",
+          "url": "/korg/kol/portals/teatr/troup/lmotsok/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/lmotsok/"
+      }
+    ],
+    [
+      {
+        "full_name": "Ярославович, член НСТДУ Новицький&nbsp;Захарій",
+        "has_page": true,
+        "image": {
+          "name": "Ярославович, член НСТДУ Новицький Захарій",
+          "url": "/korg/kol/portals/teatr/troup/znovytskiy/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/znovytskiy/"
+      },
+      {
+        "full_name": "Дмитро&nbsp;Новосад",
+        "has_page": true,
+        "image": {
+          "name": "Дмитро Новосад",
+          "url": "/korg/kol/portals/teatr/troup/novosad_d/novosad__gal_ix.jpg"
+        },
+        "url": "/troupe/novosad_d/"
+      }
+    ],
+    [
+      {
+        "full_name": "Світлана&nbsp;Первун",
+        "has_page": true,
+        "image": {
+          "name": "Світлана Первун",
+          "url": "/korg/kol/portals/teatr/troup/spervun/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/spervun/"
+      },
+      {
+        "full_name": "Інна&nbsp;Петрик",
+        "has_page": true,
+        "image": {
+          "name": "Інна Петрик",
+          "url": "/korg/kol/portals/teatr/troup/petryk_i/petryk__gal_ix.jpg"
+        },
+        "url": "/troupe/petryk_i/"
+      }
+    ],
+    [
+      {
+        "full_name": "Тетяна&nbsp;Пронюк",
+        "has_page": true,
+        "image": {
+          "name": "Тетяна Пронюк",
+          "url": "/korg/kol/portals/teatr/troup/tpronuyk/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/tpronuyk/"
+      },
+      {
+        "full_name": "Катерина&nbsp;Сагалюк",
+        "has_page": true,
+        "image": {
+          "name": "Катерина Сагалюк",
+          "url": "/korg/kol/portals/teatr/troup/novyckak/novycka_main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/novyckak/"
+      }
+    ],
+    [
+      {
+        "full_name": "Галина,  членкиня НСТДУ&nbsp;Угорська-Геник",
+        "has_page": true,
+        "image": {
+          "name": "Галина,  членкиня НСТДУ Угорська-Геник",
+          "url": "/korg/kol/portals/teatr/troup/huhorska/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/huhorska/"
+      },
+      {
+        "full_name": "Артур&nbsp;Філімонов",
+        "has_page": true,
+        "image": {
+          "name": "Артур Філімонов",
+          "url": "/korg/kol/portals/teatr/troup/filimonov/main__gal_ix.jpg"
+        },
+        "url": "/troupe/filimonov/"
+      }
+    ],
+    [
+      {
+        "full_name": "Олександра&nbsp;Філімонова",
+        "has_page": true,
+        "image": {
+          "name": "Олександра Філімонова",
+          "url": "/korg/kol/portals/teatr/troup/oskrygunec/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/oskrygunec/"
+      },
+      {
+        "full_name": "Уляна&nbsp;Чиборак",
+        "has_page": true,
+        "image": {
+          "name": "Уляна Чиборак",
+          "url": "/korg/kol/portals/teatr/troup/uchuborak/main_fh_gal_ix.jpg"
+        },
+        "url": "/troupe/uchuborak/"
+      }
+    ],
+    [
+      {
+        "full_name": "Ольга&nbsp;Якубів",
+        "has_page": true,
+        "image": {
+          "name": "Ольга Якубів",
+          "url": "/korg/kol/portals/teatr/troup/ohnatiuk/iacubiv_main_1__gal_ix.jpg"
+        },
+        "url": "/troupe/ohnatiuk/"
+      },
+      null
+    ]
+  ]
+}
