@@ -1,13 +1,13 @@
 {
   "_page": {
     "output": "news/year/2021/index.html",
-    "template": "news_page"
+    "template": "news/page"
   },
   "navigate_url": "/news/year/2021/pg/",
   "news": [
     {
       "date": "12 жовтня 2021&nbsp;р.",
-      "lead": "<p><img src=\"/korg/kol/news/2021/58444/homo21-1-copy.jpg.pagespeed.ce.ja_jxdigpy_small_ix_crop.jpg\" class=\"news_lead\">10 жовтня у Миколаєві завершився  Міжнародний театральний фестиваль-конкурс Homo Ludens. Вистави оцінювали дві експертні&nbsp;ради&#8230;</p>",
+      "lead": "<p><img class=\"news_lead\" src=\"/korg/kol/news/2021/58444/homo21-1-copy.jpg.pagespeed.ce.ja_jxdigpy_small_ix_crop.jpg\"/>10 жовтня у Миколаєві завершився  Міжнародний театральний фестиваль-конкурс Homo Ludens. Вистави оцінювали дві експертні&nbsp;ради&#8230;</p>",
       "title": "У Миколаєві назвали лауреатів Міжнародного театрального конкурсу Ноmo Ludens",
       "url": "/news/item/58444"
     },
@@ -43,7 +43,7 @@
     },
     {
       "date": "08 вересня 2021&nbsp;р.",
-      "lead": "<p><img src=\"/korg/kol/news/2021/58442/teatr-anons-part2-080921_small_ix_crop.jpg\" class=\"news_lead\">У рамках «Коломийських представлень» своє мистецтво вже продемонстрували актори Київського театру Івана Франка, Дніпровського&nbsp;телетеатру&#8230;</p>",
+      "lead": "<p><img class=\"news_lead\" src=\"/korg/kol/news/2021/58442/teatr-anons-part2-080921_small_ix_crop.jpg\"/>У рамках «Коломийських представлень» своє мистецтво вже продемонстрували актори Київського театру Івана Франка, Дніпровського&nbsp;телетеатру&#8230;</p>",
       "title": "У Коломиї триває театральний фестиваль \"КОЛОМИЙСЬКІ ПРЕДСТАВЛЕННЯ\" (відеосюжет)",
       "url": "/news/item/58442"
     }

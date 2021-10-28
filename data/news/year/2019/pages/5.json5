@@ -1,7 +1,7 @@
 {
   "_page": {
     "output": "news/year/2019/pg/5/index.html",
-    "template": "news_page"
+    "template": "news/page"
   },
   "navigate_url": "/news/year/2019/pg/",
   "news": [

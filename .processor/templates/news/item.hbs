@@ -1,0 +1,73 @@
+{{#partial "caption"}}{{{ caption }}}{{/partial}}
+
+{{#partial "keywords"}}{{ keywords }}{{/partial}}
+
+{{#partial "content"}}
+    <h1 class="header_t">{{{ caption }}}</h1>
+    <div class='currentDate'>{{{ date }}}</div>
+    {{#if images}}
+    <center>
+        <ul id="mycarousel" class="jcarousel-skin-tango">
+            {{#each in images }}
+            <li>
+                <a href="{{ gallery_icon }}" title="{{ title }}">
+                    <img src="{{ image }}" class="lightbox news_body_bottom"
+                         title="{{ title }}"/>
+                </a>
+            </li>
+            {{/each}}
+        </ul>
+    </center>
+    {{/if}}
+    <div id="content">{{{ body }}}</div>
+    {{#if origin}}
+        <div>Джерело:
+            {{#if origin_url}}<a href="{{ item.origin_url }}">{{/if}}
+                {{{ origin }}}
+            {{#if origin_url}}</a>{{/if}}
+        </div>
+    {{/if}}
+    {{#if author}}
+        <div>Автор: {{{ author }}}</div>
+    {{/if}}
+    <table width="100%" bgcolor="#6278a4">
+        <tr>
+            <td style="text-align: center;" width="25%">
+                <!-- Place this tag where you want the +1 button to render -->
+                <g:plusone></g:plusone>
+                <!-- Place this render call where appropriate -->
+                <script type="text/javascript">
+                    window.___gcfg = {lang: 'uk'};
+                    (function () {
+                        var po = document.createElement('script');
+                        po.type = 'text/javascript';
+                        po.async = true;
+                        po.src = 'https://apis.google.com/js/plusone.js';
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(po, s);
+                    })();
+                </script>
+            </td>
+            <td style="text-align: center;" width="25%"><a name="fb_share" type="button"
+                                                           href="//www.facebook.com/sharer.php"></a>
+                <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+            </td>
+            <td style="text-align: center;" width="25%">
+                <div id="custom-tweet-button"><a href="//twitter.com/share" target="_blank"><img style="border: 0px;"
+                                                                                                 src="/korg/images/tweet.png"
+                                                                                                 alt="Tweet"
+                                                                                                 border="0"/></a></div>
+            </td>
+            <td style="text-align: center;" width="25%">
+                <script type="text/javascript" src="//vkontakte.ru/js/api/share.js?9" charset="windows-1251"></script>
+                <script type="text/javascript">
+                    <!--
+                    document.write(VK.Share.button());
+                    -->
+                </script>
+            </td>
+        </tr>
+    </table>
+{{/partial}}
+
+{{> default }}
