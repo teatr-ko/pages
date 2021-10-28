@@ -28,33 +28,23 @@
         </table>
     </center>
 
-    {% if trouper_gallery %}
+    {{#if gallery }}
 
     <center><p>
         <ul id="mycarousel" class="jcarousel-skin-tango">
-            {% for image_gallery in trouper_gallery %}
+            {{#each gallery}}
 
             <li>
-                <a href="{{ image_gallery.image.url_full|change_file_end }}"
-                   {% if image_gallery.trouper_role %}
-                   title="{{ image_gallery.trouper_role.personage}}"
-                   {% else %}
-                   title="{{ image_gallery.image_title}}"
-                   {% endif %}>
+                <a href="{{ url_small }}" title="{{{ title }}}">
 
-                    <img src="{{ image_gallery }}" class="lightbox news_body_bottom"
-                         {% if image_gallery.trouper_role %}
-                         title="{{ image_gallery.trouper_role.personage}}"
-                         {% else %}
-                         title="{{ image_gallery.image_title}}"
-                         {% endif %}/>
+                    <img src="{{ url }}" class="lightbox news_body_bottom" title="{{{ title }}}"/>
                 </a>
             </li>
 
-            {% endfor %}
+            {{/each}}
         </ul>
         </p></center>
-    {% endif %}
+    {{/if}}
 
 
     {% for k, v in dict.items %}
