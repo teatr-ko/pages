@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/mkaterynchuk/index.html",
+    "output": "troupe/mkaterynchuk/index.html",
     "template": "teatr/trouper"
   },
   "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41852\">Гризота пані&nbsp;Дульської</a></p>",
@@ -191,12 +191,12 @@
     },
     {
       "performance": "Земля",
-      "role": "Меланка",
+      "role": "Рахіра",
       "url": "/performances/zemlya/"
     },
     {
       "performance": "Земля",
-      "role": "Рахіра",
+      "role": "Меланка",
       "url": "/performances/zemlya/"
     },
     {

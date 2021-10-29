@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/okurko/index.html",
+    "output": "troupe/okurko/index.html",
     "template": "teatr/trouper"
   },
   "addition": "",
@@ -221,17 +221,17 @@
   "grown_roles": [
     {
       "performance": "Boa&nbsp;constrictor",
+      "role": "Ханна",
+      "url": "/performances/constrictor/"
+    },
+    {
+      "performance": "Boa&nbsp;constrictor",
       "role": "2&nbsp;служниця",
       "url": "/performances/constrictor/"
     },
     {
       "performance": "Boa&nbsp;constrictor",
       "role": "Жінки&nbsp;єврейки",
-      "url": "/performances/constrictor/"
-    },
-    {
-      "performance": "Boa&nbsp;constrictor",
-      "role": "Ханна",
       "url": "/performances/constrictor/"
     },
     {
@@ -407,12 +407,12 @@
     },
     {
       "performance": "Котигорошко",
-      "role": "Сестра змієва,&nbsp;перша",
+      "role": "Бабуся",
       "url": "/performances/kotyhoroshko/"
     },
     {
       "performance": "Котигорошко",
-      "role": "Бабуся",
+      "role": "Сестра змієва,&nbsp;перша",
       "url": "/performances/kotyhoroshko/"
     },
     {

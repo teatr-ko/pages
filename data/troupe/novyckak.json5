@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/novyckak/index.html",
+    "output": "troupe/novyckak/index.html",
     "template": "teatr/trouper"
   },
   "addition": "",
@@ -15,12 +15,12 @@
     },
     {
       "performance": "Мартин&nbsp;Боруля",
-      "role": "Гості",
+      "role": "Марися",
       "url": "/performances/martyn_borylia/"
     },
     {
       "performance": "Мартин&nbsp;Боруля",
-      "role": "Марися",
+      "role": "Гості",
       "url": "/performances/martyn_borylia/"
     },
     {

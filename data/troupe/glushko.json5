@@ -1,26 +1,16 @@
 {
   "_page": {
-    "output": "trouper/ivanchenko/index.html",
+    "output": "troupe/glushko/index.html",
     "template": "teatr/trouper"
   },
   "addition": "",
-  "date_of_birth": "16.04.99",
-  "full_name_with_patronymic": "Іванченко&nbsp;Владислав ",
+  "date_of_birth": "27.02.98",
+  "full_name_with_patronymic": "Глушко&nbsp;Вячеслав ",
   "gallery": [],
   "grown_roles": [
     {
-      "performance": "Анничка",
-      "role": "Петро",
-      "url": "/performances/annychka/"
-    },
-    {
       "performance": "Гуцульський&nbsp;рік",
       "role": "Василь",
-      "url": "/performances/hutsulskyi_rik/"
-    },
-    {
-      "performance": "Гуцульський&nbsp;рік",
-      "role": "Микула",
       "url": "/performances/hutsulskyi_rik/"
     },
     {
@@ -34,13 +24,18 @@
       "url": "/performances/simya/"
     },
     {
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Лаврін",
+      "url": "/performances/simya/"
+    },
+    {
       "performance": "Мартин&nbsp;Боруля",
-      "role": "Микола",
+      "role": "Степан",
       "url": "/performances/martyn_borylia/"
     },
     {
       "performance": "Собача&nbsp;будка",
-      "role": "Антон",
+      "role": "Рома",
       "url": "/performances/sobacha_budka/"
     },
     {
@@ -54,40 +49,25 @@
       "url": "/performances/sto_tysiach/"
     },
     {
-      "performance": "Три ідеальні&nbsp;подружжя",
-      "role": "Максимо&nbsp;Рохас",
-      "url": "/performances/three_ideal_marriage/"
-    },
-    {
       "performance": "Фараони",
       "role": "Грицько",
       "url": "/performances/faraony/"
     }
   ],
   "image": {
-    "url": "/korg/kol/portals/teatr/troup/ivanchenko/ivanchenko_main_fh_gal_ix.jpg",
-    "url_small": "/korg/kol/portals/teatr/troup/ivanchenko/ivanchenko_main_gallery.jpg"
+    "url": "/korg/kol/portals/teatr/troup/glushko/glushko_main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/glushko/glushko_main_gallery.jpg"
   },
   "kids_roles": [
     {
       "performance": "Біля ковчега о&nbsp;восьмій",
-      "role": "Пінгвін&nbsp;1-й",
+      "role": "Пінгвін&nbsp;3-й",
       "url": "/performances/bilja_kovchega/"
     },
     {
       "performance": "Бременські&nbsp;музиканти",
-      "role": "Пес",
+      "role": "Трубадур",
       "url": "/performances/bremenski/"
-    },
-    {
-      "performance": "Вінні-Пух та його&nbsp;друзі",
-      "role": "Вінні-Пух",
-      "url": "/performances/vinni/"
-    },
-    {
-      "performance": "Всі миші люблять&nbsp;сир",
-      "role": "Рома",
-      "url": "/performances/myshi/"
     },
     {
       "performance": "Коли ще звірі&nbsp;говорили",
@@ -101,27 +81,32 @@
     },
     {
       "performance": "Мауглі",
-      "role": "Шер-Хан",
+      "role": "Мауглі",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Вовки",
       "url": "/performances/mauhli/"
     },
     {
       "performance": "Пастка для&nbsp;орла",
-      "role": "Двоглавий&nbsp;Орел",
+      "role": "Бобер",
       "url": "/performances/eagle_trap/"
     },
     {
       "performance": "Попелюшка",
-      "role": "Міністр",
+      "role": "Принц",
       "url": "/performances/popelyushka/"
     },
     {
       "performance": "Правда і&nbsp;Кривда",
-      "role": "Правда",
+      "role": "Кривда",
       "url": "/performances/pravdaikryvda/"
     },
     {
       "performance": "Пригоди Червоної&nbsp;Шапочки",
-      "role": "Вовчик",
+      "role": "Зайчик",
       "url": "/performances/ch_shapochka/"
     },
     {
@@ -131,22 +116,12 @@
     },
     {
       "performance": "Фарбований&nbsp;лис",
-      "role": "Пес&nbsp;1-й",
-      "url": "/performances/painted_fox/"
-    },
-    {
-      "performance": "Фарбований&nbsp;лис",
-      "role": "Ведмідь",
+      "role": "Лис",
       "url": "/performances/painted_fox/"
     },
     {
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Гном",
-      "url": "/performances/zymovi_prygody_2/"
-    },
-    {
-      "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Нулик",
+      "role": "Ельф",
       "url": "/performances/zymovi_prygody_2/"
     }
   ],

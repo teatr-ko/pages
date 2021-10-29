@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/spervun/index.html",
+    "output": "troupe/spervun/index.html",
     "template": "teatr/trouper"
   },
   "addition": "",
@@ -157,17 +157,17 @@
     },
     {
       "performance": "Дюймовочка",
+      "role": "Миша",
+      "url": "/performances/dujmovochka/"
+    },
+    {
+      "performance": "Дюймовочка",
       "role": "Кроти,&nbsp;жуки",
       "url": "/performances/dujmovochka/"
     },
     {
       "performance": "Дюймовочка",
       "role": "Мама",
-      "url": "/performances/dujmovochka/"
-    },
-    {
-      "performance": "Дюймовочка",
-      "role": "Миша",
       "url": "/performances/dujmovochka/"
     },
     {
@@ -187,12 +187,12 @@
     },
     {
       "performance": "Котигорошко",
-      "role": "Катерина – його&nbsp;мати",
+      "role": "Сестра змієва,&nbsp;друга",
       "url": "/performances/kotyhoroshko/"
     },
     {
       "performance": "Котигорошко",
-      "role": "Сестра змієва,&nbsp;друга",
+      "role": "Катерина – його&nbsp;мати",
       "url": "/performances/kotyhoroshko/"
     },
     {
@@ -202,12 +202,12 @@
     },
     {
       "performance": "Мауглі",
-      "role": "Вовки",
+      "role": "Дівчина",
       "url": "/performances/mauhli/"
     },
     {
       "performance": "Мауглі",
-      "role": "Дівчина",
+      "role": "Вовки",
       "url": "/performances/mauhli/"
     },
     {

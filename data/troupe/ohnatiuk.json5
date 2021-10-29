@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/ohnatiuk/index.html",
+    "output": "troupe/ohnatiuk/index.html",
     "template": "teatr/trouper"
   },
   "addition": "<p style=\"text-align: justify;\"><strong>Відзнаки&nbsp;театральних&nbsp;форумів</strong></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><strong>Диплом<strong>&nbsp;</strong><strong>&laquo;За жіночу роль другого плану&raquo;</strong> за роль <strong>Настки</strong> у виставі &laquo;У неділю рано зілля копала&raquo; на <strong><span class=\"caps\"><span class=\"caps\">XVI</span></span> Всеукраїнському фестивалі &laquo;Тернопільські театральні&nbsp;вечори&raquo;</strong> (м.Тернопіль,&nbsp;2018р.)</strong></li>\r\n</ul>\r\n<hr />\r\n<p>&nbsp;<a href=\"http://teatr.kolomyya.org/news/item/35107 \">Коломийський театр запрошує на чергову прем&rsquo;єру</a><br /><br /><a href=\"http://teatr.kolomyya.org/news/item/35594\">Як псар у графа&nbsp;обернувся</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/44221\">Прем&rsquo;єра: Просто стрілися дві&nbsp;самотини&hellip;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/44095\">У Коломийському театрі відбулась прем&rsquo;єра комедії &#8220;Нічні розваги з молодим&nbsp;Козерогом&#8221;</a></p>",
@@ -141,12 +141,12 @@
   "grown_roles": [
     {
       "performance": "<span class=\"caps\">EQUUS</span>",
-      "role": "Пацієнти&nbsp;клініки",
+      "role": "Медсестра",
       "url": "/performances/equus/"
     },
     {
       "performance": "<span class=\"caps\">EQUUS</span>",
-      "role": "Медсестра",
+      "role": "Пацієнти&nbsp;клініки",
       "url": "/performances/equus/"
     },
     {
@@ -292,12 +292,12 @@
   "kids_roles": [
     {
       "performance": "Бременські&nbsp;музиканти",
-      "role": "1&nbsp;Фрейлін",
+      "role": "Принцеса",
       "url": "/performances/bremenski/"
     },
     {
       "performance": "Бременські&nbsp;музиканти",
-      "role": "Принцеса",
+      "role": "1&nbsp;Фрейлін",
       "url": "/performances/bremenski/"
     },
     {
@@ -417,12 +417,12 @@
     },
     {
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Ангел",
+      "role": "Сімочка",
       "url": "/performances/zymovi_prygody_2/"
     },
     {
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Сімочка",
+      "role": "Ангел",
       "url": "/performances/zymovi_prygody_2/"
     }
   ],

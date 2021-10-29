@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/lmotsok/index.html",
+    "output": "troupe/lmotsok/index.html",
     "template": "teatr/trouper"
   },
   "addition": "<ul>\r\n<li><strong>Краще виконання партії у музичній виставі: за роль Терпелихи &laquo;Анничка&raquo; - X<span class=\"rela\"><span class=\"caps\">I</span> фестиваль комедії &ldquo;Золоті оплески Буковини&rdquo; (м. Чернівці,&nbsp;2016р.)</span></strong></li>\r\n<li><span class=\"rela\"><strong>Нагорода &laquo;ПРИЗ ГЛЯДАЦЬКИХ СИМПАТІЙ&raquo; за виконання ролі Пані Дульської у виставі &laquo;Мораль пані Дульської&raquo;, за твором Г.Запольської, на ХІІІ Міжнародному театральному фестивалі жіночої творчості ім. Марії Заньковецької (м.Ніжин, 2017р.)</strong><br /></span></li>\r\n</ul>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41700\">Коломиянам показали нову виставу &ldquo;Мораль пані&nbsp;Дульської&rdquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41815\">Коломийський театр налагодив міжнародну&nbsp;співпрацю</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41852\">Гризота пані&nbsp;Дульської</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43517\">Найстаріший театр Галичини по-новому глянув на вічну тему&nbsp;землі</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/50448\">Мораль&nbsp;по-коломийськи</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/50450\">Як кременчужани розбирались з &ldquo;Мораллю пані&nbsp;Дульської&rdquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/50547\">Коломийський театр &ldquo;говорив&rdquo; з полтавськими глядачами на болючі теми&nbsp;сучасності</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/53255\" target=\"_blank\">Польський трикутник на фестивалі комедії в Чернівцях (театральний&nbsp;вікенд)</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56685\" target=\"_blank\">Про вселенський гріх і вічні моральні&nbsp;цінності</a></p>",
@@ -181,12 +181,12 @@
     },
     {
       "performance": "Анничка",
-      "role": "Звукотвори",
+      "role": "Горпина&nbsp;Терпелиха",
       "url": "/performances/annychka/"
     },
     {
       "performance": "Анничка",
-      "role": "Горпина&nbsp;Терпелиха",
+      "role": "Звукотвори",
       "url": "/performances/annychka/"
     },
     {
@@ -221,12 +221,12 @@
     },
     {
       "performance": "Земля",
-      "role": "Білоголова&nbsp;жінка",
+      "role": "Марія",
       "url": "/performances/zemlya/"
     },
     {
       "performance": "Земля",
-      "role": "Марія",
+      "role": "Білоголова&nbsp;жінка",
       "url": "/performances/zemlya/"
     },
     {

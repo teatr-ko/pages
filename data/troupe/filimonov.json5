@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/filimonov/index.html",
+    "output": "troupe/filimonov/index.html",
     "template": "teatr/trouper"
   },
   "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/55592\" target=\"_blank\">Посеред вистави &ldquo;Мати-наймичка&rdquo; неочікувано&nbsp;зааплодували</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56812\" target=\"_blank\">Свято театру, подароване українцям&nbsp;Лігниці</a></p>",
@@ -246,6 +246,11 @@
   "grown_roles": [
     {
       "performance": "Boa&nbsp;constrictor",
+      "role": "Вольф&nbsp;Шперкер",
+      "url": "/performances/constrictor/"
+    },
+    {
+      "performance": "Boa&nbsp;constrictor",
       "role": "Іцик&nbsp;Щуберт",
       "url": "/performances/constrictor/"
     },
@@ -260,18 +265,13 @@
       "url": "/performances/constrictor/"
     },
     {
-      "performance": "Boa&nbsp;constrictor",
-      "role": "Вольф&nbsp;Шперкер",
-      "url": "/performances/constrictor/"
-    },
-    {
       "performance": "Анничка",
-      "role": "Макогоненко",
+      "role": "Звукотвори",
       "url": "/performances/annychka/"
     },
     {
       "performance": "Анничка",
-      "role": "Звукотвори",
+      "role": "Макогоненко",
       "url": "/performances/annychka/"
     },
     {
@@ -376,12 +376,12 @@
     },
     {
       "performance": "На милування нема&nbsp;силування",
-      "role": "Скворцов",
+      "role": "Рота&nbsp;Скворцова",
       "url": "/performances/myluvannya/"
     },
     {
       "performance": "На милування нема&nbsp;силування",
-      "role": "Рота&nbsp;Скворцова",
+      "role": "Скворцов",
       "url": "/performances/myluvannya/"
     },
     {
@@ -436,12 +436,12 @@
     },
     {
       "performance": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
-      "role": "Голос&nbsp;перший",
+      "role": "Іван&nbsp;Франко",
       "url": "/performances/lubov/"
     },
     {
       "performance": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
-      "role": "Іван&nbsp;Франко",
+      "role": "Голос&nbsp;перший",
       "url": "/performances/lubov/"
     },
     {
@@ -456,17 +456,17 @@
     },
     {
       "performance": "Фараони",
+      "role": "Оверко",
+      "url": "/performances/faraony/"
+    },
+    {
+      "performance": "Фараони",
       "role": "Грицько",
       "url": "/performances/faraony/"
     },
     {
       "performance": "Фараони",
       "role": "Аристарх",
-      "url": "/performances/faraony/"
-    },
-    {
-      "performance": "Фараони",
-      "role": "Оверко",
       "url": "/performances/faraony/"
     },
     {
@@ -557,12 +557,12 @@
     },
     {
       "performance": "Коза-дереза",
-      "role": "Вовк",
+      "role": "Ведмідь",
       "url": "/performances/koza_dereza/"
     },
     {
       "performance": "Коза-дереза",
-      "role": "Ведмідь",
+      "role": "Вовк",
       "url": "/performances/koza_dereza/"
     },
     {

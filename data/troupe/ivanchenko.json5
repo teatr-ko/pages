@@ -1,16 +1,26 @@
 {
   "_page": {
-    "output": "trouper/arkhangelskii/index.html",
+    "output": "troupe/ivanchenko/index.html",
     "template": "teatr/trouper"
   },
   "addition": "",
-  "date_of_birth": "09.04.98",
-  "full_name_with_patronymic": "Архангельський&nbsp;Володимир ",
+  "date_of_birth": "16.04.99",
+  "full_name_with_patronymic": "Іванченко&nbsp;Владислав ",
   "gallery": [],
   "grown_roles": [
     {
+      "performance": "Анничка",
+      "role": "Петро",
+      "url": "/performances/annychka/"
+    },
+    {
       "performance": "Гуцульський&nbsp;рік",
       "role": "Василь",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Микула",
       "url": "/performances/hutsulskyi_rik/"
     },
     {
@@ -25,22 +35,12 @@
     },
     {
       "performance": "Мартин&nbsp;Боруля",
-      "role": "Степан",
+      "role": "Микола",
       "url": "/performances/martyn_borylia/"
     },
     {
-      "performance": "Мати-наймичка",
-      "role": "Марко",
-      "url": "/performances/maty/"
-    },
-    {
-      "performance": "Сватання на&nbsp;Гончарівці",
-      "role": "Тиміш",
-      "url": "/performances/svatannya/"
-    },
-    {
       "performance": "Собача&nbsp;будка",
-      "role": "Рома",
+      "role": "Антон",
       "url": "/performances/sobacha_budka/"
     },
     {
@@ -54,70 +54,75 @@
       "url": "/performances/sto_tysiach/"
     },
     {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Максимо&nbsp;Рохас",
+      "url": "/performances/three_ideal_marriage/"
+    },
+    {
       "performance": "Фараони",
       "role": "Грицько",
       "url": "/performances/faraony/"
     }
   ],
   "image": {
-    "url": "/korg/kol/portals/teatr/troup/arkhangelskii/arkhangelskii_main_fh_gal_ix.jpg",
-    "url_small": "/korg/kol/portals/teatr/troup/arkhangelskii/arkhangelskii_main_gallery.jpg"
+    "url": "/korg/kol/portals/teatr/troup/ivanchenko/ivanchenko_main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/ivanchenko/ivanchenko_main_gallery.jpg"
   },
   "kids_roles": [
     {
       "performance": "Біля ковчега о&nbsp;восьмій",
-      "role": "Пінгвін&nbsp;3-й",
+      "role": "Пінгвін&nbsp;1-й",
       "url": "/performances/bilja_kovchega/"
     },
     {
       "performance": "Бременські&nbsp;музиканти",
-      "role": "Півень",
+      "role": "Пес",
       "url": "/performances/bremenski/"
     },
     {
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Вінні-Пух",
+      "url": "/performances/vinni/"
+    },
+    {
       "performance": "Всі миші люблять&nbsp;сир",
-      "role": "Паскаль",
+      "role": "Рома",
       "url": "/performances/myshi/"
     },
     {
       "performance": "Коли ще звірі&nbsp;говорили",
-      "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес",
+      "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
     },
     {
       "performance": "Котигорошко",
-      "role": "Змій, він же Капшивий&nbsp;дід",
+      "role": "Котигорошко",
       "url": "/performances/kotyhoroshko/"
     },
     {
       "performance": "Мауглі",
-      "role": "Вовки",
-      "url": "/performances/mauhli/"
-    },
-    {
-      "performance": "Мауглі",
-      "role": "Мауглі",
+      "role": "Шер-Хан",
       "url": "/performances/mauhli/"
     },
     {
       "performance": "Пастка для&nbsp;орла",
-      "role": "Бобер",
+      "role": "Двоглавий&nbsp;Орел",
       "url": "/performances/eagle_trap/"
     },
     {
-      "performance": "По щучому&nbsp;велінню",
-      "role": "Сміхотвор",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
       "performance": "Попелюшка",
-      "role": "Принц",
+      "role": "Міністр",
       "url": "/performances/popelyushka/"
     },
     {
-      "performance": "Спасибі,&nbsp;Барбі",
-      "role": "Петард",
-      "url": "/performances/barbi/"
+      "performance": "Правда і&nbsp;Кривда",
+      "role": "Правда",
+      "url": "/performances/pravdaikryvda/"
+    },
+    {
+      "performance": "Пригоди Червоної&nbsp;Шапочки",
+      "role": "Вовчик",
+      "url": "/performances/ch_shapochka/"
     },
     {
       "performance": "Троє&nbsp;поросят",
@@ -126,26 +131,24 @@
     },
     {
       "performance": "Фарбований&nbsp;лис",
-      "role": "Лис",
+      "role": "Ведмідь",
       "url": "/performances/painted_fox/"
     },
     {
       "performance": "Фарбований&nbsp;лис",
-      "role": "Вовк",
+      "role": "Пес&nbsp;1-й",
       "url": "/performances/painted_fox/"
     },
     {
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Ельф",
+      "role": "Гном",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Нулик",
       "url": "/performances/zymovi_prygody_2/"
     }
   ],
-  "on_the_stage": "12.07.18",
-  "staff": [
-    {
-      "performance": "Фарбований&nbsp;лис",
-      "role": "Асистент&nbsp;режисера",
-      "url": "/performances/painted_fox/"
-    }
-  ]
+  "staff": []
 }

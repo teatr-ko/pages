@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/rmardariy/index.html",
+    "output": "troupe/rmardariy/index.html",
     "template": "teatr/trouper"
   },
   "addition": "<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p><em>Народився в с. Драниця Новоселицького району Чернівецької області. В 2009 році закінчив Чернівецьке училище культури і мистецтв ім.. Сидора Воробкевича за спеціальністю &laquo;режисер масових свят та видовищ&raquo;; в. 2013 р. &nbsp;Київську Національну академію керівник кадрів культури та мистецтв за спеціальністю &laquo;Режисер масових&nbsp;свят&raquo;.</em></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43843\"><span class=\"dquo\">&#8220;</span>Сватання на Гончарівці&#8221; зібрало повний&nbsp;зал</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43844\"><span class=\"dquo\">&#8220;</span>Сватання на Гончарівці&#8221; з коломийським&nbsp;акцентом</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/48570\">Робота є робота, або Як розсмішити&nbsp;зануду</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/57176\">Езоп із&hellip; гуцульським&nbsp;колоритом</a></p>",
@@ -301,6 +301,11 @@
   "grown_roles": [
     {
       "performance": "Boa&nbsp;constrictor",
+      "role": "Реб&nbsp;Мойше",
+      "url": "/performances/constrictor/"
+    },
+    {
+      "performance": "Boa&nbsp;constrictor",
       "role": "Баришівник",
       "url": "/performances/constrictor/"
     },
@@ -315,23 +320,18 @@
       "url": "/performances/constrictor/"
     },
     {
-      "performance": "Boa&nbsp;constrictor",
-      "role": "Реб&nbsp;Мойше",
-      "url": "/performances/constrictor/"
-    },
-    {
       "performance": "<span class=\"caps\">EQUUS</span>",
       "role": "Глядачі анатомічного&nbsp;театру",
       "url": "/performances/equus/"
     },
     {
       "performance": "Анничка",
-      "role": "Звукотвори",
+      "role": "Никола",
       "url": "/performances/annychka/"
     },
     {
       "performance": "Анничка",
-      "role": "Никола",
+      "role": "Звукотвори",
       "url": "/performances/annychka/"
     },
     {
@@ -376,17 +376,17 @@
     },
     {
       "performance": "Земля",
+      "role": "Білоголовий&nbsp;чоловік",
+      "url": "/performances/zemlya/"
+    },
+    {
+      "performance": "Земля",
       "role": "Івоніка",
       "url": "/performances/zemlya/"
     },
     {
       "performance": "Земля",
       "role": "Григорій",
-      "url": "/performances/zemlya/"
-    },
-    {
-      "performance": "Земля",
-      "role": "Білоголовий&nbsp;чоловік",
       "url": "/performances/zemlya/"
     },
     {
@@ -521,12 +521,12 @@
     },
     {
       "performance": "Суєта",
-      "role": "Генерал",
+      "role": "Тарас&nbsp;Гупаленко",
       "url": "/performances/sueta/"
     },
     {
       "performance": "Суєта",
-      "role": "Тарас&nbsp;Гупаленко",
+      "role": "Генерал",
       "url": "/performances/sueta/"
     },
     {
@@ -551,12 +551,12 @@
     },
     {
       "performance": "У неділю рано зілля&nbsp;копала",
-      "role": "Андронаті",
+      "role": "Цигани,&nbsp;гуцули",
       "url": "/performances/y_nediliu_rano/"
     },
     {
       "performance": "У неділю рано зілля&nbsp;копала",
-      "role": "Цигани,&nbsp;гуцули",
+      "role": "Андронаті",
       "url": "/performances/y_nediliu_rano/"
     },
     {

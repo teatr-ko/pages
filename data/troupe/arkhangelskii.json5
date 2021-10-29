@@ -1,11 +1,11 @@
 {
   "_page": {
-    "output": "trouper/glushko/index.html",
+    "output": "troupe/arkhangelskii/index.html",
     "template": "teatr/trouper"
   },
   "addition": "",
-  "date_of_birth": "27.02.98",
-  "full_name_with_patronymic": "Глушко&nbsp;Вячеслав ",
+  "date_of_birth": "09.04.98",
+  "full_name_with_patronymic": "Архангельський&nbsp;Володимир ",
   "gallery": [],
   "grown_roles": [
     {
@@ -24,14 +24,19 @@
       "url": "/performances/simya/"
     },
     {
-      "performance": "Кайдашева&nbsp;сім’я",
-      "role": "Лаврін",
-      "url": "/performances/simya/"
-    },
-    {
       "performance": "Мартин&nbsp;Боруля",
       "role": "Степан",
       "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Мати-наймичка",
+      "role": "Марко",
+      "url": "/performances/maty/"
+    },
+    {
+      "performance": "Сватання на&nbsp;Гончарівці",
+      "role": "Тиміш",
+      "url": "/performances/svatannya/"
     },
     {
       "performance": "Собача&nbsp;будка",
@@ -55,8 +60,8 @@
     }
   ],
   "image": {
-    "url": "/korg/kol/portals/teatr/troup/glushko/glushko_main_fh_gal_ix.jpg",
-    "url_small": "/korg/kol/portals/teatr/troup/glushko/glushko_main_gallery.jpg"
+    "url": "/korg/kol/portals/teatr/troup/arkhangelskii/arkhangelskii_main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/arkhangelskii/arkhangelskii_main_gallery.jpg"
   },
   "kids_roles": [
     {
@@ -66,17 +71,22 @@
     },
     {
       "performance": "Бременські&nbsp;музиканти",
-      "role": "Трубадур",
+      "role": "Півень",
       "url": "/performances/bremenski/"
     },
     {
+      "performance": "Всі миші люблять&nbsp;сир",
+      "role": "Паскаль",
+      "url": "/performances/myshi/"
+    },
+    {
       "performance": "Коли ще звірі&nbsp;говорили",
-      "role": "Актор 2: Лис&nbsp;Микита",
+      "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес",
       "url": "/performances/when_animals/"
     },
     {
       "performance": "Котигорошко",
-      "role": "Котигорошко",
+      "role": "Змій, він же Капшивий&nbsp;дід",
       "url": "/performances/kotyhoroshko/"
     },
     {
@@ -95,24 +105,29 @@
       "url": "/performances/eagle_trap/"
     },
     {
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Сміхотвор",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
       "performance": "Попелюшка",
       "role": "Принц",
       "url": "/performances/popelyushka/"
     },
     {
-      "performance": "Правда і&nbsp;Кривда",
-      "role": "Кривда",
-      "url": "/performances/pravdaikryvda/"
-    },
-    {
-      "performance": "Пригоди Червоної&nbsp;Шапочки",
-      "role": "Зайчик",
-      "url": "/performances/ch_shapochka/"
+      "performance": "Спасибі,&nbsp;Барбі",
+      "role": "Петард",
+      "url": "/performances/barbi/"
     },
     {
       "performance": "Троє&nbsp;поросят",
       "role": "Вовк",
       "url": "/performances/three_pigs/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Вовк",
+      "url": "/performances/painted_fox/"
     },
     {
       "performance": "Фарбований&nbsp;лис",
@@ -125,5 +140,12 @@
       "url": "/performances/zymovi_prygody_2/"
     }
   ],
-  "staff": []
+  "on_the_stage": "12.07.18",
+  "staff": [
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Асистент&nbsp;режисера",
+      "url": "/performances/painted_fox/"
+    }
+  ]
 }

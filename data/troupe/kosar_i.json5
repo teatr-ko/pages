@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "trouper/kosar_i/index.html",
+    "output": "troupe/kosar_i/index.html",
     "template": "teatr/trouper"
   },
   "addition": "",
@@ -35,22 +35,22 @@
     },
     {
       "performance": "Собача&nbsp;будка",
-      "role": "Тарас",
-      "url": "/performances/sobacha_budka/"
-    },
-    {
-      "performance": "Собача&nbsp;будка",
       "role": "Антон",
       "url": "/performances/sobacha_budka/"
     },
     {
-      "performance": "Сто&nbsp;тисяч",
-      "role": "Клим",
-      "url": "/performances/sto_tysiach/"
+      "performance": "Собача&nbsp;будка",
+      "role": "Тарас",
+      "url": "/performances/sobacha_budka/"
     },
     {
       "performance": "Сто&nbsp;тисяч",
       "role": "Роман",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Клим",
       "url": "/performances/sto_tysiach/"
     },
     {
