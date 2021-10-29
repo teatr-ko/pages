@@ -1,0 +1,60 @@
+{
+  "_page": {
+    "output": "trouper/petryk_i/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "23.04.96",
+  "full_name_with_patronymic": "Петрик Інна&nbsp;Сергіївна",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Гості",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Клара&nbsp;Гусман",
+      "url": "/performances/three_ideal_marriage/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/petryk_i/petryk__gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/petryk_i/petryk_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "П&#8217;ятачок",
+      "url": "/performances/vinni/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Вовки",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Пригоди Червоної&nbsp;Шапочки",
+      "role": "Червона&nbsp;Шапочка",
+      "url": "/performances/ch_shapochka/"
+    },
+    {
+      "performance": "Світлофор&nbsp;Моргайко",
+      "role": "Тітонька&nbsp;Ведведиха",
+      "url": "/performances/sv_morhayko/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Заєць&nbsp;2-й",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Фея",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "on_the_stage": "01.10.20",
+  "staff": []
+}

@@ -1,0 +1,129 @@
+{
+  "_page": {
+    "output": "trouper/glushko/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "27.02.98",
+  "full_name_with_patronymic": "Глушко&nbsp;Вячеслав ",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Василь",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "performance": "За двома&nbsp;зайцями",
+      "role": "Шафери&nbsp;Голохвостого",
+      "url": "/performances/zaycyamy/"
+    },
+    {
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Масові&nbsp;сцени",
+      "url": "/performances/simya/"
+    },
+    {
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Лаврін",
+      "url": "/performances/simya/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Степан",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Собача&nbsp;будка",
+      "role": "Рома",
+      "url": "/performances/sobacha_budka/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Роман",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Клим",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Фараони",
+      "role": "Грицько",
+      "url": "/performances/faraony/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/glushko/glushko_main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/glushko/glushko_main_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Пінгвін&nbsp;3-й",
+      "url": "/performances/bilja_kovchega/"
+    },
+    {
+      "performance": "Бременські&nbsp;музиканти",
+      "role": "Трубадур",
+      "url": "/performances/bremenski/"
+    },
+    {
+      "performance": "Коли ще звірі&nbsp;говорили",
+      "role": "Актор 2: Лис&nbsp;Микита",
+      "url": "/performances/when_animals/"
+    },
+    {
+      "performance": "Котигорошко",
+      "role": "Котигорошко",
+      "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Вовки",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Мауглі",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Пастка для&nbsp;орла",
+      "role": "Бобер",
+      "url": "/performances/eagle_trap/"
+    },
+    {
+      "performance": "Попелюшка",
+      "role": "Принц",
+      "url": "/performances/popelyushka/"
+    },
+    {
+      "performance": "Правда і&nbsp;Кривда",
+      "role": "Кривда",
+      "url": "/performances/pravdaikryvda/"
+    },
+    {
+      "performance": "Пригоди Червоної&nbsp;Шапочки",
+      "role": "Зайчик",
+      "url": "/performances/ch_shapochka/"
+    },
+    {
+      "performance": "Троє&nbsp;поросят",
+      "role": "Вовк",
+      "url": "/performances/three_pigs/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Лис",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Ельф",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "staff": []
+}

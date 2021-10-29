@@ -1,0 +1,35 @@
+{
+  "_page": {
+    "output": "trouper/melnychuk_d/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "08.11.76",
+  "full_name_with_patronymic": "Мельничук Дмитро&nbsp;Валентинович",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Собача&nbsp;будка",
+      "role": "Тарас",
+      "url": "/performances/sobacha_budka/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/107/melnuchyk__gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/107/melnuchyk_gallery.jpg"
+  },
+  "kids_roles": [],
+  "on_the_stage": "19.06.20",
+  "staff": [
+    {
+      "performance": "Собача&nbsp;будка",
+      "role": "Музичне&nbsp;оформлення",
+      "url": "/performances/sobacha_budka/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Музичне&nbsp;оформлення",
+      "url": "/performances/three_ideal_marriage/"
+    }
+  ]
+}

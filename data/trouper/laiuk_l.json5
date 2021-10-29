@@ -1,0 +1,71 @@
+{
+  "_page": {
+    "output": "trouper/laiuk_l/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "11.04.79",
+  "full_name_with_patronymic": "Лаюк Любомир&nbsp;Іванович",
+  "gallery": [
+    {
+      "title": "Лаюк&nbsp;Любомир",
+      "url": "/korg/kol/portals/teatr/troup/laiuk_l/img_8932_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/laiuk_l/img_8932_gallery.jpg"
+    }
+  ],
+  "grown_roles": [
+    {
+      "performance": "Коханий&nbsp;нелюб",
+      "role": "Перший&nbsp;слуга",
+      "url": "/performances/kohanyi_nelub/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Трандалєв",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Хав&#8217;єр&nbsp;Гусман",
+      "url": "/performances/three_ideal_marriage/"
+    },
+    {
+      "performance": "Фараони",
+      "role": "Корній",
+      "url": "/performances/faraony/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/laiuk_l/lajiuk__gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/laiuk_l/lajiuk_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Бременські&nbsp;музиканти",
+      "role": "Начальник&nbsp;охорони",
+      "url": "/performances/bremenski/"
+    },
+    {
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Іа-Іа",
+      "url": "/performances/vinni/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Санта&nbsp;Клаус",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Святий&nbsp;Миколай",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Сніговик",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "on_the_stage": "01.09.20",
+  "staff": []
+}

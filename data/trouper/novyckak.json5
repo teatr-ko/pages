@@ -1,0 +1,91 @@
+{
+  "_page": {
+    "output": "trouper/novyckak/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "10.07.00",
+  "full_name_with_patronymic": "Сагалюк Катерина&nbsp;Романівна",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Мотря",
+      "url": "/performances/simya/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Гості",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Марися",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Фараони",
+      "role": "Ганна",
+      "url": "/performances/faraony/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/novyckak/novycka_main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/novyckak/novycka_main_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "День народження Кота&nbsp;Леопольда",
+      "role": "Коза",
+      "url": "/performances/leopold/"
+    },
+    {
+      "performance": "Коза-дереза",
+      "role": "Дівчина",
+      "url": "/performances/koza_dereza/"
+    },
+    {
+      "performance": "Котигорошко",
+      "role": "Сестра змієва,&nbsp;перша",
+      "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "performance": "Пастка для&nbsp;орла",
+      "role": "Білка",
+      "url": "/performances/eagle_trap/"
+    },
+    {
+      "performance": "Правда і&nbsp;Кривда",
+      "role": "Баба&nbsp;Людоїдка",
+      "url": "/performances/pravdaikryvda/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Мавпа&nbsp;1-а",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Заєць&nbsp;1-й",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Сімочка",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Ангел",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "on_the_stage": "19.07.19",
+  "staff": [
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Асистент&nbsp;режисера",
+      "url": "/performances/painted_fox/"
+    }
+  ]
+}

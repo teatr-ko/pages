@@ -1,0 +1,266 @@
+{
+  "_page": {
+    "output": "trouper/spervun/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "25.06.88",
+  "full_name_with_patronymic": "Первун Світлана&nbsp;Василівна",
+  "gallery": [
+    {
+      "title": "Первун&nbsp;Світлана",
+      "url": "/korg/kol/portals/teatr/troup/spervun/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/spervun/02_gallery.jpg"
+    }
+  ],
+  "grown_roles": [
+    {
+      "performance": "Анничка",
+      "role": "Горпина&nbsp;Терпелиха",
+      "url": "/performances/annychka/"
+    },
+    {
+      "performance": "Анничка",
+      "role": "Звукотвори",
+      "url": "/performances/annychka/"
+    },
+    {
+      "performance": "Вій",
+      "role": "Плакальниці",
+      "url": "/performances/vii/"
+    },
+    {
+      "performance": "Вісім люблячих&nbsp;жінок ",
+      "role": "Луїза",
+      "url": "/performances/8_liubliachyh/"
+    },
+    {
+      "performance": "Гамлет",
+      "role": "Дами&nbsp;двору",
+      "url": "/performances/hamlet/"
+    },
+    {
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Молодиця",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "performance": "За двома&nbsp;зайцями",
+      "role": "Подруги&nbsp;Проні",
+      "url": "/performances/zaycyamy/"
+    },
+    {
+      "performance": "За двома&nbsp;зайцями",
+      "role": "Химка",
+      "url": "/performances/zaycyamy/"
+    },
+    {
+      "performance": "Звідки беруться&nbsp;діти",
+      "role": "Ганна",
+      "url": "/performances/zvidky_berytsia_dity/"
+    },
+    {
+      "performance": "Іродова&nbsp;морока",
+      "role": "Смерть",
+      "url": "/performances/moroka/"
+    },
+    {
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Мелашка",
+      "url": "/performances/simya/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Гості",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Мати-наймичка",
+      "role": "Дівчата",
+      "url": "/performances/maty/"
+    },
+    {
+      "performance": "Недоторка",
+      "role": "Права&nbsp;рука",
+      "url": "/performances/nedotorka/"
+    },
+    {
+      "performance": "Нелегалка",
+      "role": "Ніна",
+      "url": "/performances/nelehalka/"
+    },
+    {
+      "performance": "Пограбування&nbsp;опівночі",
+      "role": "Злодійка",
+      "url": "/performances/porhabuvanniya/"
+    },
+    {
+      "performance": "Романс про&nbsp;закоханих",
+      "role": "Хор",
+      "url": "/performances/romans/"
+    },
+    {
+      "performance": "Сватання на&nbsp;Гончарівці",
+      "role": "Дівчата",
+      "url": "/performances/svatannya/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Мотря",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Ада&nbsp;Гусман",
+      "url": "/performances/three_ideal_marriage/"
+    },
+    {
+      "performance": "У неділю рано зілля&nbsp;копала",
+      "role": "Цигани,&nbsp;гуцули",
+      "url": "/performances/y_nediliu_rano/"
+    },
+    {
+      "performance": "Як наші діди&nbsp;парубкували",
+      "role": "Василина",
+      "url": "/performances/yak_didy/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/spervun/main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/spervun/main_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Пінгвін&nbsp;2-й",
+      "url": "/performances/bilja_kovchega/"
+    },
+    {
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Кролик",
+      "url": "/performances/vinni/"
+    },
+    {
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Сова",
+      "url": "/performances/vinni/"
+    },
+    {
+      "performance": "День народження Кота&nbsp;Леопольда",
+      "role": "Коза",
+      "url": "/performances/leopold/"
+    },
+    {
+      "performance": "Дерев’яне&nbsp;диво",
+      "role": "Дівчина&nbsp;1-а",
+      "url": "/performances/wooden_miracle/"
+    },
+    {
+      "performance": "Дюймовочка",
+      "role": "Кроти,&nbsp;жуки",
+      "url": "/performances/dujmovochka/"
+    },
+    {
+      "performance": "Дюймовочка",
+      "role": "Мама",
+      "url": "/performances/dujmovochka/"
+    },
+    {
+      "performance": "Дюймовочка",
+      "role": "Миша",
+      "url": "/performances/dujmovochka/"
+    },
+    {
+      "performance": "Золоте&nbsp;курча",
+      "role": "Лисиця",
+      "url": "/performances/kurcha/"
+    },
+    {
+      "performance": "Кицин&nbsp;дім",
+      "role": "Свиня",
+      "url": "/performances/kytsyn_dim/"
+    },
+    {
+      "performance": "Коли ще звірі&nbsp;говорили",
+      "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку",
+      "url": "/performances/when_animals/"
+    },
+    {
+      "performance": "Котигорошко",
+      "role": "Катерина – його&nbsp;мати",
+      "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "performance": "Котигорошко",
+      "role": "Сестра змієва,&nbsp;друга",
+      "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "performance": "Курочка&nbsp;Ряба",
+      "role": "Курочка&nbsp;Ряба",
+      "url": "/performances/kurochka_ryaba/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Вовки",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Дівчина",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Пан&nbsp;Коцький",
+      "role": "Миша&nbsp;1",
+      "url": "/performances/kockyy/"
+    },
+    {
+      "performance": "Пастка для&nbsp;орла",
+      "role": "Їжак",
+      "url": "/performances/eagle_trap/"
+    },
+    {
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Співачка",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
+      "performance": "Попелюшка",
+      "role": "Колючка",
+      "url": "/performances/popelyushka/"
+    },
+    {
+      "performance": "Правда і&nbsp;Кривда",
+      "role": "Кіт",
+      "url": "/performances/pravdaikryvda/"
+    },
+    {
+      "performance": "Світлофор&nbsp;Моргайко",
+      "role": "Тітонька&nbsp;Ведведиха",
+      "url": "/performances/sv_morhayko/"
+    },
+    {
+      "performance": "Танцюючий&nbsp;Ураган",
+      "role": "Світлячок",
+      "url": "/performances/dancing_hurricane/"
+    },
+    {
+      "performance": "Танцюючий&nbsp;Ураган",
+      "role": "Яринка",
+      "url": "/performances/dancing_hurricane/"
+    },
+    {
+      "performance": "Троє&nbsp;поросят",
+      "role": "Наф-Наф",
+      "url": "/performances/three_pigs/"
+    },
+    {
+      "performance": "Чарівна&nbsp;рукавичка",
+      "role": "Мишка",
+      "url": "/performances/ch_rukavychka/"
+    }
+  ],
+  "on_the_stage": "17.07.07",
+  "staff": []
+}

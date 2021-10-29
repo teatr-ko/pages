@@ -1,0 +1,95 @@
+{
+  "_page": {
+    "output": "trouper/novosad_d/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "17.08.90",
+  "full_name_with_patronymic": "Новосад Дмитро&nbsp;Валерійович",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Земля",
+      "role": "Михайло",
+      "url": "/performances/zemlya/"
+    },
+    {
+      "performance": "Камінний&nbsp;хрест",
+      "role": "Злодій",
+      "url": "/performances/stonecross/"
+    },
+    {
+      "performance": "Коханий&nbsp;нелюб",
+      "role": "Шумицький",
+      "url": "/performances/kohanyi_nelub/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Націєвський",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Рятуйте, мене&nbsp;женять!",
+      "role": "Петер&nbsp;Віммер",
+      "url": "/performances/resque_me/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Клим",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Хорхе&nbsp;Вільяміль",
+      "url": "/performances/three_ideal_marriage/"
+    },
+    {
+      "performance": "Фараони",
+      "role": "Онисько",
+      "url": "/performances/faraony/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/novosad_d/novosad__gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/novosad_d/novosad_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Мауглі",
+      "role": "Вовки",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Попелюшка",
+      "role": "Міністр",
+      "url": "/performances/popelyushka/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Ведмідь",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Пес&nbsp;1-й",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Санта&nbsp;Клаус",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Святий&nbsp;Миколай",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Сніговик",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "on_the_stage": "29.08.20",
+  "staff": []
+}

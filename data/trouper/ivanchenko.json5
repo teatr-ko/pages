@@ -1,0 +1,154 @@
+{
+  "_page": {
+    "output": "trouper/ivanchenko/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "16.04.99",
+  "full_name_with_patronymic": "Іванченко&nbsp;Владислав ",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Анничка",
+      "role": "Петро",
+      "url": "/performances/annychka/"
+    },
+    {
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Василь",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Микула",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "performance": "За двома&nbsp;зайцями",
+      "role": "Шафери&nbsp;Голохвостого",
+      "url": "/performances/zaycyamy/"
+    },
+    {
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Масові&nbsp;сцени",
+      "url": "/performances/simya/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Микола",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Собача&nbsp;будка",
+      "role": "Антон",
+      "url": "/performances/sobacha_budka/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Роман",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Клим",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Максимо&nbsp;Рохас",
+      "url": "/performances/three_ideal_marriage/"
+    },
+    {
+      "performance": "Фараони",
+      "role": "Грицько",
+      "url": "/performances/faraony/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/ivanchenko/ivanchenko_main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/ivanchenko/ivanchenko_main_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Пінгвін&nbsp;1-й",
+      "url": "/performances/bilja_kovchega/"
+    },
+    {
+      "performance": "Бременські&nbsp;музиканти",
+      "role": "Пес",
+      "url": "/performances/bremenski/"
+    },
+    {
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Вінні-Пух",
+      "url": "/performances/vinni/"
+    },
+    {
+      "performance": "Всі миші люблять&nbsp;сир",
+      "role": "Рома",
+      "url": "/performances/myshi/"
+    },
+    {
+      "performance": "Коли ще звірі&nbsp;говорили",
+      "role": "Актор 2: Лис&nbsp;Микита",
+      "url": "/performances/when_animals/"
+    },
+    {
+      "performance": "Котигорошко",
+      "role": "Котигорошко",
+      "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Шер-Хан",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Пастка для&nbsp;орла",
+      "role": "Двоглавий&nbsp;Орел",
+      "url": "/performances/eagle_trap/"
+    },
+    {
+      "performance": "Попелюшка",
+      "role": "Міністр",
+      "url": "/performances/popelyushka/"
+    },
+    {
+      "performance": "Правда і&nbsp;Кривда",
+      "role": "Правда",
+      "url": "/performances/pravdaikryvda/"
+    },
+    {
+      "performance": "Пригоди Червоної&nbsp;Шапочки",
+      "role": "Вовчик",
+      "url": "/performances/ch_shapochka/"
+    },
+    {
+      "performance": "Троє&nbsp;поросят",
+      "role": "Вовк",
+      "url": "/performances/three_pigs/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Пес&nbsp;1-й",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Ведмідь",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Гном",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Нулик",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "staff": []
+}

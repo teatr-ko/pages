@@ -1,0 +1,50 @@
+{
+  "_page": {
+    "output": "trouper/maksymchuk_m/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "23.08.66",
+  "full_name_with_patronymic": "Максимчук Іван&nbsp;Іванович",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Земля",
+      "role": "Білоголовий&nbsp;чоловік",
+      "url": "/performances/zemlya/"
+    },
+    {
+      "performance": "Камінний&nbsp;хрест",
+      "role": "Максим",
+      "url": "/performances/stonecross/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Гервасій&nbsp;Гуляницький",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Франціско",
+      "url": "/performances/three_ideal_marriage/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/maksymchuk_m/maksymchuk__gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/maksymchuk_m/maksymchuk_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Бременські&nbsp;музиканти",
+      "role": "Нишпорка",
+      "url": "/performances/bremenski/"
+    },
+    {
+      "performance": "Попелюшка",
+      "role": "Король",
+      "url": "/performances/popelyushka/"
+    }
+  ],
+  "on_the_stage": "21.08.20",
+  "staff": []
+}

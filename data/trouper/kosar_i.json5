@@ -1,0 +1,155 @@
+{
+  "_page": {
+    "output": "trouper/kosar_i/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "31.07.96",
+  "full_name_with_patronymic": "Косар Ілля&nbsp;Васильович",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Анничка",
+      "role": "Петро",
+      "url": "/performances/annychka/"
+    },
+    {
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Дячок",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "performance": "Коханий&nbsp;нелюб",
+      "role": "Кущ",
+      "url": "/performances/kohanyi_nelub/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Микола",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Мати-наймичка",
+      "role": "Марко",
+      "url": "/performances/maty/"
+    },
+    {
+      "performance": "Собача&nbsp;будка",
+      "role": "Тарас",
+      "url": "/performances/sobacha_budka/"
+    },
+    {
+      "performance": "Собача&nbsp;будка",
+      "role": "Антон",
+      "url": "/performances/sobacha_budka/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Клим",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Роман",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "role": "Максимо&nbsp;Рохас",
+      "url": "/performances/three_ideal_marriage/"
+    },
+    {
+      "performance": "Фараони",
+      "role": "Оверко",
+      "url": "/performances/faraony/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/kosar_i/kosar_main__gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/kosar_i/kosar_main_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Пінгвін&nbsp;3-й",
+      "url": "/performances/bilja_kovchega/"
+    },
+    {
+      "performance": "Бременські&nbsp;музиканти",
+      "role": "Начальник&nbsp;охорони",
+      "url": "/performances/bremenski/"
+    },
+    {
+      "performance": "Бременські&nbsp;музиканти",
+      "role": "Нишпорка",
+      "url": "/performances/bremenski/"
+    },
+    {
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Іа-Іа",
+      "url": "/performances/vinni/"
+    },
+    {
+      "performance": "День народження Кота&nbsp;Леопольда",
+      "role": "Пес-лікар",
+      "url": "/performances/leopold/"
+    },
+    {
+      "performance": "Зимові&nbsp;пригоди",
+      "role": "Гном",
+      "url": "/performances/zymovi_pryhody/"
+    },
+    {
+      "performance": "Коли ще звірі&nbsp;говорили",
+      "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес",
+      "url": "/performances/when_animals/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Вовки",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Табакі",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Вісник",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
+      "performance": "Попелюшка",
+      "role": "Міністр",
+      "url": "/performances/popelyushka/"
+    },
+    {
+      "performance": "Правда і&nbsp;Кривда",
+      "role": "Кіт",
+      "url": "/performances/pravdaikryvda/"
+    },
+    {
+      "performance": "Правда і&nbsp;Кривда",
+      "role": "Сокіл",
+      "url": "/performances/pravdaikryvda/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Вовк",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Гном",
+      "url": "/performances/zymovi_prygody_2/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Нулик",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "on_the_stage": "03.04.19",
+  "staff": []
+}

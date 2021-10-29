@@ -1,0 +1,151 @@
+{
+  "_page": {
+    "output": "trouper/arkhangelskii/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "09.04.98",
+  "full_name_with_patronymic": "Архангельський&nbsp;Володимир ",
+  "gallery": [],
+  "grown_roles": [
+    {
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Василь",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "performance": "За двома&nbsp;зайцями",
+      "role": "Шафери&nbsp;Голохвостого",
+      "url": "/performances/zaycyamy/"
+    },
+    {
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Масові&nbsp;сцени",
+      "url": "/performances/simya/"
+    },
+    {
+      "performance": "Мартин&nbsp;Боруля",
+      "role": "Степан",
+      "url": "/performances/martyn_borylia/"
+    },
+    {
+      "performance": "Мати-наймичка",
+      "role": "Марко",
+      "url": "/performances/maty/"
+    },
+    {
+      "performance": "Сватання на&nbsp;Гончарівці",
+      "role": "Тиміш",
+      "url": "/performances/svatannya/"
+    },
+    {
+      "performance": "Собача&nbsp;будка",
+      "role": "Рома",
+      "url": "/performances/sobacha_budka/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Роман",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Клим",
+      "url": "/performances/sto_tysiach/"
+    },
+    {
+      "performance": "Фараони",
+      "role": "Грицько",
+      "url": "/performances/faraony/"
+    }
+  ],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/arkhangelskii/arkhangelskii_main_fh_gal_ix.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/arkhangelskii/arkhangelskii_main_gallery.jpg"
+  },
+  "kids_roles": [
+    {
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Пінгвін&nbsp;3-й",
+      "url": "/performances/bilja_kovchega/"
+    },
+    {
+      "performance": "Бременські&nbsp;музиканти",
+      "role": "Півень",
+      "url": "/performances/bremenski/"
+    },
+    {
+      "performance": "Всі миші люблять&nbsp;сир",
+      "role": "Паскаль",
+      "url": "/performances/myshi/"
+    },
+    {
+      "performance": "Коли ще звірі&nbsp;говорили",
+      "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес",
+      "url": "/performances/when_animals/"
+    },
+    {
+      "performance": "Котигорошко",
+      "role": "Змій, він же Капшивий&nbsp;дід",
+      "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Вовки",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Мауглі",
+      "role": "Мауглі",
+      "url": "/performances/mauhli/"
+    },
+    {
+      "performance": "Пастка для&nbsp;орла",
+      "role": "Бобер",
+      "url": "/performances/eagle_trap/"
+    },
+    {
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Сміхотвор",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
+      "performance": "Попелюшка",
+      "role": "Принц",
+      "url": "/performances/popelyushka/"
+    },
+    {
+      "performance": "Спасибі,&nbsp;Барбі",
+      "role": "Петард",
+      "url": "/performances/barbi/"
+    },
+    {
+      "performance": "Троє&nbsp;поросят",
+      "role": "Вовк",
+      "url": "/performances/three_pigs/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Лис",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Вовк",
+      "url": "/performances/painted_fox/"
+    },
+    {
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Ельф",
+      "url": "/performances/zymovi_prygody_2/"
+    }
+  ],
+  "on_the_stage": "12.07.18",
+  "staff": [
+    {
+      "performance": "Фарбований&nbsp;лис",
+      "role": "Асистент&nbsp;режисера",
+      "url": "/performances/painted_fox/"
+    }
+  ]
+}
