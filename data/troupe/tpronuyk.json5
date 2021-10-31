@@ -14,8 +14,18 @@
     },
     {
       "title": "Пронюк&nbsp;Тетяна",
-      "url": "/korg/kol/portals/teatr/troup/tpronuyk/03_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/03_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/troup/tpronuyk/02.12_01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/02.12_01_gallery.jpg"
+    },
+    {
+      "title": "Пронюк&nbsp;Тетяна",
+      "url": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.03_gallery.jpg"
+    },
+    {
+      "title": "Пронюк&nbsp;Тетяна",
+      "url": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.04_gallery.jpg"
     },
     {
       "title": "Пронюк&nbsp;Тетяна",
@@ -29,117 +39,97 @@
     },
     {
       "title": "Пронюк&nbsp;Тетяна",
-      "url": "/korg/kol/portals/teatr/troup/tpronuyk/02.12_01_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/02.12_01_gallery.jpg"
-    },
-    {
-      "title": "Пронюк&nbsp;Тетяна",
-      "url": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.03_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.03_gallery.jpg"
-    },
-    {
-      "title": "Пронюк&nbsp;Тетяна",
-      "url": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.04_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/19.11.04_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/troup/tpronuyk/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/03_gallery.jpg"
     }
   ],
   "grown_roles": [
     {
-      "performance": "Boa&nbsp;constrictor",
-      "role": "Рифка",
-      "url": "/performances/constrictor/"
-    },
-    {
-      "performance": "Boa&nbsp;constrictor",
-      "role": "Жінки в масових&nbsp;сценах",
-      "url": "/performances/constrictor/"
-    },
-    {
+      "director": "Мельничук,&nbsp;Юрій",
       "performance": "<span class=\"caps\">EQUUS</span>",
-      "role": "Пацієнти&nbsp;клініки",
+      "role": "Глядачі анатомічного&nbsp;театру, Пацієнти&nbsp;клініки",
       "url": "/performances/equus/"
     },
     {
-      "performance": "<span class=\"caps\">EQUUS</span>",
-      "role": "Глядачі анатомічного&nbsp;театру",
-      "url": "/performances/equus/"
+      "director": "Голенко,&nbsp;Максим",
+      "performance": "Boa&nbsp;constrictor",
+      "role": "Жінки в масових&nbsp;сценах, Рифка",
+      "url": "/performances/constrictor/"
     },
     {
+      "director": "Павлюк,&nbsp;Сергій",
       "performance": "Вій",
-      "role": "Плакальниці",
+      "role": "Плакальниці, 4&nbsp;нечисть, 4 повитуха&nbsp;(зерно)",
       "url": "/performances/vii/"
     },
     {
-      "performance": "Вій",
-      "role": "4&nbsp;нечисть",
-      "url": "/performances/vii/"
-    },
-    {
-      "performance": "Вій",
-      "role": "4 повитуха&nbsp;(зерно)",
-      "url": "/performances/vii/"
-    },
-    {
+      "director": "Гусаков,&nbsp;Денис",
       "performance": "Гамлет",
       "role": "Блазні",
       "url": "/performances/hamlet/"
     },
     {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "Гуцульський&nbsp;рік",
       "role": "Олена",
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Коломійцев,&nbsp;Олексій",
       "performance": "Дівка на відданню, або На милованє нема&nbsp;силованє",
       "role": "Хор",
       "url": "/performances/divka/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Кайдашева&nbsp;сім’я",
       "role": "Мелашка",
       "url": "/performances/simya/"
     },
     {
+      "director": "Сєдлер (Siedler), Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
-      "role": "Геся&nbsp;Дульська",
+      "role": "Меля&nbsp;Дульська, Геся&nbsp;Дульська",
       "url": "/performances/dulska/"
     },
     {
-      "performance": "Мораль пані&nbsp;Дульської",
-      "role": "Меля&nbsp;Дульська",
-      "url": "/performances/dulska/"
-    },
-    {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "На милування нема&nbsp;силування",
       "role": "Прісінька",
       "url": "/performances/myluvannya/"
     },
     {
+      "director": "Мартищук,&nbsp;Володимир",
       "performance": "Отак загинув&nbsp;Гуска",
       "role": "Христонька",
       "url": "/performances/huska/"
     },
     {
-      "performance": "Підступний&nbsp;сірничок",
-      "role": "Мишка",
-      "url": "/performances/sirnychok/"
-    },
-    {
+      "director": "Луценко,&nbsp;Андрій",
       "performance": "Пограбування&nbsp;опівночі",
       "role": "Цица",
       "url": "/performances/porhabuvanniya/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
+      "performance": "Підступний&nbsp;сірничок",
+      "role": "Мишка",
+      "url": "/performances/sirnychok/"
+    },
+    {
+      "director": "Чиборак, Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Мотря",
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Коломієць,&nbsp;Ростислав",
       "performance": "Суєта",
       "role": "Василина",
       "url": "/performances/sueta/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Три ідеальні&nbsp;подружжя",
       "role": "Клара&nbsp;Гусман",
       "url": "/performances/three_ideal_marriage/"
@@ -151,86 +141,91 @@
   },
   "kids_roles": [
     {
-      "performance": "Біля ковчега о&nbsp;восьмій",
-      "role": "Пінгвін&nbsp;2-й",
-      "url": "/performances/bilja_kovchega/"
-    },
-    {
+      "director": "Борисяк,&nbsp;В.",
       "performance": "Бременські&nbsp;музиканти",
       "role": "Принцеса",
       "url": "/performances/bremenski/"
     },
     {
-      "performance": "Вінні-Пух та його&nbsp;друзі",
-      "role": "П&#8217;ятачок",
-      "url": "/performances/vinni/"
+      "director": "Кузик,&nbsp;Анастасія",
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Пінгвін&nbsp;2-й",
+      "url": "/performances/bilja_kovchega/"
     },
     {
+      "director": "Мартищук,&nbsp;Володимир",
       "performance": "Всі миші люблять&nbsp;сир",
       "role": "Ружа",
       "url": "/performances/myshi/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "П&#8217;ятачок",
+      "url": "/performances/vinni/"
+    },
+    {
+      "director": "Мартищук,&nbsp;Володимир",
       "performance": "Дармоїди",
-      "role": "Босий",
+      "role": "Босий, Колосок",
       "url": "/performances/darmoidy/"
     },
     {
-      "performance": "Дармоїди",
-      "role": "Колосок",
-      "url": "/performances/darmoidy/"
-    },
-    {
+      "director": "Якубовський,&nbsp;С.",
       "performance": "Кицин&nbsp;дім",
       "role": "Грак&nbsp;1",
       "url": "/performances/kytsyn_dim/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Котигорошко",
       "role": "Оленка – його&nbsp;сестра",
       "url": "/performances/kotyhoroshko/"
     },
     {
+      "director": "Мірошник,&nbsp;Євген",
       "performance": "Курочка&nbsp;Ряба",
       "role": "Сорока",
       "url": "/performances/kurochka_ryaba/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Мауглі",
-      "role": "Вовки",
+      "role": "Багіра, Вовки",
       "url": "/performances/mauhli/"
     },
     {
-      "performance": "Мауглі",
-      "role": "Багіра",
-      "url": "/performances/mauhli/"
-    },
-    {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "По щучому&nbsp;велінню",
       "role": "Королівна",
       "url": "/performances/po_shchuchomy/"
     },
     {
+      "director": "Удовенко,&nbsp;Костянтин",
       "performance": "Сонечко в&nbsp;тобі",
       "role": "Копокоміко",
       "url": "/performances/sonechko/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Спасибі,&nbsp;Барбі",
       "role": "Барбі",
       "url": "/performances/barbi/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Троє&nbsp;поросят",
       "role": "Ніф-Ніф",
       "url": "/performances/three_pigs/"
     },
     {
+      "director": "Куцик, Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Мавпа&nbsp;2-а",
       "url": "/performances/painted_fox/"
     },
     {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Фея",
       "url": "/performances/zymovi_prygody_2/"

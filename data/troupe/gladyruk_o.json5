@@ -35,116 +35,121 @@
   ],
   "grown_roles": [
     {
+      "director": "Чиборак,&nbsp;Дмитро",
+      "performance": "Іродова&nbsp;морока",
+      "role": "Кривда, Яничари",
+      "url": "/performances/moroka/"
+    },
+    {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "Гуцульський&nbsp;рік",
       "role": "Молодиця",
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "За двома&nbsp;зайцями",
-      "role": "Подруги&nbsp;Проні",
+      "role": "Проня, Подруги&nbsp;Проні",
       "url": "/performances/zaycyamy/"
     },
     {
-      "performance": "За двома&nbsp;зайцями",
-      "role": "Проня",
-      "url": "/performances/zaycyamy/"
-    },
-    {
+      "director": "Угорська-Геник, Галина,  членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Жанна",
       "url": "/performances/zvidky_berytsia_dity/"
     },
     {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "Земля",
       "role": "Білоголова&nbsp;жінка",
       "url": "/performances/zemlya/"
     },
     {
-      "performance": "Іродова&nbsp;морока",
-      "role": "Яничари",
-      "url": "/performances/moroka/"
-    },
-    {
-      "performance": "Іродова&nbsp;морока",
-      "role": "Кривда",
-      "url": "/performances/moroka/"
-    },
-    {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Кайдашева&nbsp;сім’я",
       "role": "Мотря",
       "url": "/performances/simya/"
     },
     {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "Камінний&nbsp;хрест",
       "role": "Жінки",
       "url": "/performances/stonecross/"
     },
     {
+      "director": "Луценко,&nbsp;Андрій",
       "performance": "Контракт",
       "role": "Луїза",
       "url": "/performances/kontrakt/"
     },
     {
+      "director": "Кузик,&nbsp;Сергій",
       "performance": "Мати-наймичка",
       "role": "Берегиня",
       "url": "/performances/maty/"
     },
     {
-      "performance": "Міс&nbsp;Жулі",
-      "role": "Крістіна",
-      "url": "/performances/miss_julie/"
-    },
-    {
+      "director": "Сєдлер (Siedler), Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Ганка",
       "url": "/performances/dulska/"
     },
     {
+      "director": "Кравчук,&nbsp;Олег",
+      "performance": "Міс&nbsp;Жулі",
+      "role": "Крістіна",
+      "url": "/performances/miss_julie/"
+    },
+    {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Недоторка",
       "role": "Права&nbsp;рука",
       "url": "/performances/nedotorka/"
     },
     {
+      "director": "Мартищук,&nbsp;Володимир",
       "performance": "Отак загинув&nbsp;Гуска",
       "role": "Христонька",
       "url": "/performances/huska/"
     },
     {
+      "director": "Луценко,&nbsp;Андрій",
       "performance": "Пограбування&nbsp;опівночі",
       "role": "Цица",
       "url": "/performances/porhabuvanniya/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Рятуйте, мене&nbsp;женять!",
       "role": "Резель&nbsp;Шобер",
       "url": "/performances/resque_me/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Собача&nbsp;будка",
       "role": "Анюта",
       "url": "/performances/sobacha_budka/"
     },
     {
+      "director": "Чиборак, Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Параска",
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Три ідеальні&nbsp;подружжя",
       "role": "Ада&nbsp;Гусман",
       "url": "/performances/three_ideal_marriage/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "У неділю рано зілля&nbsp;копала",
-      "role": "Дончукова, дружина&nbsp;Михайла",
+      "role": "Мидора, Дончукова, дружина&nbsp;Михайла",
       "url": "/performances/y_nediliu_rano/"
     },
     {
-      "performance": "У неділю рано зілля&nbsp;копала",
-      "role": "Мидора",
-      "url": "/performances/y_nediliu_rano/"
-    },
-    {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Фараони",
       "role": "Уляна",
       "url": "/performances/faraony/"
@@ -156,126 +161,121 @@
   },
   "kids_roles": [
     {
-      "performance": "Біля ковчега о&nbsp;восьмій",
-      "role": "Голубка",
-      "url": "/performances/bilja_kovchega/"
-    },
-    {
+      "director": "Борисяк,&nbsp;В.",
       "performance": "Бременські&nbsp;музиканти",
       "role": "Начальник&nbsp;охорони",
       "url": "/performances/bremenski/"
     },
     {
-      "performance": "Вінні-Пух та його&nbsp;друзі",
-      "role": "Кролик",
-      "url": "/performances/vinni/"
+      "director": "Кузик,&nbsp;Анастасія",
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Голубка",
+      "url": "/performances/bilja_kovchega/"
     },
     {
-      "performance": "Вінні-Пух та його&nbsp;друзі",
-      "role": "Сова",
-      "url": "/performances/vinni/"
-    },
-    {
+      "director": "Мартищук,&nbsp;Володимир",
       "performance": "Всі миші люблять&nbsp;сир",
       "role": "Ліда",
       "url": "/performances/myshi/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Кролик, Сова",
+      "url": "/performances/vinni/"
+    },
+    {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "День народження Кота&nbsp;Леопольда",
       "role": "Коза",
       "url": "/performances/leopold/"
     },
     {
+      "director": "Куцик, Олександр, з.а.&nbsp;України",
       "performance": "Дерев’яне&nbsp;диво",
       "role": "Горпина",
       "url": "/performances/wooden_miracle/"
     },
     {
+      "director": "Лисенко,&nbsp;Людмила",
       "performance": "Дюймовочка",
       "role": "Жаба",
       "url": "/performances/dujmovochka/"
     },
     {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Зимові&nbsp;пригоди",
       "role": "Снігова Королева,&nbsp;Сніговик",
       "url": "/performances/zymovi_pryhody/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Золоте&nbsp;курча",
       "role": "Лисиця",
       "url": "/performances/kurcha/"
     },
     {
+      "director": "Якубовський,&nbsp;С.",
       "performance": "Кицин&nbsp;дім",
       "role": "Порося&nbsp;1",
       "url": "/performances/kytsyn_dim/"
     },
     {
+      "director": "Кузик,&nbsp;Сергій",
       "performance": "Коза-дереза",
-      "role": "Баба",
+      "role": "Хор, Баба",
       "url": "/performances/koza_dereza/"
     },
     {
-      "performance": "Коза-дереза",
-      "role": "Хор",
-      "url": "/performances/koza_dereza/"
-    },
-    {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Котигорошко",
       "role": "Бабуся",
       "url": "/performances/kotyhoroshko/"
     },
     {
+      "director": "Мірошник,&nbsp;Євген",
       "performance": "Курочка&nbsp;Ряба",
       "role": "Сорока",
       "url": "/performances/kurochka_ryaba/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Мауглі",
-      "role": "Ракша",
+      "role": "Вовчиця, Ракша",
       "url": "/performances/mauhli/"
     },
     {
-      "performance": "Мауглі",
-      "role": "Вовчиця",
-      "url": "/performances/mauhli/"
-    },
-    {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Пан&nbsp;Коцький",
-      "role": "Миша&nbsp;2",
+      "role": "Миша&nbsp;2, Миша&nbsp;1",
       "url": "/performances/kockyy/"
     },
     {
-      "performance": "Пан&nbsp;Коцький",
-      "role": "Миша&nbsp;1",
-      "url": "/performances/kockyy/"
-    },
-    {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "По щучому&nbsp;велінню",
-      "role": "Королиха",
+      "role": "Королівна, Королиха",
       "url": "/performances/po_shchuchomy/"
     },
     {
-      "performance": "По щучому&nbsp;велінню",
-      "role": "Королівна",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
+      "director": "Медюсев,&nbsp;Володимир",
       "performance": "Попелюшка",
       "role": "Колючка",
       "url": "/performances/popelyushka/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Правда і&nbsp;Кривда",
       "role": "Баба&nbsp;Людоїдка",
       "url": "/performances/pravdaikryvda/"
     },
     {
+      "director": "Удовенко,&nbsp;Костянтин",
       "performance": "Сонечко в&nbsp;тобі",
       "role": "Копокоміко",
       "url": "/performances/sonechko/"
     },
     {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Снігова&nbsp;Королева",
       "url": "/performances/zymovi_prygody_2/"

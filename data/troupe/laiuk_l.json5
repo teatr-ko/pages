@@ -15,21 +15,25 @@
   ],
   "grown_roles": [
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Коханий&nbsp;нелюб",
       "role": "Перший&nbsp;слуга",
       "url": "/performances/kohanyi_nelub/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Мартин&nbsp;Боруля",
       "role": "Трандалєв",
       "url": "/performances/martyn_borylia/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Три ідеальні&nbsp;подружжя",
       "role": "Хав&#8217;єр&nbsp;Гусман",
       "url": "/performances/three_ideal_marriage/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Фараони",
       "role": "Корній",
       "url": "/performances/faraony/"
@@ -41,28 +45,21 @@
   },
   "kids_roles": [
     {
+      "director": "Борисяк,&nbsp;В.",
       "performance": "Бременські&nbsp;музиканти",
       "role": "Начальник&nbsp;охорони",
       "url": "/performances/bremenski/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Вінні-Пух та його&nbsp;друзі",
       "role": "Іа-Іа",
       "url": "/performances/vinni/"
     },
     {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Санта&nbsp;Клаус",
-      "url": "/performances/zymovi_prygody_2/"
-    },
-    {
-      "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Святий&nbsp;Миколай",
-      "url": "/performances/zymovi_prygody_2/"
-    },
-    {
-      "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Сніговик",
+      "role": "Сніговик, Санта&nbsp;Клаус, Святий&nbsp;Миколай",
       "url": "/performances/zymovi_prygody_2/"
     }
   ],

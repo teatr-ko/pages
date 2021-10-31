@@ -50,22 +50,31 @@
       "url": "https://ng-teatr.kolomyya.org/performances/sto_tysiach/"
     },
     {
-      "author": "Іван&nbsp;Озаркевич",
-      "date": "Четвер,&nbsp;28.10.21",
-      "genre": "комедіо-опера",
-      "performance": "Анничка",
-      "place": "м. Болехів -&nbsp;РБК",
-      "time": "10:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/annychka/"
+      "author": "за п’єсою Віктора&nbsp;Гирича",
+      "date": "Неділя,&nbsp;24.10.21",
+      "genre": "казка для дітей",
+      "performance": "Троє&nbsp;поросят",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/three_pigs/"
     },
     {
-      "author": "Іван&nbsp;Франко",
+      "author": "О.Коломієць",
       "date": null,
-      "genre": "Драма",
-      "performance": "Boa&nbsp;constrictor",
-      "place": "Caserta (Касерта, Італія) - &#8220;Teatro Don&nbsp;Bosco&#8221;",
-      "time": "11:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/constrictor/"
+      "genre": "Комедія",
+      "performance": "Фараони",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/faraony/"
+    },
+    {
+      "author": "за п’єсою Віктора&nbsp;Гирича",
+      "date": "Вівторок,&nbsp;26.10.21",
+      "genre": "казка для дітей",
+      "performance": "Троє&nbsp;поросят",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "10:30",
+      "url": "https://ng-teatr.kolomyya.org/performances/three_pigs/"
     }
   ],
   "other_my": "Листопад&nbsp;2021",

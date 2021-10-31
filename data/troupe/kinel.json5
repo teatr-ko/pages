@@ -14,13 +14,9 @@
   },
   "kids_roles": [
     {
+      "director": "Куцик, Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
-      "role": "Кабан",
-      "url": "/performances/painted_fox/"
-    },
-    {
-      "performance": "Фарбований&nbsp;лис",
-      "role": "Пес&nbsp;2-й",
+      "role": "Пес&nbsp;2-й, Кабан",
       "url": "/performances/painted_fox/"
     }
   ],

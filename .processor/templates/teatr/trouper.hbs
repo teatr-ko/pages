@@ -83,12 +83,9 @@
 
     {% endfor %}
 
-    {% if trouper.addition %}
-    {{{ trouper.addition }}}
-    {% endif %}
-
-
-
+    {{#if addition }}
+    {{{ addition }}}
+    {{/if}}
 {{/partial}}
 
 {{> default }}

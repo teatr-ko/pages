@@ -9,11 +9,13 @@
   "gallery": [],
   "grown_roles": [
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Мартин&nbsp;Боруля",
       "role": "Гості",
       "url": "/performances/martyn_borylia/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Три ідеальні&nbsp;подружжя",
       "role": "Клара&nbsp;Гусман",
       "url": "/performances/three_ideal_marriage/"
@@ -25,31 +27,37 @@
   },
   "kids_roles": [
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Вінні-Пух та його&nbsp;друзі",
       "role": "П&#8217;ятачок",
       "url": "/performances/vinni/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Мауглі",
       "role": "Вовки",
       "url": "/performances/mauhli/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Пригоди Червоної&nbsp;Шапочки",
       "role": "Червона&nbsp;Шапочка",
       "url": "/performances/ch_shapochka/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Світлофор&nbsp;Моргайко",
       "role": "Тітонька&nbsp;Ведведиха",
       "url": "/performances/sv_morhayko/"
     },
     {
+      "director": "Куцик, Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Заєць&nbsp;2-й",
       "url": "/performances/painted_fox/"
     },
     {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Фея",
       "url": "/performances/zymovi_prygody_2/"

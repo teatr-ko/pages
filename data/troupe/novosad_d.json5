@@ -9,41 +9,49 @@
   "gallery": [],
   "grown_roles": [
     {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "Земля",
       "role": "Михайло",
       "url": "/performances/zemlya/"
     },
     {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "Камінний&nbsp;хрест",
       "role": "Злодій",
       "url": "/performances/stonecross/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Коханий&nbsp;нелюб",
       "role": "Шумицький",
       "url": "/performances/kohanyi_nelub/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Мартин&nbsp;Боруля",
       "role": "Націєвський",
       "url": "/performances/martyn_borylia/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Рятуйте, мене&nbsp;женять!",
       "role": "Петер&nbsp;Віммер",
       "url": "/performances/resque_me/"
     },
     {
+      "director": "Чиборак, Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Клим",
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Три ідеальні&nbsp;подружжя",
       "role": "Хорхе&nbsp;Вільяміль",
       "url": "/performances/three_ideal_marriage/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Фараони",
       "role": "Онисько",
       "url": "/performances/faraony/"
@@ -55,38 +63,27 @@
   },
   "kids_roles": [
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Мауглі",
       "role": "Вовки",
       "url": "/performances/mauhli/"
     },
     {
+      "director": "Медюсев,&nbsp;Володимир",
       "performance": "Попелюшка",
       "role": "Міністр",
       "url": "/performances/popelyushka/"
     },
     {
+      "director": "Куцик, Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
-      "role": "Ведмідь",
+      "role": "Пес&nbsp;1-й, Ведмідь",
       "url": "/performances/painted_fox/"
     },
     {
-      "performance": "Фарбований&nbsp;лис",
-      "role": "Пес&nbsp;1-й",
-      "url": "/performances/painted_fox/"
-    },
-    {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Санта&nbsp;Клаус",
-      "url": "/performances/zymovi_prygody_2/"
-    },
-    {
-      "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Святий&nbsp;Миколай",
-      "url": "/performances/zymovi_prygody_2/"
-    },
-    {
-      "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Сніговик",
+      "role": "Сніговик, Санта&nbsp;Клаус, Святий&nbsp;Миколай",
       "url": "/performances/zymovi_prygody_2/"
     }
   ],

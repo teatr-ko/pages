@@ -9,56 +9,55 @@
   "gallery": [],
   "grown_roles": [
     {
+      "director": "Сікорський,&nbsp;Вадим",
       "performance": "Анничка",
       "role": "Петро",
       "url": "/performances/annychka/"
     },
     {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "Гуцульський&nbsp;рік",
-      "role": "Василь",
+      "role": "Микула, Василь",
       "url": "/performances/hutsulskyi_rik/"
     },
     {
-      "performance": "Гуцульський&nbsp;рік",
-      "role": "Микула",
-      "url": "/performances/hutsulskyi_rik/"
-    },
-    {
+      "director": "Чиборак,&nbsp;Дмитро",
       "performance": "За двома&nbsp;зайцями",
       "role": "Шафери&nbsp;Голохвостого",
       "url": "/performances/zaycyamy/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Кайдашева&nbsp;сім’я",
       "role": "Масові&nbsp;сцени",
       "url": "/performances/simya/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Мартин&nbsp;Боруля",
       "role": "Микола",
       "url": "/performances/martyn_borylia/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Собача&nbsp;будка",
       "role": "Антон",
       "url": "/performances/sobacha_budka/"
     },
     {
+      "director": "Чиборак, Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
-      "role": "Роман",
+      "role": "Роман, Клим",
       "url": "/performances/sto_tysiach/"
     },
     {
-      "performance": "Сто&nbsp;тисяч",
-      "role": "Клим",
-      "url": "/performances/sto_tysiach/"
-    },
-    {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Три ідеальні&nbsp;подружжя",
       "role": "Максимо&nbsp;Рохас",
       "url": "/performances/three_ideal_marriage/"
     },
     {
+      "director": "Мосійчук,&nbsp;Олег",
       "performance": "Фараони",
       "role": "Грицько",
       "url": "/performances/faraony/"
@@ -70,83 +69,87 @@
   },
   "kids_roles": [
     {
-      "performance": "Біля ковчега о&nbsp;восьмій",
-      "role": "Пінгвін&nbsp;1-й",
-      "url": "/performances/bilja_kovchega/"
-    },
-    {
+      "director": "Борисяк,&nbsp;В.",
       "performance": "Бременські&nbsp;музиканти",
       "role": "Пес",
       "url": "/performances/bremenski/"
     },
     {
-      "performance": "Вінні-Пух та його&nbsp;друзі",
-      "role": "Вінні-Пух",
-      "url": "/performances/vinni/"
+      "director": "Кузик,&nbsp;Анастасія",
+      "performance": "Біля ковчега о&nbsp;восьмій",
+      "role": "Пінгвін&nbsp;1-й",
+      "url": "/performances/bilja_kovchega/"
     },
     {
+      "director": "Мартищук,&nbsp;Володимир",
       "performance": "Всі миші люблять&nbsp;сир",
       "role": "Рома",
       "url": "/performances/myshi/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Вінні-Пух",
+      "url": "/performances/vinni/"
+    },
+    {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Котигорошко",
       "role": "Котигорошко",
       "url": "/performances/kotyhoroshko/"
     },
     {
+      "director": "Мельничук,&nbsp;Дмитро",
       "performance": "Мауглі",
       "role": "Шер-Хан",
       "url": "/performances/mauhli/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Пастка для&nbsp;орла",
       "role": "Двоглавий&nbsp;Орел",
       "url": "/performances/eagle_trap/"
     },
     {
+      "director": "Медюсев,&nbsp;Володимир",
       "performance": "Попелюшка",
       "role": "Міністр",
       "url": "/performances/popelyushka/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Правда і&nbsp;Кривда",
       "role": "Правда",
       "url": "/performances/pravdaikryvda/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Пригоди Червоної&nbsp;Шапочки",
       "role": "Вовчик",
       "url": "/performances/ch_shapochka/"
     },
     {
+      "director": "Цибульський,&nbsp;Адам",
       "performance": "Троє&nbsp;поросят",
       "role": "Вовк",
       "url": "/performances/three_pigs/"
     },
     {
+      "director": "Куцик, Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
-      "role": "Ведмідь",
+      "role": "Пес&nbsp;1-й, Ведмідь",
       "url": "/performances/painted_fox/"
     },
     {
-      "performance": "Фарбований&nbsp;лис",
-      "role": "Пес&nbsp;1-й",
-      "url": "/performances/painted_fox/"
-    },
-    {
+      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Гном",
-      "url": "/performances/zymovi_prygody_2/"
-    },
-    {
-      "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Нулик",
+      "role": "Гном, Нулик",
       "url": "/performances/zymovi_prygody_2/"
     }
   ],
