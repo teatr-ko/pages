@@ -46,42 +46,36 @@
         </p></center>
     {{/if}}
 
-
-    {% for k, v in dict.items %}
-    {% if k == 'staff' and v %}
-    <div class="header_t "><p>Участь у постановках</p></div>
-    {% else %}
-    {% if k == 'grown' and v %}
-    <div class="header_t "><p>Ролі</p></div>
-    {% else %}
-    {% if v %}
-    <div class="header_t "><p>Ролі в дитячих виставах</p></div>
-
-    {% endif %}
-    {% endif %}
-    {% endif %}
-
-
-    {% for performance, role in v.items %}
-
-
-    <div>
-
-        {% for r in role %}
-
-        {% if r.personage %}
-        <b>{{r.personage.person}}</b> -
-        {% endif %}
-        {% endfor %}
-
-        <a style="font-weight: normal"
-           href="{%  url 'portal-performance-item' performance.unique_name %}">{{performance}}</a>
-        (реж. {{performance.producer}})
-    </div>
-
-    {% endfor %}
-
-    {% endfor %}
+    {{#if staff}}
+        <div class="header_t "><p>Участь у постановках</p></div>
+        {{#each staff}}
+            <div>
+                <b>{{{ role }}}</b> - <a style="font-weight: normal"
+                                         href="{{ url }}">{{{ performance }}}</a>
+                (реж. {{{ director }}})
+            </div>
+        {{/each}}
+    {{/if}}
+    {{#if grown_roles}}
+        <div class="header_t "><p>Ролі</p></div>
+        {{#each grown_roles}}
+            <div>
+                <b>{{{ role }}}</b> - <a style="font-weight: normal"
+                                         href="{{ url }}">{{{ performance }}}</a>
+                (реж. {{{ director }}})
+            </div>
+        {{/each}}
+    {{/if}}
+    {{#if kids_roles}}
+        <div class="header_t "><p>Ролі в дитячих виставах</p></div>
+        {{#each kids_roles}}
+            <div>
+                <b>{{{ role }}}</b> - <a style="font-weight: normal"
+                                         href="{{ url }}">{{{ performance }}}</a>
+                (реж. {{{ director }}})
+            </div>
+        {{/each}}
+    {{/if}}
 
     {{#if addition }}
     {{{ addition }}}
