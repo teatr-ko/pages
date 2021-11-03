@@ -1,0 +1,23 @@
+{
+  "_page": {
+    "output": "performances/eagle_trap/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер - народний артист&nbsp;України",
+  "director": "Цибульський&nbsp;Адам",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/eagle_trap/eagle_trap_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/eagle_trap/eagle_trap_gallery.jpg"
+    }
+  ],
+  "genre": "сучасна українська&nbsp;казка",
+  "name": "Пастка для&nbsp;орла",
+  "personages": [],
+  "premiere": "09.09.2018",
+  "staff": []
+}

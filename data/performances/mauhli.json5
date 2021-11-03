@@ -1,0 +1,73 @@
+{
+  "_page": {
+    "output": "performances/mauhli/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник, музичне оформлення&nbsp;–",
+  "director": "Мельничук&nbsp;Дмитро",
+  "director_has_page": true,
+  "director_page_url": "/troupe/melnychuk_d/",
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_11_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_11_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_10_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_10_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_09_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_09_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_01_gallery.jpg"
+    }
+  ],
+  "genre": "Музична&nbsp;казка",
+  "name": "Мауглі",
+  "personages": [],
+  "premiere": "19.08.2012",
+  "staff": []
+}

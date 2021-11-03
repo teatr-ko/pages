@@ -1,0 +1,38 @@
+{
+  "_page": {
+    "output": "performances/8_liubliachyh/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник&nbsp;- ",
+  "director": "Король&nbsp;Олександр",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/8_liubliachyh/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/8_liubliachyh/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/8_liubliachyh/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/8_liubliachyh/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/8_liubliachyh/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/8_liubliachyh/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/8_liubliachyh/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/8_liubliachyh/01_gallery.jpg"
+    }
+  ],
+  "genre": "комедія-детектив",
+  "name": "Вісім люблячих&nbsp;жінок ",
+  "personages": [],
+  "premiere": "31.01.2004",
+  "staff": []
+}

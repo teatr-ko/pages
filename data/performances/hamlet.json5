@@ -1,0 +1,58 @@
+{
+  "_page": {
+    "output": "performances/hamlet/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник&nbsp;-",
+  "director": "Гусаков&nbsp;Денис",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/hamlet/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/hamlet/01_gallery.jpg"
+    }
+  ],
+  "genre": "трагедія",
+  "name": "Гамлет",
+  "personages": [],
+  "premiere": "25.08.2006",
+  "staff": []
+}

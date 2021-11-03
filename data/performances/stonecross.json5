@@ -1,0 +1,63 @@
+{
+  "_page": {
+    "output": "performances/stonecross/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник",
+  "director": "Чиборак&nbsp;Дмитро",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "1 год 40&nbsp;хв",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/stonecross_1_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/stonecross_1_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/12_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/12_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/stonecross/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/stonecross/01_gallery.jpg"
+    }
+  ],
+  "genre": "драма",
+  "name": "Камінний&nbsp;хрест",
+  "personages": [],
+  "premiere": "16.09.2018",
+  "staff": []
+}

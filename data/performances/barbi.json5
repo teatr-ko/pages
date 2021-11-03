@@ -1,0 +1,73 @@
+{
+  "_page": {
+    "output": "performances/barbi/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер – заслужений артист&nbsp;України",
+  "director": "Цибульський&nbsp;Адам",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.09_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.09_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.10_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.10_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.11_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.11_gallery.jpg"
+    }
+  ],
+  "genre": "Казка для&nbsp;дітей",
+  "name": "Спасибі,&nbsp;Барбі",
+  "personages": [],
+  "premiere": "31.08.2008",
+  "staff": []
+}

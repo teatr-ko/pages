@@ -1,0 +1,48 @@
+{
+  "_page": {
+    "output": "performances/nich_na_polonyni/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник&nbsp;–",
+  "director": "Якубовський&nbsp;С.",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nich_na_polonyni/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nich_na_polonyni/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nich_na_polonyni/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nich_na_polonyni/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nich_na_polonyni/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nich_na_polonyni/01_gallery.jpg"
+    }
+  ],
+  "genre": "романтична&nbsp;казка",
+  "name": "Ніч на&nbsp;полонині",
+  "personages": [],
+  "premiere": "19.02.2010",
+  "staff": []
+}

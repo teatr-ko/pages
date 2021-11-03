@@ -1,0 +1,23 @@
+{
+  "_page": {
+    "output": "performances/zvidky_berytsia_dity/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "",
+  "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+  "director_has_page": true,
+  "director_page_url": "/troupe/huhorska/",
+  "duration": "1 год 15&nbsp;хв",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/zvidky_berytsia_dity/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zvidky_berytsia_dity/01_gallery.jpg"
+    }
+  ],
+  "genre": "лірична&nbsp;комедія",
+  "name": "Звідки беруться&nbsp;діти",
+  "personages": [],
+  "premiere": "10.07.2017",
+  "staff": []
+}

@@ -1,0 +1,53 @@
+{
+  "_page": {
+    "output": "performances/kurcha/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Постановка та сценографія – народний артист&nbsp;України",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurcha/золоте_курча_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurcha/золоте_курча_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurcha/3_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurcha/3_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurcha/1_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurcha/1_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurcha/5_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurcha/5_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurcha/6_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurcha/6_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurcha/7_(1)_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurcha/7_(1)_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurcha/8_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurcha/8_gallery.jpg"
+    }
+  ],
+  "genre": "Казка",
+  "name": "Золоте&nbsp;курча",
+  "personages": [],
+  "premiere": "12.07.1999",
+  "staff": []
+}

@@ -1,0 +1,23 @@
+{
+  "_page": {
+    "output": "performances/houseforscrap/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник, дипломант Київського національного університету театру, кіно і телебачення&nbsp;-",
+  "director": "Святецький&nbsp;Андрій",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/houseforscrap/houseforscrap_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/houseforscrap/houseforscrap_gallery.jpg"
+    }
+  ],
+  "genre": "Драма",
+  "name": "Будинок на&nbsp;злам",
+  "personages": [],
+  "premiere": "27.12.2016",
+  "staff": []
+}

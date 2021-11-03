@@ -1,0 +1,38 @@
+{
+  "_page": {
+    "output": "performances/sueta/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Автор сценічної версії, режисер-постановник – заслужений діяч мистецтв&nbsp;України",
+  "director": "Коломієць&nbsp;Ростислав",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sueta/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sueta/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sueta/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sueta/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sueta/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sueta/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sueta/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sueta/01_gallery.jpg"
+    }
+  ],
+  "genre": "сумна&nbsp;комедія",
+  "name": "Суєта",
+  "personages": [],
+  "premiere": "26.08.2007",
+  "staff": []
+}

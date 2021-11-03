@@ -1,0 +1,43 @@
+{
+  "_page": {
+    "output": "performances/myluvannya/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Постановка та сценографія – народний артист&nbsp;України",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myluvannya/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myluvannya/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myluvannya/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myluvannya/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myluvannya/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myluvannya/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myluvannya/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myluvannya/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myluvannya/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myluvannya/01_gallery.jpg"
+    }
+  ],
+  "genre": "музична&nbsp;комедія",
+  "name": "На милування нема&nbsp;силування",
+  "personages": [],
+  "premiere": "29.12.2005",
+  "staff": []
+}

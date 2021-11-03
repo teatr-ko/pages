@@ -1,0 +1,53 @@
+{
+  "_page": {
+    "output": "performances/myshi/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер&nbsp;-",
+  "director": "Мартищук&nbsp;Володимир",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myshi/v/2_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myshi/v/2_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myshi/v/3_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myshi/v/3_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myshi/v/4_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myshi/v/4_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myshi/v/5_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myshi/v/5_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myshi/v/6_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myshi/v/6_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myshi/v/7_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myshi/v/7_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/myshi/v/8_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/myshi/v/8_rio_gallery.jpg"
+    }
+  ],
+  "genre": "Музична&nbsp;казка",
+  "name": "Всі миші люблять&nbsp;сир",
+  "personages": [],
+  "premiere": "25.09.2011",
+  "staff": []
+}

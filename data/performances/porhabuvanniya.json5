@@ -1,0 +1,63 @@
+{
+  "_page": {
+    "output": "performances/porhabuvanniya/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник&nbsp;–",
+  "director": "Луценко&nbsp;Андрій",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/09_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/porhabuvanniya/09_gallery.jpg"
+    }
+  ],
+  "genre": "Комедія",
+  "name": "Пограбування&nbsp;опівночі",
+  "personages": [],
+  "premiere": "27.03.2007",
+  "staff": []
+}

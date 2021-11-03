@@ -1,0 +1,23 @@
+{
+  "_page": {
+    "output": "performances/ch_rukavychka/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник, балетмейстер – заслужений артист&nbsp;України",
+  "director": "Якубовський&nbsp;С.",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/ch_rukavychka/01_gallery.jpg"
+    }
+  ],
+  "genre": "Казка",
+  "name": "Чарівна&nbsp;рукавичка",
+  "personages": [],
+  "premiere": "29.04.2004",
+  "staff": []
+}

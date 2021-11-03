@@ -1,0 +1,23 @@
+{
+  "_page": {
+    "output": "performances/resque_me/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер, музичне оформлення - народний артист&nbsp;України",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/resque_me/resque_me_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/resque_me/resque_me_gallery.jpg"
+    }
+  ],
+  "genre": "комедія",
+  "name": "Рятуйте, мене&nbsp;женять!",
+  "personages": [],
+  "premiere": "21.04.2019",
+  "staff": []
+}

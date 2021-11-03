@@ -1,0 +1,38 @@
+{
+  "_page": {
+    "output": "performances/podorozh/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Постановка, сценографія та музичне оформлення&nbsp;-",
+  "director": "Юрців&nbsp;Василь",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/podorozh/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/podorozh/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/podorozh/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/podorozh/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/podorozh/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/podorozh/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/podorozh/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/podorozh/01_gallery.jpg"
+    }
+  ],
+  "genre": "Казка",
+  "name": "Подорож у країну&nbsp;мрій",
+  "personages": [],
+  "premiere": "08.02.2009",
+  "staff": []
+}

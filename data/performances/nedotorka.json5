@@ -1,0 +1,58 @@
+{
+  "_page": {
+    "output": "performances/nedotorka/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник – заслужений артист&nbsp;України",
+  "director": "Цибульський&nbsp;Адам",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/nedotorka/08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/nedotorka/08_gallery.jpg"
+    }
+  ],
+  "genre": "Казка",
+  "name": "Недоторка",
+  "personages": [],
+  "premiere": "06.09.2009",
+  "staff": []
+}

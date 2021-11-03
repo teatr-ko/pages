@@ -1,0 +1,73 @@
+{
+  "_page": {
+    "output": "performances/vinni/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник&nbsp;–",
+  "director": "Цибульський&nbsp;Адам",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "50&nbsp;хв",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/1_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/1_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/5_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/5_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/7_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/7_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/8_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/8_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/10_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/10_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/11_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/11_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/12_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/12_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/14_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/14_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/16_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/16_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/17_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/17_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/vinni/18_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/vinni/18_rio_gallery.jpg"
+    }
+  ],
+  "genre": "Казка",
+  "name": "Вінні-Пух та його&nbsp;друзі",
+  "personages": [],
+  "premiere": "20.05.2012",
+  "staff": []
+}

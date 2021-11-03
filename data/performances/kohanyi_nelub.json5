@@ -1,0 +1,93 @@
+{
+  "_page": {
+    "output": "performances/kohanyi_nelub/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/09_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/09_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/10_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/10_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/11_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/11_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/12_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/12_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/13_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/13_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/14_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/14_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/15_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/15_gallery.jpg"
+    }
+  ],
+  "genre": "Комедія",
+  "name": "Коханий&nbsp;нелюб",
+  "personages": [],
+  "premiere": "06.03.2011",
+  "staff": []
+}

@@ -1,56 +1,47 @@
-{% extends "portals/teatr/default.html" %}
-{% load portal_tags %}
-{% load typogrify_tags %}
+{{#partial "caption"}}{{{ name }}}{{/partial}}
+{{#partial "keywords"}}{{{ name }}}{{/partial}}
 
-{% block title %}{{performance.name}}{% endblock %}
-{% block keywords %}{{performance.name}}{% endblock %}
+{{#partial "content"}}
+	
+	<div class = "header_l">{{{ author }}}</div>
+	
+	<h1 class = "header_t">"{{{ name }}}" </h1>
 
-{% block content %}
-	
-	<div class = "header_l">{{performance.author|typogrify}}</div>
-	
-	<h1 class = "header_t">"{{performance.name|typogrify}}" </h1>
-  	
-  	{% if performance.genre%}
-		<div class = "header_l">{{performance.genre}}</div>
-  	{% endif %}
-	
-	{% if performance_gallery %}
+    {{#if genre}}
+		<div class = "header_l">{{{ genre }}}</div>
+    {{/if}}
+
+    {{#if gallery}}
 	<center>
 			<ul id = "mycarousel" class="jcarousel-skin-tango">
-				{% for image_gallery in performance_gallery %}
+            {{#each gallery}}
 			
 					<li>
-						<a href = "{{ image_gallery.image.url_full|change_file_end }}"  title = "{{ image_gallery.image_title}}"> 
-							<img src ="{{ image_gallery }}" class="lightbox news_body_bottom" title = "{{ image_gallery.image_title}}" />
+                <a href="{{ url_small }}" title="{{{ title }}}">
+
+                    <img src="{{ url }}" class="lightbox news_body_bottom" title="{{{ title }}}"/>
 						</a>
-					</li>	
-					
-				{% endfor %}
+					</li>
+
+            {{/each}}
 			</ul>
 	</center>
-  {% endif %} 
-	
-  	<div class= "header_t"><p>Постановча група</p></div>
-  	<div> 
-  	
-  	{% if performance.additional_producer_info %}
-		{{ performance.additional_producer_info}}
-	{% else %}
-		Режисер -
-  	{% endif %}
-  	{% if performance.producer.has_page %}
-		<a style="font-weight: normal" href = "{% url 'portal-trouper-item' performance.producer.unique_name%}">{{performance.producer}}</a>
-  	{% else %}	
-  	{{performance.producer}}
-  	{% endif %}
-  		
-  	</div>
-  	
-  
-  	
+    {{/if}}
+
+
+    <div class= "header_t"><p>Постановча група</p></div>
   	<div>
-  	{% for s in staff %}
+
+    {{#if additional_director_info}}{{{ additional_director_info }}}{{/if}}
+    {{#unless additional_director_info}}Режисер - {{/unless}}
+
+    {{#if director_has_page}}<a style="font-weight: normal" href = "{{ director_page_url }}">{{{ director }}}</a>{{/if}}
+    {{#unless director_has_page}}{{{ director }}}{{/unless}}
+  	{% if performance.producer.has_page %}
+  	</div>
+
+  	<div>
+    {{#each staff}}
   		<div>
   		{{s.personage.person}} -
 	
@@ -62,11 +53,11 @@
 				{% endif %}
 		
 		</div>
-	{% endfor %}
+    {{/each}}
 	</div>
   	<div class= "header_t "><p>Дійові особи та виконавці</p></div>
-  
-	{% for p in personages %}
+
+    {{#each personages}}
 		<div><b>{{p.person}}</b> - 
 		{% for tr in trouper_roles %}		
 			{% if p == tr.personage %}
@@ -78,24 +69,23 @@
 				
 				
 			{% endif%}
-		{% endfor %}
+    {{/each}}
 		</div>
-		
-	{% endfor %}
-    {% if duration_hours or duration_minutes %}
+
+    {{#if duration}}
     <div>
-        <br/>
-        <strong>Тривалість вистави - </strong> {% if duration_hours %}{{duration_hours}} год {% endif %}{{duration_minutes}} хв
+        <br/><strong>Тривалість вистави - </strong> {{{ duration }}}
     </div>
-    {% endif %}
-	{% if performance.premiere%}
-	<div class = "header_t "><p>Прем'єра вистави</p>  <div class='currentDate'>{{performance.premiere | date:"d.m.Y"}}</div></div>
-	{% endif %}
-	 
-	
-  {% if performance.addition%}
-		<div>{{performance.addition|typogrify|safe}}</div>
-		
+    {{/if}}
+    {{#if premiere}}
+	{% if performance.%}
+	<div class = "header_t "><p>Прем'єра вистави</p>  <div class='currentDate'>{{{ premiere }}}</div></div>
+    {{/if}}
+
+
+    {{#if addition }}
+        <div>{{{ addition }}}</div>
+    {{/if}}
 <p>&nbsp;</p>
 <hr>
 <table width="100%" bgcolor="#6278a4">
@@ -138,6 +128,6 @@ document.write(VK.Share.button());
 </script>
 <!--<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>-->
-  {% endif %}
-  
-{% endblock %}
+{{/partial}}
+
+{{> default }}

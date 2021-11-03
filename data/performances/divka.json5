@@ -1,0 +1,23 @@
+{
+  "_page": {
+    "output": "performances/divka/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисура, музика та текстова редакція&nbsp;-",
+  "director": "Коломійцев&nbsp;Олексій",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/divka/17.02_01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/divka/17.02_01_gallery.jpg"
+    }
+  ],
+  "genre": "Комедіо-опера",
+  "name": "Дівка на відданню, або На милованє нема&nbsp;силованє",
+  "personages": [],
+  "premiere": "",
+  "staff": []
+}

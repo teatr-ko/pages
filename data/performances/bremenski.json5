@@ -1,0 +1,73 @@
+{
+  "_page": {
+    "output": "performances/bremenski/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник",
+  "director": "Борисяк&nbsp;В.",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/09_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/09_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/10_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/10_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/11_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/bremenski/11_gallery.jpg"
+    }
+  ],
+  "genre": "Мюзикл",
+  "name": "Бременські&nbsp;музиканти",
+  "personages": [],
+  "premiere": "25.08.2001",
+  "staff": []
+}

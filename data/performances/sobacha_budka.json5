@@ -1,0 +1,58 @@
+{
+  "_page": {
+    "output": "performances/sobacha_budka/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "",
+  "director": "Мельничук&nbsp;Дмитро",
+  "director_has_page": true,
+  "director_page_url": "/troupe/melnychuk_d/",
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/sobacha_budka_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/sobacha_budka_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7496_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7496_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7503_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7503_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7516_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7516_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7526_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7526_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7532_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7532_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7551_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7551_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7558_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sobacha_budka/img_7558_gallery.jpg"
+    }
+  ],
+  "genre": "специфічна&nbsp;драма",
+  "name": "Собача&nbsp;будка",
+  "personages": [],
+  "premiere": "25.10.2020",
+  "staff": []
+}

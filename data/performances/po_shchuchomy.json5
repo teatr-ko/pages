@@ -1,0 +1,73 @@
+{
+  "_page": {
+    "output": "performances/po_shchuchomy/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Постановка та сценографія – народний артист&nbsp;України",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/06_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/06_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/07_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/07_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/08_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/08_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/09_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/09_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/10_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/10_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/11_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/11_gallery.jpg"
+    }
+  ],
+  "genre": "Музична&nbsp;казка",
+  "name": "По щучому&nbsp;велінню",
+  "personages": [],
+  "premiere": "06.08.2006",
+  "staff": []
+}

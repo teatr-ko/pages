@@ -1,0 +1,78 @@
+{
+  "_page": {
+    "output": "performances/popelyushka/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник&nbsp;-",
+  "director": "Медюсев&nbsp;Володимир",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/5_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/5_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/7_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/7_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/11_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/11_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/15_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/15_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/18_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/18_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/22_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/22_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/16_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/16_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/19_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/19_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/23_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/23_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/24_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/24_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/25_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/popelyushka/25_gallery.jpg"
+    }
+  ],
+  "genre": "Казка",
+  "name": "Попелюшка",
+  "personages": [],
+  "premiere": "07.11.2010",
+  "staff": []
+}

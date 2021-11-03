@@ -1,0 +1,38 @@
+{
+  "_page": {
+    "output": "performances/kurochka_ryaba/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник&nbsp;–",
+  "director": "Мірошник&nbsp;Євген",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurochka_ryaba/01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurochka_ryaba/02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurochka_ryaba/03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kurochka_ryaba/04_gallery.jpg"
+    }
+  ],
+  "genre": "Казка",
+  "name": "Курочка&nbsp;Ряба",
+  "personages": [],
+  "premiere": "12.07.1999",
+  "staff": []
+}

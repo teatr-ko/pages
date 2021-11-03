@@ -1,0 +1,43 @@
+{
+  "_page": {
+    "output": "performances/darmoidy/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер",
+  "director": "Мартищук&nbsp;Володимир",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/darmoidy/16.02_05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/darmoidy/16.02_04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/darmoidy/16.02_03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/darmoidy/16.02_02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/darmoidy/16.02_01_gallery.jpg"
+    }
+  ],
+  "genre": "Дитяча&nbsp;казка",
+  "name": "Дармоїди",
+  "personages": [],
+  "premiere": "19.12.2005",
+  "staff": []
+}

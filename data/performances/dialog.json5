@@ -1,0 +1,68 @@
+{
+  "_page": {
+    "output": "performances/dialog/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "Режисер-постановник",
+  "director": "Мартищук&nbsp;Володимир",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/16.02_05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/16.02_05_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/16.02_04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/16.02_04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/16.02_02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/16.02_02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/16.02_01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/16.02_01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/16.02_03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/16.02_03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.02_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.02_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.03_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.04_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.05_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dialog/2014.03.30.05_gallery.jpg"
+    }
+  ],
+  "genre": "Драма",
+  "name": "Діалог, якого не&nbsp;було",
+  "personages": [],
+  "premiere": "07.10.2007",
+  "staff": []
+}

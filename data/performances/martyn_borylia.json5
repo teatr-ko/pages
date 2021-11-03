@@ -1,0 +1,23 @@
+{
+  "_page": {
+    "output": "performances/martyn_borylia/index.html",
+    "template": "teatr/performance"
+  },
+  "additional_director_info": "",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/martyn_borylia/main_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/martyn_borylia/main_gallery.jpg"
+    }
+  ],
+  "genre": "комедія",
+  "name": "Мартин&nbsp;Боруля",
+  "personages": [],
+  "premiere": "07.02.2021",
+  "staff": []
+}
