@@ -9,19 +9,19 @@
   "gallery": [],
   "grown_roles": [
     {
-      "director": "Мосійчук,&nbsp;Олег",
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "Кайдашева&nbsp;сім’я",
       "role": "Мотря",
       "url": "/performances/simya/"
     },
     {
-      "director": "Мосійчук,&nbsp;Олег",
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "Мартин&nbsp;Боруля",
       "role": "Марися, Гості",
       "url": "/performances/martyn_borylia/"
     },
     {
-      "director": "Мосійчук,&nbsp;Олег",
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "Фараони",
       "role": "Ганна",
       "url": "/performances/faraony/"
@@ -33,43 +33,43 @@
   },
   "kids_roles": [
     {
-      "director": "Цибульський,&nbsp;Адам",
+      "director": "Цибульський&nbsp;Адам",
       "performance": "День народження Кота&nbsp;Леопольда",
       "role": "Коза",
       "url": "/performances/leopold/"
     },
     {
-      "director": "Кузик,&nbsp;Сергій",
+      "director": "Кузик&nbsp;Сергій",
       "performance": "Коза-дереза",
       "role": "Дівчина",
       "url": "/performances/koza_dereza/"
     },
     {
-      "director": "Цибульський,&nbsp;Адам",
+      "director": "Цибульський&nbsp;Адам",
       "performance": "Котигорошко",
       "role": "Сестра змієва,&nbsp;перша",
       "url": "/performances/kotyhoroshko/"
     },
     {
-      "director": "Цибульський,&nbsp;Адам",
+      "director": "Цибульський&nbsp;Адам",
       "performance": "Пастка для&nbsp;орла",
       "role": "Білка",
       "url": "/performances/eagle_trap/"
     },
     {
-      "director": "Цибульський,&nbsp;Адам",
+      "director": "Цибульський&nbsp;Адам",
       "performance": "Правда і&nbsp;Кривда",
       "role": "Баба&nbsp;Людоїдка",
       "url": "/performances/pravdaikryvda/"
     },
     {
-      "director": "Куцик, Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Заєць&nbsp;1-й, Мавпа&nbsp;1-а",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич Богдан, Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Сімочка, Ангел",
       "url": "/performances/zymovi_prygody_2/"
@@ -78,7 +78,7 @@
   "on_the_stage": "19.07.19",
   "staff": [
     {
-      "director": "Куцик, Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/painted_fox/"
