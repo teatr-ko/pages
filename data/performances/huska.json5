@@ -114,5 +114,24 @@
   "name": "Отак загинув&nbsp;Гуска",
   "personages": [],
   "premiere": "10.04.2011",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Савицький&nbsp;Мар&#8217;ян",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    }
+  ]
 }

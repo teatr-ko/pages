@@ -69,5 +69,24 @@
   "name": "Танцюючий&nbsp;Ураган",
   "personages": [],
   "premiere": "15.01.2017",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Кравчук&nbsp;Олег",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер - заслужений діяч мистецтв&nbsp;України"
+    }
+  ]
 }

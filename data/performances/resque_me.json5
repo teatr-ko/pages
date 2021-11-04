@@ -19,5 +19,18 @@
   "name": "Рятуйте, мене&nbsp;женять!",
   "personages": [],
   "premiere": "21.04.2019",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": true,
+      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/huhorska/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

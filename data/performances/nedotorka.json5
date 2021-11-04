@@ -54,5 +54,30 @@
   "name": "Недоторка",
   "personages": [],
   "premiere": "06.09.2009",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Сторонський&nbsp;В.",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Кравчук&nbsp;Галина",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

@@ -229,5 +229,36 @@
   "name": "За двома&nbsp;зайцями",
   "personages": [],
   "premiere": "27.04.2014",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Кравчук&nbsp;Інна",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Будейчук&nbsp;Василь",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

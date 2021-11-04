@@ -99,5 +99,24 @@
   "name": "Дюймовочка",
   "personages": [],
   "premiere": "10.05.2015",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Білейчук&nbsp;І.",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Будейчук&nbsp;Василь",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    }
+  ]
 }

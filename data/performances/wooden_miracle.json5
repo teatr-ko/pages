@@ -124,5 +124,24 @@
   "name": "Дерев’яне&nbsp;диво",
   "personages": [],
   "premiere": "25.12.2016",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Галунка&nbsp;Мальвіна",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер - заслужений діяч мистецтв&nbsp;України"
+    }
+  ]
 }

@@ -114,5 +114,24 @@
   "name": "Мати-наймичка",
   "personages": [],
   "premiere": "23.03.2014",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Соколишин&nbsp;Микола",
+      "page_url": null,
+      "role": "Хормейстер"
+    }
+  ]
 }

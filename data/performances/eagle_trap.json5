@@ -19,5 +19,30 @@
   "name": "Пастка для&nbsp;орла",
   "personages": [],
   "premiere": "09.09.2018",
-  "staff": []
+  "staff": [
+    {
+      "has_page": true,
+      "name": "Якубів&nbsp;Ольга",
+      "page_url": "/troupe/ohnatiuk/",
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Хореографія"
+    },
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Композитор"
+    }
+  ]
 }

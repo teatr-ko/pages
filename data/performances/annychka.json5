@@ -89,5 +89,36 @@
   "name": "Анничка",
   "personages": [],
   "premiere": "13.09.2015",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Кравчук&nbsp;Олег",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": false,
+      "name": "Тарасенко&nbsp;Н.",
+      "page_url": null,
+      "role": "Художник-постановник"
+    },
+    {
+      "has_page": false,
+      "name": "Соколишин&nbsp;Микола",
+      "page_url": null,
+      "role": "Хормейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Тимофіїв&nbsp;Михайло",
+      "page_url": null,
+      "role": "Оркестрова&nbsp;версія"
+    }
+  ]
 }

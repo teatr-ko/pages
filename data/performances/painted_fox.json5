@@ -19,5 +19,30 @@
   "name": "Фарбований&nbsp;лис",
   "personages": [],
   "premiere": "12.09.2021",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Улинець&nbsp;Тетяна",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Мідюсєва&nbsp;Ніна",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Архангельський&nbsp;Володимир",
+      "page_url": "/troupe/arkhangelskii/",
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": true,
+      "name": "Сагалюк&nbsp;Катерина",
+      "page_url": "/troupe/novyckak/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

@@ -149,5 +149,30 @@
   "name": "Романс про&nbsp;закоханих",
   "personages": [],
   "premiere": "01.06.2014",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Лоїк&nbsp;Григорій",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Пластичне&nbsp;вирішення"
+    },
+    {
+      "has_page": false,
+      "name": "Воробйов&nbsp;Ігор",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

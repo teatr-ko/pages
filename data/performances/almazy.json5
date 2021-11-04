@@ -84,5 +84,18 @@
   "name": "Сосиски, консерви і небо в&nbsp;алмазах",
   "personages": [],
   "premiere": "24.11.2011",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Котерлін&nbsp;Ростислав",
+      "page_url": null,
+      "role": "Художнє&nbsp;оформлення"
+    }
+  ]
 }

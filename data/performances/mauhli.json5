@@ -69,5 +69,24 @@
   "name": "Мауглі",
   "personages": [],
   "premiere": "19.08.2012",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Чичук&nbsp;Т.",
+      "page_url": null,
+      "role": "Хореографія"
+    },
+    {
+      "has_page": false,
+      "name": "Бочкай&nbsp;Богдана",
+      "page_url": null,
+      "role": "Художник-постановник"
+    },
+    {
+      "has_page": true,
+      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "page_url": "/troupe/rmardariy/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

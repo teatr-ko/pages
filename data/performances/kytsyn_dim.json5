@@ -29,5 +29,24 @@
   "name": "Кицин&nbsp;дім",
   "personages": [],
   "premiere": "26.04.2009",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Бедусенко&nbsp;Сергій",
+      "page_url": null,
+      "role": "Композитор – заслужений діяч мистецтв&nbsp;України"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

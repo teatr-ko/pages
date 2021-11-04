@@ -39,5 +39,24 @@
   "name": "Підступний&nbsp;сірничок",
   "personages": [],
   "premiere": "01.06.2007",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Гнатенко&nbsp;Юлія",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Хореографія"
+    },
+    {
+      "has_page": true,
+      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/huhorska/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

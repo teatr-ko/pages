@@ -19,5 +19,24 @@
   "name": "Чарівна&nbsp;рукавичка",
   "personages": [],
   "premiere": "29.04.2004",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Художник"
+    },
+    {
+      "has_page": false,
+      "name": "Ремезов&nbsp;А.",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": true,
+      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/huhorska/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

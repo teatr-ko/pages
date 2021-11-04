@@ -54,5 +54,18 @@
   "name": "Собача&nbsp;будка",
   "personages": [],
   "premiere": "25.10.2020",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценографія"
+    },
+    {
+      "has_page": true,
+      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "page_url": "/troupe/rmardariy/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

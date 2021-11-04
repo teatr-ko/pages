@@ -19,5 +19,12 @@
   "name": "Будинок на&nbsp;злам",
   "personages": [],
   "premiere": "27.12.2016",
-  "staff": []
+  "staff": [
+    {
+      "has_page": true,
+      "name": "Якубів&nbsp;Ольга",
+      "page_url": "/troupe/ohnatiuk/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

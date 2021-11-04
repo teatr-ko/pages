@@ -149,5 +149,24 @@
   "name": "Біля ковчега о&nbsp;восьмій",
   "personages": [],
   "premiere": "25.09.2016",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Будейчук&nbsp;Василь",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    }
+  ]
 }

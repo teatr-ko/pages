@@ -19,5 +19,18 @@
   "name": "Чудо Святого&nbsp;Миколая",
   "personages": [],
   "premiere": "20.12.2020",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": true,
+      "name": "Чиборак&nbsp;Уляна",
+      "page_url": "/troupe/uchuborak/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

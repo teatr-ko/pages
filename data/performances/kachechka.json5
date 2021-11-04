@@ -94,5 +94,36 @@
   "name": "Качечка&nbsp;Крячечка",
   "personages": [],
   "premiere": "22.04.2014",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Рябий&nbsp;Василь",
+      "page_url": null,
+      "role": "Вірші"
+    },
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Гусак&nbsp;Ярослава",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

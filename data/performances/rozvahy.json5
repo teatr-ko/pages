@@ -149,5 +149,24 @@
   "name": "Нічні розваги з молодим&nbsp;Козерогом",
   "personages": [],
   "premiere": "01.04.2012",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Савчук&nbsp;Ігор",
+      "page_url": null,
+      "role": "Художник-оформлювач"
+    },
+    {
+      "has_page": false,
+      "name": "Куничак&nbsp;Олександра",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    }
+  ]
 }

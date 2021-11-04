@@ -99,5 +99,18 @@
   "name": "Повернення",
   "personages": [],
   "premiere": "14.03.2010",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Александрович&nbsp;Федір",
+      "page_url": null,
+      "role": "Художник-постановник"
+    },
+    {
+      "has_page": false,
+      "name": "Семьошкіна&nbsp;Ольга",
+      "page_url": null,
+      "role": "Режисер із&nbsp;пластики"
+    }
+  ]
 }

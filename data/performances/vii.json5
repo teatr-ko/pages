@@ -104,5 +104,36 @@
   "name": "Вій",
   "personages": [],
   "premiere": "28.10.2006",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Ридванецький&nbsp;Сергій",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Семьошкіна&nbsp;Ольга",
+      "page_url": null,
+      "role": "Режисер із&nbsp;пластики"
+    },
+    {
+      "has_page": false,
+      "name": "Ридванецька&nbsp;Наталія",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

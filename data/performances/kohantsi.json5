@@ -169,5 +169,18 @@
   "name": "Коханці",
   "personages": [],
   "premiere": "26.01.2013",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Савчук&nbsp;Ігор",
+      "page_url": null,
+      "role": "Художнє&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Якубовська&nbsp;Г.",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    }
+  ]
 }

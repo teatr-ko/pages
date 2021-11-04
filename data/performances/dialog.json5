@@ -64,5 +64,30 @@
   "name": "Діалог, якого не&nbsp;було",
   "personages": [],
   "premiere": "07.10.2007",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Художнє&nbsp;оформлення"
+    },
+    {
+      "has_page": true,
+      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "page_url": "/troupe/bbazylevych/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

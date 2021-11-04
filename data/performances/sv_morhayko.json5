@@ -69,5 +69,30 @@
   "name": "Світлофор&nbsp;Моргайко",
   "personages": [],
   "premiere": "30.10.2007",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Гнатенко&nbsp;Юлія",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Сторонський&nbsp;В.",
+      "page_url": null,
+      "role": "Музика"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

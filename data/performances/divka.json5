@@ -19,5 +19,24 @@
   "name": "Дівка на відданню, або На милованє нема&nbsp;силованє",
   "personages": [],
   "premiere": "",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Соколишин&nbsp;Микола",
+      "page_url": null,
+      "role": "Музичнй&nbsp;керівник"
+    }
+  ]
 }

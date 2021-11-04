@@ -169,5 +169,36 @@
   "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
   "personages": [],
   "premiere": "26.01.2014",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Соколишин&nbsp;Микола",
+      "page_url": null,
+      "role": "Хормейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Сичевський&nbsp;Віталій",
+      "page_url": null,
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

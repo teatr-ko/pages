@@ -49,5 +49,12 @@
   "name": "Золоте&nbsp;курча",
   "personages": [],
   "premiere": "12.07.1999",
-  "staff": []
+  "staff": [
+    {
+      "has_page": true,
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

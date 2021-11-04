@@ -94,5 +94,24 @@
   "name": "Троє&nbsp;поросят",
   "personages": [],
   "premiere": "27.08.2017",
-  "staff": []
+  "staff": [
+    {
+      "has_page": true,
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент режисера - заслужена артистка&nbsp;України"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Хореографія - заслужений діяч&nbsp;мистецтв,"
+    },
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценограф"
+    }
+  ]
 }

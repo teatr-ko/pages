@@ -44,5 +44,36 @@
   "name": "Контракт",
   "personages": [],
   "premiere": "25.11.2012",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Будейчук&nbsp;Василь",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Ключка&nbsp;Мілена",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Савицький&nbsp;Мар&#8217;ян",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": true,
+      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "page_url": "/troupe/rmardariy/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

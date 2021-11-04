@@ -34,5 +34,36 @@
   "name": "Вісім люблячих&nbsp;жінок ",
   "personages": [],
   "premiere": "31.01.2004",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Семенюк&nbsp;Олександр",
+      "page_url": null,
+      "role": "Художник-постановник – заслужений діяч мистецтв&nbsp;України"
+    },
+    {
+      "has_page": false,
+      "name": "Маник&nbsp;Віталій",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Тимків&nbsp;М.",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": true,
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

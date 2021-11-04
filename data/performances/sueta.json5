@@ -34,5 +34,24 @@
   "name": "Суєта",
   "personages": [],
   "premiere": "26.08.2007",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Семенюк&nbsp;Олександр",
+      "page_url": null,
+      "role": "Художник-постановник – заслужений діяч мистецтв&nbsp;України"
+    },
+    {
+      "has_page": false,
+      "name": "Коломієць&nbsp;Денис",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Роєнко&nbsp;Олег",
+      "page_url": null,
+      "role": "Режисер із&nbsp;пластики"
+    }
+  ]
 }

@@ -44,5 +44,30 @@
   "name": "Ніч на&nbsp;полонині",
   "personages": [],
   "premiere": "19.02.2010",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Хореографія"
+    },
+    {
+      "has_page": false,
+      "name": "Домшинський&nbsp;Володимир",
+      "page_url": null,
+      "role": "Музичне оформлення – заслужений діяч мистецтв&nbsp;України"
+    },
+    {
+      "has_page": true,
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

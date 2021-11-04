@@ -54,5 +54,30 @@
   "name": "Гамлет",
   "personages": [],
   "premiere": "25.08.2006",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Семьошкіна&nbsp;Ольга",
+      "page_url": null,
+      "role": "Режисер із&nbsp;пластики"
+    },
+    {
+      "has_page": false,
+      "name": "Зотова&nbsp;Олена",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Маник&nbsp;Віталій",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    }
+  ]
 }

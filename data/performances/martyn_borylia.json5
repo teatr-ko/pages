@@ -19,5 +19,24 @@
   "name": "Мартин&nbsp;Боруля",
   "personages": [],
   "premiere": "07.02.2021",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценографія та&nbsp;костюми"
+    },
+    {
+      "has_page": true,
+      "name": "Гелецький&nbsp;Володимир",
+      "page_url": "/troupe/vheletskyi/",
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": false,
+      "name": "Мідюсєва&nbsp;Ніна",
+      "page_url": null,
+      "role": "Балетмейстер"
+    }
+  ]
 }

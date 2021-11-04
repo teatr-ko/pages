@@ -119,5 +119,36 @@
   "name": "Іродова&nbsp;морока",
   "personages": [],
   "premiere": "05.12.2014",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Козаренко Олександр, з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Шпак&nbsp;Л.",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": true,
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Хореографія"
+    },
+    {
+      "has_page": false,
+      "name": "Шамлюк&nbsp;Юрій",
+      "page_url": null,
+      "role": "Сценічні&nbsp;бої"
+    }
+  ]
 }

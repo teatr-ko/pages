@@ -59,5 +59,30 @@
   "name": "Пограбування&nbsp;опівночі",
   "personages": [],
   "premiere": "27.03.2007",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Семенюк&nbsp;Олександр",
+      "page_url": null,
+      "role": "Художник-постановник – заслужений діяч мистецтв&nbsp;України"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "page_url": "/troupe/bbazylevych/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

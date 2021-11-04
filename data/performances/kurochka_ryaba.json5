@@ -34,5 +34,24 @@
   "name": "Курочка&nbsp;Ряба",
   "personages": [],
   "premiere": "12.07.1999",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Зінець&nbsp;Сергій",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Козаченко&nbsp;О.",
+      "page_url": null,
+      "role": "Музика"
+    },
+    {
+      "has_page": true,
+      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/huhorska/",
+      "role": "Режисер капітального відновлення&nbsp;вистави"
+    }
+  ]
 }

@@ -94,5 +94,30 @@
   "name": "Котигорошко",
   "personages": [],
   "premiere": "27.03.2011",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Художник"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Руданець&nbsp;Ольга",
+      "page_url": null,
+      "role": "Вірші для пісень – заслужений працівник культури&nbsp;України"
+    }
+  ]
 }
