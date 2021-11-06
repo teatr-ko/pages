@@ -3,6 +3,7 @@
     "output": "performances/taina_cv/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&hellip; Не запитуй ніколи, за ким дзвонить дзвін: він дзвонить за тобою&hellip;</p>\r\n<p lang=\"uk-UA\">Джон Донн</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p lang=\"uk-UA\">Вистава стала бенефісом актора театру Захарія Новицького (Дід Микола), з нагоди його 60-рріччя&hellip;</p>",
   "additional_director_info": "Режисер",
   "director": "Мартищук&nbsp;Володимир",
   "director_has_page": false,
@@ -82,7 +83,127 @@
   ],
   "genre": "Cільські&nbsp;історії",
   "name": "Таїни сільського&nbsp;цвинтаря",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Василина"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Василина"
+        }
+      ],
+      "role": "Василина"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Василь&nbsp;Смерека"
+        }
+      ],
+      "role": "Василь Смерека"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Дід&nbsp;Микола"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Дід&nbsp;Микола"
+        }
+      ],
+      "role": "Дід Микола"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Кум&nbsp;Іван"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Кум&nbsp;Іван"
+        }
+      ],
+      "role": "Кум Іван"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Марія&nbsp;Фельдман"
+        }
+      ],
+      "role": "Марія Фельдман"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Маруся"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Маруся"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Маруся"
+        }
+      ],
+      "role": "Маруся"
+    },
+    {
+      "persons": [],
+      "role": "Місько Гаврилів"
+    },
+    {
+      "persons": [],
+      "role": "Молодий парубок"
+    },
+    {
+      "persons": [],
+      "role": "Старий парубок"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Штефко"
+        }
+      ],
+      "role": "Штефко"
+    }
+  ],
   "premiere": "20.05.2012",
   "staff": [
     {

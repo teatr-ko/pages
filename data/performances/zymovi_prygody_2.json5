@@ -3,6 +3,7 @@
     "output": "performances/zymovi_prygody_2/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p id=\"docs-internal-guid-b869fc0c-7fff-126a-58ae-ab908bcb290e\" style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\"><strong>Любі хлопчики й дівчатка!</strong></span></p>\r\n</blockquote>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\">&nbsp;<strong>Вас чекає справжнє свято.</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\">&nbsp;<strong>А чи хтось з вас, друзі, знає</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\">&nbsp;<strong>Де шукати Миколая?!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\">&nbsp;<strong>Чемно пишете листи,-</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\"><strong>Мусить Він до Вас прийти!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\"><strong>Диво з див! Та все ж, одначе,</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\">&nbsp;<strong>Ще ніхто Його не бачив!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\"><strong>То ж пора нам вирушати</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\"><strong>Миколая відшукати!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\"><strong>Просимо і вас, Будь ласка,</strong></span></p>\r\n<blockquote>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: arial black, avant garde; font-size: medium;\"><strong>Нам дорогу вкаже казка!</strong></span></p>\r\n<hr />\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\">&nbsp;</p>\r\n</blockquote>",
   "additional_director_info": "",
   "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
   "director_has_page": true,
@@ -17,7 +18,226 @@
   ],
   "genre": "казка для&nbsp;дітей",
   "name": "Чудо Святого&nbsp;Миколая",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Ангел"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Ангел"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Ангел"
+        }
+      ],
+      "role": "Ангел"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Гном"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Гном"
+        }
+      ],
+      "role": "Гном"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Ельф"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Ельф"
+        }
+      ],
+      "role": "Ельф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Нулик"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Нулик"
+        }
+      ],
+      "role": "Нулик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Санта&nbsp;Клаус"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Санта&nbsp;Клаус"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Санта&nbsp;Клаус"
+        },
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Санта&nbsp;Клаус"
+        }
+      ],
+      "role": "Санта Клаус"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Святий&nbsp;Миколай"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Святий&nbsp;Миколай"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Святий&nbsp;Миколай"
+        },
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Святий&nbsp;Миколай"
+        }
+      ],
+      "role": "Святий Миколай"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Сімочка"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Сімочка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Сімочка"
+        }
+      ],
+      "role": "Сімочка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Снігова&nbsp;Королева"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Снігова&nbsp;Королева"
+        }
+      ],
+      "role": "Снігова Королева"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Сніговик"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Сніговик"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Сніговик"
+        }
+      ],
+      "role": "Сніговик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Фея"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Фея"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Фея"
+        }
+      ],
+      "role": "Фея"
+    }
+  ],
   "premiere": "20.12.2020",
   "staff": [
     {

@@ -3,6 +3,7 @@
     "output": "performances/painted_fox/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "",
   "director": "Куцик Олександр, з.а.&nbsp;України",
   "director_has_page": false,
@@ -17,7 +18,154 @@
   ],
   "genre": "казка",
   "name": "Фарбований&nbsp;лис",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Ведмідь"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Ведмідь"
+        }
+      ],
+      "role": "Ведмідь"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Вовк"
+        }
+      ],
+      "role": "Вовк"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Заєць&nbsp;1-й"
+        }
+      ],
+      "role": "Заєць 1-й"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Заєць&nbsp;2-й"
+        }
+      ],
+      "role": "Заєць 2-й"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Кабан"
+        },
+        {
+          "has_page": true,
+          "name": "Кінел&nbsp;Степан",
+          "page_url": "/troupe/kinel/",
+          "role": "Кабан"
+        }
+      ],
+      "role": "Кабан"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Лис"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Лис"
+        }
+      ],
+      "role": "Лис"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Мавпа&nbsp;1-а"
+        }
+      ],
+      "role": "Мавпа 1-а"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Мавпа&nbsp;2-а"
+        }
+      ],
+      "role": "Мавпа 2-а"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Пес&nbsp;1-й"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Пес&nbsp;1-й"
+        }
+      ],
+      "role": "Пес 1-й"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Пес&nbsp;2-й"
+        },
+        {
+          "has_page": true,
+          "name": "Кінел&nbsp;Степан",
+          "page_url": "/troupe/kinel/",
+          "role": "Пес&nbsp;2-й"
+        }
+      ],
+      "role": "Пес 2-й"
+    }
+  ],
   "premiere": "12.09.2021",
   "staff": [
     {

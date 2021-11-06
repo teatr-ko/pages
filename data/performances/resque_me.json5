@@ -3,6 +3,7 @@
     "output": "performances/resque_me/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>На будь-які хитрощі піде мати, аби одружити свого сина. </strong><span lang=\"uk-UA\"><strong>А ще, якщо спільницею є майбутня наречена&hellip; Потрапляє впертий кавалєр в такі хитросплетіння вдало придуманої інтриги, - і прощай кавалєрка! Шлях один &ndash; під вінець!</strong></span></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>У виставі ви знайдете все: </strong><span lang=\"uk-UA\"><strong>добрий </strong></span><strong> гумор, </strong><span lang=\"uk-UA\"><strong> павутину інтриг</strong></span><strong>,</strong><span lang=\"uk-UA\"><strong> а, може, й </strong></span><strong> рецепт матерям, чиї cини засиділися у холостяках.</strong></span></p>\r\n</blockquote>\r\n<p style=\"text-align: justify;\">&nbsp;</p>\r\n<p style=\"text-align: justify; padding-left: 60px;\">&nbsp;</p>\r\n<hr />\r\n<p style=\"text-align: justify; padding-left: 60px;\"><span style=\"font-family: Times New Roman, serif;\"><span style=\"font-size: large;\"><strong><a href=\"https://teatr.kolomyya.org/admin/news/newsitem/58417/change/\">&laquo;Рятуйте, мене женять!&raquo;: як пройшов 10-й день фестивалю &laquo;Золоті оплески Буковини&raquo;</a>&nbsp;</strong></span></span></p>\r\n<p style=\"text-align: justify; padding-left: 60px;\"><span style=\"font-family: Times New Roman, serif;\"><span style=\"font-size: large;\"><strong><a href=\"https://teatr.kolomyya.org/admin/news/newsitem/58416/change/\">&laquo;Золоті оплески Буковини&raquo;: Богдан Базилевич - найкраща головна чоловіча роль</a><br /></strong></span></span></p>",
   "additional_director_info": "Режисер, музичне оформлення - народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -17,7 +18,94 @@
   ],
   "genre": "комедія",
   "name": "Рятуйте, мене&nbsp;женять!",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Даммерль"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Даммерль"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Даммерль"
+        }
+      ],
+      "role": "Даммерль"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Катаріна&nbsp;Віммер"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Катаріна&nbsp;Віммер"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Катаріна&nbsp;Віммер"
+        }
+      ],
+      "role": "Катаріна Віммер"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Петер&nbsp;Віммер"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Петер&nbsp;Віммер"
+        }
+      ],
+      "role": "Петер Віммер"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Резель&nbsp;Шобер"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Резель&nbsp;Шобер"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Резель&nbsp;Шобер"
+        }
+      ],
+      "role": "Резель Шобер"
+    }
+  ],
   "premiere": "21.04.2019",
   "staff": [
     {

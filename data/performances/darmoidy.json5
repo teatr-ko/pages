@@ -3,6 +3,7 @@
     "output": "performances/darmoidy/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p lang=\"uk-UA\">Лауреат 45 Міжнародного дитячого фестивалю української культури в місті Ельблонг (Польща, травень 2011 року).</p>",
   "additional_director_info": "Режисер",
   "director": "Мартищук&nbsp;Володимир",
   "director_has_page": false,
@@ -37,7 +38,161 @@
   ],
   "genre": "Дитяча&nbsp;казка",
   "name": "Дармоїди",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Босий"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Босий"
+        }
+      ],
+      "role": "Босий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Вовк"
+        }
+      ],
+      "role": "Вовк"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Дід"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Дід"
+        }
+      ],
+      "role": "Дід"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Колосок"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Колосок"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Колосок"
+        },
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Колосок"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Колосок"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Колосок"
+        },
+        {
+          "has_page": false,
+          "name": "Мартищук&nbsp;Олександра",
+          "page_url": null,
+          "role": "Колосок"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Колосок"
+        }
+      ],
+      "role": "Колосок"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Малий"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Малий"
+        },
+        {
+          "has_page": false,
+          "name": "Бенедюк&nbsp;Петро",
+          "page_url": null,
+          "role": "Малий"
+        }
+      ],
+      "role": "Малий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Сірий"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Сірий"
+        }
+      ],
+      "role": "Сірий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Таркатий"
+        }
+      ],
+      "role": "Таркатий"
+    },
+    {
+      "persons": [],
+      "role": "Шолудивий"
+    }
+  ],
   "premiere": "19.12.2005",
   "staff": [
     {

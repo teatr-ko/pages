@@ -3,6 +3,7 @@
     "output": "performances/moroka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Я багатий і потужний,</strong></span><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Я в сріблі і в злоті,</strong></span><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Людей ріжу і катую</strong></span><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>По своїй охоті&hellip;</strong></span></p>\r\n<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Так, каже про себе, цар Ірод - жорстокий та ненависний в народі правитель. Однак, у Віфліємі, \"чиста діва, не вінчавшись, сина породила\"!... Це значить, що на землю прийшов Месія, який позбавить влади Зло і встановить Царство Правди. Цар Ірод віддає наказ знищити немовля, та на його обороні вже стоять славні лицарі Війська Запорізького&hellip;</strong></span></p>\r\n</blockquote>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58183\">В репертуарі Коломийського театру з&rsquo;явилася вистава &ldquo;Іродова морока&rdquo;</a></p>",
   "additional_director_info": "Режисер та сценограф&nbsp;-",
   "director": "Чиборак&nbsp;Дмитро",
   "director_has_page": false,
@@ -117,7 +118,171 @@
   ],
   "genre": "народна вертепна&nbsp;дивовижа-чудасія",
   "name": "Іродова&nbsp;морока",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Ангел"
+        }
+      ],
+      "role": "Ангел"
+    },
+    {
+      "persons": [],
+      "role": "Жид"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Запорожець"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Запорожець"
+        }
+      ],
+      "role": "Запорожець"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Ірод"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Ірод"
+        }
+      ],
+      "role": "Ірод"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Кривда"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Кривда"
+        }
+      ],
+      "role": "Кривда"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Святий&nbsp;Миколай"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Святий&nbsp;Миколай"
+        }
+      ],
+      "role": "Святий Миколай"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Смерть"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Смерть"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Смерть"
+        }
+      ],
+      "role": "Смерть"
+    },
+    {
+      "persons": [],
+      "role": "Чорт"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Яничари"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Яничари"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Яничари"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Яничари"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Яничари"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Яничари"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Яничари"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Яничари"
+        }
+      ],
+      "role": "Яничари"
+    }
+  ],
   "premiere": "05.12.2014",
   "staff": [
     {

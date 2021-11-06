@@ -3,6 +3,7 @@
     "output": "performances/porhabuvanniya/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\" lang=\"uk-UA\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Дружина, яка привикла жити у повному достатку, коханка &ndash; яка не має межі своїм бажанням&hellip; І директор магазину Мілан, який повинен з цим усім впоратись&hellip; Весела комедія про те, як інколи шахраї та грабіжники можуть стати у пригоді нечесним на руку бізнесменам.</strong></span></p>\r\n</blockquote>\r\n<p style=\"text-align: justify;\" lang=\"uk-UA\">&nbsp;</p>\r\n<blockquote><hr />\r\n<p lang=\"uk-UA\"><span style=\"font-family: arial black, avant garde; font-size: small;\"><strong>Відзнаки театральних форумів</strong></span></p>\r\n<ul>\r\n<li><span style=\"font-family: arial black, avant garde; font-size: small;\">\"Лауреат XI Всеукраїнського фестивалю \"Тернопільські театральні вечори. Дебют\" в номінації \"За чоловічу роль другого плану\" - артист Богдан Базилевич за виконання ролі Дьоли (м. Тернопіль, 2013 р.)</span></li>\r\n<li><span style=\"font-family: arial black, avant garde; font-size: small;\">Лауреат ХІІІ Міжнародного фестивалю етнічних театрів національних меншин України, країн СНД та еврорегіону \"Етно-Діа-Сфера\"</span></li>\r\n</ul>\r\n</blockquote>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p lang=\"uk-UA\"><a href=\"http://teatr.kolomyya.org/news/item/53426\" target=\"_blank\">З 18 по 24 листопада відбудеться XI Всеукраїнський фестиваль &ldquo;Тернопільські театральні вечори. Дебют&rdquo;</a></p>",
   "additional_director_info": "Режисер-постановник&nbsp;–",
   "director": "Луценко&nbsp;Андрій",
   "director_has_page": false,
@@ -57,7 +58,116 @@
   ],
   "genre": "Комедія",
   "name": "Пограбування&nbsp;опівночі",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Дьола"
+        }
+      ],
+      "role": "Дьола"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Злодійка"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Злодійка"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Злодійка"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Злодійка"
+        }
+      ],
+      "role": "Злодійка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Ілонка"
+        }
+      ],
+      "role": "Ілонка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Мілан"
+        }
+      ],
+      "role": "Мілан"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Міліціонер"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Міліціонер"
+        }
+      ],
+      "role": "Міліціонер"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Цица"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Цица"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Цица"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Цица"
+        }
+      ],
+      "role": "Цица"
+    }
+  ],
   "premiere": "27.03.2007",
   "staff": [
     {

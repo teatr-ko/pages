@@ -3,6 +3,7 @@
     "output": "performances/kachechka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56203\" target=\"_blank\">Дві прем&rsquo;єри представили у Коломийському театрі</a></p>",
   "additional_director_info": "Режисер-постановник&nbsp;-",
   "director": "Кравчук&nbsp;Олег",
   "director_has_page": false,
@@ -92,7 +93,39 @@
   ],
   "genre": "Казка",
   "name": "Качечка&nbsp;Крячечка",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Качечка&nbsp;Крячечка"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Качечка&nbsp;Крячечка"
+        },
+        {
+          "has_page": false,
+          "name": "Малярчук&nbsp;Любов",
+          "page_url": null,
+          "role": "Качечка&nbsp;Крячечка"
+        }
+      ],
+      "role": "Качечка Крячечка"
+    },
+    {
+      "persons": [],
+      "role": "Лисичка"
+    },
+    {
+      "persons": [],
+      "role": "Песик Гавчик"
+    }
+  ],
   "premiere": "22.04.2014",
   "staff": [
     {

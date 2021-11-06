@@ -3,6 +3,7 @@
     "output": "performances/nedotorka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://www.youtube.com/watch?v=_N2DO3mcfi8\">Коломийський драмтеатр розпочав театральний сезон</a></p>",
   "additional_director_info": "Режисер-постановник – заслужений артист&nbsp;України",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -52,7 +53,130 @@
   ],
   "genre": "Казка",
   "name": "Недоторка",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [],
+      "role": "Бом"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Дзень"
+        }
+      ],
+      "role": "Дзень"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Король"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Король"
+        }
+      ],
+      "role": "Король"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Купчиха"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Купчиха"
+        }
+      ],
+      "role": "Купчиха"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Ліва&nbsp;рука"
+        }
+      ],
+      "role": "Ліва рука"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Недоторка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Недоторка"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Недоторка"
+        }
+      ],
+      "role": "Недоторка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Права&nbsp;рука"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Права&nbsp;рука"
+        }
+      ],
+      "role": "Права рука"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Солдат"
+        }
+      ],
+      "role": "Солдат"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Трутень"
+        }
+      ],
+      "role": "Трутень"
+    }
+  ],
   "premiere": "06.09.2009",
   "staff": [
     {

@@ -3,6 +3,7 @@
     "output": "performances/svatannya/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\" lang=\"uk-UA\"><span style=\"font-family: 'book antiqua', palatino;\"><span style=\"font-size: medium;\">Стецько не дурний&hellip; Його батько каже, що просто, у нього, не всі вдома. Але Стецько впевнений, що до вечора вони позбираються. А ще, у його батька, є ГРОШІ!!! І ця обставина дає право Стецькові свататись до любої дівчини у Гончарівці. Але дивакуваті дівчата іншої думки&hellip; Вони мріють про якесь КОХАННЯ&hellip;</span></span></p>\r\n</blockquote>\r\n<hr />\r\n<p>&nbsp;<a href=\"http://teatr.kolomyya.org/news/item/31719\">З 26 по 29 вересня Коломийський театр відвідає з гастролями Закарпаття</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/32076\">На Закарпатті відбувся гастрольний тур коломийського театру</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/32077\">В Мукачеві гастролював український театр із Коломиї</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/31719\">З 26 по 29 вересня Коломийський театр відвідає з гастролями Закарпаття</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43843\">\"Сватання на Гончарівці\" зібрало повний зал</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43844\">\"Сватання на Гончарівці\" з коломийським акцентом</a></p>",
   "additional_director_info": "Режисер-постановник та сценограф – народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -132,7 +133,161 @@
   ],
   "genre": "Комедія",
   "name": "Сватання на&nbsp;Гончарівці",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Дівчата"
+        }
+      ],
+      "role": "Дівчата"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Кандзюба"
+        }
+      ],
+      "role": "Кандзюба"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Одарка"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Одарка"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Одарка"
+        }
+      ],
+      "role": "Одарка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Олексій"
+        }
+      ],
+      "role": "Олексій"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Прокіп"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Прокіп"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Прокіп"
+        }
+      ],
+      "role": "Прокіп"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Скорик"
+        }
+      ],
+      "role": "Скорик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Стецько"
+        }
+      ],
+      "role": "Стецько"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Тиміш"
+        }
+      ],
+      "role": "Тиміш"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Уляна"
+        }
+      ],
+      "role": "Уляна"
+    }
+  ],
   "premiere": "09.03.2008",
   "staff": [
     {

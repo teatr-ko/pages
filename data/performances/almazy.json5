@@ -3,6 +3,7 @@
     "output": "performances/almazy/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41359\">У коломийському театрі показали нову виставу для&nbsp;дітей</a></p>",
   "additional_director_info": "Режисер-постановник&nbsp;–",
   "director": "Юрців&nbsp;Василь",
   "director_has_page": false,
@@ -82,7 +83,77 @@
   ],
   "genre": "Казка",
   "name": "Сосиски, консерви і небо в&nbsp;алмазах",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [],
+      "role": "Вовк 1"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Вовк&nbsp;2"
+        }
+      ],
+      "role": "Вовк 2"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Кіт"
+        }
+      ],
+      "role": "Кіт"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Мавпа"
+        }
+      ],
+      "role": "Мавпа"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Федірко&nbsp;Дмитро",
+          "page_url": null,
+          "role": "Пес"
+        },
+        {
+          "has_page": false,
+          "name": "Федінчук&nbsp;Володимир",
+          "page_url": null,
+          "role": "Пес"
+        }
+      ],
+      "role": "Пес"
+    },
+    {
+      "persons": [],
+      "role": "Порося"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Свин"
+        }
+      ],
+      "role": "Свин"
+    }
+  ],
   "premiere": "24.11.2011",
   "staff": [
     {

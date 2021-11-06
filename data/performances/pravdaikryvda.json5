@@ -3,6 +3,7 @@
     "output": "performances/pravdaikryvda/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\">&nbsp;<span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Важко правду стверджувати в світі,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Так багато кривди, любі діти!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Та зі злом миритися негоже!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Будьте певні, Правда переможе!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">&nbsp;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">На шляху випробувань багато,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Коли їх здолаєш, буде свято!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Якщо кожен Правді допоможе,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Будьте певні, Правда переможе!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">&nbsp;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Треба вірити і вам все вдасться,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">З Правдою шукайте своє щастя.</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">І тоді і Бог Вам допоможе...</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-size: small;\"><strong><span style=\"font-family: book antiqua, palatino;\">Будьте певні, Правда переможе!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\">&nbsp;</p>\r\n<div style=\"padding-left: 30px; text-align: justify;\"><span style=\"font-size: medium;\"><strong><span style=\"font-family: book antiqua, palatino;\">Правда і Кривда вирушають на пошуки щастя. Кривда діє підступом і хитрістю. Правда чинить по совісті. Навіть собі не уявляєте, любі дітки, які випробування очікують Івана Правду! Але, подолавши їх, він знайде своє щастя і тим солодшою буде перемога.</span></strong></span><hr /></div>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник - народний артист&nbsp;України",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -87,7 +88,165 @@
   ],
   "genre": "музична&nbsp;казка",
   "name": "Правда і&nbsp;Кривда",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Баба&nbsp;Людоїдка"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Баба&nbsp;Людоїдка"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Баба&nbsp;Людоїдка"
+        }
+      ],
+      "role": "Баба Людоїдка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Ведмідь"
+        }
+      ],
+      "role": "Ведмідь"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Кіт"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Кіт"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Кіт"
+        }
+      ],
+      "role": "Кіт"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Кривда"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Кривда"
+        }
+      ],
+      "role": "Кривда"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Лілея"
+        }
+      ],
+      "role": "Лілея"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Лісограй"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Лісограй"
+        }
+      ],
+      "role": "Лісограй"
+    },
+    {
+      "persons": [],
+      "role": "Мурза"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Правда"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Правда"
+        }
+      ],
+      "role": "Правда"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Селянин"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Селянин"
+        }
+      ],
+      "role": "Селянин"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Сокіл"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Сокіл"
+        }
+      ],
+      "role": "Сокіл"
+    }
+  ],
   "premiere": "25.10.2015",
   "staff": [
     {

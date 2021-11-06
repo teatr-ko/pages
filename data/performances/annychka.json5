@@ -3,6 +3,7 @@
     "output": "performances/annychka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Прем&rsquo;єра першої вистави Коломийського театру \"Дівка на виданню або На милування нема силування\" за п&rsquo;єсою І.Котляревського \"Наталка Полтавка\" відбулася 8 червня 1848 року. Священик української церкви Іван Озаркевич адаптував твір Івана Котляревського до життя покутських українців. За словами Івана Франка: \"Івану Озаркевичеві хотілося подати Котляреського галичанам не а оригіналі, а в підгірськім кіптарі\".</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<p><span class=\"rela\"><strong>Спеціальна відзнака журі:</strong> За збереження і популяризацію історико-культурних надбань рідного краю засобами театрального мистецтва - XI фестиваль комедії \"Золоті оплески Буковини\" м. Чернівці, 2016р.<br /></span></p>\r\n<ul>\r\n<li><span class=\"rela\">Учасники 47 Всеукраїнського свята театрального митсецтва \"Вересневі самоцвіти\" (м.Кропивницький, 2017)</span></li>\r\n</ul>\r\n<hr />\r\n<p>&nbsp;<a href=\"http://teatr.kolomyya.org/news/item/58210\" target=\"_blank\">\"Коломийські представлення\". День сьомий. Коломийський академічний обласний український драматичний театр імені Івані Озаркевича. \"Анничка\"</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58211\" target=\"_blank\">Прем&rsquo;єру комедіо-опери \"Анничка\" показали у Коломийському театрі</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58216\" target=\"_blank\">Вистава &ldquo;Анничка&rdquo; на фестивалі у&nbsp;Києві</a></p>\r\n<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"http://teatr.kolomyya.org/news/item/58275\" target=\"_blank\">Золоті оплески-2016: день восьмий. На милованє нема&nbsp;силованє</a></h1>",
   "additional_director_info": "",
   "director": "Сікорський&nbsp;Вадим",
   "director_has_page": false,
@@ -87,7 +88,175 @@
   ],
   "genre": "комедіо-опера",
   "name": "Анничка",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Анничка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Анничка"
+        }
+      ],
+      "role": "Анничка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Горпина&nbsp;Терпелиха"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Горпина&nbsp;Терпелиха"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Горпина&nbsp;Терпелиха"
+        }
+      ],
+      "role": "Горпина Терпелиха"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Звукотвори"
+        }
+      ],
+      "role": "Звукотвори"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Макогоненко"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Макогоненко"
+        }
+      ],
+      "role": "Макогоненко"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Никола"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Никола"
+        }
+      ],
+      "role": "Никола"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Петро"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Петро"
+        }
+      ],
+      "role": "Петро"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Тетерваковські"
+        }
+      ],
+      "role": "Тетерваковські"
+    }
+  ],
   "premiere": "13.09.2015",
   "staff": [
     {

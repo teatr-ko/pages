@@ -3,6 +3,7 @@
     "output": "performances/sonechko/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">А чи ви знаєте, малята,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Що любите з ляльками гратись:</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Така лялькова в них природа, -</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Залежить все від Ляльковода!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Без волі і без відчуттів</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Їм так нелегко у житті.</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Все раптом хочеться змінити&hellip;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">І Сонечко в собі відкрити,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Розпоряджатися життям,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">І дати волю почуттям!</span></strong></span></p>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник&nbsp;-",
   "director": "Удовенко&nbsp;Костянтин",
   "director_has_page": false,
@@ -87,7 +88,50 @@
   ],
   "genre": "Казка-притча",
   "name": "Сонечко в&nbsp;тобі",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Арлекін"
+        }
+      ],
+      "role": "Арлекін"
+    },
+    {
+      "persons": [],
+      "role": "Коломбіна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Копокоміко"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Копокоміко"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Копокоміко"
+        }
+      ],
+      "role": "Копокоміко"
+    },
+    {
+      "persons": [],
+      "role": "П'єро"
+    }
+  ],
   "premiere": "19.12.2012",
   "staff": [
     {

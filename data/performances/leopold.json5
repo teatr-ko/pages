@@ -3,6 +3,7 @@
     "output": "performances/leopold/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/33208\">23-24 листопада 2010 року Коломийський театр гастролюватиме у Кам&rsquo;янець-Подільському</a></p>",
   "additional_director_info": "Режисер – заслужений артист&nbsp;України",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -32,7 +33,98 @@
   ],
   "genre": "Мюзикл для&nbsp;дітей",
   "name": "День народження Кота&nbsp;Леопольда",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Бабуся&nbsp;Леопольда"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Бабуся&nbsp;Леопольда"
+        }
+      ],
+      "role": "Бабуся Леопольда"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Біле&nbsp;Мишеня"
+        }
+      ],
+      "role": "Біле Мишеня"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Кіт&nbsp;Леопольд"
+        }
+      ],
+      "role": "Кіт Леопольд"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Коза"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Коза"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Коза"
+        }
+      ],
+      "role": "Коза"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Пес-лікар"
+        }
+      ],
+      "role": "Пес-лікар"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Сіре&nbsp;Мишеня"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Сіре&nbsp;Мишеня"
+        }
+      ],
+      "role": "Сіре Мишеня"
+    }
+  ],
   "premiere": "29.04.2008",
   "staff": [
     {

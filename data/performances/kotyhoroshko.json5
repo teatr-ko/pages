@@ -3,6 +3,7 @@
     "output": "performances/kotyhoroshko/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/34844\">Подарунок для дітей від Коломийського театру: вистава &laquo;Котигорошко&raquo; А.Шияна</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/35515\">Коломийський театр готується до Міжнародного Дня театру</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/35582\">Служителі Мельпомени відзначили Міжнародний день театру</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/50386\">Коломийські актори показали полтавцям &rdquo;Землю&rdquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/55306\" target=\"_blank\">Озарківчани везуть Івана Франка до обласного центру</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58059\">Коломийський академічний обласний український драматичний театр ім. І.Озаркевича побував на Богородчанщині</a></p>",
   "additional_director_info": "",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -92,7 +93,197 @@
   ],
   "genre": "Казка",
   "name": "Котигорошко",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Бабуся"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Бабуся"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Бабуся"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Бабуся"
+        }
+      ],
+      "role": "Бабуся"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Водяник,&nbsp;Смертоносець"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Водяник,&nbsp;Смертоносець"
+        }
+      ],
+      "role": "Водяник, Смертоносець"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Змій, він же Капшивий&nbsp;дід"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Змій, він же Капшивий&nbsp;дід"
+        }
+      ],
+      "role": "Змій, він же Капшивий дід"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Катерина – його&nbsp;мати"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Катерина – його&nbsp;мати"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Катерина – його&nbsp;мати"
+        }
+      ],
+      "role": "Катерина – його мати"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Котигорошко"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Котигорошко"
+        }
+      ],
+      "role": "Котигорошко"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Крутивус – його&nbsp;брат"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Крутивус – його&nbsp;брат"
+        }
+      ],
+      "role": "Крутивус – його брат"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Оленка – його&nbsp;сестра"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Оленка – його&nbsp;сестра"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Оленка – його&nbsp;сестра"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Оленка – його&nbsp;сестра"
+        }
+      ],
+      "role": "Оленка – його сестра"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Сестра змієва,&nbsp;друга"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Сестра змієва,&nbsp;друга"
+        }
+      ],
+      "role": "Сестра змієва, друга"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Сестра змієва,&nbsp;перша"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Сестра змієва,&nbsp;перша"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Сестра змієва,&nbsp;перша"
+        }
+      ],
+      "role": "Сестра змієва, перша"
+    }
+  ],
   "premiere": "27.03.2011",
   "staff": [
     {

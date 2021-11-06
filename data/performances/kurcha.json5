@@ -3,6 +3,7 @@
     "output": "performances/kurcha/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "Постановка та сценографія – народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -47,7 +48,71 @@
   ],
   "genre": "Казка",
   "name": "Золоте&nbsp;курча",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Вовк"
+        }
+      ],
+      "role": "Вовк"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Курча"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Курча"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Курча"
+        }
+      ],
+      "role": "Курча"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Лисиця"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Лисиця"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Лисиця"
+        }
+      ],
+      "role": "Лисиця"
+    }
+  ],
   "premiere": "12.07.1999",
   "staff": [
     {

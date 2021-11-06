@@ -3,6 +3,7 @@
     "output": "performances/8_liubliachyh/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>Щоб вияснити по-справжньому(!), як до тебе відносяться твої домочадці необхідно &hellip; загинути. Але, що робити, якщо правда, що відкриється, жахне своєю відвертістю: тебе не люблять, тебе зневажають, тебе обдурюють, тобі зраджують&hellip;</p>",
   "additional_director_info": "Режисер-постановник&nbsp;- ",
   "director": "Король&nbsp;Олександр",
   "director_has_page": false,
@@ -32,7 +33,101 @@
   ],
   "genre": "комедія-детектив",
   "name": "Вісім люблячих&nbsp;жінок ",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Бабуся"
+        }
+      ],
+      "role": "Бабуся"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Габі"
+        }
+      ],
+      "role": "Габі"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Катрін"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Катрін"
+        }
+      ],
+      "role": "Катрін"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Луїза"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Луїза"
+        }
+      ],
+      "role": "Луїза"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Огюстіна"
+        }
+      ],
+      "role": "Огюстіна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "П&#8217;єретта"
+        }
+      ],
+      "role": "П'єретта"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Сюзон"
+        }
+      ],
+      "role": "Сюзон"
+    },
+    {
+      "persons": [],
+      "role": "Шанель"
+    }
+  ],
   "premiere": "31.01.2004",
   "staff": [
     {

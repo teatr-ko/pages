@@ -3,6 +3,7 @@
     "output": "performances/koza_dereza/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "Режисер-постановник",
   "director": "Кузик&nbsp;Сергій",
   "director_has_page": false,
@@ -122,7 +123,208 @@
   ],
   "genre": "Мюзикл для&nbsp;дітей",
   "name": "Коза-дереза",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Баба"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Баба"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Баба"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Баба"
+        }
+      ],
+      "role": "Баба"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Ведмідь"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Ведмідь"
+        }
+      ],
+      "role": "Ведмідь"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Вовк"
+        }
+      ],
+      "role": "Вовк"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Дівчина"
+        }
+      ],
+      "role": "Дівчина"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Дід"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Дід"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Дід"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Дід"
+        }
+      ],
+      "role": "Дід"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Зайчик"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Зайчик"
+        }
+      ],
+      "role": "Зайчик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Коза-дереза"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Коза-дереза"
+        }
+      ],
+      "role": "Коза-дереза"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Лисичка"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Лисичка"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Лисичка"
+        }
+      ],
+      "role": "Лисичка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Рак"
+        }
+      ],
+      "role": "Рак"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Хор"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Хор"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": null,
+          "role": "Хор"
+        }
+      ],
+      "role": "Хор"
+    }
+  ],
   "premiere": "27.03.2013",
   "staff": [
     {

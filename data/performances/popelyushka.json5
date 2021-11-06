@@ -3,6 +3,7 @@
     "output": "performances/popelyushka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "Режисер-постановник&nbsp;-",
   "director": "Медюсев&nbsp;Володимир",
   "director_has_page": false,
@@ -72,7 +73,179 @@
   ],
   "genre": "Казка",
   "name": "Попелюшка",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Злючка"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Злючка"
+        }
+      ],
+      "role": "Злючка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Казкар, Лісник,&nbsp;Візник"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Казкар, Лісник,&nbsp;Візник"
+        }
+      ],
+      "role": "Казкар, Лісник, Візник"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Колючка"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Колючка"
+        }
+      ],
+      "role": "Колючка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Король"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Король"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Король"
+        }
+      ],
+      "role": "Король"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Мачуха"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Мачуха"
+        }
+      ],
+      "role": "Мачуха"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Міністр"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Міністр"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Міністр"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Міністр"
+        }
+      ],
+      "role": "Міністр"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Попелюшка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Попелюшка"
+        }
+      ],
+      "role": "Попелюшка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Принц"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Принц"
+        }
+      ],
+      "role": "Принц"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Фея"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Фея"
+        }
+      ],
+      "role": "Фея"
+    }
+  ],
   "premiere": "07.11.2010",
   "staff": [
     {

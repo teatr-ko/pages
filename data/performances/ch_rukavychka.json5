@@ -3,6 +3,7 @@
     "output": "performances/ch_rukavychka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "Режисер-постановник, балетмейстер – заслужений артист&nbsp;України",
   "director": "Якубовський&nbsp;С.",
   "director_has_page": false,
@@ -17,7 +18,120 @@
   ],
   "genre": "Казка",
   "name": "Чарівна&nbsp;рукавичка",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Вовк"
+        }
+      ],
+      "role": "Вовк"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Дивакуватий&nbsp;ярмарчанин"
+        }
+      ],
+      "role": "Дивакуватий ярмарчанин"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Дядько на&nbsp;возі"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Дядько на&nbsp;возі"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Дядько на&nbsp;возі"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Дядько на&nbsp;возі"
+        }
+      ],
+      "role": "Дядько на возі"
+    },
+    {
+      "persons": [],
+      "role": "Їжак"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Лисиця"
+        }
+      ],
+      "role": "Лисиця"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Мишка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Мишка"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Мишка"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Мишка"
+        }
+      ],
+      "role": "Мишка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Півень"
+        }
+      ],
+      "role": "Півень"
+    }
+  ],
   "premiere": "29.04.2004",
   "staff": [
     {

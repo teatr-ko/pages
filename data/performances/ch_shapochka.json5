@@ -3,6 +3,7 @@
     "output": "performances/ch_shapochka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Одного разу Червона Шапочка пішла до бабусі віднести їй гостинці... Пам'ятаєте? Але тут трішки навпаки: вовк - зовсім не злий, а пиріжки - чарівні...</span></strong></p>\r\n<p style=\"text-align: justify;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Відома історія в цікавій інтерпретації подарує малечі яскраві емоції та море втіхи.</span></strong></p>\r\n</blockquote>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/33878\">Щоденник театрального фестивалю &laquo;Коломийські представлення&raquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/33982\">Результати театрального фестивалю &laquo;Коломийські представлення&raquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/34013\">&laquo;Коломийські представлення&raquo;: Цикл програм про перебіг фестивальних днів</a></p>",
   "additional_director_info": "Режисер – заслужений артист&nbsp;України",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -77,7 +78,104 @@
   ],
   "genre": "Музична&nbsp;казка",
   "name": "Пригоди Червоної&nbsp;Шапочки",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Баба&nbsp;Яга"
+        }
+      ],
+      "role": "Баба Яга"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Бабуся"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Бабуся"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Бабуся"
+        }
+      ],
+      "role": "Бабуся"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Вовчик"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Вовчик"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Вовчик"
+        }
+      ],
+      "role": "Вовчик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Зайчик"
+        }
+      ],
+      "role": "Зайчик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Чахлик&nbsp;Невмирущий"
+        }
+      ],
+      "role": "Чахлик Невмирущий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Червона&nbsp;Шапочка"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Червона&nbsp;Шапочка"
+        }
+      ],
+      "role": "Червона Шапочка"
+    }
+  ],
   "premiere": "05.09.2010",
   "staff": [
     {

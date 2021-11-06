@@ -3,6 +3,7 @@
     "output": "performances/nich_na_polonyni/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: justify;\">Чого тільки не присниться на карпатській полонині: в краю овіяному легендами, оспіваному грайливими музиками, збентеженому запальними танками, в краю щирого відвертого почуття, в краю де казка і реальність переплелися у вінок життя&hellip;</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://kolpravda.at.ua/news/nich_na_polonini_z_mavkami/2010-03-01-301\" target=\"_blank\">Ніч на полонині з мавками</a></p>",
   "additional_director_info": "Режисер-постановник&nbsp;–",
   "director": "Якубовський&nbsp;С.",
   "director_has_page": false,
@@ -42,7 +43,161 @@
   ],
   "genre": "романтична&nbsp;казка",
   "name": "Ніч на&nbsp;полонині",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [],
+      "role": "Іван"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Федірко&nbsp;Дмитро",
+          "page_url": null,
+          "role": "Лісовий чорт 1, закоханий у Мавку&nbsp;1"
+        }
+      ],
+      "role": "Лісовий чорт 1, закоханий у Мавку 1"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Лісовик"
+        }
+      ],
+      "role": "Лісовик"
+    },
+    {
+      "persons": [],
+      "role": "Мавка 1"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Мавка-подруга"
+        }
+      ],
+      "role": "Мавка-подруга"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Мавки"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Мавки"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Мавки"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Мавки"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Мавки"
+        }
+      ],
+      "role": "Мавки"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Марійка"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Марійка"
+        }
+      ],
+      "role": "Марійка"
+    },
+    {
+      "persons": [],
+      "role": "Молода мавка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Федірко&nbsp;Дмитро",
+          "page_url": null,
+          "role": "Молодий&nbsp;чорт"
+        }
+      ],
+      "role": "Молодий чорт"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Стара&nbsp;потвора"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Стара&nbsp;потвора"
+        }
+      ],
+      "role": "Стара потвора"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Степан"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Степан"
+        }
+      ],
+      "role": "Степан"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Чорти"
+        }
+      ],
+      "role": "Чорти"
+    }
+  ],
   "premiere": "19.02.2010",
   "staff": [
     {

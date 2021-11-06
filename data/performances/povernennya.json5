@@ -3,6 +3,7 @@
     "output": "performances/povernennya/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: justify;\">У неї в житті є все&hellip; Практично все: красивий та багатий чоловік, влаштовані діти, великий та зручний будинок, дорогий автомобіль, шикарні ресторани, модний одяг від кращих модельєрів&hellip; У неї в житті немає тільки одного - КОХАННЯ&hellip; Вірніше, воно було колись - в далекій, далекій юності&hellip;</p>",
   "additional_director_info": "Режисер-постановник&nbsp;–",
   "director": "Голенко&nbsp;Максим",
   "director_has_page": false,
@@ -97,7 +98,56 @@
   ],
   "genre": "",
   "name": "Повернення",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Арлекін"
+        }
+      ],
+      "role": "Арлекін"
+    },
+    {
+      "persons": [],
+      "role": "Гість"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Господар"
+        }
+      ],
+      "role": "Господар"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Жінка"
+        }
+      ],
+      "role": "Жінка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+          "page_url": null,
+          "role": "Коломбіна"
+        }
+      ],
+      "role": "Коломбіна"
+    }
+  ],
   "premiere": "14.03.2010",
   "staff": [
     {

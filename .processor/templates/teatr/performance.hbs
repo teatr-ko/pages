@@ -56,21 +56,18 @@
     <div class="header_t "><p>Дійові особи та виконавці</p></div>
 
     {{#each personages}}
-        <div><b>{{p.person}}</b> -
-            {% for tr in trouper_roles %}
-            {% if p == tr.personage %}
-            {% if tr.trouper.has_page %}
-            <a style="font-weight: normal"
-               href="{% url 'portal-trouper-item' tr.trouper.unique_name%}">{{tr.trouper.surname}} {{tr.trouper.name}}</a>
-            ,
-            {% else %}
-        {{tr.trouper.surname}} {{tr.trouper.name}},
-            {% endif%}
-
-
-            {% endif%}
+        <div>
+            {{{ role }}} -
+            {{#each persons}}
+                {{#if has_page}}
+                    <a style="font-weight: normal"
+                       href="{{ page_url }}">{{{ name }}}</a>
+                {{/if}}
+                {{#unless has_page}}{{{ name }}}{{/unless}}
+                {{#unless @last}}, {{/unless}}
+            {{/each}}
+        </div>
     {{/each}}
-    </div>
 
     {{#if duration}}
         <div>
@@ -78,7 +75,6 @@
         </div>
     {{/if}}
     {{#if premiere}}
-        {% if performance.%}
         <div class="header_t "><p>Прем'єра вистави</p>
             <div class='currentDate'>{{{ premiere }}}</div>
         </div>

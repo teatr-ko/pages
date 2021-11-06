@@ -3,6 +3,7 @@
     "output": "performances/zymovi_pryhody/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Новий рік. Зима. А снігу нема&hellip;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">_______________________________</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Та, невже, його й не буде?</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Наробили лиха люди,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Так образили природу, </span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Що й собі завдали шкоди.</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Гном і Ельф, Алхімік й Гудвін</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Хочуть допомогти людям&hellip;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Хто ж, нарешті, допоможе?</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Бо без снігу геть негоже!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Хто подивиться цю казку, - </span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Точно знатиме розв</span>&rsquo;<span lang=\"uk-UA\">язку!</span></strong></span></p>",
   "additional_director_info": "Режисер&nbsp;-",
   "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
   "director_has_page": true,
@@ -87,7 +88,68 @@
   ],
   "genre": "Казка",
   "name": "Зимові&nbsp;пригоди",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Гном"
+        }
+      ],
+      "role": "Гном"
+    },
+    {
+      "persons": [],
+      "role": "Ельф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Святий Миколай, Гудвін,&nbsp;Алхімік"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Святий Миколай, Гудвін,&nbsp;Алхімік"
+        }
+      ],
+      "role": "Святий Миколай, Гудвін, Алхімік"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Снігова Королева,&nbsp;Сніговик"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Снігова Королева,&nbsp;Сніговик"
+        }
+      ],
+      "role": "Снігова Королева, Сніговик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Фея"
+        }
+      ],
+      "role": "Фея"
+    }
+  ],
   "premiere": "16.12.2014",
   "staff": [
     {

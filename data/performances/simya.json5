@@ -3,6 +3,7 @@
     "output": "performances/simya/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>\"&hellip; Діло з грушею скінчилось несподівано. Груша всохла, і дві сім'ї помирились. В обох садибах настала мирнота й тиша\"&hellip;</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Чи, помирилися Кайдаші?.. Чи, наступила мирнота і тиша в оселях братів?...&hellip;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<blockquote>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/49991\">Коломийський театр готує прем&rsquo;єру &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/50078\">У театрі показали виставу &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник - народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -127,7 +128,161 @@
   ],
   "genre": "Комедія",
   "name": "Кайдашева&nbsp;сім’я",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Баба&nbsp;Палажка"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Баба&nbsp;Палажка"
+        }
+      ],
+      "role": "Баба Палажка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Кайдаш"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Кайдаш"
+        }
+      ],
+      "role": "Кайдаш"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Кайдашиха"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Кайдашиха"
+        }
+      ],
+      "role": "Кайдашиха"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Карпо"
+        }
+      ],
+      "role": "Карпо"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Кум"
+        }
+      ],
+      "role": "Кум"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Лаврін"
+        }
+      ],
+      "role": "Лаврін"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Масові&nbsp;сцени"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Масові&nbsp;сцени"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Масові&nbsp;сцени"
+        }
+      ],
+      "role": "Масові сцени"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Мелашка"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Мелашка"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Мелашка"
+        }
+      ],
+      "role": "Мелашка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Мотря"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Мотря"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Мотря"
+        }
+      ],
+      "role": "Мотря"
+    }
+  ],
   "premiere": "24.03.2013",
   "staff": [
     {

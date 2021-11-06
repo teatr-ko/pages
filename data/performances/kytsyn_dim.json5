@@ -3,6 +3,7 @@
     "output": "performances/kytsyn_dim/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "Режисер-постановник – заслужений артист&nbsp;України",
   "director": "Якубовський&nbsp;С.",
   "director_has_page": false,
@@ -27,7 +28,166 @@
   ],
   "genre": "Мюзикл для&nbsp;дітей",
   "name": "Кицин&nbsp;дім",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Грак&nbsp;1"
+        }
+      ],
+      "role": "Грак 1"
+    },
+    {
+      "persons": [],
+      "role": "Грак 2"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Кіт"
+        }
+      ],
+      "role": "Кіт"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Кішка"
+        }
+      ],
+      "role": "Кішка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Коза"
+        }
+      ],
+      "role": "Коза"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Козел"
+        }
+      ],
+      "role": "Козел"
+    },
+    {
+      "persons": [],
+      "role": "Кошеня 1"
+    },
+    {
+      "persons": [],
+      "role": "Кошеня 2"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Курка"
+        }
+      ],
+      "role": "Курка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Півень"
+        }
+      ],
+      "role": "Півень"
+    },
+    {
+      "persons": [],
+      "role": "Півник 1"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Півник&nbsp;2"
+        }
+      ],
+      "role": "Півник 2"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Півник&nbsp;3"
+        }
+      ],
+      "role": "Півник 3"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Порося&nbsp;1"
+        }
+      ],
+      "role": "Порося 1"
+    },
+    {
+      "persons": [],
+      "role": "Порося 2"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Порося&nbsp;3"
+        }
+      ],
+      "role": "Порося 3"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Свиня"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Свиня"
+        }
+      ],
+      "role": "Свиня"
+    }
+  ],
   "premiere": "26.04.2009",
   "staff": [
     {

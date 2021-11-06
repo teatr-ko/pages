@@ -3,6 +3,7 @@
     "output": "performances/huska/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: justify;\">Проблема колишнього чиновника Саватія Гуски - це його сім неодружених доньок. Як їх видати заміж? Часткове вирішення проблеми він вбачає в студентові з Києва, нежонатому парубкові П&rsquo;єрі Кирпатенку. Але як одного парубка поділити на семеро доньок?.. А ще, як порозумітися з ненависними більшовиками?.. Хто підкаже?.. Хто допоможе?... І добрі порадники знайшлися&hellip;</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p style=\"text-align: justify;\">&nbsp;</p>\r\n<p style=\"text-align: justify;\">Вистава представляла театр на VII Всеукраїнському театральному фестивалі &laquo;Золоті оплески Буковини&raquo; (м.Чернівці, жовтень 2011 року)</p>\r\n<p style=\"text-align: justify;\" lang=\"uk-UA\">Лауреат Х Всеукраїнського фестивалю &laquo;Тернопільські театральні зустрічі. Дебют&raquo; (м.Тернопіль, грудень 2012 року):</p>\r\n<ul>\r\n<li>\r\n<p lang=\"uk-UA\">у номінації &laquo;Кращий акторський ансамбль&raquo; - жіночий ансамбль вистави</p>\r\n</li>\r\n<li>у номінації &laquo;Мистецька надія&raquo; - виконавець ролі Гуски актор театру Богдан Базилевич</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/50786\">Театральний вокзал для дев&rsquo;ятьох подорожніх або шляхом розумного Арлекіна&hellip;</a></p>",
   "additional_director_info": "Режисер",
   "director": "Мартищук&nbsp;Володимир",
   "director_has_page": false,
@@ -112,7 +113,176 @@
   ],
   "genre": "Трагікомедія",
   "name": "Отак загинув&nbsp;Гуска",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Баба&nbsp;Гафка"
+        }
+      ],
+      "role": "Баба Гафка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Вівдя"
+        }
+      ],
+      "role": "Вівдя"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Гуска"
+        }
+      ],
+      "role": "Гуска"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Дідок"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Дідок"
+        }
+      ],
+      "role": "Дідок"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Квартирант"
+        }
+      ],
+      "role": "Квартирант"
+    },
+    {
+      "persons": [],
+      "role": "Настонька"
+    },
+    {
+      "persons": [],
+      "role": "Онисонька"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Охтисонька"
+        }
+      ],
+      "role": "Охтисонька"
+    },
+    {
+      "persons": [],
+      "role": "П’єр"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Пистонька"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Пистонька"
+        }
+      ],
+      "role": "Пистонька"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Рудий"
+        }
+      ],
+      "role": "Рудий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Секлета&nbsp;Семенівна"
+        }
+      ],
+      "role": "Секлета Семенівна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Устонька"
+        }
+      ],
+      "role": "Устонька"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Христонька"
+        },
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Христонька"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Христонька"
+        }
+      ],
+      "role": "Христонька"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Хростонька"
+        }
+      ],
+      "role": "Хростонька"
+    }
+  ],
   "premiere": "10.04.2011",
   "staff": [
     {

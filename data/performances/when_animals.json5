@@ -3,6 +3,7 @@
     "output": "performances/when_animals/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "",
   "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
   "director_has_page": true,
@@ -11,7 +12,129 @@
   "gallery": [],
   "genre": "казка",
   "name": "Коли ще звірі&nbsp;говорили",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку,&nbsp;Кінь"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку,&nbsp;Кінь"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку,&nbsp;Кінь"
+        }
+      ],
+      "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку, Кінь"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Актор 2: Лис&nbsp;Микита"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Актор 2: Лис&nbsp;Микита"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Актор 2: Лис&nbsp;Микита"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Актор 2: Лис&nbsp;Микита"
+        }
+      ],
+      "role": "Актор 2: Лис Микита"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
+        }
+      ],
+      "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський пес"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку"
+        }
+      ],
+      "role": "Актриса 1: Лисичка, Продавчиня на ярмарку"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Актриса 2: Зайчик, Стара кобила, Продавчиня на&nbsp;ярмарку"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Актриса 2: Зайчик, Стара кобила, Продавчиня на&nbsp;ярмарку"
+        }
+      ],
+      "role": "Актриса 2: Зайчик, Стара кобила, Продавчиня на ярмарку"
+    }
+  ],
   "premiere": "25.03.2018",
   "staff": [
     {

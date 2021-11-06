@@ -3,6 +3,7 @@
     "output": "performances/miss_julie/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\">&nbsp;</p>\r\n<hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino;\"><strong><span style=\"font-size: medium;\"><span lang=\"uk-UA\">\"Страх, приниження, жорстка гра з почуттями: лакей і дочка графа. Якщо кохання немає у світському суспільстві, можливо серед слуг вона знайде його? Протистояння і соціальна нерівність&hellip; Хто сильніший? Хто кращий? Хто має перевагу - чоловік чи жінка?\"</span></span></strong></span></p>\r\n</blockquote>\r\n<p style=\"text-indent: 1.25cm; margin-bottom: 0.35cm; line-height: 115%;\" align=\"justify\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: large;\"><span lang=\"uk-UA\">&nbsp;</span></span></span></p>",
   "additional_director_info": "",
   "director": "Кравчук&nbsp;Олег",
   "director_has_page": false,
@@ -87,7 +88,41 @@
   ],
   "genre": "Драма",
   "name": "Міс&nbsp;Жулі",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Жан"
+        }
+      ],
+      "role": "Жан"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Крістіна"
+        }
+      ],
+      "role": "Крістіна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Міс&nbsp;Жулі"
+        }
+      ],
+      "role": "Міс Жулі"
+    }
+  ],
   "premiere": "18.02.2017",
   "staff": [
     {

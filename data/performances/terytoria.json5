@@ -3,6 +3,7 @@
     "output": "performances/terytoria/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>У двох сусідських квартирах старенької &laquo;хрущовки&raquo; живуть молоді сім&rsquo;ї: тільки в одній збіднілі інтелігенти, а в іншій &ndash; зморені нестатками люмпени. Одні мріють про високі заробітки за кордоном, інші - про квартиру своїх сусідів. А ще їх об&rsquo;єднує те, що в обох квартирах зяті перебувають на пташиних правах, відчуваючи всю гіркоту чоловічого життя в приймах&hellip;</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/44581\">Коломийський театр готується до прем&rsquo;єри</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/44639\">Олег Миколайчук-Низовець: Комедія - це трагедія, яка сталася не з вами</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/44677\">На сцені Коломийського театру знову прем&rsquo;єра</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/44723\">У Коломийському театрі показали нову виставу \"Територія Б\"</a></p>",
   "additional_director_info": "Режисер-поставнокник, сценограф&nbsp;- ",
   "director": "Луценко&nbsp;Андрій",
   "director_has_page": false,
@@ -102,7 +103,125 @@
   ],
   "genre": "Комедія",
   "name": "Територія&nbsp;Б",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Альбіна&nbsp;Романівна"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Альбіна&nbsp;Романівна"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Альбіна&nbsp;Романівна"
+        }
+      ],
+      "role": "Альбіна Романівна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Анжеліка"
+        }
+      ],
+      "role": "Анжеліка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Апрелькін"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Апрелькін"
+        }
+      ],
+      "role": "Апрелькін"
+    },
+    {
+      "persons": [],
+      "role": "Артур"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Лефор&nbsp;Сергій",
+          "page_url": null,
+          "role": "Борис"
+        }
+      ],
+      "role": "Борис"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Варвара&nbsp;Карлівна"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Варвара&nbsp;Карлівна"
+        }
+      ],
+      "role": "Варвара Карлівна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Рая"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Рая"
+        }
+      ],
+      "role": "Рая"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Теодор&nbsp;Ніфонтович"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Теодор&nbsp;Ніфонтович"
+        }
+      ],
+      "role": "Теодор Ніфонтович"
+    }
+  ],
   "premiere": "29.04.2012",
   "staff": [
     {

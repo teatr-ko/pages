@@ -3,6 +3,7 @@
     "output": "performances/martyn_borylia/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-size: medium;\"><strong><span style=\"font-family: book antiqua, palatino;\">Безсмертна класика&nbsp; Івана Карпенка &ndash; Карого , бо часи змінюються, а негативні вади і проблеми&nbsp;&nbsp; залишаються. &nbsp;</span></strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-size: medium;\"><strong><span style=\"font-family: book antiqua, palatino;\">Вистава &laquo;Мартин Боруля&raquo; порушує одну з вічних людських матерій &ndash; підміну моральних і духовних цінностей соціальним статусом. &nbsp;</span>&nbsp;</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-size: medium;\"><strong><span style=\"font-family: book antiqua, palatino;\">Багатій Мартин Боруля одержимий ідеєю &ldquo;фікс&rdquo; &ndash; отримати статус дворянина.&nbsp; Заради досягнення мети він готовий на все.</span></strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-size: medium;\"><strong><span style=\"font-family: book antiqua, palatino;\">Амбіції головного героя &ndash; стати дворянином &ndash; призводять до його повного фізичного й духовного спустошення.</span></strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-size: medium;\"><strong><span style=\"font-family: book antiqua, palatino;\">Але життя дарує другий шанс для усвідомлення, що головне не чин, а порядність, честь та гідність.</span></strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-size: medium;\"><strong><span style=\"font-family: book antiqua, palatino;\">Про трагічні і комічні ситуації, в які потрапляє Мартин і його сім&rsquo;я на шляху до здобуття титулу, ви дізнаєтесь переглянувши виставу.</span></strong></span></p>\r\n<hr /></blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\">&nbsp;<a href=\"https://teatr.kolomyya.org/news/item/58426\" target=\"_blank\"><span style=\"font-size: large;\">Озарківчани готують нову прем&rsquo;єру&nbsp;(відео)</span></a></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\">&nbsp;</p>",
   "additional_director_info": "",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -17,7 +18,206 @@
   ],
   "genre": "комедія",
   "name": "Мартин&nbsp;Боруля",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Гервасій&nbsp;Гуляницький"
+        },
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Гервасій&nbsp;Гуляницький"
+        }
+      ],
+      "role": "Гервасій Гуляницький"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Гості"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Гості"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Гості"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Гості"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Гості"
+        }
+      ],
+      "role": "Гості"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Марися"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Марися"
+        }
+      ],
+      "role": "Марися"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Мартин&nbsp;Боруля"
+        }
+      ],
+      "role": "Мартин Боруля"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Матвій&nbsp;Дульський"
+        }
+      ],
+      "role": "Матвій Дульський"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Микола"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Микола"
+        }
+      ],
+      "role": "Микола"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Націєвський"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Націєвський"
+        }
+      ],
+      "role": "Націєвський"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Омелько"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Омелько"
+        }
+      ],
+      "role": "Омелько"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Палажка"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Палажка"
+        }
+      ],
+      "role": "Палажка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Степан"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Степан"
+        }
+      ],
+      "role": "Степан"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Трандалєв"
+        }
+      ],
+      "role": "Трандалєв"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Трохим"
+        }
+      ],
+      "role": "Трохим"
+    }
+  ],
   "premiere": "07.02.2021",
   "staff": [
     {

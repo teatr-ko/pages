@@ -3,6 +3,7 @@
     "output": "performances/faraony/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: center;\"><strong>СЕКСУАЛЬНА РЕВОЛЮЦІЯ</strong><strong>,</strong></p>\r\n<p style=\"text-align: center;\"><strong>про необхідність якої, весь час, говорили чоловіки &ndash; </strong></p>\r\n<p style=\"text-align: center;\" lang=\"uk-UA\"><strong>ЗДІЙСНИЛАСЬ!!!</strong></p>\r\n<p style=\"text-align: center;\"><strong>ВЛАДА</strong><strong> перейшла до рук </strong><strong>ЖІНОК&hellip;</strong><strong> Але</strong><strong>як тепер бути, коли звичне</strong>:</p>\r\n<p style=\"text-align: center;\">&laquo;<strong>Я, ХОЧУ</strong><strong>&raquo;</strong><strong>,</strong></p>\r\n<p style=\"text-align: center;\" lang=\"uk-UA\"><strong>треба поміняти на незвичне:</strong></p>\r\n<p style=\"text-align: center;\"><strong>&laquo;</strong><strong>ТИ, МУСИШ</strong><strong>&raquo;?..</strong></p>\r\n<p style=\"text-align: center;\" lang=\"uk-UA\">&nbsp;</p>\r\n<p style=\"text-align: center;\" lang=\"uk-UA\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><strong>УВАГА!!</strong><strong>!</strong> <strong>ВНИМАНИЕ!!!</strong> <strong>AHTUNG</strong><strong>!!!</strong><strong>ATTENTION</strong><strong>!!!</strong></p>\r\n<p style=\"text-align: center;\" lang=\"uk-UA\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><strong>З метою збереження статусу чоловіків, як &laquo;фараонів&raquo; сучасного світу та недопущення витоку небезпечних ідей у </strong><strong>широкі народні маси перегляд вистави дозволяється тільки</strong></p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>чоловікам</strong></span><strong> !!!</strong></p>\r\n<p style=\"text-align: center;\" lang=\"uk-UA\"><strong>Пропуск жінок на перегляд вистави здійснюватиметься з дозволу чоловіків&hellip;</strong></p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p style=\"text-align: justify;\">&nbsp;</p>\r\n<p style=\"text-align: justify;\">Спеціальна відзнака ХІ Міжнародного фестивалю етнічних театрів національних меншин України, країн СНД та Карпатського євро регіону &ldquo;Етно-Діа-Сфера&rdquo; (м.Мукачево, 2010 р.) &ndash; Людмилі Євтушенко за виконання ролі Баби Параски у виставі &laquo;Фараони&raquo; О.Коломійця.</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/39891\">У Тернополі &laquo;Фараони&raquo; варили борщ та доїли корів</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43545\">Коломийський театр гастролював в Івано-Франківську, на сцені оновленої філармонії</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43197\">Коломийський театр буде гастролювати в місті Івано-Франківську</a></p>\r\n<p><a href=\"http://firtka.if.ua/?action=show&amp;id=18061\">Жінок Прикарпаття привітали Янукович, Вишиванюк та Карапита</a></p>",
   "additional_director_info": "Режисура й сценографія  - народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -42,7 +43,241 @@
   ],
   "genre": "Комедія",
   "name": "Фараони",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Аристарх"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Аристарх"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Аристарх"
+        }
+      ],
+      "role": "Аристарх"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Баба&nbsp;Параска"
+        }
+      ],
+      "role": "Баба Параска"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Ганна"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Ганна"
+        }
+      ],
+      "role": "Ганна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Грицько"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Грицько"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Грицько"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Грицько"
+        }
+      ],
+      "role": "Грицько"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Катерина"
+        }
+      ],
+      "role": "Катерина"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Корній"
+        },
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Корній"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Корній"
+        }
+      ],
+      "role": "Корній"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Оверко"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Оверко"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Оверко"
+        }
+      ],
+      "role": "Оверко"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Одарка"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Одарка"
+        }
+      ],
+      "role": "Одарка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Олена&nbsp;Устинівна"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Олена&nbsp;Устинівна"
+        }
+      ],
+      "role": "Олена Устинівна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Онисько"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Онисько"
+        }
+      ],
+      "role": "Онисько"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Павлик"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Павлик"
+        }
+      ],
+      "role": "Павлик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Таран"
+        }
+      ],
+      "role": "Таран"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Уляна"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Уляна"
+        }
+      ],
+      "role": "Уляна"
+    }
+  ],
   "premiere": "13.10.2007",
   "staff": [
     {

@@ -3,6 +3,7 @@
     "output": "performances/myluvannya/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>Коломийський театр прем&rsquo;єру цієї вистави вперше здійснив у липні 1848 року&hellip; Тоді її назва була &laquo;Жовнір-чарівник&raquo;&hellip; Пройшли роки&hellip; Однак, денщик &laquo;их благородия&raquo; Шельменко продовжує дивувати, чудити, смішити&hellip;</p>",
   "additional_director_info": "Постановка та сценографія – народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -37,7 +38,184 @@
   ],
   "genre": "музична&nbsp;комедія",
   "name": "На милування нема&nbsp;силування",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Аграфена&nbsp;Семенівна"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Аграфена&nbsp;Семенівна"
+        }
+      ],
+      "role": "Аграфена Семенівна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Ефжені"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Ефжені"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Ефжені"
+        }
+      ],
+      "role": "Ефжені"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Кирило Петрович&nbsp;Шпак"
+        },
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Кирило Петрович&nbsp;Шпак"
+        }
+      ],
+      "role": "Кирило Петрович Шпак"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Лопуцьковський"
+        }
+      ],
+      "role": "Лопуцьковський"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Мотря"
+        }
+      ],
+      "role": "Мотря"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Потап"
+        }
+      ],
+      "role": "Потап"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Прісінька"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Прісінька"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Прісінька"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Прісінька"
+        }
+      ],
+      "role": "Прісінька"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Бенедюк&nbsp;Петро",
+          "page_url": null,
+          "role": "Рота&nbsp;Скворцова"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Рота&nbsp;Скворцова"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Рота&nbsp;Скворцова"
+        },
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Рота&nbsp;Скворцова"
+        }
+      ],
+      "role": "Рота Скворцова"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Скворцов"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Скворцов"
+        }
+      ],
+      "role": "Скворцов"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Шельменко"
+        }
+      ],
+      "role": "Шельменко"
+    }
+  ],
   "premiere": "29.12.2005",
   "staff": [
     {

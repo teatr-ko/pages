@@ -3,6 +3,7 @@
     "output": "performances/kontrakt/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: justify;\">Ральф - кілер, відомий своєю обов&rsquo;язковістю та точністю у виконанні замовлень по ліквідації людей. Франсуа - типовий невдаха, якого залишила дружина&hellip; Доля звела їх разом, у номері готелю, з вікна якого Ральф планує вбити чергову жертву. А Франсуа, в цьому самому номері, вирішив зустрітися з колишньою дружиною&hellip;<br /><br />Неймовірно захоплююча та весела комедія від всесвітньо відомого майстра жанру - Франсіса Вебера, знаменитого, як сценарист та режисер кінокомедій \"Невезучі\", \"Іграшка\", \"Татусі\", \"Високий блондин в жовтому черевику\", \"Втікачі\" та інших.</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/48266\">Коломийський драмтеатр запрошує 9 грудня</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/48363\">У Коломийському театрі - остання у 2012 році прем&rsquo;єра</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/48570\">Робота є робота, або Як розсмішити зануду</a></p>",
   "additional_director_info": "",
   "director": "Луценко&nbsp;Андрій",
   "director_has_page": false,
@@ -42,7 +43,92 @@
   ],
   "genre": "Комедія",
   "name": "Контракт",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Вольф"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Вольф"
+        }
+      ],
+      "role": "Вольф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Гарсон"
+        }
+      ],
+      "role": "Гарсон"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Луїза"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Луїза"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Луїза"
+        }
+      ],
+      "role": "Луїза"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Ральф"
+        }
+      ],
+      "role": "Ральф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Фелікс"
+        }
+      ],
+      "role": "Фелікс"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Франсуа"
+        }
+      ],
+      "role": "Франсуа"
+    }
+  ],
   "premiere": "25.11.2012",
   "staff": [
     {

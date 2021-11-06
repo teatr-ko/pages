@@ -3,6 +3,7 @@
     "output": "performances/wooden_miracle/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: center; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Казку дітки подивіться, </strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>З неї розуму навчіться:</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Хто шанує Батька й Матір,</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Той сам щастя буде мати. </strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>А хто цурається Роду, </strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Той сам собі робить шкоду!</strong>&nbsp;</span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Гине листочок, коли відривається від дерева. Черствіє душа і робить з людини блудного сина, коли вона цурається родинного дерева і роду свого&hellip; Такі моральні цінності зберігає українська християнська традиція. Саме про це, та про мудрість і дурість повідає малечі казка \"Дерев&rsquo;яне диво\".</strong> </span></p>\r\n</blockquote>\r\n<p style=\"margin-bottom: 0cm; line-height: 115%; text-align: center;\"><strong>&nbsp;</strong></p>\r\n<hr />\r\n<ul>\r\n<li>&nbsp;<strong>Учасники Х Міжнародного фестиваль театрів ляльок &laquo;Подільська лялька&raquo; (м.Вінниця, 2017)</strong></li>\r\n</ul>",
   "additional_director_info": "Режисер-постановник - заслужений артист України&nbsp;-",
   "director": "Куцик Олександр, з.а.&nbsp;України",
   "director_has_page": false,
@@ -122,7 +123,96 @@
   ],
   "genre": "",
   "name": "Дерев’яне&nbsp;диво",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Батько"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Батько"
+        }
+      ],
+      "role": "Батько"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Горпина"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Горпина"
+        }
+      ],
+      "role": "Горпина"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Грицько"
+        }
+      ],
+      "role": "Грицько"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Дівчина&nbsp;1-а"
+        }
+      ],
+      "role": "Дівчина 1-а"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Дівчина&nbsp;2-а"
+        }
+      ],
+      "role": "Дівчина 2-а"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Дурень"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Дурень"
+        }
+      ],
+      "role": "Дурень"
+    },
+    {
+      "persons": [],
+      "role": "Чорт"
+    }
+  ],
   "premiere": "25.12.2016",
   "staff": [
     {

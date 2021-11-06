@@ -3,6 +3,7 @@
     "output": "performances/three_pigs/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Жили собі троє братів, троє поросят. Цілісінькими днями вони гралися, співали, жартували. Та ось, літо добігає кінця і постає питання, де ж зимувати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Старші брати нашвидкуруч побудували собі будиночки, один із соломи, другий з гілочок, а молодший вирішив будувати з цегли, такий дім, щоб був наче фортеця. Довго потішалися над ним старші брати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Та коли прийшло лихо і голодний Вовк намагався дістатися та з&rsquo;їсти поросят, чий задум був найвдалішим?</strong></span></p>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник - Народний артист України&nbsp;-",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -92,7 +93,99 @@
   ],
   "genre": "казка для&nbsp;дітей",
   "name": "Троє&nbsp;поросят",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Вовк"
+        }
+      ],
+      "role": "Вовк"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Клоун"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Клоун"
+        }
+      ],
+      "role": "Клоун"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Наф-Наф"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Наф-Наф"
+        }
+      ],
+      "role": "Наф-Наф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Ніф-Ніф"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Ніф-Ніф"
+        }
+      ],
+      "role": "Ніф-Ніф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Нуф-Нуф"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Нуф-Нуф"
+        }
+      ],
+      "role": "Нуф-Нуф"
+    }
+  ],
   "premiere": "27.08.2017",
   "staff": [
     {

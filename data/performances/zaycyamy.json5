@@ -3,6 +3,7 @@
     "output": "performances/zaycyamy/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p class=\"western\" lang=\"uk-UA\">&nbsp;</p>\r\n<hr />\r\n<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Свирид Петрович Голохвостий - \"промотаний цирюльник\". Всі його статки - це борги. Однак, він себе вважає центром всесвіту, що \"розумом і багатством піднявся за хмари&hellip;\". Всі його достоїнства - вбрання \"хвисонистої моди і загрянишного матеріалу\" і \"ум і обхождєніє: делікатні хранцюзькі маньори\". А ще, його \"знаєт увесь Київ чисто\". Звісно, що з таким джентльменським набором, він - \"пєрвий жєніх\". І є вже наречена - донька багатих міщан Сірків - Проня&hellip; І не біда, що \"Проня й погана, як жаба...\" Вона - багата! А для серця у нього є Галя, від якої у нього \"&hellip;аж печінки пручаються\".</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Полювання розпочалося&hellip; Яка ж буде здобич?&nbsp;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56203\" target=\"_blank\">Дві прем&rsquo;єри представили у Коломийському театрі</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58178\" target=\"_blank\">У Мукачеві відбудуться осінні театральні вечори (ПРОГРАМА)</a></p>",
   "additional_director_info": "Режисер-постановник - заслужений артист&nbsp;України",
   "director": "Чиборак&nbsp;Дмитро",
   "director_has_page": false,
@@ -227,7 +228,179 @@
   ],
   "genre": "Комедія",
   "name": "За двома&nbsp;зайцями",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Галя"
+        }
+      ],
+      "role": "Галя"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Подруги&nbsp;Проні"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Подруги&nbsp;Проні"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Подруги&nbsp;Проні"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Подруги&nbsp;Проні"
+        }
+      ],
+      "role": "Подруги Проні"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Прокіп Свиридович&nbsp;Сірко"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Прокіп Свиридович&nbsp;Сірко"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Прокіп Свиридович&nbsp;Сірко"
+        }
+      ],
+      "role": "Прокіп Свиридович Сірко"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Проня"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Проня"
+        }
+      ],
+      "role": "Проня"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Свирид Петрович&nbsp;Голохвостий"
+        }
+      ],
+      "role": "Свирид Петрович Голохвостий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Секлита Пилипівна&nbsp;Лимариха"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Секлита Пилипівна&nbsp;Лимариха"
+        }
+      ],
+      "role": "Секлита Пилипівна Лимариха"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Химка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Химка"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Химка"
+        }
+      ],
+      "role": "Химка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Шафери&nbsp;Голохвостого"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Шафери&nbsp;Голохвостого"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Шафери&nbsp;Голохвостого"
+        }
+      ],
+      "role": "Шафери Голохвостого"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Явдокія&nbsp;Пилипівна"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Явдокія&nbsp;Пилипівна"
+        }
+      ],
+      "role": "Явдокія Пилипівна"
+    }
+  ],
   "premiere": "27.04.2014",
   "staff": [
     {

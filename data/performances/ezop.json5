@@ -3,6 +3,7 @@
     "output": "performances/ezop/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Біографія Езопа носить легендарний характер. Видатний байкар, засновник жанру байки, він нібито був рабом із Фрігії (Мала Азія), невеликим на зріст, некрасивим та ще й горбатим. Зате боги щедро нагородили його даром слова, гострим розумом. А ще &ndash; неймовірною жагою до свободи&hellip; Прагнення, яке не зупинить навіть Смерть&hellip;</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Неймовірно цікава та незвична інтерпретація відомої п&rsquo;єси бразильського драматурга Гільєрмо Фігейредо від народного артиста України Валерія Невєдрова.</strong></span></p>\r\n</blockquote>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56894\" target=\"_blank\">У Коломийському театрі з&rsquo;явиться &rdquo;Езоп&rdquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56961\" target=\"_blank\">Коломийський театр представив прем&rsquo;єру &rdquo;Езоп&rdquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/57176\">Езоп із&hellip; гуцульським колоритом</a></p>",
   "additional_director_info": "Режисура та сценографія - народний артист&nbsp;України",
   "director": "Невєдров&nbsp;Валерій",
   "director_has_page": false,
@@ -262,7 +263,70 @@
   ],
   "genre": "комедія-гротеск",
   "name": "Лисиця й Виноград&nbsp;(Езоп)",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Агностос"
+        }
+      ],
+      "role": "Агностос"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Езоп"
+        }
+      ],
+      "role": "Езоп"
+    },
+    {
+      "persons": [],
+      "role": "Ефіоп"
+    },
+    {
+      "persons": [],
+      "role": "Клея"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Ксанф"
+        }
+      ],
+      "role": "Ксанф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Мелі"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Мелі"
+        }
+      ],
+      "role": "Мелі"
+    },
+    {
+      "persons": [],
+      "role": "Музи́ка"
+    }
+  ],
   "premiere": "22.06.2014",
   "staff": [
     {

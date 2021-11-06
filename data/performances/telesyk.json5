@@ -3,6 +3,7 @@
     "output": "performances/telesyk/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/52576\">У Коломийському театрі покажуть &rdquo;Івасика-Телесика&rdquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/55749\" target=\"_blank\">Кременчуцьким дітям показали казку про Івасика Телесика</a></p>",
   "additional_director_info": "Режисер-постановник – народний артист&nbsp;України",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -137,7 +138,94 @@
   ],
   "genre": "Казка",
   "name": "Івасик -&nbsp;Телесик",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Баба-яга"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Баба-яга"
+        }
+      ],
+      "role": "Баба-яга"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Забудько"
+        }
+      ],
+      "role": "Забудько"
+    },
+    {
+      "persons": [],
+      "role": "Зміючка"
+    },
+    {
+      "persons": [],
+      "role": "Івасик Телесик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Кирило"
+        }
+      ],
+      "role": "Кирило"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Марія"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Марія"
+        }
+      ],
+      "role": "Марія"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Незнайко"
+        }
+      ],
+      "role": "Незнайко"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Орися"
+        }
+      ],
+      "role": "Орися"
+    }
+  ],
   "premiere": "01.09.2013",
   "staff": [
     {

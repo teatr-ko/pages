@@ -3,6 +3,7 @@
     "output": "performances/romans/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: justify;\">Красива та романтична історія про кохання&hellip; Юлюс любить Моніку, але вона закохана в Роландаса. А той закоханий тільки в себе&hellip; Такий, собі, банальний трикутник - скажете Ви? Ні! З&rsquo;явиться четверта сторона, яка суттєво вплине на хід подій і на долю героїв&hellip;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56780\" target=\"_blank\">Мистецька палітра. Олег Мосійчук</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58177\">У Коломийському театрі з&rsquo;явився любовний трикутник</a></p>",
   "additional_director_info": "Режисер-постановник - народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -147,7 +148,106 @@
   ],
   "genre": "романтична&nbsp;легенда",
   "name": "Романс про&nbsp;закоханих",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Моніка"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Моніка"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Моніка"
+        }
+      ],
+      "role": "Моніка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Роландас"
+        }
+      ],
+      "role": "Роландас"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Хор"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Хор"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Хор"
+        }
+      ],
+      "role": "Хор"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Юлюс"
+        }
+      ],
+      "role": "Юлюс"
+    }
+  ],
   "premiere": "01.06.2014",
   "staff": [
     {

@@ -3,6 +3,7 @@
     "output": "performances/y_nediliu_rano/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>В неділю рано зілля копала,</strong></em></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>У понеділок пополокала,</strong></em></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>А у вівторок зілля варила,</strong></em></span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>В середу рано Гриця отруїла.</strong></em></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>На канві фольклорного сюжету пісні - балади \"Ой не ходи Грицю, та й на вечорниці\" драматично перплітаються дві основні сюжетні лінії: доля циганки Маври, покараної за подружню зраду і романтичне кохання Гриця - рідного сина циганки...</strong></span></p>\r\n<hr />\r\n<p style=\"padding-left: 30px;\"><span style=\"font-family: arial black, avant garde; font-size: small;\"><strong><strong>Відзнаки театральних форумів:</strong></strong></span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: arial black, avant garde; font-size: small;\">Диплом &laquo;За головну жіночу роль&raquo; Олександра Філімонова за роль Тетяни у виставі &laquo;У неділю рано зілля копала&raquo; на <span class=\"caps\"><span class=\"caps\">XVI</span></span> Всеукраїнському фестивалі &laquo;Тернопільські театральні&nbsp;вечори&raquo; (м.Тернопіль, 2018р.)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: arial black, avant garde; font-size: small;\">Диплом&nbsp;&laquo;За жіночу роль другого плану&raquo; Якубів Ольга за роль Настки у виставі &laquo;У неділю рано зілля копала&raquo; на <span class=\"caps\">XVI</span> Всеукраїнському фестивалі &laquo;Тернопільські театральні&nbsp;вечори&raquo; (м.Тернопіль, 2018р.)</span></li>\r\n</ul>\r\n</blockquote>",
   "additional_director_info": "Постановка, музичне оформлення – н.а.&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -137,7 +138,211 @@
   ],
   "genre": "драматична&nbsp;легенда",
   "name": "У неділю рано зілля&nbsp;копала",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Андронаті"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Андронаті"
+        }
+      ],
+      "role": "Андронаті"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Гриць"
+        }
+      ],
+      "role": "Гриць"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Дончукова, дружина&nbsp;Михайла"
+        }
+      ],
+      "role": "Дончукова, дружина Михайла"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Іваниха-Дубиха,&nbsp;вдова"
+        }
+      ],
+      "role": "Іваниха-Дубиха, вдова"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Мавра, донька Андронаті і&nbsp;Мидори"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Мавра, донька Андронаті і&nbsp;Мидори"
+        }
+      ],
+      "role": "Мавра, донька Андронаті і Мидори"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Мидора"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Мидора"
+        }
+      ],
+      "role": "Мидора"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Михайло Дончук, заможній&nbsp;ґазда"
+        }
+      ],
+      "role": "Михайло Дончук, заможній ґазда"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Настка"
+        }
+      ],
+      "role": "Настка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Раду, чоловік Маври, циганський&nbsp;ватага"
+        }
+      ],
+      "role": "Раду, чоловік Маври, циганський ватага"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Стара&nbsp;циганка"
+        }
+      ],
+      "role": "Стара циганка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Тетяна, донька&nbsp;Іванихи-Дубихи"
+        }
+      ],
+      "role": "Тетяна, донька Іванихи-Дубихи"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Цигани,&nbsp;гуцули"
+        }
+      ],
+      "role": "Цигани, гуцули"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Цимбаліст, товариш&nbsp;Андронаті"
+        }
+      ],
+      "role": "Цимбаліст, товариш Андронаті"
+    }
+  ],
   "premiere": "26.11.2017",
   "staff": [
     {

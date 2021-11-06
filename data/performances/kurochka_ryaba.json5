@@ -3,6 +3,7 @@
     "output": "performances/kurochka_ryaba/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58174\">Славута NEWS дарує квитки на виставу Коломийського театру</a></p>",
   "additional_director_info": "Режисер-постановник&nbsp;–",
   "director": "Мірошник&nbsp;Євген",
   "director_has_page": false,
@@ -32,7 +33,87 @@
   ],
   "genre": "Казка",
   "name": "Курочка&nbsp;Ряба",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Баба"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Баба"
+        }
+      ],
+      "role": "Баба"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Дід"
+        }
+      ],
+      "role": "Дід"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Курочка&nbsp;Ряба"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Курочка&nbsp;Ряба"
+        }
+      ],
+      "role": "Курочка Ряба"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Миша"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Миша"
+        }
+      ],
+      "role": "Миша"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Сорока"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Сорока"
+        }
+      ],
+      "role": "Сорока"
+    }
+  ],
   "premiere": "12.07.1999",
   "staff": [
     {

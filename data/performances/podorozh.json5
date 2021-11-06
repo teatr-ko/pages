@@ -3,6 +3,7 @@
     "output": "performances/podorozh/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: justify;\">Лауреат Х Міжнародного фестивалю етнічних театрів національних меншин України, країн СНД та Карпатського євро регіону \"Етно-Діа-Сфера\" (м.Мукачево, 2009 р.).</p>",
   "additional_director_info": "Постановка, сценографія та музичне оформлення&nbsp;-",
   "director": "Юрців&nbsp;Василь",
   "director_has_page": false,
@@ -32,7 +33,59 @@
   ],
   "genre": "Казка",
   "name": "Подорож у країну&nbsp;мрій",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Вомбат"
+        }
+      ],
+      "role": "Вомбат"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Кіт"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Кіт"
+        }
+      ],
+      "role": "Кіт"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Миша"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Миша"
+        },
+        {
+          "has_page": false,
+          "name": "Мартищук&nbsp;Олександра",
+          "page_url": null,
+          "role": "Миша"
+        }
+      ],
+      "role": "Миша"
+    }
+  ],
   "premiere": "08.02.2009",
   "staff": [
     {

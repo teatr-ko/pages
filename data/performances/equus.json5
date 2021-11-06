@@ -3,6 +3,7 @@
     "output": "performances/equus/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: justify;\" lang=\"uk-UA\">Сімнадцятирічний юнак Алан Стренг вчинив жахливий злочин. Лікар - психіатр Дайзерт повинен дати відповідь суду присяжних - що ховається за незвичною поведінкою хлопця: юнацький романтизм, чи зухвалість маніяка&hellip; Звичне, на перший погляд, медичне обстеження перетворюється на цікавий психологічний двобій&hellip;</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p>Лауреат ІІ Всеукраїнського театрального фестивалю сценічних першопрочитань \"Коломийські представлення\" (м.Коломия, 2010 р.)</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://kolpravda.at.ua/news/2009-12-15-124\" target=\"_blank\">Режисер та викладач Юрій Мельничук</a></p>\r\n<p><a href=\"http://kolpravda.at.ua/news/vidbulasja_prem_era_vistavi_ekuus/2010-06-23-493\" target=\"_blank\">Відбулася прем&rsquo;єра вистави &laquo;ЕКУУС&raquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/33940\">Щоденник театрального фестивалю &laquo;Коломийські представлення&raquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/33982\">Результати театрального фестивалю &laquo;Коломийські представлення&raquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/34013\">&laquo;Коломийські представлення&raquo;: Цикл програм про перебіг фестивальних днів</a></p>",
   "additional_director_info": "Режисер-постановник&nbsp;–",
   "director": "Мельничук&nbsp;Юрій",
   "director_has_page": false,
@@ -82,7 +83,227 @@
   ],
   "genre": "Сучасна містерія на дві&nbsp;дії",
   "name": "<span class=\"caps\">EQUUS</span>",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [],
+      "role": "Алан Стренг"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Гаррі Делтон, власник&nbsp;стаєнь"
+        }
+      ],
+      "role": "Гаррі Делтон, власник стаєнь"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": false,
+          "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+          "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": false,
+          "name": "Федінчук&nbsp;Володимир",
+          "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": false,
+          "name": "Федірко&nbsp;Дмитро",
+          "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        }
+      ],
+      "role": "Глядачі анатомічного театру"
+    },
+    {
+      "persons": [],
+      "role": "Джилл Мейсон"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Естер Соломон,&nbsp;суддя"
+        }
+      ],
+      "role": "Естер Соломон, суддя"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Лора Стренг, мати&nbsp;Алана"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Лора Стренг, мати&nbsp;Алана"
+        }
+      ],
+      "role": "Лора Стренг, мати Алана"
+    },
+    {
+      "persons": [],
+      "role": "Мартін Дайзерт, психіатр"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Медсестра"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Медсестра"
+        },
+        {
+          "has_page": false,
+          "name": "Мартищук&nbsp;Олександра",
+          "page_url": null,
+          "role": "Медсестра"
+        }
+      ],
+      "role": "Медсестра"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Молодий вершник,&nbsp;Самородок"
+        }
+      ],
+      "role": "Молодий вершник, Самородок"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": false,
+          "name": "Воротняк&nbsp;Юлія",
+          "page_url": null,
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": false,
+          "name": "Макарчук&nbsp;Арсен",
+          "page_url": null,
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": false,
+          "name": "Комарова&nbsp;Христина",
+          "page_url": null,
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Пацієнти&nbsp;клініки"
+        }
+      ],
+      "role": "Пацієнти клініки"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Помічник&nbsp;жерця"
+        }
+      ],
+      "role": "Помічник жерця"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Френк Стренг, батько&nbsp;Алана"
+        }
+      ],
+      "role": "Френк Стренг, батько Алана"
+    }
+  ],
   "premiere": "13.06.2010",
   "staff": [
     {

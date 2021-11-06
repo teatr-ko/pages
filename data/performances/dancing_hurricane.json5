@@ -3,6 +3,7 @@
     "output": "performances/dancing_hurricane/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\">&nbsp;</p>\r\n<hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"color: #000000; font-family: book antiqua, palatino;\"><strong><span style=\"font-size: medium;\">Без електрики ми вже не можемо уявити свого існування! Але окрім великої користі, струм несе і велику небезпеку для тих, хто нехтує правилами. І&nbsp;навпаки:</span></strong></span></p>\r\n</blockquote>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000; font-family: book antiqua, palatino;\"><em><strong><span style=\"font-size: medium;\">Хто правила&nbsp;знає,</span></strong></em></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000; font-family: book antiqua, palatino;\"><em><strong><span style=\"font-size: medium;\">Хто їх&nbsp;поважає,-</span></strong></em></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000; font-family: book antiqua, palatino;\"><em><strong><span style=\"font-size: medium;\">Не матиме&nbsp;суму</span></strong></em></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000; font-family: book antiqua, palatino;\"><em><strong><span style=\"font-size: medium;\">Від дядечка&nbsp;Струму!</span></strong></em></span></p>\r\n<p style=\"text-align: justify; padding-left: 60px;\"><span style=\"color: #000000; font-family: book antiqua, palatino;\"><strong><span style=\"font-size: medium;\">Приходьте і станете учасниками цікавої, фантастичної, повчальної&nbsp;історії!</span></strong></span></p>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58279\" target=\"_blank\">Прем&rsquo;єра нової дитячої вистави відбулась днями у Коломиї</a></p>\r\n<p style=\"text-align: justify;\">&nbsp;</p>",
   "additional_director_info": "",
   "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
   "director_has_page": true,
@@ -67,7 +68,92 @@
   ],
   "genre": "казка",
   "name": "Танцюючий&nbsp;Ураган",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Дядечко&nbsp;Струм"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Дядечко&nbsp;Струм"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Дядечко&nbsp;Струм"
+        }
+      ],
+      "role": "Дядечко Струм"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Мінус"
+        }
+      ],
+      "role": "Мінус"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Плюс"
+        }
+      ],
+      "role": "Плюс"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Робот&nbsp;Ураган"
+        }
+      ],
+      "role": "Робот Ураган"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Світлячок"
+        }
+      ],
+      "role": "Світлячок"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Яринка"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Яринка"
+        }
+      ],
+      "role": "Яринка"
+    }
+  ],
   "premiere": "15.01.2017",
   "staff": [
     {

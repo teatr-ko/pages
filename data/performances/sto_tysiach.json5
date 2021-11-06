@@ -3,6 +3,7 @@
     "output": "performances/sto_tysiach/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 60px;\">&nbsp;</p>\r\n<iframe style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/9EpU9zvooFY\" frameborder=\"0\" width=\"560\" height=\"315\"></iframe>\r\n<p style=\"text-align: justify; padding-left: 60px;\">&nbsp;</p>\r\n<hr />\r\n<p style=\"text-align: justify; padding-left: 60px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Іван Карпенко-Карий утвердив жанр комедії в українській літературі, як універсальну форму художнього відображення життя, показ найрізноманітніших проявів взаємин між людьми, їхнього внутрішнього світу в контексті національних і загальнолюдських цінностей.</span></strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 60px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\"> Жанр п&rsquo;єси Карпенка-Карого \"Сто тисяч\", яка була написана ще у 1889 році, визначають як сатиричну трагікомедію характерів, бо у творі висміюється надмірна жадоба до збагачення - визначальна риса вдачі головного героя Герасима Калитки.</span></strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 60px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Зізнайтеся чесно, хто з Вас жодного разу не попадався на привабливий гачок лохотронів, особливо популярних в наш час, завдяки новітнім інформаційним носіям &ndash; мобільному та інтернет зв</span>&rsquo;<span lang=\"uk-UA\">язку, надмірному захопленню соціальними мережами? А потім з гірким розчаруванням повторював для себе прописну істину, що дармовий сир буває тільки в мишоловці. </span></strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 60px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span lang=\"uk-UA\">Власне, в таку ситуацію і потрапив наш головний герой Герасим Калитка. Але з якими благими намірами: прикупити до свого поля такі ласі шматочки земельки&hellip; \"Ох, земелько, свята земелько, Божа ти донечко!\"; \"Ідеш день - чия земля? Калитчина; їдеш два &ndash; чия земля? Калитчина; їдеш три &ndash; чия земля? Калитчина&hellip; Диханіє спирає&hellip;А скотини, а овець розведу &ndash; земля під товаром буде стогнать&hellip;\"</span></strong></span></p>\r\n</blockquote>\r\n<blockquote style=\"padding-left: 60px;\">\r\n<p style=\"text-align: justify;\"><span style=\"font-size: medium; font-family: book antiqua, palatino;\"><strong><span lang=\"uk-UA\">Кожен знайде в цьому дійстві найпривабливіші для себе цінності: Хтось &ndash; дармові гроші, багато грошей! Хтось &ndash; одвічну цінність нащадків трипільців &ndash; землю, родючий чорнозем, над яким і сьогодні зависає чорна тінь експансії чужих грошей! Дивіться, думай-ТЕ, аналізуй-ТЕ!</span></strong></span></p>\r\n<hr /></blockquote>\r\n<p style=\"text-align: left;\">&nbsp;</p>\r\n<blockquote>\r\n<h1 class=\"header_t\" style=\"text-align: left; padding-left: 30px;\"><a href=\"https://teatr.kolomyya.org/news/item/58444\" target=\"_blank\"><span style=\"font-size: large;\">У Миколаєві назвали лауреатів Міжнародного театрального конкурсу Ноmo&nbsp;Ludens</span></a>&nbsp;<span style=\"font-size: large;\">(2021)</span></h1>\r\n</blockquote>\r\n<h1 class=\"header_t\" style=\"text-align: left; padding-left: 60px;\">&nbsp;<a href=\"https://teatr.kolomyya.org/news/item/58427\" target=\"_blank\"><span style=\"font-size: large;\">Коломийський театр показав глядачам прем&rsquo;єру комедії &laquo;Сто&nbsp; &nbsp; &nbsp;тисяч&raquo;&nbsp;(відео)</span></a></h1>\r\n<p style=\"text-align: left;\">&nbsp;</p>\r\n<blockquote style=\"padding-left: 60px;\">\r\n<p style=\"text-align: justify;\">&nbsp;</p>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник&nbsp;-",
   "director": "Чиборак Дмитро, н.а.&nbsp;України",
   "director_has_page": false,
@@ -102,7 +103,180 @@
   ],
   "genre": "Комедія",
   "name": "Сто&nbsp;тисяч",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Бонавентура"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Бонавентура"
+        }
+      ],
+      "role": "Бонавентура"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Калитка"
+        }
+      ],
+      "role": "Калитка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Клим"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Клим"
+        },
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Клим"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Клим"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Клим"
+        }
+      ],
+      "role": "Клим"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Мотря"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Мотря"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Мотря"
+        }
+      ],
+      "role": "Мотря"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Невідомий"
+        }
+      ],
+      "role": "Невідомий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Параска"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Параска"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Параска"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Параска"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Параска"
+        }
+      ],
+      "role": "Параска"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Роман"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Роман"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Роман"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Роман"
+        }
+      ],
+      "role": "Роман"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Савка"
+        }
+      ],
+      "role": "Савка"
+    }
+  ],
   "premiere": "22.02.2020",
   "staff": [
     {

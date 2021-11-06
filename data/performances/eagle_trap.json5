@@ -3,6 +3,7 @@
     "output": "performances/eagle_trap/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>\"Увага! Увага! Всім боятися, тремтіти і залишатися на місцях! Це - мій наказ! Я - Двоголовий Орел, володар усіх і всього. Ніхто ніде не сміє мені суперечити, бо інакше - страшна кара. Отже, слухайте уважно: від цієї секунди оголошую цей ліс своєю територією, а всіх його мешканців - своїми рабами!\"</strong></span></p>\r\n<p style=\"padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Але лісові мешканці не здалися, а, згуртувавшись, заманили орла в пастку&hellip;</strong></span></p>\r\n</blockquote>",
   "additional_director_info": "Режисер - народний артист&nbsp;України",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -17,7 +18,93 @@
   ],
   "genre": "сучасна українська&nbsp;казка",
   "name": "Пастка для&nbsp;орла",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Білка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Білка"
+        }
+      ],
+      "role": "Білка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Бобер"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
+          "role": "Бобер"
+        }
+      ],
+      "role": "Бобер"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Двоглавий&nbsp;Орел"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Двоглавий&nbsp;Орел"
+        }
+      ],
+      "role": "Двоглавий Орел"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Заєць"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Заєць"
+        }
+      ],
+      "role": "Заєць"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Їжак"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Їжак"
+        }
+      ],
+      "role": "Їжак"
+    }
+  ],
   "premiere": "09.09.2018",
   "staff": [
     {

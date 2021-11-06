@@ -3,6 +3,7 @@
     "output": "performances/three_ideal_marriage/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Три подружні пари, старі добрі друзі, відзначають річницю своїх весіль. Святкування перериває звістка про смерть спільного друга - Густаво Феррана. Зачинившись в кабінеті, чоловіки зачитують прощального листа покійного друга, який він заздалегідь залишив на випадок його&nbsp;смерті.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Це і стає причиною всіх подальших подій та&nbsp;викриттів.&nbsp;&nbsp;</span></p>\r\n</blockquote>",
   "additional_director_info": "",
   "director": "Мельничук&nbsp;Дмитро",
   "director_has_page": true,
@@ -77,7 +78,166 @@
   ],
   "genre": "трагікомедія",
   "name": "Три ідеальні&nbsp;подружжя",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Ада&nbsp;Гусман"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Ада&nbsp;Гусман"
+        }
+      ],
+      "role": "Ада Гусман"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Густаво&nbsp;Ферран"
+        }
+      ],
+      "role": "Густаво Ферран"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Женев&#8217;єва&nbsp;Рохас"
+        }
+      ],
+      "role": "Женев'єва Рохас"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Клара&nbsp;Гусман"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Клара&nbsp;Гусман"
+        }
+      ],
+      "role": "Клара Гусман"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Леопольдіна&nbsp;Вільяміль"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Леопольдіна&nbsp;Вільяміль"
+        }
+      ],
+      "role": "Леопольдіна Вільяміль"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Луїза"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Луїза"
+        }
+      ],
+      "role": "Луїза"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Максимо&nbsp;Рохас"
+        },
+        {
+          "has_page": true,
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
+          "role": "Максимо&nbsp;Рохас"
+        }
+      ],
+      "role": "Максимо Рохас"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Франціско"
+        },
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Франціско"
+        }
+      ],
+      "role": "Франціско"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Хав&#8217;єр&nbsp;Гусман"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Хав&#8217;єр&nbsp;Гусман"
+        }
+      ],
+      "role": "Хав'єр Гусман"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
+          "role": "Хорхе&nbsp;Вільяміль"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Хорхе&nbsp;Вільяміль"
+        }
+      ],
+      "role": "Хорхе Вільяміль"
+    }
+  ],
   "premiere": "06.09.2021",
   "staff": [
     {

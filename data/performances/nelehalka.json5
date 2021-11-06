@@ -3,6 +3,7 @@
     "output": "performances/nelehalka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "<p style=\"text-align: justify;\">\"Мене немає. Я - ніхто&hellip; Я - юрба&hellip; Нас не запитують як ми живемо. У нас крадуть квартири, дітей, роботу. Раз у чотири роки про нас згадують, щоб вкрасти наші голоси. Тому, що ми - НЕЛЕГАЛИ, які живуть на одному брудному величезному смітнику&hellip;\"</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: justify;\">Лауреат Х Міжнародного фестивалю етнічних театрів національних меншин України, країн СНД та Карпатського євро регіону \"Етно-Діа-Сфера\" (м.Мукачево, 2009 р.).</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/39889\">Нелегалка в своїй країні</a></p>",
   "additional_director_info": "Режисер-постановник та сценограф – народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -87,7 +88,93 @@
   ],
   "genre": "сентиментальна&nbsp;комедія",
   "name": "Нелегалка",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Костя"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Костя"
+        }
+      ],
+      "role": "Костя"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Маріо"
+        }
+      ],
+      "role": "Маріо"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
+          "role": "Несміливий"
+        }
+      ],
+      "role": "Несміливий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Ніна"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Ніна"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Ніна"
+        }
+      ],
+      "role": "Ніна"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Чезаре"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Чезаре"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
+          "role": "Чезаре"
+        }
+      ],
+      "role": "Чезаре"
+    }
+  ],
   "premiere": "21.04.2009",
   "staff": [
     {

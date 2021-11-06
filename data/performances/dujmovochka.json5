@@ -3,6 +3,7 @@
     "output": "performances/dujmovochka/index.html",
     "template": "teatr/performance"
   },
+  "addition": "",
   "additional_director_info": "Режисер-постановник, дипломант Київського національного університету театру, кіно і телебачення&nbsp;-",
   "director": "Лисенко&nbsp;Людмила",
   "director_has_page": false,
@@ -97,7 +98,137 @@
   ],
   "genre": "казка",
   "name": "Дюймовочка",
-  "personages": [],
+  "personages": [
+    {
+      "persons": [],
+      "role": "Брекеквак"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Буря-сніг"
+        }
+      ],
+      "role": "Буря-сніг"
+    },
+    {
+      "persons": [],
+      "role": "Дюймовочка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Жаба"
+        },
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Жаба"
+        }
+      ],
+      "role": "Жаба"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Жук"
+        }
+      ],
+      "role": "Жук"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Квіти,&nbsp;миші"
+        }
+      ],
+      "role": "Квіти, миші"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Кріт"
+        }
+      ],
+      "role": "Кріт"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Кроти,&nbsp;жуки"
+        }
+      ],
+      "role": "Кроти, жуки"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Ластівка"
+        }
+      ],
+      "role": "Ластівка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Мама"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Мама"
+        }
+      ],
+      "role": "Мама"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Миша"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Миша"
+        }
+      ],
+      "role": "Миша"
+    },
+    {
+      "persons": [],
+      "role": "Принц"
+    }
+  ],
   "premiere": "10.05.2015",
   "staff": [
     {
