@@ -153,20 +153,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
-          "role": "Василина"
-        },
-        {
-          "has_page": true,
-          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Василина"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
+          "role": "Василина"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Василина"
         }
       ],
@@ -199,13 +199,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Дід"
         },
         {
           "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Дід"
         }
@@ -216,13 +216,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Дмитро"
         },
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Дмитро"
         }
@@ -239,7 +239,7 @@
         },
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Дячок"
         }
@@ -250,14 +250,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/znovytskiy/",
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
           "role": "Іван"
         },
         {
           "has_page": true,
-          "name": "Гелецький&nbsp;Володимир",
-          "page_url": "/troupe/vheletskyi/",
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
           "role": "Іван"
         }
       ],
@@ -295,8 +295,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Молодиця"
         },
         {
@@ -307,8 +307,8 @@
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Молодиця"
         }
       ],
@@ -318,26 +318,26 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
-          "role": "Олена"
-        },
-        {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
-          "role": "Олена"
-        },
-        {
-          "has_page": true,
           "name": "Пронюк&nbsp;Тетяна",
           "page_url": "/troupe/tpronuyk/",
           "role": "Олена"
         },
         {
           "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Олена"
+        },
+        {
+          "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
+          "role": "Олена"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Олена"
         }
       ],
@@ -347,20 +347,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
-          "role": "Параска"
-        },
-        {
-          "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Параска"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
+          "role": "Параска"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Параска"
         }
       ],
@@ -371,7 +371,7 @@
   "staff": [
     {
       "has_page": false,
-      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Сценограф"
     },
@@ -383,7 +383,7 @@
     },
     {
       "has_page": true,
-      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

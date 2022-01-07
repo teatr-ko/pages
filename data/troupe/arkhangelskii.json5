@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "09.04.98",
-  "full_name_with_patronymic": "Архангельський&nbsp;Володимир ",
+  "full_name": "Архангельський&nbsp;Володимир",
   "gallery": [],
   "grown_roles": [
     {
@@ -51,7 +51,7 @@
       "url": "/performances/sobacha_budka/"
     },
     {
-      "director": "Чиборак Дмитро, н.а.&nbsp;України",
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Клим, Роман",
       "url": "/performances/sto_tysiach/"
@@ -87,7 +87,7 @@
       "url": "/performances/myshi/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес",
       "url": "/performances/when_animals/"
@@ -135,13 +135,13 @@
       "url": "/performances/three_pigs/"
     },
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Лис, Вовк",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Ельф",
       "url": "/performances/zymovi_prygody_2/"
@@ -150,7 +150,7 @@
   "on_the_stage": "12.07.18",
   "staff": [
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/painted_fox/"

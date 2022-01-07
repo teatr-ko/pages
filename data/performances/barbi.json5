@@ -107,19 +107,19 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Король"
+        },
+        {
+          "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
           "role": "Король"
         },
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
-          "role": "Король"
-        },
-        {
-          "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Король"
         }
@@ -141,8 +141,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Маман"
         },
         {
@@ -153,8 +153,8 @@
         },
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Маман"
         }
       ],
@@ -188,13 +188,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

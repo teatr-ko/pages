@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "25.06.88",
-  "full_name_with_patronymic": "Первун Світлана&nbsp;Василівна",
+  "full_name": "Первун&nbsp;Світлана",
   "gallery": [
     {
       "title": "",
@@ -57,7 +57,7 @@
       "url": "/performances/zaycyamy/"
     },
     {
-      "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "director": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Ганна",
       "url": "/performances/zvidky_berytsia_dity/"
@@ -111,7 +111,7 @@
       "url": "/performances/svatannya/"
     },
     {
-      "director": "Чиборак Дмитро, н.а.&nbsp;України",
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Мотря",
       "url": "/performances/sto_tysiach/"
@@ -159,7 +159,7 @@
       "url": "/performances/leopold/"
     },
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Дерев’яне&nbsp;диво",
       "role": "Дівчина&nbsp;1-а",
       "url": "/performances/wooden_miracle/"
@@ -183,7 +183,7 @@
       "url": "/performances/kytsyn_dim/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку",
       "url": "/performances/when_animals/"
@@ -243,7 +243,7 @@
       "url": "/performances/sv_morhayko/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "performance": "Танцюючий&nbsp;Ураган",
       "role": "Світлячок, Яринка",
       "url": "/performances/dancing_hurricane/"

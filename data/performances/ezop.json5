@@ -279,7 +279,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Езоп"
         }
@@ -298,7 +298,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Ксанф"
         }
@@ -309,14 +309,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Мелі"
         },
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Мелі"
         }
       ],
@@ -343,7 +343,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     }

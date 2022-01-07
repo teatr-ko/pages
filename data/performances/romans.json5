@@ -153,6 +153,12 @@
       "persons": [
         {
           "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Моніка"
+        },
+        {
+          "has_page": false,
           "name": "Мощар&nbsp;Мар&#8217;яна",
           "page_url": null,
           "role": "Моніка"
@@ -161,12 +167,6 @@
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
-          "role": "Моніка"
-        },
-        {
-          "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
-          "page_url": null,
           "role": "Моніка"
         }
       ],
@@ -186,6 +186,36 @@
     {
       "persons": [
         {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Хор"
+        },
+        {
           "has_page": true,
           "name": "Філімонов&nbsp;Артур",
           "page_url": "/troupe/filimonov/",
@@ -198,39 +228,9 @@
           "role": "Хор"
         },
         {
-          "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
-          "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
-          "has_page": false,
-          "name": "Мощар&nbsp;Мар&#8217;яна",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
-          "has_page": false,
-          "name": "Кравчук&nbsp;Галина",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
-          "role": "Хор"
-        },
-        {
-          "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
           "role": "Хор"
         }
       ],
@@ -258,7 +258,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Пластичне&nbsp;вирішення"
     },
@@ -270,7 +270,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Асистент&nbsp;режисера"
     }

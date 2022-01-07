@@ -79,7 +79,7 @@
         },
         {
           "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Король"
         }
@@ -90,14 +90,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
           "role": "Купчиха"
         },
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lyevtushenko/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Купчиха"
         }
       ],
@@ -123,15 +123,15 @@
           "role": "Недоторка"
         },
         {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
-          "role": "Недоторка"
-        },
-        {
           "has_page": false,
           "name": "Кравчук&nbsp;Галина",
           "page_url": null,
+          "role": "Недоторка"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Недоторка"
         }
       ],
@@ -141,14 +141,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Права&nbsp;рука"
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Права&nbsp;рука"
         }
       ],
@@ -169,7 +169,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Трутень"
         }
@@ -187,7 +187,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

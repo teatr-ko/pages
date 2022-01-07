@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "10.07.00",
-  "full_name_with_patronymic": "Сагалюк Катерина&nbsp;Романівна",
+  "full_name": "Сагалюк&nbsp;Катерина",
   "gallery": [],
   "grown_roles": [
     {
@@ -63,13 +63,13 @@
       "url": "/performances/pravdaikryvda/"
     },
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Заєць&nbsp;1-й, Мавпа&nbsp;1-а",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Сімочка, Ангел",
       "url": "/performances/zymovi_prygody_2/"
@@ -78,7 +78,7 @@
   "on_the_stage": "19.07.19",
   "staff": [
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/painted_fox/"

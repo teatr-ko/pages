@@ -121,7 +121,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Клоун"
         },
@@ -138,14 +138,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Наф-Наф"
         },
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Наф-Наф"
         }
       ],
@@ -155,14 +155,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
           "role": "Ніф-Ніф"
         },
         {
           "has_page": true,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Ніф-Ніф"
         }
       ],
@@ -190,13 +190,13 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент режисера - заслужена артистка&nbsp;України"
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Хореографія - заслужений діяч&nbsp;мистецтв,"
     },

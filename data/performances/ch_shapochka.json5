@@ -83,7 +83,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Баба&nbsp;Яга"
         }
@@ -94,20 +94,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Бабуся"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
           "role": "Бабуся"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
-          "role": "Бабуся"
-        },
-        {
-          "has_page": true,
-          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lyevtushenko/",
           "role": "Бабуся"
         }
       ],
@@ -117,14 +117,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Вовчик"
         },
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Вовчик"
         },
         {
@@ -151,7 +151,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Чахлик&nbsp;Невмирущий"
         }
@@ -192,13 +192,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+      "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/znovytskiy/",
       "role": "Асистент&nbsp;режисера"
     }

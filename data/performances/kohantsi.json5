@@ -179,7 +179,7 @@
         },
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Джордж"
         }
@@ -189,6 +189,12 @@
     {
       "persons": [
         {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Доріс"
+        },
+        {
           "has_page": false,
           "name": "Кузик&nbsp;Анастасія",
           "page_url": null,
@@ -196,13 +202,7 @@
         },
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Доріс"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Доріс"
         }
@@ -212,15 +212,15 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Санта-Клаус"
-        },
-        {
           "has_page": false,
           "name": "Лефор&nbsp;Сергій",
           "page_url": null,
+          "role": "Санта-Клаус"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Санта-Клаус"
         },
         {

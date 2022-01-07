@@ -135,14 +135,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Дівчата"
         },
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Дівчата"
         }
       ],
@@ -201,20 +201,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Марта"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Марта"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Марта"
         }
       ],
@@ -224,19 +224,19 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/znovytskiy/",
-          "role": "Яким"
-        },
-        {
-          "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
           "role": "Яким"
         },
         {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Яким"
+        },
+        {
           "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Яким"
         }
@@ -248,13 +248,13 @@
   "staff": [
     {
       "has_page": false,
-      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Сценограф"
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

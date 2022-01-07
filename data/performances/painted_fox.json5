@@ -5,7 +5,7 @@
   },
   "addition": "",
   "additional_director_info": "",
-  "director": "Куцик Олександр, з.а.&nbsp;України",
+  "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
@@ -96,14 +96,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Глушко&nbsp;Вячеслав",
-          "page_url": "/troupe/glushko/",
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
           "role": "Лис"
         },
         {
           "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
           "role": "Лис"
         }
       ],

@@ -58,14 +58,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Антон"
         },
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
           "role": "Антон"
         },
         {
@@ -98,14 +98,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Глушко&nbsp;Вячеслав",
-          "page_url": "/troupe/glushko/",
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
           "role": "Рома"
         },
         {
           "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
           "role": "Рома"
         }
       ],
@@ -115,20 +115,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мельничук&nbsp;Дмитро",
-          "page_url": "/troupe/melnychuk_d/",
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
           "role": "Тарас"
         },
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Тарас"
         },
         {
           "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
+          "name": "Мельничук&nbsp;Дмитро",
+          "page_url": "/troupe/melnychuk_d/",
           "role": "Тарас"
         }
       ],
@@ -145,7 +145,7 @@
     },
     {
       "has_page": true,
-      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     }

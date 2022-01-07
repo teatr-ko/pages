@@ -143,14 +143,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/okurko/",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
           "role": "Баба-яга"
         },
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
           "role": "Баба-яга"
         }
       ],
@@ -179,7 +179,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Кирило"
         }
@@ -190,14 +190,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Марія"
         },
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Марія"
         }
       ],
@@ -242,13 +242,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

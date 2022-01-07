@@ -142,15 +142,15 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
-          "page_url": null,
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Андронаті"
         },
         {
-          "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "has_page": false,
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": null,
           "role": "Андронаті"
         }
       ],
@@ -182,7 +182,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Іваниха-Дубиха,&nbsp;вдова"
         }
@@ -193,14 +193,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Мавра, донька Андронаті і&nbsp;Мидори"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Мавра, донька Андронаті і&nbsp;Мидори"
         }
       ],
@@ -216,7 +216,7 @@
         },
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Мидора"
         }
@@ -249,7 +249,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Раду, чоловік Маври, циганський&nbsp;ватага"
         }
@@ -260,7 +260,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Стара&nbsp;циганка"
         }
@@ -282,14 +282,26 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Цигани,&nbsp;гуцули"
         },
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": false,
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": null,
           "role": "Цигани,&nbsp;гуцули"
         },
         {
@@ -300,20 +312,8 @@
         },
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
-          "has_page": true,
           "name": "Філімонова&nbsp;Олександра",
           "page_url": "/troupe/oskrygunec/",
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
-          "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
           "role": "Цигани,&nbsp;гуцули"
         },
         {
@@ -323,9 +323,9 @@
           "role": "Цигани,&nbsp;гуцули"
         },
         {
-          "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
-          "page_url": null,
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Цигани,&nbsp;гуцули"
         }
       ],
@@ -335,7 +335,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Цимбаліст, товариш&nbsp;Андронаті"
         }
@@ -347,7 +347,7 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Асистент&nbsp;режисера"
     },
@@ -359,19 +359,19 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Пластика"
     },
     {
       "has_page": false,
-      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Сценографія та&nbsp;костюми"
     },
     {
       "has_page": true,
-      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/bbazylevych/",
       "role": "Помічник&nbsp;режисера"
     }

@@ -130,15 +130,15 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Господар"
-        },
-        {
           "has_page": false,
           "name": "Кравчук&nbsp;Олег",
           "page_url": null,
+          "role": "Господар"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Господар"
         }
       ],
@@ -148,7 +148,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Заєць"
         },
@@ -176,7 +176,7 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "name": "Галунка&nbsp;Мальвіна",
           "page_url": null,
           "role": "Лисиця"
         },
@@ -188,7 +188,7 @@
         },
         {
           "has_page": false,
-          "name": "Галунка&nbsp;Мальвіна",
+          "name": "Мощар&nbsp;Мар&#8217;яна",
           "page_url": null,
           "role": "Лисиця"
         }
@@ -197,12 +197,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
-          "role": "Миша&nbsp;1"
-        },
         {
           "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
@@ -214,6 +208,12 @@
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
           "role": "Миша&nbsp;1"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Миша&nbsp;1"
         }
       ],
       "role": "Миша 1"
@@ -221,15 +221,15 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Кравчук&nbsp;Галина",
-          "page_url": null,
-          "role": "Миша&nbsp;2"
-        },
-        {
           "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
           "page_url": "/troupe/gladyruk_o/",
+          "role": "Миша&nbsp;2"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
           "role": "Миша&nbsp;2"
         },
         {
@@ -251,7 +251,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Пан&nbsp;Коцький"
         }
@@ -269,7 +269,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
@@ -281,7 +281,7 @@
     },
     {
       "has_page": true,
-      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

@@ -83,14 +83,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Ада&nbsp;Гусман"
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Ада&nbsp;Гусман"
         }
       ],
@@ -100,7 +100,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Густаво&nbsp;Ферран"
         }
@@ -139,7 +139,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Леопольдіна&nbsp;Вільяміль"
         },
@@ -156,14 +156,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
           "role": "Луїза"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/okurko/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Луїза"
         }
       ],
@@ -224,14 +224,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
           "role": "Хорхе&nbsp;Вільяміль"
         },
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
           "role": "Хорхе&nbsp;Вільяміль"
         }
       ],
@@ -254,7 +254,7 @@
     },
     {
       "has_page": true,
-      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     }

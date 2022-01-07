@@ -97,9 +97,9 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
+          "has_page": false,
+          "name": "Малярчук&nbsp;Любов",
+          "page_url": null,
           "role": "Качечка&nbsp;Крячечка"
         },
         {
@@ -109,9 +109,9 @@
           "role": "Качечка&nbsp;Крячечка"
         },
         {
-          "has_page": false,
-          "name": "Малярчук&nbsp;Любов",
-          "page_url": null,
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Качечка&nbsp;Крячечка"
         }
       ],
@@ -148,7 +148,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

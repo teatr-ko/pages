@@ -110,8 +110,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Горпина&nbsp;Терпелиха"
         },
         {
@@ -122,8 +122,8 @@
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Горпина&nbsp;Терпелиха"
         }
       ],
@@ -133,26 +133,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
-          "role": "Звукотвори"
-        },
-        {
-          "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Звукотвори"
-        },
-        {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
-          "role": "Звукотвори"
-        },
-        {
-          "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
-          "page_url": null,
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
           "role": "Звукотвори"
         },
         {
@@ -163,8 +145,14 @@
         },
         {
           "has_page": true,
-          "name": "Філімонов&nbsp;Артур",
-          "page_url": "/troupe/filimonov/",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Звукотвори"
         },
         {
@@ -174,21 +162,33 @@
           "role": "Звукотвори"
         },
         {
-          "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
+          "has_page": false,
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": null,
           "role": "Звукотвори"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Звукотвори"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Звукотвори"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Звукотвори"
         }
       ],
@@ -215,14 +215,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
           "role": "Никола"
         },
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Никола"
         }
       ],
@@ -249,7 +249,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Тетерваковські"
         }
@@ -261,7 +261,7 @@
   "staff": [
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

@@ -23,14 +23,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Віллі"
         },
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Віллі"
         }
       ],
@@ -40,7 +40,7 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Богайчук Галина&nbsp;(концертмейстер)",
+          "name": "Богайчук&nbsp;Галина&nbsp;(концертмейстер)",
           "page_url": null,
           "role": "Музика цього&nbsp;будинку"
         }

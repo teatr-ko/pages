@@ -38,14 +38,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Баба"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Баба"
         }
       ],
@@ -55,7 +55,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Дід"
         }
@@ -66,14 +66,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Курочка&nbsp;Ряба"
         },
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Курочка&nbsp;Ряба"
         }
       ],
@@ -100,14 +100,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Сорока"
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
           "role": "Сорока"
         }
       ],
@@ -130,7 +130,7 @@
     },
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Режисер капітального відновлення&nbsp;вистави"
     }

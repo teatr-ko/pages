@@ -144,8 +144,20 @@
         },
         {
           "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Дівчата"
         },
         {
@@ -156,20 +168,8 @@
         },
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Дівчата"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
-          "role": "Дівчата"
-        },
-        {
-          "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Дівчата"
         }
       ],
@@ -179,7 +179,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Кандзюба"
         }
@@ -190,19 +190,19 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Одарка"
-        },
-        {
-          "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
           "role": "Одарка"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Одарка"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Одарка"
         }
@@ -224,19 +224,19 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Прокіп"
-        },
-        {
-          "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
           "role": "Прокіп"
         },
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Прокіп"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Прокіп"
         }
@@ -258,7 +258,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Стецько"
         }
@@ -298,13 +298,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/bbazylevych/",
       "role": "Асистент&nbsp;режисера"
     }

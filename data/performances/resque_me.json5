@@ -23,13 +23,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Даммерль"
-        },
-        {
-          "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Даммерль"
         },
@@ -37,6 +31,12 @@
           "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
+          "role": "Даммерль"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Даммерль"
         }
       ],
@@ -46,20 +46,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Катаріна&nbsp;Віммер"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Катаріна&nbsp;Віммер"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
-          "role": "Катаріна&nbsp;Віммер"
-        },
-        {
-          "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
           "role": "Катаріна&nbsp;Віммер"
         }
       ],
@@ -69,14 +69,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонов&nbsp;Артур",
-          "page_url": "/troupe/filimonov/",
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
           "role": "Петер&nbsp;Віммер"
         },
         {
           "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
           "role": "Петер&nbsp;Віммер"
         }
       ],
@@ -84,12 +84,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
-          "role": "Резель&nbsp;Шобер"
-        },
         {
           "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
@@ -100,6 +94,12 @@
           "has_page": true,
           "name": "Філімонова&nbsp;Олександра",
           "page_url": "/troupe/oskrygunec/",
+          "role": "Резель&nbsp;Шобер"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Резель&nbsp;Шобер"
         }
       ],
@@ -116,7 +116,7 @@
     },
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Асистент&nbsp;режисера"
     }

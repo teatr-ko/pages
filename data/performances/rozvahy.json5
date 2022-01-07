@@ -152,6 +152,12 @@
     {
       "persons": [
         {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Вікторія"
+        },
+        {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
@@ -161,12 +167,6 @@
           "has_page": true,
           "name": "Якубів&nbsp;Ольга",
           "page_url": "/troupe/ohnatiuk/",
-          "role": "Вікторія"
-        },
-        {
-          "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
-          "page_url": null,
           "role": "Вікторія"
         }
       ],
@@ -211,7 +211,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     }

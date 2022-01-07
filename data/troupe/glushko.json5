@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "27.02.98",
-  "full_name_with_patronymic": "Глушко&nbsp;Вячеслав ",
+  "full_name": "Глушко&nbsp;Вячеслав",
   "gallery": [],
   "grown_roles": [
     {
@@ -39,7 +39,7 @@
       "url": "/performances/sobacha_budka/"
     },
     {
-      "director": "Чиборак Дмитро, н.а.&nbsp;України",
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Роман, Клим",
       "url": "/performances/sto_tysiach/"
@@ -69,7 +69,7 @@
       "url": "/performances/bilja_kovchega/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
@@ -117,13 +117,13 @@
       "url": "/performances/three_pigs/"
     },
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Лис",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Ельф",
       "url": "/performances/zymovi_prygody_2/"
