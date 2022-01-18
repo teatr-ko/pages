@@ -5,7 +5,7 @@
   },
   "addition": "<hr />\r\n<p class=\"western\" lang=\"ru-RU\"><span lang=\"uk-UA\">Народилася в с. Велика Кам</span>&rsquo;<span lang=\"uk-UA\">янка Коломийського району Івано-Франківської&nbsp;області.</span></p>\r\n<p class=\"western\">В 2014 році закінчила кафедру театральної режисури художньо-педагогічний факультету Рівненського державного гуманітарного університету за спеціальністю &laquo;актор драматичного театру&raquo; (клас Мельничука Ю.&nbsp;С.).</p>\r\n<hr />\r\n<p class=\"western\">&nbsp;</p>\r\n<p class=\"western\">&nbsp;</p>",
   "date_of_birth": "05.02.90",
-  "full_name": "Гладирук&nbsp;Оксана",
+  "full_name_with_patronymic": "Гладирук Оксана&nbsp;Михайлівна",
   "gallery": [
     {
       "title": " - Сонечко в&nbsp;тобі",
@@ -53,7 +53,7 @@
       "url": "/performances/zaycyamy/"
     },
     {
-      "director": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Жанна",
       "url": "/performances/zvidky_berytsia_dity/"
@@ -89,7 +89,7 @@
       "url": "/performances/maty/"
     },
     {
-      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
+      "director": "Сєдлер (Siedler) Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Ганка",
       "url": "/performances/dulska/"
@@ -131,7 +131,7 @@
       "url": "/performances/sobacha_budka/"
     },
     {
-      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+      "director": "Чиборак Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Параска",
       "url": "/performances/sto_tysiach/"
@@ -191,7 +191,7 @@
       "url": "/performances/leopold/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "director": "Куцик Олександр, з.а.&nbsp;України",
       "performance": "Дерев’яне&nbsp;диво",
       "role": "Горпина",
       "url": "/performances/wooden_miracle/"
@@ -203,7 +203,7 @@
       "url": "/performances/dujmovochka/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Зимові&nbsp;пригоди",
       "role": "Снігова Королева,&nbsp;Сніговик",
       "url": "/performances/zymovi_pryhody/"
@@ -275,7 +275,7 @@
       "url": "/performances/sonechko/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Снігова&nbsp;Королева",
       "url": "/performances/zymovi_prygody_2/"

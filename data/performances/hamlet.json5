@@ -69,8 +69,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
           "role": "Блазні"
         },
         {
@@ -81,20 +81,20 @@
         },
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Блазні"
         },
         {
           "has_page": true,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Блазні"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Блазні"
         }
       ],
@@ -119,7 +119,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Гертруда"
         }
@@ -151,6 +151,18 @@
     {
       "persons": [
         {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Дами&nbsp;двору"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Дами&nbsp;двору"
+        },
+        {
           "has_page": false,
           "name": "Галунка&nbsp;Мальвіна",
           "page_url": null,
@@ -158,20 +170,8 @@
         },
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Дами&nbsp;двору"
-        },
-        {
-          "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
-          "role": "Дами&nbsp;двору"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
           "role": "Дами&nbsp;двору"
         }
       ],
@@ -181,7 +181,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Клавдій"
         }
@@ -219,7 +219,7 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Полоній"
         }
@@ -262,7 +262,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

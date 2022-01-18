@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "16.04.99",
-  "full_name": "Іванченко&nbsp;Владислав",
+  "full_name_with_patronymic": "Іванченко&nbsp;Владислав ",
   "gallery": [],
   "grown_roles": [
     {
@@ -45,7 +45,7 @@
       "url": "/performances/sobacha_budka/"
     },
     {
-      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+      "director": "Чиборак Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Роман, Клим",
       "url": "/performances/sto_tysiach/"
@@ -93,7 +93,7 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
@@ -141,13 +141,13 @@
       "url": "/performances/three_pigs/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "director": "Куцик Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Пес&nbsp;1-й, Ведмідь",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Гном, Нулик",
       "url": "/performances/zymovi_prygody_2/"

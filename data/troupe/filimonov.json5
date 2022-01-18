@@ -5,7 +5,7 @@
   },
   "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/55592\" target=\"_blank\">Посеред вистави &ldquo;Мати-наймичка&rdquo; неочікувано&nbsp;зааплодували</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56812\" target=\"_blank\">Свято театру, подароване українцям&nbsp;Лігниці</a></p>",
   "date_of_birth": "04.03.90",
-  "full_name": "Філімонов&nbsp;Артур",
+  "full_name_with_patronymic": "Філімонов Артур&nbsp;Вадимович",
   "gallery": [
     {
       "title": " - Boa&nbsp;constrictor",
@@ -293,7 +293,7 @@
       "url": "/performances/zaycyamy/"
     },
     {
-      "director": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Андрій",
       "url": "/performances/zvidky_berytsia_dity/"
@@ -353,7 +353,7 @@
       "url": "/performances/maty/"
     },
     {
-      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
+      "director": "Сєдлер (Siedler) Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Збишко&nbsp;Дульський",
       "url": "/performances/dulska/"
@@ -401,7 +401,7 @@
       "url": "/performances/sobacha_budka/"
     },
     {
-      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+      "director": "Чиборак Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Невідомий",
       "url": "/performances/sto_tysiach/"
@@ -485,7 +485,7 @@
       "url": "/performances/darmoidy/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "director": "Куцик Олександр, з.а.&nbsp;України",
       "performance": "Дерев’яне&nbsp;диво",
       "role": "Грицько, Дурень",
       "url": "/performances/wooden_miracle/"
@@ -509,7 +509,7 @@
       "url": "/performances/koza_dereza/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
@@ -569,7 +569,7 @@
       "url": "/performances/sonechko/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Танцюючий&nbsp;Ураган",
       "role": "Мінус",
       "url": "/performances/dancing_hurricane/"

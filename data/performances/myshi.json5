@@ -53,7 +53,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Альбін"
         },
@@ -97,15 +97,15 @@
           "role": "Ліда"
         },
         {
-          "has_page": false,
-          "name": "Малярчук&nbsp;Любов",
-          "page_url": null,
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Ліда"
         },
         {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "has_page": false,
+          "name": "Малярчук&nbsp;Любов",
+          "page_url": null,
           "role": "Ліда"
         }
       ],
@@ -115,14 +115,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Гелецький&nbsp;Володимир",
-          "page_url": "/troupe/vheletskyi/",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Мартин"
         },
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
           "role": "Мартин"
         }
       ],
@@ -189,13 +189,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+      "name": "Мардарій Роман, член&nbsp;НСТДУ",
       "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     }

@@ -63,7 +63,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Лісовик"
         }
@@ -78,7 +78,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Мавка-подруга"
         }
@@ -87,24 +87,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Галунка&nbsp;Мальвіна",
-          "page_url": null,
-          "role": "Мавки"
-        },
-        {
-          "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
-          "role": "Мавки"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
-          "role": "Мавки"
-        },
         {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
@@ -115,6 +97,24 @@
           "has_page": true,
           "name": "Якубів&nbsp;Ольга",
           "page_url": "/troupe/ohnatiuk/",
+          "role": "Мавки"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Мавки"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Мавки"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
           "role": "Мавки"
         }
       ],
@@ -156,13 +156,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Стара&nbsp;потвора"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
           "role": "Стара&nbsp;потвора"
         }
@@ -173,13 +173,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Степан"
         },
         {
           "has_page": false,
-          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Степан"
         }
@@ -190,7 +190,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Чорти"
         }
@@ -208,7 +208,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Хореографія"
     },
@@ -220,7 +220,7 @@
     },
     {
       "has_page": true,
-      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

@@ -186,30 +186,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
-          "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
-          "has_page": false,
-          "name": "Кравчук&nbsp;Галина",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
-          "has_page": false,
-          "name": "Мощар&nbsp;Мар&#8217;яна",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
           "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
@@ -225,6 +201,30 @@
           "has_page": true,
           "name": "Філімонова&nbsp;Олександра",
           "page_url": "/troupe/oskrygunec/",
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Воробйов&nbsp;Ігор",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Галина",
+          "page_url": null,
           "role": "Хор"
         },
         {
@@ -258,7 +258,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Пластичне&nbsp;вирішення"
     },
@@ -270,7 +270,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Асистент&nbsp;режисера"
     }

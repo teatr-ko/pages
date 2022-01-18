@@ -73,7 +73,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Ведмедик"
         }
@@ -84,7 +84,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Мавпочка"
         },
@@ -112,7 +112,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Сова Географівна,&nbsp;лікар"
         }
@@ -127,26 +127,26 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
-          "role": "Тітонька&nbsp;Ведведиха"
-        },
-        {
-          "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
-          "role": "Тітонька&nbsp;Ведведиха"
-        },
-        {
-          "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
           "role": "Тітонька&nbsp;Ведведиха"
         },
         {
           "has_page": true,
           "name": "Петрик&nbsp;Інна",
           "page_url": "/troupe/petryk_i/",
+          "role": "Тітонька&nbsp;Ведведиха"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Тітонька&nbsp;Ведведиха"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Тітонька&nbsp;Ведведиха"
         }
       ],
@@ -169,13 +169,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

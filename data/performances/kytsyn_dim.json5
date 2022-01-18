@@ -59,7 +59,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Кішка"
         }
@@ -100,7 +100,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
           "role": "Курка"
         }
@@ -174,7 +174,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Свиня"
         },
@@ -198,13 +198,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Асистент&nbsp;режисера"
     }

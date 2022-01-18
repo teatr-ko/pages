@@ -53,13 +53,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Вовк"
         },
         {
           "has_page": true,
-          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Вовк"
         }
@@ -70,13 +70,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Курча"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Курча"
         },
@@ -84,6 +78,12 @@
           "has_page": true,
           "name": "Якубів&nbsp;Ольга",
           "page_url": "/troupe/ohnatiuk/",
+          "role": "Курча"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
           "role": "Курча"
         }
       ],
@@ -93,14 +93,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
           "role": "Лисиця"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/okurko/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Лисиця"
         },
         {
@@ -117,7 +117,7 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

@@ -38,7 +38,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Вомбат"
         }
@@ -49,13 +49,13 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
+          "name": "Кравчук&nbsp;Олег",
           "page_url": null,
           "role": "Кіт"
         },
         {
           "has_page": false,
-          "name": "Кравчук&nbsp;Олег",
+          "name": "Воробйов&nbsp;Ігор",
           "page_url": null,
           "role": "Кіт"
         }
@@ -64,6 +64,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Миша"
+        },
         {
           "has_page": false,
           "name": "Кравчук&nbsp;Галина",
@@ -75,12 +81,6 @@
           "name": "Мартищук&nbsp;Олександра",
           "page_url": null,
           "role": "Миша"
-        },
-        {
-          "has_page": false,
-          "name": "Мощар&nbsp;Мар&#8217;яна",
-          "page_url": null,
-          "role": "Миша"
         }
       ],
       "role": "Миша"
@@ -90,7 +90,7 @@
   "staff": [
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     }

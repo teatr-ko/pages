@@ -58,14 +58,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
           "role": "Антон"
         },
         {
           "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Антон"
         },
         {
@@ -121,14 +121,14 @@
         },
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Мельничук&nbsp;Дмитро",
+          "page_url": "/troupe/melnychuk_d/",
           "role": "Тарас"
         },
         {
           "has_page": true,
-          "name": "Мельничук&nbsp;Дмитро",
-          "page_url": "/troupe/melnychuk_d/",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Тарас"
         }
       ],
@@ -145,7 +145,7 @@
     },
     {
       "has_page": true,
-      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+      "name": "Мардарій Роман, член&nbsp;НСТДУ",
       "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     }

@@ -40,7 +40,7 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Богайчук&nbsp;Галина&nbsp;(концертмейстер)",
+          "name": "Богайчук Галина&nbsp;(концертмейстер)",
           "page_url": null,
           "role": "Музика цього&nbsp;будинку"
         }
@@ -51,13 +51,13 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
+          "name": "Глік&nbsp;Богдан",
           "page_url": null,
           "role": "Том"
         },
         {
           "has_page": false,
-          "name": "Глік&nbsp;Богдан",
+          "name": "Воробйов&nbsp;Ігор",
           "page_url": null,
           "role": "Том"
         }

@@ -138,14 +138,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Запорожець"
         },
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
           "role": "Запорожець"
         }
       ],
@@ -155,7 +155,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Ірод"
         },
@@ -172,14 +172,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
           "role": "Кривда"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/okurko/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Кривда"
         }
       ],
@@ -189,13 +189,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Святий&nbsp;Миколай"
         },
         {
           "has_page": false,
-          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Святий&nbsp;Миколай"
         }
@@ -206,13 +206,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Смерть"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Смерть"
         },
@@ -232,9 +232,9 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Галунка&nbsp;Мальвіна",
-          "page_url": null,
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Яничари"
         },
         {
@@ -247,6 +247,12 @@
           "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
           "page_url": "/troupe/gladyruk_o/",
+          "role": "Яничари"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Яничари"
         },
         {
@@ -268,15 +274,9 @@
           "role": "Яничари"
         },
         {
-          "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
-          "role": "Яничари"
-        },
-        {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
+          "page_url": null,
           "role": "Яничари"
         }
       ],
@@ -287,7 +287,7 @@
   "staff": [
     {
       "has_page": false,
-      "name": "Козаренко Олександр,&nbsp;з.д.м.&nbsp;України",
+      "name": "Козаренко Олександр, з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Композитор"
     },
@@ -299,13 +299,13 @@
     },
     {
       "has_page": true,
-      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Хореографія"
     },

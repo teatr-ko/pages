@@ -5,7 +5,7 @@
   },
   "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/45013\">Прем&rsquo;єра Коломийського театру &#8220;Таїни сільського&nbsp;цвинтаря&#8221;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/45490\">Палітра. Захарій&nbsp;Новицький</a></p>\r\n<p><a href=\"http://ww2.gov.if.ua/yaremchanskiy/ua/catalog/item/1946.htm?1541959486=74115e9248277ed92e957d267972383e\">Нагородження грамотою голови районної державної адміністрації, голови районної ради та міського&nbsp;голови</a></p>",
   "date_of_birth": "06.04.52",
-  "full_name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+  "full_name_with_patronymic": "Новицький Захарій Ярославович, член НСТДУ&nbsp;None",
   "gallery": [
     {
       "title": "",
@@ -265,7 +265,7 @@
       "url": "/performances/svatannya/"
     },
     {
-      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+      "director": "Чиборак Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Бонавентура",
       "url": "/performances/sto_tysiach/"
@@ -343,7 +343,7 @@
       "url": "/performances/koza_dereza/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку,&nbsp;Кінь",
       "url": "/performances/when_animals/"
@@ -397,7 +397,7 @@
       "url": "/performances/ch_rukavychka/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Святий&nbsp;Миколай",
       "url": "/performances/zymovi_prygody_2/"

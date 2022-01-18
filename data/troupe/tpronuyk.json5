@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "19.10.85",
-  "full_name": "Пронюк&nbsp;Тетяна",
+  "full_name_with_patronymic": "Пронюк Тетяна&nbsp;Сергіївна",
   "gallery": [
     {
       "title": " - Boa&nbsp;constrictor",
@@ -87,7 +87,7 @@
       "url": "/performances/simya/"
     },
     {
-      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
+      "director": "Сєдлер (Siedler) Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Меля&nbsp;Дульська, Геся&nbsp;Дульська",
       "url": "/performances/dulska/"
@@ -117,7 +117,7 @@
       "url": "/performances/sirnychok/"
     },
     {
-      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+      "director": "Чиборак Дмитро, н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Мотря",
       "url": "/performances/sto_tysiach/"
@@ -219,13 +219,13 @@
       "url": "/performances/three_pigs/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "director": "Куцик Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Мавпа&nbsp;2-а",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Фея",
       "url": "/performances/zymovi_prygody_2/"

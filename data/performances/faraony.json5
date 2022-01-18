@@ -48,20 +48,20 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Аристарх"
+        },
+        {
+          "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
           "role": "Аристарх"
         },
         {
           "has_page": false,
-          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
           "page_url": null,
-          "role": "Аристарх"
-        },
-        {
-          "has_page": true,
-          "name": "Філімонов&nbsp;Артур",
-          "page_url": "/troupe/filimonov/",
           "role": "Аристарх"
         }
       ],
@@ -71,7 +71,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Баба&nbsp;Параска"
         }
@@ -82,7 +82,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
           "role": "Ганна"
         },
@@ -145,14 +145,14 @@
         },
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
           "role": "Корній"
         },
         {
           "has_page": true,
-          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/znovytskiy/",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Корній"
         }
       ],
@@ -162,14 +162,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Гелецький&nbsp;Володимир",
-          "page_url": "/troupe/vheletskyi/",
+          "name": "Косар&nbsp;Ілля",
+          "page_url": "/troupe/kosar_i/",
           "role": "Оверко"
         },
         {
           "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
           "role": "Оверко"
         },
         {
@@ -185,14 +185,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Одарка"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Одарка"
         }
       ],
@@ -202,13 +202,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Олена&nbsp;Устинівна"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
           "role": "Олена&nbsp;Устинівна"
         }
@@ -219,7 +219,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Онисько"
         },
@@ -253,7 +253,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Таран"
         }
@@ -270,7 +270,7 @@
         },
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Уляна"
         }
@@ -288,13 +288,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "page_url": "/troupe/bbazylevych/",
       "role": "Асистент&nbsp;режисера"
     }

@@ -63,8 +63,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Жінки"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Жінки"
         },
         {
@@ -75,14 +81,8 @@
         },
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Жінки"
-        },
-        {
-          "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Жінки"
         },
         {
@@ -98,14 +98,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
           "role": "Злодій"
         },
         {
           "has_page": true,
-          "name": "Філімонов&nbsp;Артур",
-          "page_url": "/troupe/filimonov/",
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
           "role": "Злодій"
         }
       ],
@@ -132,7 +132,7 @@
         },
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Максим"
         }
@@ -143,7 +143,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Михайло"
         }
@@ -155,13 +155,13 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     },
     {
       "has_page": false,
-      "name": "Козаренко Олександр,&nbsp;з.д.м.&nbsp;України",
+      "name": "Козаренко Олександр, з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Композитор, заслужений діяч мистецтв&nbsp;України"
     },

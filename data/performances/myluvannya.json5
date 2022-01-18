@@ -43,13 +43,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Аграфена&nbsp;Семенівна"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Аграфена&nbsp;Семенівна"
         }
@@ -65,15 +65,15 @@
           "role": "Ефжені"
         },
         {
-          "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Ефжені"
-        },
-        {
           "has_page": false,
           "name": "Кравчук&nbsp;Галина",
           "page_url": null,
+          "role": "Ефжені"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
           "role": "Ефжені"
         }
       ],
@@ -82,15 +82,15 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Гелецький&nbsp;Володимир",
-          "page_url": "/troupe/vheletskyi/",
+          "has_page": false,
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "page_url": null,
           "role": "Кирило Петрович&nbsp;Шпак"
         },
         {
-          "has_page": false,
-          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
-          "page_url": null,
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
           "role": "Кирило Петрович&nbsp;Шпак"
         }
       ],
@@ -111,7 +111,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Мотря"
         }
@@ -122,7 +122,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Потап"
         }
@@ -133,7 +133,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Прісінька"
         },
@@ -162,19 +162,13 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Бенедюк&nbsp;Петро",
-          "page_url": null,
-          "role": "Рота&nbsp;Скворцова"
-        },
-        {
-          "has_page": false,
           "name": "Воробйов&nbsp;Ігор",
           "page_url": null,
           "role": "Рота&nbsp;Скворцова"
         },
         {
           "has_page": false,
-          "name": "Кравчук&nbsp;Олег",
+          "name": "Бенедюк&nbsp;Петро",
           "page_url": null,
           "role": "Рота&nbsp;Скворцова"
         },
@@ -182,6 +176,12 @@
           "has_page": true,
           "name": "Філімонов&nbsp;Артур",
           "page_url": "/troupe/filimonov/",
+          "role": "Рота&nbsp;Скворцова"
+        },
+        {
+          "has_page": false,
+          "name": "Кравчук&nbsp;Олег",
+          "page_url": null,
           "role": "Рота&nbsp;Скворцова"
         }
       ],
@@ -191,7 +191,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Скворцов"
         },
@@ -208,7 +208,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Шельменко"
         }
@@ -232,13 +232,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Асистент&nbsp;режисера"
     }

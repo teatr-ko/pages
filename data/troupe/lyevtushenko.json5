@@ -5,7 +5,7 @@
   },
   "addition": "<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p>Спеціальна відзнака ХІ Міжнародного фестивалю етнічних театрів національних меншин України, країн СНД та Карпатського євро регіону &#8220;Етно-Діа-Сфера&#8221; (м.Мукачево, 2010 р.) за виконання ролі Баби Параски у виставі &laquo;Фараони&raquo;&nbsp;О.Коломійця.</p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://kolomyya.org/se/sites/ko/44378/\" target=\"_blank\">На Прикарпатті призначили стипендії в галузі культури і&nbsp;мистецтв</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/45013\">Прем&rsquo;єра Коломийського театру &#8220;Таїни сільського&nbsp;цвинтаря&#8221;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/46700\">Берегиня театру відсвяткувала 75-літній&nbsp;ювілей</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/46762\">75-літній ювілей відзначила актриса Коломийського театру Людмила&nbsp;Євтушенко</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/53255\" target=\"_blank\">Польський трикутник на фестивалі комедії в Чернівцях (театральний&nbsp;вікенд)</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58298\" target=\"_blank\">Формула життя Людмили&nbsp;Євтушенко</a></p>\r\n<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"http://teatr.kolomyya.org/news/item/58300\" target=\"_blank\">Актриса Коломийського театру Людмила Євтушенко відзначила 80-літній&nbsp;ювілей&nbsp;(відеосюжет)</a></h1>",
   "date_of_birth": "10.07.37",
-  "full_name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+  "full_name_with_patronymic": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ ",
   "gallery": [
     {
       "title": " - Boa&nbsp;constrictor",
@@ -143,7 +143,7 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
-      "director": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Паша",
       "url": "/performances/zvidky_berytsia_dity/"
@@ -155,7 +155,7 @@
       "url": "/performances/simya/"
     },
     {
-      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
+      "director": "Сєдлер (Siedler) Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Тадрахова",
       "url": "/performances/dulska/"

@@ -5,7 +5,7 @@
   },
   "addition": "",
   "additional_director_info": "",
-  "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+  "director": "Куцик Олександр, з.а.&nbsp;України",
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
@@ -23,14 +23,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
           "role": "Ведмідь"
         },
         {
           "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Ведмідь"
         }
       ],
@@ -135,14 +135,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
           "role": "Пес&nbsp;1-й"
         },
         {
           "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Пес&nbsp;1-й"
         }
       ],

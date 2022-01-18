@@ -187,6 +187,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Пінгвін&nbsp;2-й"
+        },
+        {
+          "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "Пінгвін&nbsp;2-й"
@@ -196,24 +202,12 @@
           "name": "Пронюк&nbsp;Тетяна",
           "page_url": "/troupe/tpronuyk/",
           "role": "Пінгвін&nbsp;2-й"
-        },
-        {
-          "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
-          "role": "Пінгвін&nbsp;2-й"
         }
       ],
       "role": "Пінгвін 2-й"
     },
     {
       "persons": [
-        {
-          "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
-          "role": "Пінгвін&nbsp;3-й"
-        },
         {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
@@ -224,6 +218,12 @@
           "has_page": true,
           "name": "Косар&nbsp;Ілля",
           "page_url": "/troupe/kosar_i/",
+          "role": "Пінгвін&nbsp;3-й"
+        },
+        {
+          "has_page": true,
+          "name": "Архангельський&nbsp;Володимир",
+          "page_url": "/troupe/arkhangelskii/",
           "role": "Пінгвін&nbsp;3-й"
         }
       ],
@@ -246,7 +246,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     }

@@ -38,14 +38,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Баба"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Баба"
         }
       ],
@@ -55,7 +55,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Дід"
         }
@@ -130,7 +130,7 @@
     },
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Режисер капітального відновлення&nbsp;вистави"
     }

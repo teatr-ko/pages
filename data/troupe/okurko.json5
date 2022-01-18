@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "17.04.59",
-  "full_name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+  "full_name_with_patronymic": "Курко Оксана, членкиня&nbsp;НСТДУ ",
   "gallery": [
     {
       "title": "",
@@ -268,7 +268,7 @@
       "url": "/performances/zaycyamy/"
     },
     {
-      "director": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Маргарита&nbsp;Андріївна",
       "url": "/performances/zvidky_berytsia_dity/"
@@ -298,7 +298,7 @@
       "url": "/performances/maty/"
     },
     {
-      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
+      "director": "Сєдлер (Siedler) Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Юлісевичова",
       "url": "/performances/dulska/"
@@ -394,7 +394,7 @@
       "url": "/performances/dujmovochka/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Зимові&nbsp;пригоди",
       "role": "Снігова Королева,&nbsp;Сніговик",
       "url": "/performances/zymovi_pryhody/"
@@ -418,7 +418,7 @@
       "url": "/performances/koza_dereza/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку",
       "url": "/performances/when_animals/"
@@ -460,7 +460,7 @@
       "url": "/performances/ch_rukavychka/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Снігова&nbsp;Королева",
       "url": "/performances/zymovi_prygody_2/"

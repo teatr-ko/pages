@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "23.04.96",
-  "full_name": "Петрик&nbsp;Інна",
+  "full_name_with_patronymic": "Петрик Інна&nbsp;Сергіївна",
   "gallery": [],
   "grown_roles": [
     {
@@ -51,13 +51,13 @@
       "url": "/performances/sv_morhayko/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "director": "Куцик Олександр, з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Заєць&nbsp;2-й",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Фея",
       "url": "/performances/zymovi_prygody_2/"

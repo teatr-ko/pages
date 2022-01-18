@@ -99,7 +99,7 @@
         },
         {
           "has_page": true,
-          "name": "Новицький&nbsp;Захарій Ярославович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Костя"
         }
@@ -110,7 +110,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "name": "Мардарій Роман, член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Маріо"
         }
@@ -121,7 +121,7 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Несміливий"
         }
@@ -132,7 +132,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Ніна"
         },
@@ -144,7 +144,7 @@
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Ніна"
         }
@@ -155,7 +155,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Чезаре"
+        },
+        {
+          "has_page": true,
+          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Чезаре"
         },
@@ -163,12 +169,6 @@
           "has_page": false,
           "name": "Кравчук&nbsp;Олег",
           "page_url": null,
-          "role": "Чезаре"
-        },
-        {
-          "has_page": true,
-          "name": "Філімонов&nbsp;Артур",
-          "page_url": "/troupe/filimonov/",
           "role": "Чезаре"
         }
       ],
@@ -179,13 +179,13 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Базилевич&nbsp;Богдан Богданович,&nbsp;член&nbsp;НСТДУ",
+      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
       "page_url": "/troupe/bbazylevych/",
       "role": "Асистент&nbsp;режисера"
     }
