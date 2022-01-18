@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:yandex="http://news.yandex.ru" version="2.0">
     <channel>
         <title>{{ feed.caption }}</title>
         <link>{{ feed.link }}</link>
@@ -9,11 +9,20 @@
                 <title>{{ caption }}</title>
                 <link>{{ link }}</link>
                 <description><![CDATA[
-                    {{{ description }}}
+                    {{ description }}
                     ]]></description>
-                <pubDate>{{ rss_date }}</pubDate>
+                <pubDate>{{ pubDate }}</pubDate>
                 <guid>{{ guid }}</guid>
                 <dc:date>{{ xml_date }}</dc:date>
+                <yandex:full-text><![CDATA[
+                    {{ fulltext }}
+                ]]></yandex:full-text>
+            {{#each categories}}
+                <category>{{ . }}</category>
+            {{/each}}
+            {{#each ecnlosure}}
+                <enclosure url="{{ url }}" type="{{ type }}"/>
+            {{/each}}
             </item>
         {{/each}}
     </channel>
