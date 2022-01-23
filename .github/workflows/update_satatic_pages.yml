@@ -39,6 +39,7 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           ref: 'main'
           path: 'pages'
+          fetch-depth: 1
 
       - name: Generate pages
         run: |
@@ -71,6 +72,7 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           path: 'static'
           ref: 'main'
+          fetch-depth: 1
 
       - name: Checkout static news media repository
         uses: actions/checkout@v2
@@ -79,6 +81,7 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           path: 'static-news'
           ref: 'main'
+          fetch-depth: 1
 
       - name: Sync static media
         run: |
