@@ -5,19 +5,50 @@
   },
   "addition": "",
   "date_of_birth": "15.05.02",
-  "full_name_with_patronymic": "Кінел Степан&nbsp;None",
+  "full_name": "Кінел&nbsp;Степан",
   "gallery": [],
-  "grown_roles": [],
+  "grown_roles": [
+    {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "Мати-наймичка",
+      "role": "Марко",
+      "url": "/performances/maty/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "Фараони",
+      "role": "Павлик",
+      "url": "/performances/faraony/"
+    }
+  ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/kinel/kinel__gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/kinel/kinel_gallery.jpg"
   },
   "kids_roles": [
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Кіт у&nbsp;чоботях",
+      "role": "Жак&nbsp;Простак, Людожер",
+      "url": "/performances/puss_in_boots/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Танцюючий&nbsp;Ураган",
+      "role": "Світлячок",
+      "url": "/performances/dancing_hurricane/"
+    },
+    {
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Пес&nbsp;2-й, Кабан",
       "url": "/performances/painted_fox/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Чудо Святого&nbsp;Миколая",
+      "role": "Гном, Нулик",
+      "url": "/performances/zymovi_prygody_2/"
     }
   ],
   "on_the_stage": "03.08.21",

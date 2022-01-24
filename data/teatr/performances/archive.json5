@@ -44,11 +44,21 @@
       {
         "image": {
           "name": "",
+          "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_05_small_ix_crop.jpg"
+        },
+        "name": "Дармоїди",
+        "url": "/performances/darmoidy/"
+      },
+      {
+        "image": {
+          "name": "",
           "url": "/korg/kol/portals/teatr/performances/dialog/16.02_05_small_ix_crop.jpg"
         },
         "name": "Діалог, якого не&nbsp;було",
         "url": "/performances/dialog/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -56,9 +66,7 @@
         },
         "name": "Дівка на відданню, або На милованє нема&nbsp;силованє",
         "url": "/performances/divka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -66,7 +74,9 @@
         },
         "name": "Звідки беруться&nbsp;діти",
         "url": "/performances/zvidky_berytsia_dity/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -74,9 +84,7 @@
         },
         "name": "Качечка&nbsp;Крячечка",
         "url": "/performances/kachechka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -84,7 +92,9 @@
         },
         "name": "Коханці",
         "url": "/performances/kohantsi/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -92,9 +102,7 @@
         },
         "name": "Недоторка",
         "url": "/performances/nedotorka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -102,7 +110,9 @@
         },
         "name": "Ніч на&nbsp;полонині",
         "url": "/performances/nich_na_polonyni/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -110,9 +120,7 @@
         },
         "name": "Нічні розваги з молодим&nbsp;Козерогом",
         "url": "/performances/rozvahy/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -120,7 +128,9 @@
         },
         "name": "Підступний&nbsp;сірничок",
         "url": "/performances/sirnychok/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -128,9 +138,7 @@
         },
         "name": "Повернення",
         "url": "/performances/povernennya/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -138,7 +146,9 @@
         },
         "name": "Подорож у країну&nbsp;мрій",
         "url": "/performances/podorozh/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "А я тебе іще&nbsp;кохаю…",
@@ -146,9 +156,7 @@
         },
         "name": "Романс про&nbsp;закоханих",
         "url": "/performances/romans/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -156,7 +164,9 @@
         },
         "name": "Сосиски, консерви і небо в&nbsp;алмазах",
         "url": "/performances/almazy/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -164,9 +174,7 @@
         },
         "name": "Стійкий олов’яний&nbsp;солдатик",
         "url": "/performances/ol_soldatyk/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -174,7 +182,9 @@
         },
         "name": "Суєта",
         "url": "/performances/sueta/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -182,9 +192,7 @@
         },
         "name": "Територія&nbsp;Б",
         "url": "/performances/terytoria/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -192,8 +200,7 @@
         },
         "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
         "url": "/performances/lubov/"
-      },
-      null
+      }
     ]
   ]
 }

@@ -3,7 +3,44 @@
     "output": "afisha/current/index.html",
     "template": "teatr/afisha"
   },
-  "items": [],
+  "items": [
+    {
+      "author": "М.Кропивницький",
+      "date": "Неділя,&nbsp;16.01.22",
+      "genre": "Музична казка",
+      "performance": "По щучому&nbsp;велінню",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/po_shchuchomy/"
+    },
+    {
+      "author": "Мирослав Мирович (Переклад із російської мови Андрія&nbsp;Луценка)",
+      "date": null,
+      "genre": "Комедія",
+      "performance": "Пограбування&nbsp;опівночі",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/porhabuvanniya/"
+    },
+    {
+      "author": "Ірина і Ян&nbsp;Златопольські",
+      "date": "Неділя,&nbsp;23.01.22",
+      "genre": "Казка",
+      "performance": "Чарівна&nbsp;рукавичка",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/ch_rukavychka/"
+    },
+    {
+      "author": "Григорій&nbsp;Квітка-Основ&#8217;яненко",
+      "date": null,
+      "genre": "Комедія",
+      "performance": "Сватання на&nbsp;Гончарівці",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/svatannya/"
+    }
+  ],
   "other_my": "Лютий&nbsp;2022",
   "other_period": "наступний",
   "other_url": "/afisha/next/",

@@ -44,21 +44,11 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_05_small_ix_crop.jpg"
-        },
-        "name": "Дармоїди",
-        "url": "/performances/darmoidy/"
-      },
-      {
-        "image": {
-          "name": "",
           "url": "/korg/kol/portals/teatr/performances/leopold/04_small_ix_crop.jpg"
         },
         "name": "День народження Кота&nbsp;Леопольда",
         "url": "/performances/leopold/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -66,7 +56,9 @@
         },
         "name": "Дерев’яне&nbsp;диво",
         "url": "/performances/wooden_miracle/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -74,9 +66,7 @@
         },
         "name": "Дюймовочка",
         "url": "/performances/dujmovochka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -84,7 +74,9 @@
         },
         "name": "Зимові&nbsp;пригоди",
         "url": "/performances/zymovi_pryhody/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -92,9 +84,7 @@
         },
         "name": "Золоте&nbsp;курча",
         "url": "/performances/kurcha/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -102,7 +92,9 @@
         },
         "name": "Івасик -&nbsp;Телесик",
         "url": "/performances/telesyk/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -110,6 +102,14 @@
         },
         "name": "Кицин&nbsp;дім",
         "url": "/performances/kytsyn_dim/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/puss_in_boots/photo_2021-11-23_14.39.52_small_ix_crop.jpeg"
+        },
+        "name": "Кіт у&nbsp;чоботях",
+        "url": "/performances/puss_in_boots/"
       }
     ],
     [

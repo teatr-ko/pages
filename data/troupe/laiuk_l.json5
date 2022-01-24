@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "11.04.79",
-  "full_name_with_patronymic": "Лаюк Любомир&nbsp;Іванович",
+  "full_name": "Лаюк&nbsp;Любомир",
   "gallery": [
     {
       "title": " - Три ідеальні&nbsp;подружжя",
@@ -57,7 +57,13 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Кіт у&nbsp;чоботях",
+      "role": "Король",
+      "url": "/performances/puss_in_boots/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Сніговик, Санта&nbsp;Клаус, Святий&nbsp;Миколай",
       "url": "/performances/zymovi_prygody_2/"

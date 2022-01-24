@@ -5,7 +5,7 @@
   },
   "addition": "<p class=\"western\" lang=\"ru-RU\">&nbsp;</p>\r\n<hr />\r\n<p><span style=\"font-style: italic;\">Народився в с. Пищатинці Борщівського району Тернопільської області. В 1986 році закінчив учбово-театральну студію при Національному академічному українському драматичному театрі імені Марії Заньковецької (клас заслуженого артиста України М. Яременка, народного артиста України Б. М. Козака, народної артистки України Л. М. Кадирової). Працював в Рівненському академічному обласному українському музично-драматичному театрі, Івано-Франківській обласній&nbsp;філармонії.</span></p>\r\n<hr />\r\n<ul>\r\n<li>&nbsp;<strong>Краща чоловіча роль</strong> за виконанні ролі Івана у виставі <a href=\"http://teatr.kolomyya.org/performances/stonecross/\" target=\"_blank\">&#8220;Камінний хрест&#8221;</a> Василя Стефаника на <span class=\"caps\">XI</span> фестивалі театрального мистецтва<strong> &#8220;<span class=\"caps\">HOMO</span> <span class=\"caps\">LUDENS</span>&#8221;</strong> (м.Миколаїв, Миколаївська обл., 2019)<hr /><a href=\"http://teatr.kolomyya.org/news/item/55592\" target=\"_blank\">Посеред вистави &ldquo;Мати-наймичка&rdquo; неочікувано&nbsp;зааплодували</a></li>\r\n</ul>\r\n<p class=\"western\" lang=\"ru-RU\"><em>&nbsp;</em></p>",
   "date_of_birth": "06.05.63",
-  "full_name_with_patronymic": "Гелецький Володимир&nbsp;Федорович",
+  "full_name": "Гелецький&nbsp;Володимир",
   "gallery": [
     {
       "title": " - Іродова&nbsp;морока",
@@ -75,7 +75,7 @@
       "url": "/performances/zaycyamy/"
     },
     {
-      "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "director": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Тимофій",
       "url": "/performances/zvidky_berytsia_dity/"
@@ -147,7 +147,7 @@
       "url": "/performances/svatannya/"
     },
     {
-      "director": "Чиборак Дмитро, н.а.&nbsp;України",
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Бонавентура",
       "url": "/performances/sto_tysiach/"
@@ -195,7 +195,7 @@
       "url": "/performances/myshi/"
     },
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Дерев’яне&nbsp;диво",
       "role": "Батько",
       "url": "/performances/wooden_miracle/"
@@ -213,7 +213,7 @@
       "url": "/performances/koza_dereza/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку,&nbsp;Кінь, Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес",
       "url": "/performances/when_animals/"
@@ -223,6 +223,12 @@
       "performance": "Котигорошко",
       "role": "Змій, він же Капшивий&nbsp;дід",
       "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Кіт у&nbsp;чоботях",
+      "role": "Король",
+      "url": "/performances/puss_in_boots/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
@@ -255,7 +261,7 @@
       "url": "/performances/barbi/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Танцюючий&nbsp;Ураган",
       "role": "Дядечко&nbsp;Струм",
       "url": "/performances/dancing_hurricane/"

@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "23.08.66",
-  "full_name_with_patronymic": "Максимчук Іван&nbsp;Іванович",
+  "full_name": "Максимчук&nbsp;Іван",
   "gallery": [],
   "grown_roles": [
     {
@@ -25,6 +25,12 @@
       "performance": "Мартин&nbsp;Боруля",
       "role": "Гервасій&nbsp;Гуляницький",
       "url": "/performances/martyn_borylia/"
+    },
+    {
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Савка",
+      "url": "/performances/sto_tysiach/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",

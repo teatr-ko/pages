@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "16.04.99",
-  "full_name_with_patronymic": "Іванченко&nbsp;Владислав ",
+  "full_name": "Іванченко&nbsp;Владислав",
   "gallery": [],
   "grown_roles": [
     {
@@ -45,7 +45,7 @@
       "url": "/performances/sobacha_budka/"
     },
     {
-      "director": "Чиборак Дмитро, н.а.&nbsp;України",
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Роман, Клим",
       "url": "/performances/sto_tysiach/"
@@ -93,7 +93,7 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
@@ -103,6 +103,12 @@
       "performance": "Котигорошко",
       "role": "Котигорошко",
       "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Кіт у&nbsp;чоботях",
+      "role": "Людожер",
+      "url": "/performances/puss_in_boots/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
@@ -136,18 +142,24 @@
     },
     {
       "director": "Цибульський&nbsp;Адам",
+      "performance": "Світлофор&nbsp;Моргайко",
+      "role": "Тигрик",
+      "url": "/performances/sv_morhayko/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
       "performance": "Троє&nbsp;поросят",
       "role": "Вовк",
       "url": "/performances/three_pigs/"
     },
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Пес&nbsp;1-й, Ведмідь",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Гном, Нулик",
       "url": "/performances/zymovi_prygody_2/"

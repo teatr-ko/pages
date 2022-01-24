@@ -5,7 +5,7 @@
   },
   "addition": "<p><strong>Заслужена артистка&nbsp;України</strong></p>\r\n<p><span style=\"font-weight: bold;\">Відзнаки театральних&nbsp;форумів</span></p>\r\n<ul>\r\n<li>Лауреат ІХ Регіонального фестивалю комедії &#8220;Золоті оплески Буковини&#8221; в номінації &#8220;Краща жіноча роль другого плану за виконання ролі Юлісевичової у виставі &#8220;Мораль пані Дульської&#8221; Г. Запольської (м. Чернівці, 2013&nbsp;р.)</li>\r\n<li style=\"text-align: justify;\"><strong>Краща жіноча роль&nbsp;</strong>за роль Параски у виставі&nbsp;&laquo;Сто тисяч&raquo; на&nbsp;<span>Міжнародному театральному фестивалі-конкурсі &#8220;Homo&nbsp; Ludens&#8221; (м. Миколаїв, 2021&nbsp;р.)</span></li>\r\n</ul>\r\n<hr />\r\n<p style=\"text-align: justify;\">&nbsp;</p>\r\n<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58444\" target=\"_blank\"><span>У Миколаєві назвали лауреатів Міжнародного театрального конкурсу Ноmo&nbsp;Ludens</span></a>&nbsp;<span style=\"font-size: medium;\">(2021)</span></h1>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41700\">Коломиянам показали нову виставу &ldquo;Мораль пані&nbsp;Дульської&rdquo;</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41815\">Коломийський театр налагодив міжнародну&nbsp;співпрацю</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/41852\">Гризота пані&nbsp;Дульської</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43843\"><span class=\"dquo\">&#8220;</span>Сватання на Гончарівці&#8221; зібрало повний&nbsp;зал</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43844\"><span class=\"dquo\">&#8220;</span>Сватання на Гончарівці&#8221; з коломийським&nbsp;акцентом</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43517\">Найстаріший театр Галичини по-новому глянув на вічну тему&nbsp;землі</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/50448\">Мораль&nbsp;по-коломийськи</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/50547\">Коломийський театр &ldquo;говорив&rdquo; з полтавськими глядачами на болючі теми&nbsp;сучасності</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/53255\" target=\"_blank\">Польський трикутник на фестивалі комедії в Чернівцях (театральний&nbsp;вікенд)</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/53348\" target=\"_blank\">Коломийський театр став лауреатом театрального фестивалю у&nbsp;Чернівцях</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56203\" target=\"_blank\">Дві прем&rsquo;єри представили у Коломийському&nbsp;театрі</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58186\">Акторці Коломийського театру присвоєно звання &laquo;Заслужений артист&nbsp;України&raquo;</a></p>",
   "date_of_birth": "10.09.74",
-  "full_name_with_patronymic": "Комарова Надія, з.а. України, членкиня НСТДУ&nbsp;None",
+  "full_name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
   "gallery": [
     {
       "title": "Жінка - &#8220;На полі крові&#8221;&nbsp;Л.Українка",
@@ -339,7 +339,7 @@
       "url": "/performances/zaycyamy/"
     },
     {
-      "director": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "director": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "performance": "Звідки беруться&nbsp;діти",
       "role": "Наталія&nbsp;Сергіївна",
       "url": "/performances/zvidky_berytsia_dity/"
@@ -381,7 +381,7 @@
       "url": "/performances/martyn_borylia/"
     },
     {
-      "director": "Сєдлер (Siedler) Мірослав&nbsp;(Miroslav)",
+      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Юлісевичова",
       "url": "/performances/dulska/"
@@ -423,7 +423,7 @@
       "url": "/performances/svatannya/"
     },
     {
-      "director": "Чиборак Дмитро, н.а.&nbsp;України",
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
       "performance": "Сто&nbsp;тисяч",
       "role": "Параска",
       "url": "/performances/sto_tysiach/"
@@ -533,7 +533,7 @@
     {
       "director": "Цибульський&nbsp;Адам",
       "performance": "Світлофор&nbsp;Моргайко",
-      "role": "Мавпочка",
+      "role": "Мавпочка, Тітонька&nbsp;Ведведиха",
       "url": "/performances/sv_morhayko/"
     },
     {
@@ -543,7 +543,7 @@
       "url": "/performances/ol_soldatyk/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Танцюючий&nbsp;Ураган",
       "role": "Робот&nbsp;Ураган",
       "url": "/performances/dancing_hurricane/"
@@ -606,7 +606,7 @@
       "url": "/performances/stonecross/"
     },
     {
-      "director": "Сєдлер (Siedler) Мірослав&nbsp;(Miroslav)",
+      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
       "performance": "Мораль пані&nbsp;Дульської",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/dulska/"

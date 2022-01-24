@@ -3,5 +3,5 @@
     "output": "admin/index.html",
     "template": "redirect"
   },
-  "redirect": "https://teatr-admin.kolomyya.org/admin/"
+  "redirect": "https://admin.teatr.kolomyya.org/admin/"
 }

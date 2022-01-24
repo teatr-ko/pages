@@ -5,7 +5,7 @@
   },
   "addition": "",
   "date_of_birth": "23.04.96",
-  "full_name_with_patronymic": "Петрик Інна&nbsp;Сергіївна",
+  "full_name": "Петрик&nbsp;Інна",
   "gallery": [],
   "grown_roles": [
     {
@@ -13,6 +13,12 @@
       "performance": "Мартин&nbsp;Боруля",
       "role": "Гості",
       "url": "/performances/martyn_borylia/"
+    },
+    {
+      "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+      "performance": "Сто&nbsp;тисяч",
+      "role": "Масові&nbsp;сцени",
+      "url": "/performances/sto_tysiach/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
@@ -33,6 +39,24 @@
       "url": "/performances/vinni/"
     },
     {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "Коза-дереза",
+      "role": "Хор",
+      "url": "/performances/koza_dereza/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Коли ще звірі&nbsp;говорили",
+      "role": "Актриса 2: Зайчик, Стара кобила, Продавчиня на&nbsp;ярмарку",
+      "url": "/performances/when_animals/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Кіт у&nbsp;чоботях",
+      "role": "Принцеса",
+      "url": "/performances/puss_in_boots/"
+    },
+    {
       "director": "Мельничук&nbsp;Дмитро",
       "performance": "Мауглі",
       "role": "Вовки",
@@ -51,13 +75,13 @@
       "url": "/performances/sv_morhayko/"
     },
     {
-      "director": "Куцик Олександр, з.а.&nbsp;України",
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
       "performance": "Фарбований&nbsp;лис",
       "role": "Заєць&nbsp;2-й",
       "url": "/performances/painted_fox/"
     },
     {
-      "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
       "role": "Фея",
       "url": "/performances/zymovi_prygody_2/"
