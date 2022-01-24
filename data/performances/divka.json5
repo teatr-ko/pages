@@ -23,13 +23,13 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Малярчук&nbsp;Любов",
+          "name": "Галунка&nbsp;Мальвіна",
           "page_url": null,
           "role": "Анничка"
         },
         {
           "has_page": false,
-          "name": "Галунка&nbsp;Мальвіна",
+          "name": "Малярчук&nbsp;Любов",
           "page_url": null,
           "role": "Анничка"
         },
@@ -46,7 +46,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Виборний"
         }
@@ -61,13 +61,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Дід"
         },
         {
           "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Дід"
         },
@@ -83,15 +83,15 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Філімонов&nbsp;Артур",
-          "page_url": "/troupe/filimonov/",
-          "role": "Микола"
-        },
-        {
           "has_page": false,
           "name": "Воробйов&nbsp;Ігор",
           "page_url": null,
+          "role": "Микола"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
           "role": "Микола"
         }
       ],
@@ -101,7 +101,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Петро"
         }
@@ -112,20 +112,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Терпелиха"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Терпелиха"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
-          "role": "Терпелиха"
-        },
-        {
-          "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
           "role": "Терпелиха"
         }
       ],
@@ -133,6 +133,18 @@
     },
     {
       "persons": [
+        {
+          "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Хор"
+        },
+        {
+          "has_page": false,
+          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "page_url": null,
+          "role": "Хор"
+        },
         {
           "has_page": true,
           "name": "Пронюк&nbsp;Тетяна",
@@ -146,21 +158,9 @@
           "role": "Хор"
         },
         {
-          "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
-          "page_url": null,
-          "role": "Хор"
-        },
-        {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
-          "role": "Хор"
-        },
-        {
-          "has_page": false,
-          "name": "Мощар&nbsp;Мар&#8217;яна",
-          "page_url": null,
           "role": "Хор"
         }
       ],
@@ -171,13 +171,13 @@
   "staff": [
     {
       "has_page": false,
-      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Сценографія та&nbsp;костюми"
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

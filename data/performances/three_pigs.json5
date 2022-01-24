@@ -3,7 +3,7 @@
     "output": "performances/three_pigs/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Жили собі троє братів, троє поросят. Цілісінькими днями вони гралися, співали, жартували. Та ось, літо добігає кінця і постає питання, де ж зимувати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Старші брати нашвидкуруч побудували собі будиночки, один із соломи, другий з гілочок, а молодший вирішив будувати з цегли, такий дім, щоб був наче фортеця. Довго потішалися над ним старші брати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>Та коли прийшло лихо і голодний Вовк намагався дістатися та з&rsquo;їсти поросят, чий задум був найвдалішим?</strong></span></p>\r\n</blockquote>",
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Жили собі троє братів, троє поросят. Цілісінькими днями вони гралися, співали, жартували. Та ось, літо добігає кінця і постає питання, де ж зимувати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Старші брати нашвидкуруч побудували собі будиночки, один із соломи, другий з гілочок, а молодший вирішив будувати з цегли, такий дім, щоб був наче фортеця. Довго потішалися над ним старші брати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Та коли прийшло лихо і голодний Вовк намагався дістатися та з&rsquo;їсти поросят, чий задум був найвдалішим?</strong></span></p>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник - Народний артист України&nbsp;-",
   "director": "Цибульський&nbsp;Адам",
   "director_has_page": false,
@@ -98,12 +98,6 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
-          "role": "Вовк"
-        },
-        {
-          "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Вовк"
@@ -121,7 +115,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Клоун"
         },
@@ -155,14 +149,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
           "role": "Ніф-Ніф"
         },
         {
           "has_page": true,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Ніф-Ніф"
         }
       ],
@@ -172,14 +166,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Нуф-Нуф"
         },
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Нуф-Нуф"
         }
       ],
@@ -190,13 +184,13 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент режисера - заслужена артистка&nbsp;України"
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Хореографія - заслужений діяч&nbsp;мистецтв,"
     },

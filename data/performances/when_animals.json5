@@ -5,7 +5,7 @@
   },
   "addition": "",
   "additional_director_info": "",
-  "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+  "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
   "director_has_page": true,
   "director_page_url": "/troupe/bbazylevych/",
   "duration": "45&nbsp;хв",
@@ -23,14 +23,8 @@
         },
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
-          "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку,&nbsp;Кінь"
-        },
-        {
-          "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
-          "page_url": null,
           "role": "Актор 1: Чоловік з мішком, Продавець на ярмарку,&nbsp;Кінь"
         }
       ],
@@ -38,12 +32,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Актор 2: Лис&nbsp;Микита"
-        },
         {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
@@ -54,6 +42,12 @@
           "has_page": true,
           "name": "Іванченко&nbsp;Владислав",
           "page_url": "/troupe/ivanchenko/",
+          "role": "Актор 2: Лис&nbsp;Микита"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Актор 2: Лис&nbsp;Микита"
         },
         {
@@ -69,13 +63,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
-          "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
-        },
-        {
-          "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
         },
@@ -83,12 +71,6 @@
           "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
-          "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
-        },
-        {
-          "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
           "role": "Актор 3: Ведмідь, Мисливець, Старий собака, Мисливський&nbsp;пес"
         }
       ],
@@ -98,14 +80,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
-          "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку"
-        },
-        {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
           "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку"
         },
         {
@@ -113,12 +89,30 @@
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Актриса 1: Лисичка, Продавчиня на&nbsp;ярмарку"
         }
       ],
       "role": "Актриса 1: Лисичка, Продавчиня на ярмарку"
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Актриса 2: Зайчик, Стара кобила, Продавчиня на&nbsp;ярмарку"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Актриса 2: Зайчик, Стара кобила, Продавчиня на&nbsp;ярмарку"
+        },
         {
           "has_page": true,
           "name": "Філімонова&nbsp;Олександра",
@@ -139,13 +133,13 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

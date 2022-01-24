@@ -173,8 +173,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
           "role": "Ворожбит"
         },
         {
@@ -185,8 +185,8 @@
         },
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Ворожбит"
         }
       ],
@@ -224,15 +224,15 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
-          "role": "Голос&nbsp;сьомий"
-        },
-        {
           "has_page": false,
           "name": "Малярчук&nbsp;Любов",
           "page_url": null,
+          "role": "Голос&nbsp;сьомий"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Голос&nbsp;сьомий"
         }
       ],
@@ -250,13 +250,13 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Мощар&nbsp;Мар&#8217;яна",
+          "name": "Данилова&nbsp;Світлана",
           "page_url": null,
           "role": "Голос&nbsp;шостий"
         },
         {
           "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
+          "name": "Мощар&nbsp;Мар&#8217;яна",
           "page_url": null,
           "role": "Голос&nbsp;шостий"
         }
@@ -304,7 +304,7 @@
   "staff": [
     {
       "has_page": false,
-      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Сценограф"
     },
@@ -322,7 +322,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

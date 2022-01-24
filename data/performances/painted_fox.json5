@@ -5,7 +5,7 @@
   },
   "addition": "",
   "additional_director_info": "",
-  "director": "Куцик Олександр, з.а.&nbsp;України",
+  "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
@@ -23,34 +23,21 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Ведмідь"
         },
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
           "role": "Ведмідь"
         }
       ],
       "role": "Ведмідь"
     },
     {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
-          "role": "Вовк"
-        },
-        {
-          "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
-          "role": "Вовк"
-        }
-      ],
+      "persons": [],
       "role": "Вовк"
     },
     {
@@ -96,12 +83,6 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
-          "role": "Лис"
-        },
-        {
-          "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Лис"
@@ -135,14 +116,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Пес&nbsp;1-й"
         },
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "name": "Новосад&nbsp;Дмитро",
+          "page_url": "/troupe/novosad_d/",
           "role": "Пес&nbsp;1-й"
         }
       ],
@@ -179,12 +160,6 @@
       "name": "Мідюсєва&nbsp;Ніна",
       "page_url": null,
       "role": "Балетмейстер"
-    },
-    {
-      "has_page": true,
-      "name": "Архангельський&nbsp;Володимир",
-      "page_url": "/troupe/arkhangelskii/",
-      "role": "Асистент&nbsp;режисера"
     },
     {
       "has_page": true,

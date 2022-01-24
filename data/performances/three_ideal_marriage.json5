@@ -3,7 +3,7 @@
     "output": "performances/three_ideal_marriage/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Три подружні пари, старі добрі друзі, відзначають річницю своїх весіль. Святкування перериває звістка про смерть спільного друга - Густаво Феррана. Зачинившись в кабінеті, чоловіки зачитують прощального листа покійного друга, який він заздалегідь залишив на випадок його&nbsp;смерті.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Це і стає причиною всіх подальших подій та&nbsp;викриттів.&nbsp;&nbsp;</span></p>\r\n</blockquote>",
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Три подружні пари, старі добрі друзі, відзначають річницю своїх весіль. Святкування перериває звістка про смерть спільного друга - Густаво Феррана. Зачинившись в кабінеті, чоловіки зачитують прощального листа покійного друга, який він заздалегідь залишив на випадок його&nbsp;смерті.</span></strong></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Це і стає причиною всіх подальших подій та&nbsp;викриттів.&nbsp;&nbsp;</span></strong></span></p>\r\n</blockquote>",
   "additional_director_info": "",
   "director": "Мельничук&nbsp;Дмитро",
   "director_has_page": true,
@@ -100,7 +100,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Густаво&nbsp;Ферран"
         }
@@ -139,14 +139,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Леопольдіна&nbsp;Вільяміль"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Леопольдіна&nbsp;Вільяміль"
         }
       ],
@@ -156,14 +156,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
           "role": "Луїза"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/okurko/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Луїза"
         }
       ],
@@ -175,12 +175,6 @@
           "has_page": true,
           "name": "Іванченко&nbsp;Владислав",
           "page_url": "/troupe/ivanchenko/",
-          "role": "Максимо&nbsp;Рохас"
-        },
-        {
-          "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
           "role": "Максимо&nbsp;Рохас"
         }
       ],
@@ -224,7 +218,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Хорхе&nbsp;Вільяміль"
         },
@@ -254,7 +248,7 @@
     },
     {
       "has_page": true,
-      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     }

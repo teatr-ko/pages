@@ -84,20 +84,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
-          "role": "Іа-Іа"
-        },
-        {
-          "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/znovytskiy/",
-          "role": "Іа-Іа"
-        },
-        {
-          "has_page": true,
           "name": "Лаюк&nbsp;Любомир",
           "page_url": "/troupe/laiuk_l/",
+          "role": "Іа-Іа"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
           "role": "Іа-Іа"
         },
         {
@@ -113,12 +107,6 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
-          "role": "Кролик"
-        },
-        {
-          "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
           "page_url": "/troupe/gladyruk_o/",
           "role": "Кролик"
@@ -128,12 +116,30 @@
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
           "role": "Кролик"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Кролик"
         }
       ],
       "role": "Кролик"
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "П&#8217;ятачок"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "П&#8217;ятачок"
+        },
         {
           "has_page": true,
           "name": "Філімонова&nbsp;Олександра",
@@ -145,24 +151,24 @@
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
           "role": "П&#8217;ятачок"
-        },
-        {
-          "has_page": true,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
-          "role": "П&#8217;ятачок"
-        },
-        {
-          "has_page": true,
-          "name": "Петрик&nbsp;Інна",
-          "page_url": "/troupe/petryk_i/",
-          "role": "П&#8217;ятачок"
         }
       ],
       "role": "П'ятачок"
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Сова"
+        },
+        {
+          "has_page": true,
+          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lyevtushenko/",
+          "role": "Сова"
+        },
         {
           "has_page": false,
           "name": "Малярчук&nbsp;Любов",
@@ -177,26 +183,14 @@
         },
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
-          "role": "Сова"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Сова"
         },
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lyevtushenko/",
-          "role": "Сова"
-        },
-        {
-          "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Сова"
         }
       ],
@@ -207,13 +201,13 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Асистент&nbsp;режисера"
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },

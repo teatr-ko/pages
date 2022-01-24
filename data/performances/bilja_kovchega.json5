@@ -3,7 +3,7 @@
     "output": "performances/bilja_kovchega/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>\"Біля ковчега о восьмій\" - це іронічна, дотепна і водночас зворушлива розповідь про дружбу, чесність та справжню любов.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>В основі сюжету - невелика пригода трьох надзвичайно схожих, але зовсім різних пінгвінів, які розмірковують про Бога, відповідальність за власні вчинки. Це кумедне пташине тріо усе своє життя сперечалося, сварилося, мирилося та копало одне одного&hellip; Так могло продовжуватись і надалі, якби не всесвітній потоп і шанс врятуватися на Ноєвому ковчезі. Щоправда, цілком легально, тобто на запрошення товстої голубки (офіційної представниці Ноя), зробити це вдасться лише двом, в той час, як доля третього пінгвіна повністю залежатиме від морального вибору друзів.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Водночас, подорож на Ноєвому ковчезі - це, як зазначила голубка \"рятувальна акція, а не розважальний круїз!\", і для пінгвінів у чудернацьких шапочках вона стає справжнісінькою пригодою, протягом якої у них виникає чимало підстав замислитися над сутністю та вчинками не лише Божими, але й власними.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Дуже зрозумілою для дитини мовою гри, виставаставить важливі питання, відповіді на які кожен знайде самостійно у розмові з дорослими чи спілкуючись з іншими дітьми. Ця історія змушує малечу повірити у цінність дружби, задля якої ризикують місцем на рятівному ковчезі, і Божій любові, яка не знає ніяких обмежень.</strong></span></p>\r\n</blockquote>",
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>\"Біля ковчега о восьмій\" - це іронічна, дотепна і водночас зворушлива розповідь про дружбу, чесність та справжню любов.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>В основі сюжету - невелика пригода трьох надзвичайно схожих, але зовсім різних пінгвінів, які розмірковують про Бога, відповідальність за власні вчинки. Це кумедне пташине тріо усе своє життя сперечалося, сварилося, мирилося та копало одне одного&hellip; Так могло продовжуватись і надалі, якби не всесвітній потоп і шанс врятуватися на Ноєвому ковчезі. Щоправда, цілком легально, тобто на запрошення товстої голубки (офіційної представниці Ноя), зробити це вдасться лише двом, в той час, як доля третього пінгвіна повністю залежатиме від морального вибору друзів.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>Водночас, подорож на Ноєвому ковчезі - це, як зазначила голубка \"рятувальна акція, а не розважальний круїз!\", і для пінгвінів у чудернацьких шапочках вона стає справжнісінькою пригодою, протягом якої у них виникає чимало підстав замислитися над сутністю та вчинками не лише Божими, але й власними.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>Дуже зрозумілою для дитини мовою гри, виставаставить важливі питання, відповіді на які кожен знайде самостійно у розмові з дорослими чи спілкуючись з іншими дітьми. Ця історія змушує малечу повірити у цінність дружби, задля якої ризикують місцем на рятівному ковчезі, і Божій любові, яка не знає ніяких обмежень.</strong></span></p>\r\n</blockquote>",
   "additional_director_info": "Режисер&nbsp;-",
   "director": "Кузик&nbsp;Анастасія",
   "director_has_page": false,
@@ -187,12 +187,6 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
-          "role": "Пінгвін&nbsp;2-й"
-        },
-        {
-          "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "Пінгвін&nbsp;2-й"
@@ -201,6 +195,12 @@
           "has_page": true,
           "name": "Пронюк&nbsp;Тетяна",
           "page_url": "/troupe/tpronuyk/",
+          "role": "Пінгвін&nbsp;2-й"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Пінгвін&nbsp;2-й"
         }
       ],
@@ -212,18 +212,6 @@
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
-          "role": "Пінгвін&nbsp;3-й"
-        },
-        {
-          "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
-          "role": "Пінгвін&nbsp;3-й"
-        },
-        {
-          "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
           "role": "Пінгвін&nbsp;3-й"
         }
       ],
@@ -246,7 +234,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     }

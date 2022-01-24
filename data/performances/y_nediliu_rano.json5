@@ -3,7 +3,7 @@
     "output": "performances/y_nediliu_rano/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<blockquote><hr />\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>В неділю рано зілля копала,</strong></em></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>У понеділок пополокала,</strong></em></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>А у вівторок зілля варила,</strong></em></span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><em><strong>В середу рано Гриця отруїла.</strong></em></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong>На канві фольклорного сюжету пісні - балади \"Ой не ходи Грицю, та й на вечорниці\" драматично перплітаються дві основні сюжетні лінії: доля циганки Маври, покараної за подружню зраду і романтичне кохання Гриця - рідного сина циганки...</strong></span></p>\r\n<hr />\r\n<p style=\"padding-left: 30px;\"><span style=\"font-family: arial black, avant garde; font-size: small;\"><strong><strong>Відзнаки театральних форумів:</strong></strong></span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: arial black, avant garde; font-size: small;\">Диплом &laquo;За головну жіночу роль&raquo; Олександра Філімонова за роль Тетяни у виставі &laquo;У неділю рано зілля копала&raquo; на <span class=\"caps\"><span class=\"caps\">XVI</span></span> Всеукраїнському фестивалі &laquo;Тернопільські театральні&nbsp;вечори&raquo; (м.Тернопіль, 2018р.)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: arial black, avant garde; font-size: small;\">Диплом&nbsp;&laquo;За жіночу роль другого плану&raquo; Якубів Ольга за роль Настки у виставі &laquo;У неділю рано зілля копала&raquo; на <span class=\"caps\">XVI</span> Всеукраїнському фестивалі &laquo;Тернопільські театральні&nbsp;вечори&raquo; (м.Тернопіль, 2018р.)</span></li>\r\n</ul>\r\n</blockquote>",
+  "addition": "<blockquote><hr />\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><em><strong>В неділю рано зілля копала,</strong></em></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><em><strong>У понеділок пополокала,</strong></em></span></p>\r\n<p style=\"margin-bottom: 0cm; line-height: 100%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><em><strong>А у вівторок зілля варила,</strong></em></span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><em><strong>В середу рано Гриця отруїла.</strong></em></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>На канві фольклорного сюжету пісні - балади \"Ой не ходи Грицю, та й на вечорниці\" драматично перплітаються дві основні сюжетні лінії: доля циганки Маври, покараної за подружню зраду і романтичне кохання Гриця - рідного сина циганки...</strong></span></p>\r\n<hr />\r\n<p style=\"padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #3366ff;\"><strong><strong>Відзнаки театральних форумів:</strong></strong></span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Диплом &laquo;За головну жіночу роль&raquo; Олександра Філімонова за роль Тетяни у виставі &laquo;У неділю рано зілля копала&raquo; на <span class=\"caps\"><span class=\"caps\">XVI</span></span> Всеукраїнському фестивалі &laquo;Тернопільські театральні&nbsp;вечори&raquo; (м.Тернопіль, 2018р.)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Диплом&nbsp;&laquo;За жіночу роль другого плану&raquo; Якубів Ольга за роль Настки у виставі &laquo;У неділю рано зілля копала&raquo; на <span class=\"caps\">XVI</span> Всеукраїнському фестивалі &laquo;Тернопільські театральні&nbsp;вечори&raquo; (м.Тернопіль, 2018р.)</span></li>\r\n</ul>\r\n</blockquote>",
   "additional_director_info": "Постановка, музичне оформлення – н.а.&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -143,14 +143,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
-          "role": "Андронаті"
-        },
-        {
-          "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
-          "page_url": null,
           "role": "Андронаті"
         }
       ],
@@ -182,7 +176,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Іваниха-Дубиха,&nbsp;вдова"
         }
@@ -193,14 +187,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Мавра, донька Андронаті і&nbsp;Мидори"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Мавра, донька Андронаті і&nbsp;Мидори"
         }
       ],
@@ -210,14 +204,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/okurko/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Мидора"
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
           "role": "Мидора"
         }
       ],
@@ -249,7 +243,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Раду, чоловік Маври, циганський&nbsp;ватага"
         }
@@ -260,7 +254,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Стара&nbsp;циганка"
         }
@@ -282,26 +276,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
-          "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
-          "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Цигани,&nbsp;гуцули"
         },
         {
@@ -312,20 +300,20 @@
         },
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
-          "has_page": true,
           "name": "Філімонова&nbsp;Олександра",
           "page_url": "/troupe/oskrygunec/",
           "role": "Цигани,&nbsp;гуцули"
         },
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Цигани,&nbsp;гуцули"
         }
       ],
@@ -335,7 +323,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Цимбаліст, товариш&nbsp;Андронаті"
         }
@@ -347,7 +335,7 @@
   "staff": [
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Асистент&nbsp;режисера"
     },
@@ -359,19 +347,19 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Пластика"
     },
     {
       "has_page": false,
-      "name": "Данько Микола, з.д.м.&nbsp;України",
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Сценографія та&nbsp;костюми"
     },
     {
       "has_page": true,
-      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/bbazylevych/",
       "role": "Помічник&nbsp;режисера"
     }

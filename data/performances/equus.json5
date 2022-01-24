@@ -92,7 +92,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Гаррі Делтон, власник&nbsp;стаєнь"
         }
@@ -102,8 +102,20 @@
     {
       "persons": [
         {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
           "has_page": false,
-          "name": "Федірко&nbsp;Дмитро",
+          "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+          "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": false,
+          "name": "Галунка&nbsp;Мальвіна",
           "page_url": null,
           "role": "Глядачі анатомічного&nbsp;театру"
         },
@@ -114,15 +126,15 @@
           "role": "Глядачі анатомічного&nbsp;театру"
         },
         {
-          "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
-          "role": "Глядачі анатомічного&nbsp;театру"
-        },
-        {
           "has_page": false,
           "name": "Кравчук&nbsp;Олег",
           "page_url": null,
+          "role": "Глядачі анатомічного&nbsp;театру"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Глядачі анатомічного&nbsp;театру"
         },
         {
@@ -133,25 +145,13 @@
         },
         {
           "has_page": false,
-          "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
-          "page_url": null,
-          "role": "Глядачі анатомічного&nbsp;театру"
-        },
-        {
-          "has_page": false,
           "name": "Федінчук&nbsp;Володимир",
           "page_url": null,
           "role": "Глядачі анатомічного&nbsp;театру"
         },
         {
-          "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Глядачі анатомічного&nbsp;театру"
-        },
-        {
           "has_page": false,
-          "name": "Галунка&nbsp;Мальвіна",
+          "name": "Федірко&nbsp;Дмитро",
           "page_url": null,
           "role": "Глядачі анатомічного&nbsp;театру"
         }
@@ -166,7 +166,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Естер Соломон,&nbsp;суддя"
         }
@@ -177,13 +177,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Лора Стренг, мати&nbsp;Алана"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Лора Стренг, мати&nbsp;Алана"
         }
@@ -198,6 +198,12 @@
       "persons": [
         {
           "has_page": false,
+          "name": "Данилова&nbsp;Світлана",
+          "page_url": null,
+          "role": "Медсестра"
+        },
+        {
+          "has_page": false,
           "name": "Мартищук&nbsp;Олександра",
           "page_url": null,
           "role": "Медсестра"
@@ -206,12 +212,6 @@
           "has_page": true,
           "name": "Якубів&nbsp;Ольга",
           "page_url": "/troupe/ohnatiuk/",
-          "role": "Медсестра"
-        },
-        {
-          "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
-          "page_url": null,
           "role": "Медсестра"
         }
       ],
@@ -231,33 +231,9 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
-          "role": "Пацієнти&nbsp;клініки"
-        },
-        {
-          "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
-          "role": "Пацієнти&nbsp;клініки"
-        },
-        {
           "has_page": false,
           "name": "Воротняк&nbsp;Юлія",
           "page_url": null,
-          "role": "Пацієнти&nbsp;клініки"
-        },
-        {
-          "has_page": false,
-          "name": "Макарчук&nbsp;Арсен",
-          "page_url": null,
-          "role": "Пацієнти&nbsp;клініки"
-        },
-        {
-          "has_page": true,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
           "role": "Пацієнти&nbsp;клініки"
         },
         {
@@ -277,6 +253,30 @@
           "name": "Кравчук&nbsp;Галина",
           "page_url": null,
           "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": false,
+          "name": "Макарчук&nbsp;Арсен",
+          "page_url": null,
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": true,
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Пацієнти&nbsp;клініки"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Пацієнти&nbsp;клініки"
         }
       ],
       "role": "Пацієнти клініки"
@@ -285,7 +285,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Помічник&nbsp;жерця"
         }
@@ -296,7 +296,7 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Симчич Зіновій Васильович, член&nbsp;НСТДУ",
+          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
           "page_url": null,
           "role": "Френк Стренг, батько&nbsp;Алана"
         }
@@ -314,7 +314,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Режисер із&nbsp;пластики"
     }

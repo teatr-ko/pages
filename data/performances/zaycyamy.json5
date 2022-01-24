@@ -3,7 +3,7 @@
     "output": "performances/zaycyamy/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<p class=\"western\" lang=\"uk-UA\">&nbsp;</p>\r\n<hr />\r\n<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Свирид Петрович Голохвостий - \"промотаний цирюльник\". Всі його статки - це борги. Однак, він себе вважає центром всесвіту, що \"розумом і багатством піднявся за хмари&hellip;\". Всі його достоїнства - вбрання \"хвисонистої моди і загрянишного матеріалу\" і \"ум і обхождєніє: делікатні хранцюзькі маньори\". А ще, його \"знаєт увесь Київ чисто\". Звісно, що з таким джентльменським набором, він - \"пєрвий жєніх\". І є вже наречена - донька багатих міщан Сірків - Проня&hellip; І не біда, що \"Проня й погана, як жаба...\" Вона - багата! А для серця у нього є Галя, від якої у нього \"&hellip;аж печінки пручаються\".</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Полювання розпочалося&hellip; Яка ж буде здобич?&nbsp;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56203\" target=\"_blank\">Дві прем&rsquo;єри представили у Коломийському театрі</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58178\" target=\"_blank\">У Мукачеві відбудуться осінні театральні вечори (ПРОГРАМА)</a></p>",
+  "addition": "<p class=\"western\" lang=\"uk-UA\">&nbsp;</p>\r\n<hr />\r\n<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Свирид Петрович Голохвостий - \"промотаний цирюльник\". Всі його статки - це борги. Однак, він себе вважає центром всесвіту, що \"розумом і багатством піднявся за хмари&hellip;\". Всі його достоїнства - вбрання \"хвисонистої моди і загрянишного матеріалу\" і \"ум і обхождєніє: делікатні хранцюзькі маньори\". А ще, його \"знаєт увесь Київ чисто\". Звісно, що з таким джентльменським набором, він - \"пєрвий жєніх\". І є вже наречена - донька багатих міщан Сірків - Проня&hellip; І не біда, що \"Проня й погана, як жаба...\" Вона - багата! А для серця у нього є Галя, від якої у нього \"&hellip;аж печінки пручаються\".</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Полювання розпочалося&hellip; Яка ж буде здобич?&nbsp;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/56203\" target=\"_blank\">Дві прем&rsquo;єри представили у Коломийському театрі</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/58178\" target=\"_blank\">У Мукачеві відбудуться осінні театральні вечори (ПРОГРАМА)</a></p>",
   "additional_director_info": "Режисер-постановник - заслужений артист&nbsp;України",
   "director": "Чиборак&nbsp;Дмитро",
   "director_has_page": false,
@@ -12,218 +12,103 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/03_small_ix_crop.jpg",
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/03_fh_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/03_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.01_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/1_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/1_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.02_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.02_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/9_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/9_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.03_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.03_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/12_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/12_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.04_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.04_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/14_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/14_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.05_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.05_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/16_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/16_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.06_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.06_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/22_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/22_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.07_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.07_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/27_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/27_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.08_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.08_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/32_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/32_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.09_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.09_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/35_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/35_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.10_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.10_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/36_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/36_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.11_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.11_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/52_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/52_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.12_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.12_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/48_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/48_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.13_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.13_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/57_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/57_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.14_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.14_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/58_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/58_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.15_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.15_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/63_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/63_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.16_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.16_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/65_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/65_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.17_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.17_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/68_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/68_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.18_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.18_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/72_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/72_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.19_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.19_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.20_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.20_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.21_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.21_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.22_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.22_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.23_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.23_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.24_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.24_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.25_index.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.25_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.26_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.26_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.27_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.27_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.28_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.28_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.29_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.29_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.30_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.30_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.31_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.31_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.32_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.32_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.33_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.33_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.34_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.34_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.36_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.36_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.37_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.37_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.38_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.38_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.39_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.39_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.40_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.40_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.41_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.41_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.42_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.42_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.43_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/09.05.2014.43_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/zaycyamy/75_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/zaycyamy/75_gallery.jpg"
     }
   ],
   "genre": "Комедія",
@@ -244,14 +129,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
-          "role": "Подруги&nbsp;Проні"
-        },
-        {
-          "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Подруги&nbsp;Проні"
         },
         {
@@ -262,8 +141,14 @@
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Подруги&nbsp;Проні"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Подруги&nbsp;Проні"
         }
       ],
@@ -273,8 +158,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
           "role": "Прокіп Свиридович&nbsp;Сірко"
         },
         {
@@ -285,8 +170,8 @@
         },
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Прокіп Свиридович&nbsp;Сірко"
         }
       ],
@@ -302,7 +187,7 @@
         },
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Проня"
         }
@@ -324,14 +209,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Секлита Пилипівна&nbsp;Лимариха"
         },
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Секлита Пилипівна&nbsp;Лимариха"
         }
       ],
@@ -341,14 +226,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Химка"
         },
         {
           "has_page": true,
-          "name": "Катеринчук&nbsp;Марія",
-          "page_url": "/troupe/mkaterynchuk/",
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Химка"
         },
         {
@@ -364,20 +249,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
-          "role": "Шафери&nbsp;Голохвостого"
-        },
-        {
-          "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Шафери&nbsp;Голохвостого"
         },
         {
           "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Шафери&nbsp;Голохвостого"
         }
       ],
@@ -387,13 +266,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Явдокія&nbsp;Пилипівна"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Явдокія&nbsp;Пилипівна"
         }
@@ -423,13 +302,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
       "role": "Асистент&nbsp;режисера"
     }

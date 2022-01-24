@@ -3,7 +3,7 @@
     "output": "performances/simya/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>\"&hellip; Діло з грушею скінчилось несподівано. Груша всохла, і дві сім'ї помирились. В обох садибах настала мирнота й тиша\"&hellip;</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong>Чи, помирилися Кайдаші?.. Чи, наступила мирнота і тиша в оселях братів?...&hellip;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<blockquote>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/49991\">Коломийський театр готує прем&rsquo;єру &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/50078\">У театрі показали виставу &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n</blockquote>",
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>\"&hellip; Діло з грушею скінчилось несподівано. Груша всохла, і дві сім'ї помирились. В обох садибах настала мирнота й тиша\"&hellip;</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>Чи, помирилися Кайдаші?.. Чи, наступила мирнота і тиша в оселях братів?...&hellip;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<blockquote>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/49991\">Коломийський театр готує прем&rsquo;єру &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/50078\">У театрі показали виставу &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник - народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -133,13 +133,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Євтушенко Людмила,  членкиня&nbsp;НСТДУ",
+          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lyevtushenko/",
           "role": "Баба&nbsp;Палажка"
         },
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Баба&nbsp;Палажка"
         }
@@ -150,14 +150,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
           "role": "Кайдаш"
         },
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Кайдаш"
         }
       ],
@@ -167,14 +167,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Моцок Любов, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
           "role": "Кайдашиха"
         },
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Кайдашиха"
         }
       ],
@@ -195,7 +195,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Кум"
         }
@@ -215,12 +215,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
-          "role": "Масові&nbsp;сцени"
-        },
         {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
@@ -246,14 +240,14 @@
         },
         {
           "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
+          "name": "Пронюк&nbsp;Тетяна",
+          "page_url": "/troupe/tpronuyk/",
           "role": "Мелашка"
         },
         {
           "has_page": true,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Мелашка"
         }
       ],
@@ -263,8 +257,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
-          "page_url": "/troupe/oskrygunec/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Мотря"
         },
         {
@@ -275,8 +269,8 @@
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
           "role": "Мотря"
         }
       ],
@@ -299,13 +293,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Мардарій Роман, член&nbsp;НСТДУ",
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     }

@@ -54,12 +54,6 @@
       "persons": [
         {
           "has_page": false,
-          "name": "Кравчук&nbsp;Галина",
-          "page_url": null,
-          "role": "Буратіно"
-        },
-        {
-          "has_page": false,
           "name": "Мартищук&nbsp;Олександра",
           "page_url": null,
           "role": "Буратіно"
@@ -68,14 +62,7 @@
       "role": "Буратіно"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Кравчук&nbsp;Олег",
-          "page_url": null,
-          "role": "Кіт"
-        }
-      ],
+      "persons": [],
       "role": "Кіт"
     },
     {
@@ -84,12 +71,6 @@
           "has_page": true,
           "name": "Пронюк&nbsp;Тетяна",
           "page_url": "/troupe/tpronuyk/",
-          "role": "Мишка"
-        },
-        {
-          "has_page": false,
-          "name": "Мощар&nbsp;Мар&#8217;яна",
-          "page_url": null,
           "role": "Мишка"
         },
         {
@@ -105,34 +86,15 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
-          "role": "П&#8217;єро"
-        },
-        {
-          "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
-          "page_url": null,
-          "role": "П&#8217;єро"
-        },
-        {
-          "has_page": false,
-          "name": "Данилова&nbsp;Світлана",
-          "page_url": null,
           "role": "П&#8217;єро"
         }
       ],
       "role": "П'єро"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
-          "page_url": null,
-          "role": "Сірничок"
-        }
-      ],
+      "persons": [],
       "role": "Сірничок"
     }
   ],
@@ -146,13 +108,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Хореографія"
     },
     {
       "has_page": true,
-      "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/huhorska/",
       "role": "Асистент&nbsp;режисера"
     }

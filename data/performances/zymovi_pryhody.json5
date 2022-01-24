@@ -3,9 +3,9 @@
     "output": "performances/zymovi_pryhody/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Новий рік. Зима. А снігу нема&hellip;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">_______________________________</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Та, невже, його й не буде?</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Наробили лиха люди,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Так образили природу, </span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Що й собі завдали шкоди.</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Гном і Ельф, Алхімік й Гудвін</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Хочуть допомогти людям&hellip;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Хто ж, нарешті, допоможе?</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Бо без снігу геть негоже!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><br /><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Хто подивиться цю казку, - </span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: book antiqua, palatino; font-size: small;\"><strong><span lang=\"uk-UA\">Точно знатиме розв</span>&rsquo;<span lang=\"uk-UA\">язку!</span></strong></span></p>",
+  "addition": "<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Новий рік. Зима. А снігу нема&hellip;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">_______________________________</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Та, невже, його й не буде?</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Наробили лиха люди,</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Так образили природу, </span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Що й собі завдали шкоди.</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><br /><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Гном і Ельф, Алхімік й Гудвін</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Хочуть допомогти людям&hellip;</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Хто ж, нарешті, допоможе?</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Бо без снігу геть негоже!</span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><br /><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Хто подивиться цю казку, - </span></strong></span></p>\r\n<p style=\"margin-bottom: 0.35cm; line-height: 115%; text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong><span lang=\"uk-UA\">Точно знатиме розв</span>&rsquo;<span lang=\"uk-UA\">язку!</span></strong></span></p>",
   "additional_director_info": "Режисер&nbsp;-",
-  "director": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+  "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
   "director_has_page": true,
   "director_page_url": "/troupe/bbazylevych/",
   "duration": "",
@@ -90,14 +90,7 @@
   "name": "Зимові&nbsp;пригоди",
   "personages": [
     {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Косар&nbsp;Ілля",
-          "page_url": "/troupe/kosar_i/",
-          "role": "Гном"
-        }
-      ],
+      "persons": [],
       "role": "Гном"
     },
     {
@@ -108,13 +101,13 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Святий Миколай, Гудвін,&nbsp;Алхімік"
         },
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Святий Миколай, Гудвін,&nbsp;Алхімік"
         }
@@ -125,14 +118,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Курко Оксана, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/okurko/",
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Снігова Королева,&nbsp;Сніговик"
         },
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
           "role": "Снігова Королева,&nbsp;Сніговик"
         }
       ],
@@ -172,7 +165,7 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     }

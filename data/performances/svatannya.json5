@@ -3,7 +3,7 @@
     "output": "performances/svatannya/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\" lang=\"uk-UA\"><span style=\"font-family: 'book antiqua', palatino;\"><span style=\"font-size: medium;\">Стецько не дурний&hellip; Його батько каже, що просто, у нього, не всі вдома. Але Стецько впевнений, що до вечора вони позбираються. А ще, у його батька, є ГРОШІ!!! І ця обставина дає право Стецькові свататись до любої дівчини у Гончарівці. Але дивакуваті дівчата іншої думки&hellip; Вони мріють про якесь КОХАННЯ&hellip;</span></span></p>\r\n</blockquote>\r\n<hr />\r\n<p>&nbsp;<a href=\"http://teatr.kolomyya.org/news/item/31719\">З 26 по 29 вересня Коломийський театр відвідає з гастролями Закарпаття</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/32076\">На Закарпатті відбувся гастрольний тур коломийського театру</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/32077\">В Мукачеві гастролював український театр із Коломиї</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/31719\">З 26 по 29 вересня Коломийський театр відвідає з гастролями Закарпаття</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43843\">\"Сватання на Гончарівці\" зібрало повний зал</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43844\">\"Сватання на Гончарівці\" з коломийським акцентом</a></p>",
+  "addition": "<blockquote>\r\n<p style=\"text-align: justify; padding-left: 30px;\" lang=\"uk-UA\"><span style=\"background-color: #ffffff; color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino;\"><span style=\"font-size: medium;\">Стецько не дурний&hellip; Його батько каже, що просто, у нього, не всі вдома. Але Стецько впевнений, що до вечора вони позбираються. А ще, у його батька, є ГРОШІ!!! І ця обставина дає право Стецькові свататись до любої дівчини у Гончарівці. Але дивакуваті дівчата іншої думки&hellip; Вони мріють про якесь КОХАННЯ&hellip;</span></span></strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<p>&nbsp;<a href=\"http://teatr.kolomyya.org/news/item/31719\">З 26 по 29 вересня Коломийський театр відвідає з гастролями Закарпаття</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/32076\">На Закарпатті відбувся гастрольний тур коломийського театру</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/32077\">В Мукачеві гастролював український театр із Коломиї</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/31719\">З 26 по 29 вересня Коломийський театр відвідає з гастролями Закарпаття</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43843\">\"Сватання на Гончарівці\" зібрало повний зал</a></p>\r\n<p><a href=\"http://teatr.kolomyya.org/news/item/43844\">\"Сватання на Гончарівці\" з коломийським акцентом</a></p>",
   "additional_director_info": "Режисер-постановник та сценограф – народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -138,20 +138,26 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
-          "role": "Дівчата"
-        },
-        {
-          "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
           "role": "Дівчата"
         },
         {
           "has_page": true,
-          "name": "Якубів&nbsp;Ольга",
-          "page_url": "/troupe/ohnatiuk/",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
           "role": "Дівчата"
         },
         {
@@ -162,14 +168,8 @@
         },
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Дівчата"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Дівчата"
         }
       ],
@@ -179,7 +179,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Кандзюба"
         }
@@ -190,19 +190,19 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Комарова Надія, з.а. України, членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Одарка"
-        },
-        {
-          "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
           "role": "Одарка"
         },
         {
           "has_page": true,
-          "name": "Угорська-Геник Галина,  членкиня&nbsp;НСТДУ",
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Одарка"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Одарка"
         }
@@ -224,20 +224,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Новицький Захарій Ярославович, член&nbsp;НСТДУ",
-          "page_url": "/troupe/znovytskiy/",
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
           "role": "Прокіп"
         },
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Прокіп"
         },
         {
           "has_page": true,
-          "name": "Гелецький&nbsp;Володимир",
-          "page_url": "/troupe/vheletskyi/",
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
           "role": "Прокіп"
         }
       ],
@@ -258,7 +258,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій Роман, член&nbsp;НСТДУ",
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Стецько"
         }
@@ -266,14 +266,7 @@
       "role": "Стецько"
     },
     {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Архангельський&nbsp;Володимир",
-          "page_url": "/troupe/arkhangelskii/",
-          "role": "Тиміш"
-        }
-      ],
+      "persons": [],
       "role": "Тиміш"
     },
     {
@@ -298,13 +291,13 @@
     },
     {
       "has_page": false,
-      "name": "Воротняк Мирослава, з. д. м.&nbsp;України",
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
       "page_url": null,
       "role": "Балетмейстер"
     },
     {
       "has_page": true,
-      "name": "Базилевич Богдан Богданович, член&nbsp;НСТДУ",
+      "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/bbazylevych/",
       "role": "Асистент&nbsp;режисера"
     }
