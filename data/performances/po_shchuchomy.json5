@@ -72,9 +72,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lyevtushenko/",
+          "page_url": null,
           "role": "Баба"
         },
         {
@@ -132,9 +132,9 @@
           "role": "Королиха"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lyevtushenko/",
+          "page_url": null,
           "role": "Королиха"
         },
         {

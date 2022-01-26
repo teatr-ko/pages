@@ -12,8 +12,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/simya/23_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/simya/23_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_gallery.jpg"
     },
     {
       "title": "",
@@ -132,9 +132,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lyevtushenko/",
+          "page_url": null,
           "role": "Баба&nbsp;Палажка"
         },
         {

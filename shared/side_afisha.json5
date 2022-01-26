@@ -1,5 +1,42 @@
 {
-  "items": [],
+  "items": [
+    {
+      "author": "за казками Івана&nbsp;Франка",
+      "date": "Неділя,&nbsp;06.02.22",
+      "genre": "казка",
+      "performance": "Коли ще звірі&nbsp;говорили",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/when_animals/"
+    },
+    {
+      "author": "Алехандро&nbsp;Касона",
+      "date": null,
+      "genre": "трагікомедія",
+      "performance": "Три ідеальні&nbsp;подружжя",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/three_ideal_marriage/"
+    },
+    {
+      "author": "за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
+      "date": "Неділя,&nbsp;13.02.22",
+      "genre": "сучасна українська казка",
+      "performance": "Пастка для&nbsp;орла",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/eagle_trap/"
+    },
+    {
+      "author": "Ольга&nbsp;Кобилянська",
+      "date": null,
+      "genre": "Притча",
+      "performance": "Земля",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/zemlya/"
+    }
+  ],
   "other_my": "Січень&nbsp;2022",
   "other_period": "попередній",
   "other_url": "/afisha/current/",

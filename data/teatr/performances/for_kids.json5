@@ -116,13 +116,16 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/koza/01_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/koza/koza_dereza_small_ix_crop.jpg"
         },
         "name": "Коза-дереза",
         "url": "/performances/koza_dereza/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/when_animals/zviri_small_ix_crop.jpg"
+        },
         "name": "Коли ще звірі&nbsp;говорили",
         "url": "/performances/when_animals/"
       }

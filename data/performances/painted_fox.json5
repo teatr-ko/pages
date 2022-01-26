@@ -3,7 +3,7 @@
     "output": "performances/painted_fox/index.html",
     "template": "teatr/performance"
   },
-  "addition": "",
+  "addition": "<blockquote>\r\n<p style=\"padding-left: 30px; text-align: justify;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Гадаєте так легко бути лисом? Лісова братія очікує від тебе все нових і нових витівок, а на полюванні звідусіль чатує небезпека.</span></strong></span></p>\r\n<p style=\"padding-left: 30px; text-align: justify;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Але наш лис Микита не з боязких! Подався до міста на полювання і просто-таки в самісінький ринок! Пси-детективи одразу ж впали лису на хвіст. І почалось, і закрутило... Чи вдасться Микиті вийти сухим із води?</span></strong></span></p>\r\n<p style=\"padding-left: 30px; text-align: justify;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Інтерпретація відомої казки Івана Франка отримали нове життя у виставі \"Фарбований лис\" режисера Олександра Куцика. </span></strong></span></p>\r\n<p style=\"padding-left: 30px; text-align: justify;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Гумор та іронія, стильне музичне оформлення й незвичайне поєднання маски й драматичного театру роблять виставу феєричною, виразною, цікавою як для дорослих, так і для дітей.</span></strong></span></p>\r\n<hr />\r\n<p style=\"padding-left: 30px; text-align: justify;\">&nbsp;</p>\r\n</blockquote>",
   "additional_director_info": "",
   "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
   "director_has_page": false,
@@ -37,7 +37,14 @@
       "role": "Ведмідь"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Вовк"
+        }
+      ],
       "role": "Вовк"
     },
     {

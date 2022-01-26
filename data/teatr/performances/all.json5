@@ -232,7 +232,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/simya/23_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_small_ix_crop.jpg"
         },
         "name": "Кайдашева&nbsp;сім’я",
         "url": "/performances/simya/"
@@ -278,13 +278,16 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/koza/01_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/koza/koza_dereza_small_ix_crop.jpg"
         },
         "name": "Коза-дереза",
         "url": "/performances/koza_dereza/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/when_animals/zviri_small_ix_crop.jpg"
+        },
         "name": "Коли ще звірі&nbsp;говорили",
         "url": "/performances/when_animals/"
       }

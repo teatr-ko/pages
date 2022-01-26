@@ -9,7 +9,13 @@
   "director_has_page": true,
   "director_page_url": "/troupe/bbazylevych/",
   "duration": "45&nbsp;хв",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/when_animals/zviri_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/when_animals/zviri_gallery.jpg"
+    }
+  ],
   "genre": "казка",
   "name": "Коли ще звірі&nbsp;говорили",
   "personages": [
