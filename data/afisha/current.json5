@@ -5,62 +5,44 @@
   },
   "items": [
     {
-      "author": "М.Кропивницький",
-      "date": "Неділя,&nbsp;16.01.22",
-      "genre": "Музична казка",
-      "performance": "По щучому&nbsp;велінню",
-      "place": "м.Коломия -&nbsp;театр",
-      "time": "13:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/po_shchuchomy/"
-    },
-    {
-      "author": "Мирослав Мирович (Переклад із російської мови Андрія&nbsp;Луценка)",
-      "date": null,
-      "genre": "Комедія",
-      "performance": "Пограбування&nbsp;опівночі",
-      "place": "м.Коломия -&nbsp;театр",
-      "time": "18:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/porhabuvanniya/"
-    },
-    {
-      "author": "Ірина і Ян&nbsp;Златопольські",
-      "date": "Неділя,&nbsp;23.01.22",
+      "author": "І.Юзюк (за казками&nbsp;А.Мілна)",
+      "date": "Неділя,&nbsp;06.02.22",
       "genre": "Казка",
-      "performance": "Чарівна&nbsp;рукавичка",
+      "performance": "Вінні-Пух та його&nbsp;друзі",
       "place": "м.Коломия -&nbsp;театр",
       "time": "13:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/ch_rukavychka/"
+      "url": "https://ng-teatr.kolomyya.org/performances/vinni/"
     },
     {
-      "author": "Григорій&nbsp;Квітка-Основ&#8217;яненко",
+      "author": "за п&#8217;єсою Франца&nbsp;Крьоца",
       "date": null,
-      "genre": "Комедія",
-      "performance": "Сватання на&nbsp;Гончарівці",
+      "genre": "комедія",
+      "performance": "Рятуйте, мене&nbsp;женять!",
       "place": "м.Коломия -&nbsp;театр",
       "time": "18:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/svatannya/"
+      "url": "https://ng-teatr.kolomyya.org/performances/resque_me/"
     },
     {
-      "author": "Шарль&nbsp;Перро",
-      "date": "Неділя,&nbsp;30.01.22",
-      "genre": "казка",
-      "performance": "Кіт у&nbsp;чоботях",
+      "author": "за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
+      "date": "Неділя,&nbsp;13.02.22",
+      "genre": "сучасна українська казка",
+      "performance": "Пастка для&nbsp;орла",
       "place": "м.Коломия -&nbsp;театр",
       "time": "13:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/puss_in_boots/"
+      "url": "https://ng-teatr.kolomyya.org/performances/eagle_trap/"
     },
     {
-      "author": "Смілянець&nbsp;Марина",
+      "author": "Ольга&nbsp;Кобилянська",
       "date": null,
-      "genre": "специфічна драма",
-      "performance": "Собача&nbsp;будка",
+      "genre": "Притча",
+      "performance": "Земля",
       "place": "м.Коломия -&nbsp;театр",
       "time": "18:00",
-      "url": "https://ng-teatr.kolomyya.org/performances/sobacha_budka/"
+      "url": "https://ng-teatr.kolomyya.org/performances/zemlya/"
     }
   ],
-  "other_my": "Лютий&nbsp;2022",
+  "other_my": "Березень&nbsp;2022",
   "other_period": "наступний",
   "other_url": "/afisha/next/",
-  "this_my": "Січень&nbsp;2022"
+  "this_my": "Лютий&nbsp;2022"
 }
