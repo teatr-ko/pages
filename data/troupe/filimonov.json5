@@ -193,6 +193,11 @@
       "url_small": "/korg/kol/portals/teatr/troup/filimonov/26.05.2_gallery.jpg"
     },
     {
+      "title": " - По щучому&nbsp;велінню",
+      "url": "/korg/kol/portals/teatr/troup/filimonov/25_rio_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/filimonov/25_rio_gallery.jpg"
+    },
+    {
       "title": " - Романс про&nbsp;закоханих",
       "url": "/korg/kol/portals/teatr/troup/filimonov/136528287_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/filimonov/136528287_gallery.jpg"
@@ -535,7 +540,7 @@
     {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "По щучому&nbsp;велінню",
-      "role": "Сміхотвор",
+      "role": "Сміхотвор, Хома",
       "url": "/performances/po_shchuchomy/"
     },
     {
