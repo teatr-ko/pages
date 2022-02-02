@@ -8,7 +8,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/bilja_kovchega/bilja_kovchega_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/bilja_kovchega/bilja_kovchega_cr_gal_ix.jpg"
         },
         "name": "Біля ковчега о&nbsp;восьмій",
         "url": "/performances/bilja_kovchega/"
@@ -16,7 +16,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/bremenski/01_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/bremenski/01_cr_gal_ix.jpg"
         },
         "name": "Бременські&nbsp;музиканти",
         "url": "/performances/bremenski/"
@@ -26,7 +26,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/vinni/1_rio_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/vinni/1_rio_cr_gal_ix.jpg"
         },
         "name": "Вінні-Пух та його&nbsp;друзі",
         "url": "/performances/vinni/"
@@ -70,7 +70,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/zymovi_pryhody/01_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/zymovi_pryhody/01_fh_gal_ix.jpg"
         },
         "name": "Зимові&nbsp;пригоди",
         "url": "/performances/zymovi_pryhody/"
@@ -80,7 +80,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/kurcha/золоте_курча_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/kurcha/золоте_курча_fh_gal_ix.jpg"
         },
         "name": "Золоте&nbsp;курча",
         "url": "/performances/kurcha/"
@@ -106,7 +106,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/puss_in_boots/photo_2021-11-23_14.39.52_small_ix_crop.jpeg"
+          "url": "/korg/kol/portals/teatr/performances/puss_in_boots/photo_2021-11-23_14.39.52_cr_gal_ix.jpeg"
         },
         "name": "Кіт у&nbsp;чоботях",
         "url": "/performances/puss_in_boots/"
@@ -116,7 +116,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/koza/koza_dereza_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/koza/koza_dereza_fh_gal_ix.jpg"
         },
         "name": "Коза-дереза",
         "url": "/performances/koza_dereza/"
@@ -124,7 +124,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/when_animals/zviri_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/when_animals/zviri_fh_gal_ix.jpg"
         },
         "name": "Коли ще звірі&nbsp;говорили",
         "url": "/performances/when_animals/"
@@ -134,7 +134,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/kotyhoroshko/01_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/kotyhoroshko/kotygoroshko_cr_gal_ix.jpg"
         },
         "name": "Котигорошко",
         "url": "/performances/kotyhoroshko/"
@@ -159,58 +159,50 @@
       },
       {
         "image": {
-          "name": "Наталія Максимчук (за мотивами української народної казки) &#8220;Пан&nbsp;Коцький&#8221;",
-          "url": "/korg/kol/portals/teatr/performances/kockyy/136810119_small_ix_crop.jpg"
-        },
-        "name": "Пан&nbsp;Коцький",
-        "url": "/performances/kockyy/"
-      }
-    ],
-    [
-      {
-        "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/eagle_trap/eagle_trap_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/eagle_trap/eagle_trap_fh_gal_ix.jpg"
         },
         "name": "Пастка для&nbsp;орла",
         "url": "/performances/eagle_trap/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/87_fh_gal_ix.jpeg"
+          "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/87_cr_gal_ix.jpeg"
         },
         "name": "По щучому&nbsp;велінню",
         "url": "/performances/po_shchuchomy/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_cr_gal_ix.jpg"
         },
         "name": "Попелюшка",
         "url": "/performances/popelyushka/"
-      },
-      {
-        "image": {
-          "name": "",
-          "url": "/korg/kol/portals/teatr/performances/pravdaikryvda/15_small_ix_crop.jpg"
-        },
-        "name": "Правда і&nbsp;Кривда",
-        "url": "/performances/pravdaikryvda/"
       }
     ],
     [
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/ch_shapochka/червона_шапочка_rio_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/pravdaikryvda/pravda_fh_gal_ix.jpg"
+        },
+        "name": "Правда і&nbsp;Кривда",
+        "url": "/performances/pravdaikryvda/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ch_shapochka/червона_шапочка_rio_cr_gal_ix.jpg"
         },
         "name": "Пригоди Червоної&nbsp;Шапочки",
         "url": "/performances/ch_shapochka/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -218,9 +210,7 @@
         },
         "name": "Світлофор&nbsp;Моргайко",
         "url": "/performances/sv_morhayko/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -228,7 +218,9 @@
         },
         "name": "Сонечко в&nbsp;тобі",
         "url": "/performances/sonechko/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -236,54 +228,51 @@
         },
         "name": "Спасибі,&nbsp;Барбі",
         "url": "/performances/barbi/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/dancing_tornado/tornado_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/dancing_tornado/tornado_cr_gal_ix.jpg"
         },
         "name": "Танцюючий&nbsp;Ураган",
         "url": "/performances/dancing_hurricane/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/three_pigs/three_pigs_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/three_pigs/three_pigs_cr_gal_ix.jpg"
         },
         "name": "Троє&nbsp;поросят",
         "url": "/performances/three_pigs/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/painted_fox/фарбований_лис111_fh_gal_ix.jpg"
+          "url": "/korg/kol/portals/teatr/performances/painted_fox/фарбований_лис111_cr_gal_ix.jpg"
         },
         "name": "Фарбований&nbsp;лис",
         "url": "/performances/painted_fox/"
-      },
-      {
-        "image": {
-          "name": "",
-          "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/55_fh_gal_ix.jpg"
-        },
-        "name": "Чарівна&nbsp;рукавичка",
-        "url": "/performances/ch_rukavychka/"
       }
     ],
     [
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/zymovi_prygody_2/chydo_small_ix_crop.jpg"
+          "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/55_cr_gal_ix.jpg"
+        },
+        "name": "Чарівна&nbsp;рукавичка",
+        "url": "/performances/ch_rukavychka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zymovi_prygody_2/chydo_cr_gal_ix.jpg"
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      },
-      null
+      }
     ]
   ]
 }

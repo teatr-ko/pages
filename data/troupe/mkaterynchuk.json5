@@ -180,6 +180,12 @@
       "url": "/performances/hamlet/"
     },
     {
+      "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Колосок",
+      "url": "/performances/darmoidy/"
+    },
+    {
       "director": "Коломійцев&nbsp;Олексій",
       "performance": "Дівка на відданню, або На милованє нема&nbsp;силованє",
       "role": "Терпелиха",
@@ -346,12 +352,6 @@
       "performance": "Вінні-Пух та його&nbsp;друзі",
       "role": "Кролик",
       "url": "/performances/vinni/"
-    },
-    {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Колосок",
-      "url": "/performances/darmoidy/"
     },
     {
       "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",

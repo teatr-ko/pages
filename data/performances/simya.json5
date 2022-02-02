@@ -3,7 +3,7 @@
     "output": "performances/simya/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>\"&hellip; Діло з грушею скінчилось несподівано. Груша всохла, і дві сім'ї помирились. В обох садибах настала мирнота й тиша\"&hellip;</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #666699;\"><strong>Чи, помирилися Кайдаші?.. Чи, наступила мирнота і тиша в оселях братів?...&hellip;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<blockquote>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/49991\">Коломийський театр готує прем&rsquo;єру &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/50078\">У театрі показали виставу &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n</blockquote>",
+  "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>\"&hellip; Діло з грушею скінчилось несподівано. Груша всохла, і дві сім'ї помирились. В обох садибах настала мирнота й тиша\"&hellip;</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Чи, помирилися Кайдаші?.. Чи, наступила мирнота і тиша в оселях братів?...&hellip;</strong></span></p>\r\n</blockquote>\r\n<hr />\r\n<blockquote>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/49991\">Коломийський театр готує прем&rsquo;єру &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://teatr.kolomyya.org/news/item/50078\">У театрі показали виставу &ldquo;Кайдашева сім&rsquo;я&rdquo;</a></p>\r\n</blockquote>",
   "additional_director_info": "Режисер-постановник - народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -12,7 +12,7 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_small_ix_crop.jpg",
+      "url": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_fh_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_gallery.jpg"
     },
     {
@@ -131,12 +131,6 @@
   "personages": [
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Баба&nbsp;Палажка"
-        },
         {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",

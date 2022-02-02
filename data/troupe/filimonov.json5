@@ -281,6 +281,12 @@
     },
     {
       "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Сірий",
+      "url": "/performances/darmoidy/"
+    },
+    {
+      "director": "Мартищук&nbsp;Володимир",
       "performance": "Діалог, якого не&nbsp;було",
       "role": "Ігор",
       "url": "/performances/dialog/"
@@ -482,12 +488,6 @@
       "performance": "Вінні-Пух та його&nbsp;друзі",
       "role": "Іа-Іа",
       "url": "/performances/vinni/"
-    },
-    {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Сірий",
-      "url": "/performances/darmoidy/"
     },
     {
       "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",

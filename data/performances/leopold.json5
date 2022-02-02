@@ -37,12 +37,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Бабуся&nbsp;Леопольда"
-        },
-        {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",

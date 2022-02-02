@@ -342,6 +342,12 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Вовк",
+      "url": "/performances/darmoidy/"
+    },
+    {
       "director": "Коломійцев&nbsp;Олексій",
       "performance": "Дівка на відданню, або На милованє нема&nbsp;силованє",
       "role": "Дід",
@@ -474,6 +480,12 @@
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "Стійкий олов’яний&nbsp;солдатик",
+      "role": "Третій&nbsp;стражник",
+      "url": "/performances/ol_soldatyk/"
+    },
+    {
       "director": "Коломієць&nbsp;Ростислав",
       "performance": "Суєта",
       "role": "Генерал, Тарас&nbsp;Гупаленко",
@@ -544,12 +556,6 @@
       "performance": "Всі миші люблять&nbsp;сир",
       "role": "Мартин",
       "url": "/performances/myshi/"
-    },
-    {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Вовк",
-      "url": "/performances/darmoidy/"
     },
     {
       "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
@@ -634,12 +640,6 @@
       "performance": "Спасибі,&nbsp;Барбі",
       "role": "Король",
       "url": "/performances/barbi/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "Стійкий олов’яний&nbsp;солдатик",
-      "role": "Третій&nbsp;стражник",
-      "url": "/performances/ol_soldatyk/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",

@@ -12,7 +12,7 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/y_nediliu_rano/y_nediliu_rano_1_small_ix_crop.jpg",
+      "url": "/korg/kol/portals/teatr/performances/y_nediliu_rano/y_nediliu_rano_1_cr_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/y_nediliu_rano/y_nediliu_rano_1_gallery.jpg"
     },
     {
@@ -251,14 +251,7 @@
       "role": "Раду, чоловік Маври, циганський ватага"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Стара&nbsp;циганка"
-        }
-      ],
+      "persons": [],
       "role": "Стара циганка"
     },
     {

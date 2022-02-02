@@ -271,6 +271,12 @@
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "Стійкий олов’яний&nbsp;солдатик",
+      "role": "Принцеса, Дівчинка",
+      "url": "/performances/ol_soldatyk/"
+    },
+    {
       "director": "Коломієць&nbsp;Ростислав",
       "performance": "Суєта",
       "role": "Василина",
@@ -395,12 +401,6 @@
       "performance": "Спасибі,&nbsp;Барбі",
       "role": "Барбі",
       "url": "/performances/barbi/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "Стійкий олов’яний&nbsp;солдатик",
-      "role": "Принцеса, Дівчинка",
-      "url": "/performances/ol_soldatyk/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

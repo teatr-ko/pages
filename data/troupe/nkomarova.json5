@@ -327,6 +327,12 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Колосок",
+      "url": "/performances/darmoidy/"
+    },
+    {
       "director": "Коломійцев&nbsp;Олексій",
       "performance": "Дівка на відданню, або На милованє нема&nbsp;силованє",
       "role": "Терпелиха",
@@ -429,6 +435,12 @@
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "Стійкий олов’яний&nbsp;солдатик",
+      "role": "Відьма, кухарка,&nbsp;фрейлін",
+      "url": "/performances/ol_soldatyk/"
+    },
+    {
       "director": "Коломієць&nbsp;Ростислав",
       "performance": "Суєта",
       "role": "Василина, Явдоха",
@@ -483,12 +495,6 @@
       "url": "/performances/bremenski/"
     },
     {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Колосок",
-      "url": "/performances/darmoidy/"
-    },
-    {
       "director": "Цибульський&nbsp;Адам",
       "performance": "День народження Кота&nbsp;Леопольда",
       "role": "Біле&nbsp;Мишеня, Сіре&nbsp;Мишеня",
@@ -535,12 +541,6 @@
       "performance": "Світлофор&nbsp;Моргайко",
       "role": "Мавпочка, Тітонька&nbsp;Ведведиха",
       "url": "/performances/sv_morhayko/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "Стійкий олов’яний&nbsp;солдатик",
-      "role": "Відьма, кухарка,&nbsp;фрейлін",
-      "url": "/performances/ol_soldatyk/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",

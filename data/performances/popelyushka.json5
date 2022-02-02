@@ -12,7 +12,7 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_small_ix_crop.jpg",
+      "url": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_cr_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_gallery.jpg"
     },
     {
@@ -150,12 +150,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Мачуха"
-        },
         {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",

@@ -173,12 +173,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Свиня"
-        },
-        {
           "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",

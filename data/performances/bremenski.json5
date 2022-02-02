@@ -12,7 +12,7 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/bremenski/01_small_ix_crop.jpg",
+      "url": "/korg/kol/portals/teatr/performances/bremenski/01_cr_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/bremenski/01_gallery.jpg"
     },
     {
@@ -205,12 +205,6 @@
           "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
           "page_url": "/troupe/gladyruk_o/",
-          "role": "Начальник&nbsp;охорони"
-        },
-        {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
           "role": "Начальник&nbsp;охорони"
         },
         {

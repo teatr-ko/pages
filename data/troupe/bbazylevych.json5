@@ -393,6 +393,12 @@
     },
     {
       "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Таркатий",
+      "url": "/performances/darmoidy/"
+    },
+    {
+      "director": "Мартищук&nbsp;Володимир",
       "performance": "Діалог, якого не&nbsp;було",
       "role": "Герой",
       "url": "/performances/dialog/"
@@ -512,6 +518,12 @@
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "Стійкий олов’яний&nbsp;солдатик",
+      "role": "Король",
+      "url": "/performances/ol_soldatyk/"
+    },
+    {
       "director": "Коломієць&nbsp;Ростислав",
       "performance": "Суєта",
       "role": "Михайло",
@@ -578,12 +590,6 @@
       "url": "/performances/myshi/"
     },
     {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Таркатий",
-      "url": "/performances/darmoidy/"
-    },
-    {
       "director": "Цибульський&nbsp;Адам",
       "performance": "День народження Кота&nbsp;Леопольда",
       "role": "Кіт&nbsp;Леопольд",
@@ -606,12 +612,6 @@
       "performance": "Золоте&nbsp;курча",
       "role": "Вовк",
       "url": "/performances/kurcha/"
-    },
-    {
-      "director": "Кузик&nbsp;Сергій",
-      "performance": "Коза-дереза",
-      "role": "Ведмідь",
-      "url": "/performances/koza_dereza/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
@@ -666,12 +666,6 @@
       "performance": "Спасибі,&nbsp;Барбі",
       "role": "Король",
       "url": "/performances/barbi/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "Стійкий олов’яний&nbsp;солдатик",
-      "role": "Король",
-      "url": "/performances/ol_soldatyk/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",

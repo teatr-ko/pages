@@ -328,6 +328,12 @@
       "url": "/performances/resque_me/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "Стійкий олов’яний&nbsp;солдатик",
+      "role": "Відьма, кухарка,&nbsp;фрейлін, Королева",
+      "url": "/performances/ol_soldatyk/"
+    },
+    {
       "director": "Коломієць&nbsp;Ростислав",
       "performance": "Суєта",
       "role": "Аделаїда",
@@ -446,12 +452,6 @@
       "performance": "Пригоди Червоної&nbsp;Шапочки",
       "role": "Баба&nbsp;Яга",
       "url": "/performances/ch_shapochka/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "Стійкий олов’яний&nbsp;солдатик",
-      "role": "Відьма, кухарка,&nbsp;фрейлін, Королева",
-      "url": "/performances/ol_soldatyk/"
     },
     {
       "director": "Якубовський&nbsp;С.",

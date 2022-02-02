@@ -106,13 +106,21 @@
       {
         "image": {
           "name": "",
+          "url": "/korg/kol/portals/teatr/performances/nelehalka/01_small_ix_crop.jpg"
+        },
+        "name": "Нелегалка",
+        "url": "/performances/nelehalka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
           "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/06_small_ix_crop.jpg"
         },
         "name": "Ніч на&nbsp;полонині",
         "url": "/performances/nich_na_polonyni/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -120,7 +128,27 @@
         },
         "name": "Нічні розваги з молодим&nbsp;Козерогом",
         "url": "/performances/rozvahy/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/huska/16.02_20_small_ix_crop.jpg"
+        },
+        "name": "Отак загинув&nbsp;Гуска",
+        "url": "/performances/huska/"
       },
+      {
+        "image": {
+          "name": "Наталія Максимчук (за мотивами української народної казки) &#8220;Пан&nbsp;Коцький&#8221;",
+          "url": "/korg/kol/portals/teatr/performances/kockyy/136810119_small_ix_crop.jpg"
+        },
+        "name": "Пан&nbsp;Коцький",
+        "url": "/performances/kockyy/"
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -128,9 +156,7 @@
         },
         "name": "Підступний&nbsp;сірничок",
         "url": "/performances/sirnychok/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -138,7 +164,9 @@
         },
         "name": "Повернення",
         "url": "/performances/povernennya/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -146,9 +174,7 @@
         },
         "name": "Подорож у країну&nbsp;мрій",
         "url": "/performances/podorozh/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "А я тебе іще&nbsp;кохаю…",
@@ -156,7 +182,9 @@
         },
         "name": "Романс про&nbsp;закоханих",
         "url": "/performances/romans/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -164,9 +192,7 @@
         },
         "name": "Сосиски, консерви і небо в&nbsp;алмазах",
         "url": "/performances/almazy/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -174,7 +200,9 @@
         },
         "name": "Стійкий олов’яний&nbsp;солдатик",
         "url": "/performances/ol_soldatyk/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -182,6 +210,14 @@
         },
         "name": "Суєта",
         "url": "/performances/sueta/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/taina_cv/16.02_13_small_ix_crop.jpg"
+        },
+        "name": "Таїни сільського&nbsp;цвинтаря",
+        "url": "/performances/taina_cv/"
       }
     ],
     [

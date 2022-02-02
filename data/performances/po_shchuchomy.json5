@@ -12,7 +12,7 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/87_fh_gal_ix.jpeg",
+      "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/87_cr_gal_ix.jpeg",
       "url_small": "/korg/kol/portals/teatr/performances/po_shchuchomy/87_gallery.jpeg"
     },
     {
@@ -87,12 +87,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Баба"
-        },
-        {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
@@ -144,12 +138,6 @@
           "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
           "page_url": "/troupe/gladyruk_o/",
-          "role": "Королиха"
-        },
-        {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
           "role": "Королиха"
         },
         {

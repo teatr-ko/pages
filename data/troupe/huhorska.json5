@@ -252,6 +252,12 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Колосок",
+      "url": "/performances/darmoidy/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "За двома&nbsp;зайцями",
       "role": "Явдокія&nbsp;Пилипівна, Секлита Пилипівна&nbsp;Лимариха",
@@ -406,12 +412,6 @@
       "performance": "Вінні-Пух та його&nbsp;друзі",
       "role": "Сова",
       "url": "/performances/vinni/"
-    },
-    {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Колосок",
-      "url": "/performances/darmoidy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

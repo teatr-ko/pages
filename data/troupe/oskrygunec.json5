@@ -35,7 +35,7 @@
     {
       "director": "Павлюк&nbsp;Сергій",
       "performance": "Вій",
-      "role": "Плакальниці",
+      "role": "Панночка, Плакальниці",
       "url": "/performances/vii/"
     },
     {
@@ -45,9 +45,15 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Малий",
+      "url": "/performances/darmoidy/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "За двома&nbsp;зайцями",
-      "role": "Подруги&nbsp;Проні",
+      "role": "Подруги&nbsp;Проні, Галя",
       "url": "/performances/zaycyamy/"
     },
     {
@@ -183,12 +189,6 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Малий",
-      "url": "/performances/darmoidy/"
-    },
-    {
       "director": "Лисенко&nbsp;Людмила",
       "performance": "Дюймовочка",
       "role": "Ластівка, Квіти,&nbsp;миші",
@@ -239,7 +239,7 @@
     {
       "director": "Цибульський&nbsp;Адам",
       "performance": "Правда і&nbsp;Кривда",
-      "role": "Сокіл",
+      "role": "Сокіл, Лілея",
       "url": "/performances/pravdaikryvda/"
     },
     {

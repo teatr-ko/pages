@@ -102,12 +102,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
-          "page_url": null,
-          "role": "Ведмідь"
-        },
-        {
           "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",

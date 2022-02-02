@@ -12,7 +12,7 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/koza/koza_dereza_small_ix_crop.jpg",
+      "url": "/korg/kol/portals/teatr/performances/koza/koza_dereza_fh_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/koza/koza_dereza_gallery.jpg"
     },
     {
@@ -155,12 +155,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": true,
-          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
-          "role": "Ведмідь"
-        },
         {
           "has_page": true,
           "name": "Філімонов&nbsp;Артур",

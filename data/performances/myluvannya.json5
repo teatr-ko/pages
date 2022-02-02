@@ -3,7 +3,7 @@
     "output": "performances/myluvannya/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<p>Коломийський театр прем&rsquo;єру цієї вистави вперше здійснив у липні 1848 року&hellip; Тоді її назва була &laquo;Жовнір-чарівник&raquo;&hellip; Пройшли роки&hellip; Однак, денщик &laquo;их благородия&raquo; Шельменко продовжує дивувати, чудити, смішити&hellip;</p>",
+  "addition": "<blockquote>\r\n<p style=\"padding-left: 60px;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Коломийський театр прем&rsquo;єру цієї вистави вперше здійснив у липні 1848 року&hellip; Тоді її назва була &laquo;Жовнір-чарівник&raquo;&hellip; </span></strong></span></p>\r\n<p style=\"padding-left: 60px;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Пройшли роки&hellip; Однак, денщик &laquo;их благородия&raquo; Шельменко продовжує дивувати, чудити, смішити&hellip;</span></strong></span></p>\r\n</blockquote>",
   "additional_director_info": "Постановка та сценографія – народний артист&nbsp;України",
   "director": "Мосійчук&nbsp;Олег",
   "director_has_page": false,
@@ -42,12 +42,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Євтушенко Людмила,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Аграфена&nbsp;Семенівна"
-        },
-        {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
@@ -69,12 +63,6 @@
           "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Ефжені"
-        },
-        {
-          "has_page": false,
-          "name": "Кравчук&nbsp;Галина",
-          "page_url": null,
-          "role": "Ефжені"
         }
       ],
       "role": "Ефжені"
@@ -86,25 +74,12 @@
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
           "role": "Кирило Петрович&nbsp;Шпак"
-        },
-        {
-          "has_page": false,
-          "name": "Симчич&nbsp;Зіновій Васильович,&nbsp;член&nbsp;НСТДУ",
-          "page_url": null,
-          "role": "Кирило Петрович&nbsp;Шпак"
         }
       ],
       "role": "Кирило Петрович Шпак"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Кравчук&nbsp;Олег",
-          "page_url": null,
-          "role": "Лопуцьковський"
-        }
-      ],
+      "persons": [],
       "role": "Лопуцьковський"
     },
     {
@@ -160,24 +135,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Бенедюк&nbsp;Петро",
-          "page_url": null,
-          "role": "Рота&nbsp;Скворцова"
-        },
-        {
-          "has_page": false,
-          "name": "Воробйов&nbsp;Ігор",
-          "page_url": null,
-          "role": "Рота&nbsp;Скворцова"
-        },
-        {
-          "has_page": false,
-          "name": "Кравчук&nbsp;Олег",
-          "page_url": null,
-          "role": "Рота&nbsp;Скворцова"
-        },
         {
           "has_page": true,
           "name": "Філімонов&nbsp;Артур",

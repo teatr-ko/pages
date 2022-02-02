@@ -205,6 +205,12 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Мартищук&nbsp;Володимир",
+      "performance": "Дармоїди",
+      "role": "Дід",
+      "url": "/performances/darmoidy/"
+    },
+    {
       "director": "Коломійцев&nbsp;Олексій",
       "performance": "Дівка на відданню, або На милованє нема&nbsp;силованє",
       "role": "Виборний",
@@ -271,6 +277,12 @@
       "url": "/performances/sto_tysiach/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "Стійкий олов’яний&nbsp;солдатик",
+      "role": "Король",
+      "url": "/performances/ol_soldatyk/"
+    },
+    {
       "director": "Коломієць&nbsp;Ростислав",
       "performance": "Суєта",
       "role": "Макар",
@@ -325,12 +337,6 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Мартищук&nbsp;Володимир",
-      "performance": "Дармоїди",
-      "role": "Дід",
-      "url": "/performances/darmoidy/"
-    },
-    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "Золоте&nbsp;курча",
       "role": "Вовк",
@@ -383,12 +389,6 @@
       "performance": "Пригоди Червоної&nbsp;Шапочки",
       "role": "Чахлик&nbsp;Невмирущий",
       "url": "/performances/ch_shapochka/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "Стійкий олов’яний&nbsp;солдатик",
-      "role": "Король",
-      "url": "/performances/ol_soldatyk/"
     },
     {
       "director": "Якубовський&nbsp;С.",
