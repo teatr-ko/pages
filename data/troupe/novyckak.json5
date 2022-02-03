@@ -9,6 +9,18 @@
   "gallery": [],
   "grown_roles": [
     {
+      "director": "Чиборак&nbsp;Дмитро",
+      "performance": "Гуцульський&nbsp;рік",
+      "role": "Олена",
+      "url": "/performances/hutsulskyi_rik/"
+    },
+    {
+      "director": "Чиборак&nbsp;Дмитро",
+      "performance": "Земля",
+      "role": "Меланка",
+      "url": "/performances/zemlya/"
+    },
+    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "Кайдашева&nbsp;сім’я",
       "role": "Мотря",
@@ -25,6 +37,12 @@
       "performance": "Сто&nbsp;тисяч",
       "role": "Мотря",
       "url": "/performances/sto_tysiach/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "У неділю рано зілля&nbsp;копала",
+      "role": "Цигани,&nbsp;гуцули",
+      "url": "/performances/y_nediliu_rano/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
@@ -69,10 +87,22 @@
       "url": "/performances/puss_in_boots/"
     },
     {
+      "director": "Мельничук&nbsp;Дмитро",
+      "performance": "Мауглі",
+      "role": "Ракша",
+      "url": "/performances/mauhli/"
+    },
+    {
       "director": "Цибульський&nbsp;Адам",
       "performance": "Пастка для&nbsp;орла",
       "role": "Білка",
       "url": "/performances/eagle_trap/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Цигани",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
@@ -81,10 +111,22 @@
       "url": "/performances/pravdaikryvda/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "Світлофор&nbsp;Моргайко",
+      "role": "Сова Географівна,&nbsp;лікар",
+      "url": "/performances/sv_morhayko/"
+    },
+    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Танцюючий&nbsp;Ураган",
       "role": "Плюс",
       "url": "/performances/dancing_hurricane/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "Троє&nbsp;поросят",
+      "role": "Нуф-Нуф",
+      "url": "/performances/three_pigs/"
     },
     {
       "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",

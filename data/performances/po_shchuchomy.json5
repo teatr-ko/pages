@@ -142,6 +142,12 @@
         },
         {
           "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Королиха"
+        },
+        {
+          "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
           "role": "Королиха"
@@ -197,6 +203,12 @@
         },
         {
           "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Співачка"
+        },
+        {
+          "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "Співачка"
@@ -233,6 +245,12 @@
           "has_page": true,
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
+          "role": "Цигани"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
           "role": "Цигани"
         },
         {

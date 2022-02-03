@@ -112,6 +112,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Сова Географівна,&nbsp;лікар"
+        },
+        {
+          "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Сова Географівна,&nbsp;лікар"

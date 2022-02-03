@@ -137,23 +137,6 @@
           "has_page": true,
           "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
-          "role": "Атаманша"
-        },
-        {
-          "has_page": true,
-          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/huhorska/",
-          "role": "Атаманша"
-        }
-      ],
-      "role": "Атаманша"
-    },
-    {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
           "role": "Блазень"
         },
         {
@@ -249,6 +232,29 @@
         }
       ],
       "role": "Осел"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Отаманша"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Отаманша"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Отаманша"
+        }
+      ],
+      "role": "Отаманша"
     },
     {
       "persons": [

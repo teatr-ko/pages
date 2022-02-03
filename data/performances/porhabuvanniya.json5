@@ -127,6 +127,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Ілонка"
+        },
+        {
+          "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Ілонка"

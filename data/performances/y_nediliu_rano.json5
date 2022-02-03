@@ -179,6 +179,12 @@
           "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
           "role": "Іваниха-Дубиха,&nbsp;вдова"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Іваниха-Дубиха,&nbsp;вдова"
         }
       ],
       "role": "Іваниха-Дубиха, вдова"
@@ -283,6 +289,12 @@
           "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
           "role": "Цигани,&nbsp;гуцули"
         },
         {
