@@ -12,8 +12,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/dujmovochka/01_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/dujmovochka/logo_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/logo_gallery.jpg"
     },
     {
       "title": "",
@@ -22,13 +22,8 @@
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/dujmovochka/03_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/03_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/dujmovochka/04_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/04_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/dujmovochka/01_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/01_gallery.jpg"
     },
     {
       "title": "",
@@ -39,11 +34,6 @@
       "title": "",
       "url": "/korg/kol/portals/teatr/performances/dujmovochka/06_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/06_gallery.jpg"
-    },
-    {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/performances/dujmovochka/07_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/07_gallery.jpg"
     },
     {
       "title": "",
@@ -72,11 +62,6 @@
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/dujmovochka/13_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/13_gallery.jpg"
-    },
-    {
-      "title": "",
       "url": "/korg/kol/portals/teatr/performances/dujmovochka/14_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/14_gallery.jpg"
     },
@@ -92,8 +77,8 @@
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/dujmovochka/logo_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/logo_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/dujmovochka/01_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dujmovochka/01_gallery.jpg"
     }
   ],
   "genre": "казка",
