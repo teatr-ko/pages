@@ -275,6 +275,18 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
           "role": "Цигани,&nbsp;гуцули"

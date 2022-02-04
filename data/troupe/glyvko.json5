@@ -33,6 +33,12 @@
       "url": "/performances/puss_in_boots/"
     },
     {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Сміхотвор",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Танцюючий&nbsp;Ураган",
       "role": "Світлячок",
@@ -47,7 +53,7 @@
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Чудо Святого&nbsp;Миколая",
-      "role": "Гном, Нулик",
+      "role": "Гном, Нулик, Ельф",
       "url": "/performances/zymovi_prygody_2/"
     }
   ],

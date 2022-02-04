@@ -175,6 +175,18 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Тиміш"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Тиміш"
+        },
+        {
+          "has_page": true,
           "name": "Філімонов&nbsp;Артур",
           "page_url": "/troupe/filimonov/",
           "role": "Тиміш"

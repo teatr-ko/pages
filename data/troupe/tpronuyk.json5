@@ -87,6 +87,12 @@
       "url": "/performances/divka/"
     },
     {
+      "director": "Чиборак&nbsp;Дмитро",
+      "performance": "За двома&nbsp;зайцями",
+      "role": "Галя",
+      "url": "/performances/zaycyamy/"
+    },
+    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "Кайдашева&nbsp;сім’я",
       "role": "Мелашка",
@@ -205,6 +211,12 @@
       "performance": "По щучому&nbsp;велінню",
       "role": "Королівна",
       "url": "/performances/po_shchuchomy/"
+    },
+    {
+      "director": "Медюсев&nbsp;Володимир",
+      "performance": "Попелюшка",
+      "role": "Попелюшка",
+      "url": "/performances/popelyushka/"
     },
     {
       "director": "Удовенко&nbsp;Костянтин",

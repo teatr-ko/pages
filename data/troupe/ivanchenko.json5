@@ -15,6 +15,12 @@
       "url": "/performances/annychka/"
     },
     {
+      "director": "Павлюк&nbsp;Сергій",
+      "performance": "Вій",
+      "role": "Козак",
+      "url": "/performances/vii/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "Гуцульський&nbsp;рік",
       "role": "Микула, Василь",
@@ -34,9 +40,21 @@
     },
     {
       "director": "Мосійчук&nbsp;Олег",
+      "performance": "Коханий&nbsp;нелюб",
+      "role": "Шумицький",
+      "url": "/performances/kohanyi_nelub/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "Мартин&nbsp;Боруля",
       "role": "Микола",
       "url": "/performances/martyn_borylia/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "На милування нема&nbsp;силування",
+      "role": "Рота&nbsp;Скворцова",
+      "url": "/performances/myluvannya/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
@@ -58,9 +76,21 @@
     },
     {
       "director": "Мосійчук&nbsp;Олег",
+      "performance": "У неділю рано зілля&nbsp;копала",
+      "role": "Цигани,&nbsp;гуцули",
+      "url": "/performances/y_nediliu_rano/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "Фараони",
       "role": "Грицько",
       "url": "/performances/faraony/"
+    },
+    {
+      "director": "Горчинський&nbsp;Анатолій",
+      "performance": "Як наші діди&nbsp;парубкували",
+      "role": "Тиміш",
+      "url": "/performances/yak_didy/"
     }
   ],
   "image": {
@@ -94,6 +124,18 @@
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Зимові&nbsp;пригоди",
+      "role": "Гном",
+      "url": "/performances/zymovi_pryhody/"
+    },
+    {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "Коза-дереза",
+      "role": "Хор",
+      "url": "/performances/koza_dereza/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "Коли ще звірі&nbsp;говорили",
       "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
@@ -123,6 +165,12 @@
       "url": "/performances/eagle_trap/"
     },
     {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Цигани",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
       "director": "Медюсев&nbsp;Володимир",
       "performance": "Попелюшка",
       "role": "Міністр",
@@ -143,7 +191,7 @@
     {
       "director": "Цибульський&nbsp;Адам",
       "performance": "Світлофор&nbsp;Моргайко",
-      "role": "Тигрик",
+      "role": "Тигрик, Ведмедик",
       "url": "/performances/sv_morhayko/"
     },
     {

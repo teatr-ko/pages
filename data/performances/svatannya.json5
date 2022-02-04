@@ -156,6 +156,12 @@
         },
         {
           "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Дівчата"
@@ -245,6 +251,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Скорик"
+        },
         {
           "has_page": true,
           "name": "Гелецький&nbsp;Володимир",

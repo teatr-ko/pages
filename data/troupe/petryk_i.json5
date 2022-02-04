@@ -10,9 +10,27 @@
   "grown_roles": [
     {
       "director": "Мосійчук&nbsp;Олег",
+      "performance": "Кайдашева&nbsp;сім’я",
+      "role": "Масові&nbsp;сцени",
+      "url": "/performances/simya/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "Мартин&nbsp;Боруля",
       "role": "Гості",
       "url": "/performances/martyn_borylia/"
+    },
+    {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "Мати-наймичка",
+      "role": "Дівчата",
+      "url": "/performances/maty/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "Сватання на&nbsp;Гончарівці",
+      "role": "Дівчата",
+      "url": "/performances/svatannya/"
     },
     {
       "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
@@ -61,6 +79,12 @@
       "performance": "Мауглі",
       "role": "Вовки",
       "url": "/performances/mauhli/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Галька",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

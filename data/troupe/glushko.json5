@@ -9,6 +9,12 @@
   "gallery": [],
   "grown_roles": [
     {
+      "director": "Павлюк&nbsp;Сергій",
+      "performance": "Вій",
+      "role": "Чорний&nbsp;Ангел",
+      "url": "/performances/vii/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "Гуцульський&nbsp;рік",
       "role": "Василь",
@@ -33,6 +39,12 @@
       "url": "/performances/martyn_borylia/"
     },
     {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "На милування нема&nbsp;силування",
+      "role": "Рота&nbsp;Скворцова",
+      "url": "/performances/myluvannya/"
+    },
+    {
       "director": "Мельничук&nbsp;Дмитро",
       "performance": "Собача&nbsp;будка",
       "role": "Рома",
@@ -46,9 +58,21 @@
     },
     {
       "director": "Мосійчук&nbsp;Олег",
+      "performance": "У неділю рано зілля&nbsp;копала",
+      "role": "Цигани,&nbsp;гуцули",
+      "url": "/performances/y_nediliu_rano/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "Фараони",
       "role": "Грицько",
       "url": "/performances/faraony/"
+    },
+    {
+      "director": "Горчинський&nbsp;Анатолій",
+      "performance": "Як наші діди&nbsp;парубкували",
+      "role": "Тиміш",
+      "url": "/performances/yak_didy/"
     }
   ],
   "image": {
@@ -67,6 +91,18 @@
       "performance": "Біля ковчега о&nbsp;восьмій",
       "role": "Пінгвін&nbsp;3-й",
       "url": "/performances/bilja_kovchega/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "role": "Кролик",
+      "url": "/performances/vinni/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Зимові&nbsp;пригоди",
+      "role": "Ельф",
+      "url": "/performances/zymovi_pryhody/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
@@ -99,6 +135,12 @@
       "url": "/performances/eagle_trap/"
     },
     {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "По щучому&nbsp;велінню",
+      "role": "Цигани",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
       "director": "Медюсев&nbsp;Володимир",
       "performance": "Попелюшка",
       "role": "Принц",
@@ -115,6 +157,18 @@
       "performance": "Пригоди Червоної&nbsp;Шапочки",
       "role": "Зайчик",
       "url": "/performances/ch_shapochka/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "Світлофор&nbsp;Моргайко",
+      "role": "Тигрик",
+      "url": "/performances/sv_morhayko/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "Танцюючий&nbsp;Ураган",
+      "role": "Робот&nbsp;Ураган",
+      "url": "/performances/dancing_hurricane/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

@@ -114,6 +114,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Галька"
+        },
+        {
+          "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Галька"
@@ -186,6 +192,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Сміхотвор"
+        },
+        {
+          "has_page": true,
           "name": "Філімонов&nbsp;Артур",
           "page_url": "/troupe/filimonov/",
           "role": "Сміхотвор"
@@ -235,6 +247,18 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Цигани"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Цигани"
+        },
         {
           "has_page": true,
           "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",

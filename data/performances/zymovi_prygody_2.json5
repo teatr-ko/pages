@@ -4,7 +4,7 @@
     "template": "teatr/performance"
   },
   "addition": "<blockquote>\r\n<p id=\"docs-internal-guid-b869fc0c-7fff-126a-58ae-ab908bcb290e\" style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Любі хлопчики й дівчатка!</strong></span></p>\r\n</blockquote>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\">&nbsp;<strong>Вас чекає справжнє свято.</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\">&nbsp;<strong>А чи хтось з вас, друзі, знає</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\">&nbsp;<strong>Де шукати Миколая?!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\">&nbsp;<strong>Чемно пишете листи,-</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Мусить Він до Вас прийти!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Диво з див! Та все ж, одначе,</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\">&nbsp;<strong>Ще ніхто Його не бачив!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>То ж пора нам вирушати</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Миколая відшукати!</strong></span></p>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Просимо і вас, Будь ласка,</strong></span></p>\r\n<blockquote>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Нам дорогу вкаже казка!</strong></span></p>\r\n<hr />\r\n<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58448\" target=\"_blank\">Коломийський театр запрошує глядачів на перегляд казки &laquo;Чудо Святого Миколая&raquo;&nbsp;(сюжет)</a></h1>\r\n<p style=\"text-align: center; padding-left: 30px;\" dir=\"ltr\">&nbsp;</p>\r\n</blockquote>",
-  "additional_director_info": "",
+  "additional_director_info": "Режисер та музичне&nbsp;оформлення",
   "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
   "director_has_page": true,
   "director_page_url": "/troupe/bbazylevych/",
@@ -67,6 +67,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Ельф"
+        },
         {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
