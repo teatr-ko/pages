@@ -12,33 +12,43 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/faraony/06_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/faraony/06_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/faraony/faraony_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/faraony_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/faraony/05_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/faraony/05_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/faraony/3_rio_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/3_rio_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/faraony/04_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/faraony/04_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/faraony/10_rio_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/10_rio_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/faraony/03_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/faraony/03_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/faraony/21_rio_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/21_rio_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/faraony/02_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/faraony/02_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/faraony/31_rio_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/31_rio_gallery.jpg"
     },
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/faraony/01_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/faraony/01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/faraony/35_rio_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/35_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/faraony/38_rio_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/38_rio_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/faraony/37_rio_fh_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/faraony/37_rio_gallery.jpg"
     }
   ],
   "genre": "Комедія",
