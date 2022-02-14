@@ -39,6 +39,24 @@
       "place": "м.Коломия -&nbsp;театр",
       "time": "18:00",
       "url": "https://ng-teatr.kolomyya.org/performances/zaycyamy/"
+    },
+    {
+      "author": "А.Шиян",
+      "date": "Неділя,&nbsp;20.02.22",
+      "genre": "Казка",
+      "performance": "Котигорошко",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/kotyhoroshko/"
+    },
+    {
+      "author": "Ольга&nbsp;Кобилянська",
+      "date": null,
+      "genre": "Притча",
+      "performance": "Земля",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/zemlya/"
     }
   ],
   "other_my": "Березень&nbsp;2022",
