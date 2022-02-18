@@ -57,6 +57,24 @@
       "place": "м.Коломия -&nbsp;театр",
       "time": "18:00",
       "url": "https://ng-teatr.kolomyya.org/performances/zemlya/"
+    },
+    {
+      "author": "Ірина і Ян&nbsp;Златопольські",
+      "date": "Неділя,&nbsp;27.02.22",
+      "genre": "Казка",
+      "performance": "Чарівна&nbsp;рукавичка",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/ch_rukavychka/"
+    },
+    {
+      "author": "Тарас&nbsp;Шевченко",
+      "date": null,
+      "genre": "народна драма",
+      "performance": "Мати-наймичка",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://ng-teatr.kolomyya.org/performances/maty/"
     }
   ],
   "other_my": "Березень&nbsp;2022",
