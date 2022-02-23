@@ -46,16 +46,6 @@
         </p></center>
     {{/if}}
 
-    {{#if staff}}
-        <div class="header_t "><p>Участь у постановках</p></div>
-        {{#each staff}}
-            <div>
-                <b>{{{ role }}}</b> - <a style="font-weight: normal"
-                                         href="{{ url }}">{{{ performance }}}</a>
-                (реж. {{{ director }}})
-            </div>
-        {{/each}}
-    {{/if}}
     {{#if grown_roles}}
         <div class="header_t "><p>Ролі</p></div>
         {{#each grown_roles}}
@@ -66,9 +56,21 @@
             </div>
         {{/each}}
     {{/if}}
+
     {{#if kids_roles}}
         <div class="header_t "><p>Ролі в дитячих виставах</p></div>
         {{#each kids_roles}}
+            <div>
+                <b>{{{ role }}}</b> - <a style="font-weight: normal"
+                                         href="{{ url }}">{{{ performance }}}</a>
+                (реж. {{{ director }}})
+            </div>
+        {{/each}}
+    {{/if}}
+
+    {{#if staff}}
+        <div class="header_t "><p>Участь у постановках</p></div>
+        {{#each staff}}
             <div>
                 <b>{{{ role }}}</b> - <a style="font-weight: normal"
                                          href="{{ url }}">{{{ performance }}}</a>
