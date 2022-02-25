@@ -10,55 +10,55 @@
   "grown_roles": [
     {
       "director": "Чиборак&nbsp;Дмитро",
-      "performance": "Земля",
+      "performance": "<span class=\"dquo\">&#8220;</span>Земля&#8221; Ольга&nbsp;Кобилянська",
       "role": "Михайло",
       "url": "/performances/zemlya/"
     },
     {
       "director": "Чиборак&nbsp;Дмитро",
-      "performance": "Камінний&nbsp;хрест",
+      "performance": "<span class=\"dquo\">&#8220;</span>Камінний хрест&#8221; Василь&nbsp;Стефаник",
       "role": "Злодій",
       "url": "/performances/stonecross/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Коханий&nbsp;нелюб",
+      "performance": "<span class=\"dquo\">&#8220;</span>Коханий нелюб&#8221;&nbsp;Я.Стельмах",
       "role": "Шумицький",
       "url": "/performances/kohanyi_nelub/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Мартин&nbsp;Боруля",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мартин Боруля&#8221; Іван&nbsp;Карпенко-Карий",
       "role": "Націєвський",
       "url": "/performances/martyn_borylia/"
     },
     {
       "director": "Кузик&nbsp;Сергій",
-      "performance": "Мати-наймичка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мати-наймичка&#8221; Тарас&nbsp;Шевченко",
       "role": "Корнет",
       "url": "/performances/maty/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Рятуйте, мене&nbsp;женять!",
+      "performance": "<span class=\"dquo\">&#8220;</span>Рятуйте, мене женять!&#8221; за п&#8217;єсою Франца&nbsp;Крьоца",
       "role": "Петер&nbsp;Віммер",
       "url": "/performances/resque_me/"
     },
     {
       "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
-      "performance": "Сто&nbsp;тисяч",
+      "performance": "<span class=\"dquo\">&#8220;</span>Сто тисяч&#8221; Іван&nbsp;Карпенко-Карий",
       "role": "Клим, Бонавентура",
       "url": "/performances/sto_tysiach/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Три ідеальні&nbsp;подружжя",
+      "performance": "<span class=\"dquo\">&#8220;</span>Три ідеальні подружжя&#8221; Алехандро&nbsp;Касона",
       "role": "Хорхе&nbsp;Вільяміль",
       "url": "/performances/three_ideal_marriage/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Фараони",
+      "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
       "role": "Онисько",
       "url": "/performances/faraony/"
     }
@@ -70,43 +70,43 @@
   "kids_roles": [
     {
       "director": "Кузик&nbsp;Сергій",
-      "performance": "Коза-дереза",
+      "performance": "<span class=\"dquo\">&#8220;</span>Коза-дереза&#8221; Микола&nbsp;Лисенко",
       "role": "Хор",
       "url": "/performances/koza_dereza/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Кіт у&nbsp;чоботях",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кіт у чоботях&#8221; Шарль&nbsp;Перро",
       "role": "Кіт у&nbsp;Чоботях",
       "url": "/performances/puss_in_boots/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Мауглі",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Вовки",
       "url": "/performances/mauhli/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",
-      "performance": "Попелюшка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Попелюшка&#8221; Шарль&nbsp;Перро",
       "role": "Міністр",
       "url": "/performances/popelyushka/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Пригоди Червоної&nbsp;Шапочки",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пригоди Червоної Шапочки&#8221; С.Львівська,&nbsp;Б.Мельничук",
       "role": "Вовчик",
       "url": "/performances/ch_shapochka/"
     },
     {
       "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "Фарбований&nbsp;лис",
+      "performance": "<span class=\"dquo\">&#8220;</span>Фарбований лис&#8221; Іван&nbsp;Франко",
       "role": "Пес&nbsp;1-й, Ведмідь",
       "url": "/performances/painted_fox/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Чудо Святого&nbsp;Миколая",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чудо Святого Миколая&#8221; Богдан&nbsp;Базилевич",
       "role": "Сніговик, Санта&nbsp;Клаус, Святий&nbsp;Миколай",
       "url": "/performances/zymovi_prygody_2/"
     }
@@ -115,7 +115,7 @@
   "staff": [
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Кіт у&nbsp;чоботях",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кіт у чоботях&#8221; Шарль&nbsp;Перро",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/puss_in_boots/"
     }

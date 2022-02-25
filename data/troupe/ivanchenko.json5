@@ -10,85 +10,85 @@
   "grown_roles": [
     {
       "director": "Сікорський&nbsp;Вадим",
-      "performance": "Анничка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Анничка&#8221; Іван&nbsp;Озаркевич",
       "role": "Петро",
       "url": "/performances/annychka/"
     },
     {
       "director": "Павлюк&nbsp;Сергій",
-      "performance": "Вій",
+      "performance": "<span class=\"dquo\">&#8220;</span>Вій&#8221; Микола&nbsp;Гоголь",
       "role": "Козак",
       "url": "/performances/vii/"
     },
     {
       "director": "Чиборак&nbsp;Дмитро",
-      "performance": "Гуцульський&nbsp;рік",
+      "performance": "<span class=\"dquo\">&#8220;</span>Гуцульський рік&#8221; Гнат&nbsp;Хоткевич",
       "role": "Микула, Василь",
       "url": "/performances/hutsulskyi_rik/"
     },
     {
       "director": "Чиборак&nbsp;Дмитро",
-      "performance": "За двома&nbsp;зайцями",
+      "performance": "<span class=\"dquo\">&#8220;</span>За двома зайцями&#8221; Михайло&nbsp;Старицький",
       "role": "Шафери&nbsp;Голохвостого",
       "url": "/performances/zaycyamy/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Кайдашева&nbsp;сім’я",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кайдашева сім’я&#8221; Іван&nbsp;Нечуй-Левицький",
       "role": "Масові&nbsp;сцени",
       "url": "/performances/simya/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Коханий&nbsp;нелюб",
+      "performance": "<span class=\"dquo\">&#8220;</span>Коханий нелюб&#8221;&nbsp;Я.Стельмах",
       "role": "Шумицький",
       "url": "/performances/kohanyi_nelub/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Мартин&nbsp;Боруля",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мартин Боруля&#8221; Іван&nbsp;Карпенко-Карий",
       "role": "Микола",
       "url": "/performances/martyn_borylia/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "На милування нема&nbsp;силування",
+      "performance": "<span class=\"dquo\">&#8220;</span>На милування нема силування&#8221; Григорій&nbsp;Квітка-Основ’яненко",
       "role": "Рота&nbsp;Скворцова",
       "url": "/performances/myluvannya/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Собача&nbsp;будка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Собача будка&#8221; Смілянець&nbsp;Марина",
       "role": "Антон",
       "url": "/performances/sobacha_budka/"
     },
     {
       "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
-      "performance": "Сто&nbsp;тисяч",
+      "performance": "<span class=\"dquo\">&#8220;</span>Сто тисяч&#8221; Іван&nbsp;Карпенко-Карий",
       "role": "Роман, Клим",
       "url": "/performances/sto_tysiach/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Три ідеальні&nbsp;подружжя",
+      "performance": "<span class=\"dquo\">&#8220;</span>Три ідеальні подружжя&#8221; Алехандро&nbsp;Касона",
       "role": "Максимо&nbsp;Рохас",
       "url": "/performances/three_ideal_marriage/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "У неділю рано зілля&nbsp;копала",
+      "performance": "<span class=\"dquo\">&#8220;</span>У неділю рано зілля копала&#8221; за твором Ольги&nbsp;Кобилянської",
       "role": "Цигани,&nbsp;гуцули",
       "url": "/performances/y_nediliu_rano/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Фараони",
+      "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
       "role": "Грицько",
       "url": "/performances/faraony/"
     },
     {
       "director": "Горчинський&nbsp;Анатолій",
-      "performance": "Як наші діди&nbsp;парубкували",
+      "performance": "<span class=\"dquo\">&#8220;</span>Як наші діди парубкували&#8221; Володимир&nbsp;Канівець",
       "role": "Тиміш",
       "url": "/performances/yak_didy/"
     }
@@ -100,115 +100,115 @@
   "kids_roles": [
     {
       "director": "Борисяк&nbsp;В.",
-      "performance": "Бременські&nbsp;музиканти",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
       "role": "Пес",
       "url": "/performances/bremenski/"
     },
     {
       "director": "Кузик&nbsp;Анастасія",
-      "performance": "Біля ковчега о&nbsp;восьмій",
+      "performance": "<span class=\"dquo\">&#8220;</span>Біля ковчега о восьмій&#8221; Ульріх&nbsp;Хуб",
       "role": "Пінгвін&nbsp;1-й",
       "url": "/performances/bilja_kovchega/"
     },
     {
       "director": "Мартищук&nbsp;Володимир",
-      "performance": "Всі миші люблять&nbsp;сир",
+      "performance": "<span class=\"dquo\">&#8220;</span>Всі миші люблять сир&#8221; Дюла Урбан (вірші Оксани&nbsp;Сенатович)",
       "role": "Рома",
       "url": "/performances/myshi/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Вінні-Пух та його&nbsp;друзі",
+      "performance": "<span class=\"dquo\">&#8220;</span>Вінні-Пух та його друзі&#8221; І.Юзюк (за казками&nbsp;А.Мілна)",
       "role": "Вінні-Пух",
       "url": "/performances/vinni/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Зимові&nbsp;пригоди",
+      "performance": "<span class=\"dquo\">&#8220;</span>Зимові пригоди&#8221; Богдан Базилевич, Олег&nbsp;Кравчук",
       "role": "Гном",
       "url": "/performances/zymovi_pryhody/"
     },
     {
       "director": "Кузик&nbsp;Сергій",
-      "performance": "Коза-дереза",
+      "performance": "<span class=\"dquo\">&#8220;</span>Коза-дереза&#8221; Микола&nbsp;Лисенко",
       "role": "Хор",
       "url": "/performances/koza_dereza/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Коли ще звірі&nbsp;говорили",
+      "performance": "<span class=\"dquo\">&#8220;</span>Коли ще звірі говорили&#8221; за казками Івана&nbsp;Франка",
       "role": "Актор 2: Лис&nbsp;Микита",
       "url": "/performances/when_animals/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Котигорошко",
+      "performance": "<span class=\"dquo\">&#8220;</span>Котигорошко&#8221;&nbsp;А.Шиян",
       "role": "Котигорошко",
       "url": "/performances/kotyhoroshko/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Кіт у&nbsp;чоботях",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кіт у чоботях&#8221; Шарль&nbsp;Перро",
       "role": "Людожер",
       "url": "/performances/puss_in_boots/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Мауглі",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Шер-Хан",
       "url": "/performances/mauhli/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Пастка для&nbsp;орла",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пастка для орла&#8221; за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
       "role": "Двоглавий&nbsp;Орел",
       "url": "/performances/eagle_trap/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "По щучому&nbsp;велінню",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
       "role": "Цигани",
       "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",
-      "performance": "Попелюшка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Попелюшка&#8221; Шарль&nbsp;Перро",
       "role": "Міністр",
       "url": "/performances/popelyushka/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Правда і&nbsp;Кривда",
+      "performance": "<span class=\"dquo\">&#8220;</span>Правда і Кривда&#8221; за п’єсою А.Шиян &#8220;Летючий&nbsp;корабель&#8221;",
       "role": "Правда",
       "url": "/performances/pravdaikryvda/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Пригоди Червоної&nbsp;Шапочки",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пригоди Червоної Шапочки&#8221; С.Львівська,&nbsp;Б.Мельничук",
       "role": "Вовчик",
       "url": "/performances/ch_shapochka/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Світлофор&nbsp;Моргайко",
+      "performance": "<span class=\"dquo\">&#8220;</span>Світлофор Моргайко&#8221;&nbsp;Я.Мер",
       "role": "Тигрик, Ведмедик",
       "url": "/performances/sv_morhayko/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
-      "performance": "Троє&nbsp;поросят",
+      "performance": "<span class=\"dquo\">&#8220;</span>Троє поросят&#8221; за п’єсою Віктора&nbsp;Гирича",
       "role": "Вовк",
       "url": "/performances/three_pigs/"
     },
     {
       "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "Фарбований&nbsp;лис",
+      "performance": "<span class=\"dquo\">&#8220;</span>Фарбований лис&#8221; Іван&nbsp;Франко",
       "role": "Пес&nbsp;1-й, Ведмідь",
       "url": "/performances/painted_fox/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Чудо Святого&nbsp;Миколая",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чудо Святого Миколая&#8221; Богдан&nbsp;Базилевич",
       "role": "Гном, Нулик",
       "url": "/performances/zymovi_prygody_2/"
     }

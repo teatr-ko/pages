@@ -10,7 +10,7 @@
   "grown_roles": [
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Собача&nbsp;будка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Собача будка&#8221; Смілянець&nbsp;Марина",
       "role": "Тарас",
       "url": "/performances/sobacha_budka/"
     }
@@ -24,13 +24,13 @@
   "staff": [
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Собача&nbsp;будка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Собача будка&#8221; Смілянець&nbsp;Марина",
       "role": "Музичне&nbsp;оформлення",
       "url": "/performances/sobacha_budka/"
     },
     {
       "director": "Мельничук&nbsp;Дмитро",
-      "performance": "Три ідеальні&nbsp;подружжя",
+      "performance": "<span class=\"dquo\">&#8220;</span>Три ідеальні подружжя&#8221; Алехандро&nbsp;Касона",
       "role": "Музичне&nbsp;оформлення",
       "url": "/performances/three_ideal_marriage/"
     }

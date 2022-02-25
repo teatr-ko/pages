@@ -10,13 +10,13 @@
   "grown_roles": [
     {
       "director": "Кузик&nbsp;Сергій",
-      "performance": "Мати-наймичка",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мати-наймичка&#8221; Тарас&nbsp;Шевченко",
       "role": "Марко",
       "url": "/performances/maty/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "Фараони",
+      "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
       "role": "Павлик",
       "url": "/performances/faraony/"
     }
@@ -28,31 +28,31 @@
   "kids_roles": [
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Кіт у&nbsp;чоботях",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кіт у чоботях&#8221; Шарль&nbsp;Перро",
       "role": "Жак&nbsp;Простак",
       "url": "/performances/puss_in_boots/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "По щучому&nbsp;велінню",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
       "role": "Сміхотвор",
       "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Танцюючий&nbsp;Ураган",
+      "performance": "<span class=\"dquo\">&#8220;</span>Танцюючий Ураган&#8221; Богдан&nbsp;Базилевич",
       "role": "Світлячок",
       "url": "/performances/dancing_hurricane/"
     },
     {
       "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "Фарбований&nbsp;лис",
+      "performance": "<span class=\"dquo\">&#8220;</span>Фарбований лис&#8221; Іван&nbsp;Франко",
       "role": "Пес&nbsp;2-й, Кабан, Вовк",
       "url": "/performances/painted_fox/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "performance": "Чудо Святого&nbsp;Миколая",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чудо Святого Миколая&#8221; Богдан&nbsp;Базилевич",
       "role": "Гном, Нулик, Ельф",
       "url": "/performances/zymovi_prygody_2/"
     }
