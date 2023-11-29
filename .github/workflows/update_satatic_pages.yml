@@ -99,6 +99,17 @@ jobs:
               || { if [[ "$?" -ne 123 ]] ; then false ; fi } && \
           git push -v
 
+      - name: executing remote ssh commands using password
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ vars.DEPLOY_HOST }}
+          username: ${{ vars.DEPLOY_USER }}
+          key:  ${{ secrets.SSH_KEY }}
+          script: |
+            set -x -e
+            cd ng
+            git pull -v
+
       - name: send telegram message
         uses: appleboy/telegram-action@master
         with:
