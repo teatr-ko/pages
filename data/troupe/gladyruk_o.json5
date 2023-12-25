@@ -41,6 +41,12 @@
       "url": "/performances/moroka/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Начальник&nbsp;охорони",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>Гуцульський рік&#8221; Гнат&nbsp;Хоткевич",
       "role": "Молодиця",
@@ -160,12 +166,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/masiuk/01_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Начальник&nbsp;охорони",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Кузик&nbsp;Анастасія",
       "performance": "<span class=\"dquo\">&#8220;</span>Біля ковчега о восьмій&#8221; Ульріх&nbsp;Хуб",

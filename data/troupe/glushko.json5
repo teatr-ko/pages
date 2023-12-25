@@ -9,6 +9,12 @@
   "gallery": [],
   "grown_roles": [
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Трубадур",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Павлюк&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Вій&#8221; Микола&nbsp;Гоголь",
       "role": "Чорний&nbsp;Ангел",
@@ -80,12 +86,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/glushko/glushko_main_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Трубадур",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Кузик&nbsp;Анастасія",
       "performance": "<span class=\"dquo\">&#8220;</span>Біля ковчега о восьмій&#8221; Ульріх&nbsp;Хуб",

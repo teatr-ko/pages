@@ -303,6 +303,12 @@
       "url": "/performances/moroka/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Блазень, Отаманша",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Павлюк&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Вій&#8221; Микола&nbsp;Гоголь",
       "role": "Плакальниці, 2&nbsp;нечисть, 3 повитуха&nbsp;(вода)",
@@ -487,12 +493,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Івасик - Телесик&#8221; А.&nbsp;Шиян",
       "role": "Баба-яга",
       "url": "/performances/telesyk/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Блазень, Отаманша",
-      "url": "/performances/bremenski/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

@@ -324,6 +324,12 @@
       "url": "/performances/annychka/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Осел",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Павлюк&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Вій&#8221; Микола&nbsp;Гоголь",
       "role": "Хома Брут в&nbsp;старості, Степан, Свирид",
@@ -544,12 +550,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Івасик - Телесик&#8221; А.&nbsp;Шиян",
       "role": "Кирило",
       "url": "/performances/telesyk/"
-    },
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Осел",
-      "url": "/performances/bremenski/"
     },
     {
       "director": "Мартищук&nbsp;Володимир",

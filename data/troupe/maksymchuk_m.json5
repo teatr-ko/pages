@@ -9,6 +9,12 @@
   "gallery": [],
   "grown_roles": [
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Нишпорка",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>Земля&#8221; Ольга&nbsp;Кобилянська",
       "role": "Білоголовий&nbsp;чоловік",
@@ -44,12 +50,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/maksymchuk_m/maksymchuk_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Нишпорка",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Медюсев&nbsp;Володимир",
       "performance": "<span class=\"dquo\">&#8220;</span>Попелюшка&#8221; Шарль&nbsp;Перро",

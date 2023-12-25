@@ -228,6 +228,12 @@
       "url": "/performances/annychka/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Принцеса, Блазень, 1&nbsp;Фрейлін, Отаманша",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Павлюк&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Вій&#8221; Микола&nbsp;Гоголь",
       "role": "1&nbsp;нечисть, Плакальниці, 1 повитуха&nbsp;(повітря), Шинкарка",
@@ -395,12 +401,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/huhorska/main_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Принцеса, Блазень, 1&nbsp;Фрейлін, Отаманша",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Мартищук&nbsp;Володимир",
       "performance": "<span class=\"dquo\">&#8220;</span>Всі миші люблять сир&#8221; Дюла Урбан (вірші Оксани&nbsp;Сенатович)",

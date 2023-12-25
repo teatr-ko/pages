@@ -15,6 +15,12 @@
   ],
   "grown_roles": [
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Начальник&nbsp;охорони",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Коханий нелюб&#8221;&nbsp;Я.Стельмах",
       "role": "Перший&nbsp;слуга",
@@ -44,12 +50,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/laiuk_l/lajiuk_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Начальник&nbsp;охорони",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Цибульський&nbsp;Адам",
       "performance": "<span class=\"dquo\">&#8220;</span>Вінні-Пух та його друзі&#8221; І.Юзюк (за казками&nbsp;А.Мілна)",

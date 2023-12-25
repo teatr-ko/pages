@@ -163,6 +163,12 @@
       "url": "/performances/annychka/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Принцеса, 1&nbsp;Фрейлін",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Святецький&nbsp;Андрій",
       "performance": "<span class=\"dquo\">&#8220;</span>Будинок на злам&#8221; Теннессі Вільямс (переклад з англійської&nbsp;Р.Коломієць)",
       "role": "Віллі",
@@ -306,12 +312,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/ohnatiuk/iacubiv_main_1_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Принцеса, 1&nbsp;Фрейлін",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Золоте курча&#8221;&nbsp;В.Орлова",

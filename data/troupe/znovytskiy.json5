@@ -193,6 +193,12 @@
       "url": "/performances/moroka/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Король, Осел, Нишпорка",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Павлюк&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Вій&#8221; Микола&nbsp;Гоголь",
       "role": "Хома Брут в&nbsp;старості, Сотник",
@@ -324,12 +330,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/znovytskiy/main_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Король, Осел, Нишпорка",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Цибульський&nbsp;Адам",
       "performance": "<span class=\"dquo\">&#8220;</span>Вінні-Пух та його друзі&#8221; І.Юзюк (за казками&nbsp;А.Мілна)",

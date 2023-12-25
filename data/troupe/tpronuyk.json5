@@ -57,6 +57,12 @@
       "url": "/performances/constrictor/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Принцеса",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Павлюк&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Вій&#8221; Микола&nbsp;Гоголь",
       "role": "Плакальниці, 4&nbsp;нечисть, 4 повитуха&nbsp;(зерно)",
@@ -158,12 +164,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/tpronuyk/main_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Принцеса",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Кузик&nbsp;Анастасія",
       "performance": "<span class=\"dquo\">&#8220;</span>Біля ковчега о восьмій&#8221; Ульріх&nbsp;Хуб",

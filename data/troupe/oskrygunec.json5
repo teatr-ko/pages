@@ -27,6 +27,12 @@
       "url": "/performances/annychka/"
     },
     {
+      "director": "Борисяк&nbsp;В.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
+      "role": "Кіт",
+      "url": "/performances/bremenski/"
+    },
+    {
       "director": "Святецький&nbsp;Андрій",
       "performance": "<span class=\"dquo\">&#8220;</span>Будинок на злам&#8221; Теннессі Вільямс (переклад з англійської&nbsp;Р.Коломієць)",
       "role": "Віллі",
@@ -164,12 +170,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/oskrygunec/main_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Борисяк&nbsp;В.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Бременські музиканти&#8221; Брати&nbsp;Грімм",
-      "role": "Кіт",
-      "url": "/performances/bremenski/"
-    },
     {
       "director": "Кузик&nbsp;Анастасія",
       "performance": "<span class=\"dquo\">&#8220;</span>Біля ковчега о восьмій&#8221; Ульріх&nbsp;Хуб",
