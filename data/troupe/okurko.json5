@@ -341,7 +341,7 @@
     },
     {
       "director": "Луценко&nbsp;Андрій",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав Мирович (Переклад із російської мови Андрія&nbsp;Луценка)",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав&nbsp;Мирович",
       "role": "Злодійка, Ілонка",
       "url": "/performances/porhabuvanniya/"
     },
@@ -392,6 +392,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
       "role": "Олена&nbsp;Устинівна",
       "url": "/performances/faraony/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Півень",
+      "url": "/performances/ch_rukavychka/"
     }
   ],
   "image": {
@@ -452,12 +458,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Пригоди Червоної Шапочки&#8221; С.Львівська,&nbsp;Б.Мельничук",
       "role": "Баба&nbsp;Яга",
       "url": "/performances/ch_shapochka/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Півень",
-      "url": "/performances/ch_rukavychka/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",

@@ -13,11 +13,6 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/55_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/ch_rukavychka/55_gallery.jpg"
-    },
-    {
-      "title": "",
       "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/1_rio_fh_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/ch_rukavychka/1_rio_gallery.jpg"
     },
@@ -188,12 +183,6 @@
       "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
       "page_url": null,
       "role": "Художник"
-    },
-    {
-      "has_page": false,
-      "name": "Ремезов&nbsp;А.",
-      "page_url": null,
-      "role": "Композитор"
     },
     {
       "has_page": true,

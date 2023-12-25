@@ -124,7 +124,7 @@
     },
     {
       "director": "Луценко&nbsp;Андрій",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав Мирович (Переклад із російської мови Андрія&nbsp;Луценка)",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав&nbsp;Мирович",
       "role": "Злодійка",
       "url": "/performances/porhabuvanniya/"
     },
@@ -157,6 +157,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>У неділю рано зілля копала&#8221; за твором Ольги&nbsp;Кобилянської",
       "role": "Цигани,&nbsp;гуцули",
       "url": "/performances/y_nediliu_rano/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Мишка",
+      "url": "/performances/ch_rukavychka/"
     },
     {
       "director": "Горчинський&nbsp;Анатолій",
@@ -253,12 +259,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Троє поросят&#8221; за п’єсою Віктора&nbsp;Гирича",
       "role": "Наф-Наф",
       "url": "/performances/three_pigs/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Мишка",
-      "url": "/performances/ch_rukavychka/"
     }
   ],
   "on_the_stage": "17.07.07",

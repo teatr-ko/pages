@@ -463,7 +463,7 @@
     },
     {
       "director": "Луценко&nbsp;Андрій",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав Мирович (Переклад із російської мови Андрія&nbsp;Луценка)",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав&nbsp;Мирович",
       "role": "Мілан",
       "url": "/performances/porhabuvanniya/"
     },
@@ -550,6 +550,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
       "role": "Корній, Онисько",
       "url": "/performances/faraony/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Дядько на&nbsp;возі, Вовк",
+      "url": "/performances/ch_rukavychka/"
     },
     {
       "director": "Горчинський&nbsp;Анатолій",
@@ -652,12 +658,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Троє поросят&#8221; за п’єсою Віктора&nbsp;Гирича",
       "role": "Клоун",
       "url": "/performances/three_pigs/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Дядько на&nbsp;возі, Вовк",
-      "url": "/performances/ch_rukavychka/"
     }
   ],
   "on_the_stage": "06.07.09",

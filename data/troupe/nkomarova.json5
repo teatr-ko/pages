@@ -489,6 +489,12 @@
       "url": "/performances/faraony/"
     },
     {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Лисиця",
+      "url": "/performances/ch_rukavychka/"
+    },
+    {
       "director": "Горчинський&nbsp;Анатолій",
       "performance": "<span class=\"dquo\">&#8220;</span>Як наші діди парубкували&#8221; Володимир&nbsp;Канівець",
       "role": "Василина",
@@ -547,12 +553,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Танцюючий Ураган&#8221; Богдан&nbsp;Базилевич",
       "role": "Робот&nbsp;Ураган",
       "url": "/performances/dancing_hurricane/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Лисиця",
-      "url": "/performances/ch_rukavychka/"
     }
   ],
   "on_the_stage": "01.01.89",

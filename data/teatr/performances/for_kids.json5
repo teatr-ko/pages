@@ -206,19 +206,12 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/55_cr_gal_ix.jpg"
-        },
-        "name": "Чарівна&nbsp;рукавичка",
-        "url": "/performances/ch_rukavychka/"
-      },
-      {
-        "image": {
-          "name": "",
           "url": "/korg/kol/portals/teatr/performances/zymovi_prygody_2/chydo_cr_gal_ix.jpg"
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      }
+      },
+      null
     ]
   ]
 }

@@ -319,7 +319,14 @@
         "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
         "url": "/performances/lubov/"
       },
-      null
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/1_rio_fh_gal_ix.jpg"
+        },
+        "name": "Чарівна&nbsp;рукавичка",
+        "url": "/performances/ch_rukavychka/"
+      }
     ]
   ]
 }

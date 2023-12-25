@@ -331,7 +331,7 @@
     },
     {
       "director": "Луценко&nbsp;Андрій",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав Мирович (Переклад із російської мови Андрія&nbsp;Луценка)",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав&nbsp;Мирович",
       "role": "Цица, Ілонка, Злодійка",
       "url": "/performances/porhabuvanniya/"
     },
@@ -394,6 +394,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
       "role": "Одарка",
       "url": "/performances/faraony/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Мишка",
+      "url": "/performances/ch_rukavychka/"
     },
     {
       "director": "Горчинський&nbsp;Анатолій",
@@ -466,12 +472,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Спасибі, Барбі&#8221; Євген Тищук (переклад Василя&nbsp;Лужковського)",
       "role": "Маман",
       "url": "/performances/barbi/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Мишка",
-      "url": "/performances/ch_rukavychka/"
     }
   ],
   "on_the_stage": "01.01.98",
