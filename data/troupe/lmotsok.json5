@@ -247,6 +247,12 @@
       "url": "/performances/stonecross/"
     },
     {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
+      "role": "Курка",
+      "url": "/performances/kytsyn_dim/"
+    },
+    {
       "director": "Кузик&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Мати-наймичка&#8221; Тарас&nbsp;Шевченко",
       "role": "Марта",
@@ -335,12 +341,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Івасик - Телесик&#8221; А.&nbsp;Шиян",
       "role": "Марія",
       "url": "/performances/telesyk/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
-      "role": "Курка",
-      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Кузик&nbsp;Сергій",

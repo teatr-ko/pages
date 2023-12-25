@@ -15,6 +15,12 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
+      "role": "Коза",
+      "url": "/performances/leopold/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>Земля&#8221; Ольга&nbsp;Кобилянська",
       "role": "Меланка",
@@ -56,12 +62,6 @@
     "url_small": "/korg/kol/portals/teatr/troup/novyckak/novycka_main_gallery.jpg"
   },
   "kids_roles": [
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
-      "role": "Коза",
-      "url": "/performances/leopold/"
-    },
     {
       "director": "Кузик&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Коза-дереза&#8221; Микола&nbsp;Лисенко",

@@ -57,6 +57,12 @@
       "url": "/performances/darmoidy/"
     },
     {
+      "director": "Лисенко&nbsp;Людмила",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
+      "role": "Ластівка, Квіти,&nbsp;миші",
+      "url": "/performances/dujmovochka/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>За двома зайцями&#8221; Михайло&nbsp;Старицький",
       "role": "Подруги&nbsp;Проні, Галя",
@@ -87,6 +93,12 @@
       "url": "/performances/kachechka/"
     },
     {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
+      "role": "Півник&nbsp;2",
+      "url": "/performances/kytsyn_dim/"
+    },
+    {
       "director": "Луценко&nbsp;Андрій",
       "performance": "<span class=\"dquo\">&#8220;</span>Контракт&#8221; Франсіс&nbsp;Вебер",
       "role": "Луїза",
@@ -109,6 +121,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мати-наймичка&#8221; Тарас&nbsp;Шевченко",
       "role": "Дівчата, Берегиня",
       "url": "/performances/maty/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Заєць",
+      "url": "/performances/kockyy/"
     },
     {
       "director": "Луценко&nbsp;Андрій",
@@ -189,18 +207,6 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Лисенко&nbsp;Людмила",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
-      "role": "Ластівка, Квіти,&nbsp;миші",
-      "url": "/performances/dujmovochka/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
-      "role": "Півник&nbsp;2",
-      "url": "/performances/kytsyn_dim/"
-    },
-    {
       "director": "Кузик&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Коза-дереза&#8221; Микола&nbsp;Лисенко",
       "role": "Лисичка, Зайчик",
@@ -223,12 +229,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Багіра, Вовки",
       "url": "/performances/mauhli/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Заєць",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

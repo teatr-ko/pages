@@ -339,6 +339,12 @@
       "url": "/performances/darmoidy/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
+      "role": "Біле&nbsp;Мишеня, Сіре&nbsp;Мишеня",
+      "url": "/performances/leopold/"
+    },
+    {
       "director": "Коломійцев&nbsp;Олексій",
       "performance": "<span class=\"dquo\">&#8220;</span>Дівка на відданню, або На милованє нема силованє&#8221; Іван Озаркевич (за мотивами п&#8217;єси І.Котляревського  &#8220;Наталка&nbsp;Полтавка&#8221;)",
       "role": "Терпелиха",
@@ -423,6 +429,12 @@
       "url": "/performances/huska/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Заєць",
+      "url": "/performances/kockyy/"
+    },
+    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Рятуйте, мене женять!&#8221; за п&#8217;єсою Франца&nbsp;Крьоца",
       "role": "Катаріна&nbsp;Віммер",
@@ -495,12 +507,6 @@
       "url": "/performances/telesyk/"
     },
     {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
-      "role": "Біле&nbsp;Мишеня, Сіре&nbsp;Мишеня",
-      "url": "/performances/leopold/"
-    },
-    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Золоте курча&#8221;&nbsp;В.Орлова",
       "role": "Курча",
@@ -511,12 +517,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Котигорошко&#8221;&nbsp;А.Шиян",
       "role": "Сестра змієва,&nbsp;перша, Бабуся",
       "url": "/performances/kotyhoroshko/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Заєць",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",

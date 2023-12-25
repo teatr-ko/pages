@@ -404,6 +404,18 @@
       "url": "/performances/darmoidy/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
+      "role": "Кіт&nbsp;Леопольд",
+      "url": "/performances/leopold/"
+    },
+    {
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
+      "role": "Батько",
+      "url": "/performances/wooden_miracle/"
+    },
+    {
       "director": "Мартищук&nbsp;Володимир",
       "performance": "<span class=\"dquo\">&#8220;</span>Діалог, якого не було&#8221; Радіон&nbsp;Белецький",
       "role": "Герой",
@@ -498,6 +510,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Отак загинув Гуска&#8221; Микола&nbsp;Куліш",
       "role": "Гуска",
       "url": "/performances/huska/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Пан&nbsp;Коцький",
+      "url": "/performances/kockyy/"
     },
     {
       "director": "Голенко&nbsp;Максим",
@@ -596,18 +614,6 @@
       "url": "/performances/myshi/"
     },
     {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
-      "role": "Кіт&nbsp;Леопольд",
-      "url": "/performances/leopold/"
-    },
-    {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
-      "role": "Батько",
-      "url": "/performances/wooden_miracle/"
-    },
-    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Зимові пригоди&#8221; Богдан Базилевич, Олег&nbsp;Кравчук",
       "role": "Святий Миколай, Гудвін,&nbsp;Алхімік",
@@ -636,12 +642,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Шер-Хан, Балу",
       "url": "/performances/mauhli/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Пан&nbsp;Коцький",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",

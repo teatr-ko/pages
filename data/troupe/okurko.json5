@@ -268,6 +268,18 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
+      "role": "Бабуся&nbsp;Леопольда",
+      "url": "/performances/leopold/"
+    },
+    {
+      "director": "Лисенко&nbsp;Людмила",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
+      "role": "Мама",
+      "url": "/performances/dujmovochka/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>За двома зайцями&#8221; Михайло&nbsp;Старицький",
       "role": "Явдокія&nbsp;Пилипівна",
@@ -290,6 +302,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Кайдашева сім’я&#8221; Іван&nbsp;Нечуй-Левицький",
       "role": "Баба&nbsp;Палажка",
       "url": "/performances/simya/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
+      "role": "Кішка",
+      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
@@ -388,18 +406,6 @@
       "url": "/performances/telesyk/"
     },
     {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
-      "role": "Бабуся&nbsp;Леопольда",
-      "url": "/performances/leopold/"
-    },
-    {
-      "director": "Лисенко&nbsp;Людмила",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
-      "role": "Мама",
-      "url": "/performances/dujmovochka/"
-    },
-    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Зимові пригоди&#8221; Богдан Базилевич, Олег&nbsp;Кравчук",
       "role": "Снігова Королева,&nbsp;Сніговик",
@@ -410,12 +416,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Золоте курча&#8221;&nbsp;В.Орлова",
       "role": "Лисиця",
       "url": "/performances/kurcha/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
-      "role": "Кішка",
-      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Кузик&nbsp;Сергій",

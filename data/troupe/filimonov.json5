@@ -292,6 +292,18 @@
       "url": "/performances/darmoidy/"
     },
     {
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
+      "role": "Грицько, Дурень",
+      "url": "/performances/wooden_miracle/"
+    },
+    {
+      "director": "Лисенко&nbsp;Людмила",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
+      "role": "Жук",
+      "url": "/performances/dujmovochka/"
+    },
+    {
       "director": "Мартищук&nbsp;Володимир",
       "performance": "<span class=\"dquo\">&#8220;</span>Діалог, якого не було&#8221; Радіон&nbsp;Белецький",
       "role": "Ігор",
@@ -332,6 +344,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Камінний хрест&#8221; Василь&nbsp;Стефаник",
       "role": "Злодій",
       "url": "/performances/stonecross/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
+      "role": "Козел, Кіт",
+      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Луценко&nbsp;Андрій",
@@ -386,6 +404,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Нелегалка&#8221; Анатолій&nbsp;Крим",
       "role": "Чезаре",
       "url": "/performances/nelehalka/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Вовк",
+      "url": "/performances/kockyy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
@@ -490,24 +514,6 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
-      "role": "Грицько, Дурень",
-      "url": "/performances/wooden_miracle/"
-    },
-    {
-      "director": "Лисенко&nbsp;Людмила",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
-      "role": "Жук",
-      "url": "/performances/dujmovochka/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
-      "role": "Козел, Кіт",
-      "url": "/performances/kytsyn_dim/"
-    },
-    {
       "director": "Кузик&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Коза-дереза&#8221; Микола&nbsp;Лисенко",
       "role": "Ведмідь, Вовк",
@@ -530,12 +536,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Акела,&nbsp;Каа, Балу",
       "url": "/performances/mauhli/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Вовк",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",

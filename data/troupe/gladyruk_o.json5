@@ -53,6 +53,24 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
+      "role": "Коза",
+      "url": "/performances/leopold/"
+    },
+    {
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
+      "role": "Горпина",
+      "url": "/performances/wooden_miracle/"
+    },
+    {
+      "director": "Лисенко&nbsp;Людмила",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
+      "role": "Жаба",
+      "url": "/performances/dujmovochka/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>За двома зайцями&#8221; Михайло&nbsp;Старицький",
       "role": "Проня, Подруги&nbsp;Проні",
@@ -81,6 +99,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Камінний хрест&#8221; Василь&nbsp;Стефаник",
       "role": "Жінки",
       "url": "/performances/stonecross/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
+      "role": "Порося&nbsp;1",
+      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Луценко&nbsp;Андрій",
@@ -117,6 +141,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Отак загинув Гуска&#8221; Микола&nbsp;Куліш",
       "role": "Христонька",
       "url": "/performances/huska/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Миша&nbsp;2, Миша&nbsp;1",
+      "url": "/performances/kockyy/"
     },
     {
       "director": "Луценко&nbsp;Андрій",
@@ -185,24 +215,6 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>День народження Кота Леопольда&#8221; А.Хайт (переклад&nbsp;Б.Жолдака)",
-      "role": "Коза",
-      "url": "/performances/leopold/"
-    },
-    {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
-      "role": "Горпина",
-      "url": "/performances/wooden_miracle/"
-    },
-    {
-      "director": "Лисенко&nbsp;Людмила",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
-      "role": "Жаба",
-      "url": "/performances/dujmovochka/"
-    },
-    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Зимові пригоди&#8221; Богдан Базилевич, Олег&nbsp;Кравчук",
       "role": "Снігова Королева,&nbsp;Сніговик",
@@ -213,12 +225,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Золоте курча&#8221;&nbsp;В.Орлова",
       "role": "Лисиця",
       "url": "/performances/kurcha/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
-      "role": "Порося&nbsp;1",
-      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Кузик&nbsp;Сергій",
@@ -243,12 +249,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Вовчиця, Ракша",
       "url": "/performances/mauhli/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Миша&nbsp;2, Миша&nbsp;1",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",

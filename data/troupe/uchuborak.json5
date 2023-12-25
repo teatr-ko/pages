@@ -181,6 +181,18 @@
       "url": "/performances/darmoidy/"
     },
     {
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
+      "role": "Дівчина&nbsp;2-а",
+      "url": "/performances/wooden_miracle/"
+    },
+    {
+      "director": "Лисенко&nbsp;Людмила",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
+      "role": "Миша, Буря-сніг",
+      "url": "/performances/dujmovochka/"
+    },
+    {
       "director": "Коломійцев&nbsp;Олексій",
       "performance": "<span class=\"dquo\">&#8220;</span>Дівка на відданню, або На милованє нема силованє&#8221; Іван Озаркевич (за мотивами п&#8217;єси І.Котляревського  &#8220;Наталка&nbsp;Полтавка&#8221;)",
       "role": "Хор",
@@ -209,6 +221,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Качечка Крячечка&#8221; Наталія&nbsp;Уварова",
       "role": "Качечка&nbsp;Крячечка",
       "url": "/performances/kachechka/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
+      "role": "Півник&nbsp;3",
+      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
@@ -251,6 +269,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Нічні розваги з молодим Козерогом&#8221; За п&#8217;єсою О.Галіна &#8220;Сирена і&nbsp;Вікторія&#8221;",
       "role": "Вікторія",
       "url": "/performances/rozvahy/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Миша&nbsp;2",
+      "url": "/performances/kockyy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",
@@ -319,28 +343,10 @@
       "url": "/performances/vinni/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
-      "role": "Дівчина&nbsp;2-а",
-      "url": "/performances/wooden_miracle/"
-    },
-    {
-      "director": "Лисенко&nbsp;Людмила",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
-      "role": "Миша, Буря-сніг",
-      "url": "/performances/dujmovochka/"
-    },
-    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Зимові пригоди&#8221; Богдан Базилевич, Олег&nbsp;Кравчук",
       "role": "Фея",
       "url": "/performances/zymovi_pryhody/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
-      "role": "Півник&nbsp;3",
-      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Кузик&nbsp;Сергій",
@@ -371,12 +377,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Вовчиця, Вовки",
       "url": "/performances/mauhli/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Миша&nbsp;2",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

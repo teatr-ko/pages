@@ -69,6 +69,12 @@
       "url": "/performances/hutsulskyi_rik/"
     },
     {
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
+      "role": "Батько",
+      "url": "/performances/wooden_miracle/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>За двома зайцями&#8221; Михайло&nbsp;Старицький",
       "role": "Прокіп Свиридович&nbsp;Сірко",
@@ -91,6 +97,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Камінний хрест&#8221; Василь&nbsp;Стефаник",
       "role": "Іван",
       "url": "/performances/stonecross/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
+      "role": "Півень",
+      "url": "/performances/kytsyn_dim/"
     },
     {
       "director": "Луценко&nbsp;Андрій",
@@ -133,6 +145,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Нелегалка&#8221; Анатолій&nbsp;Крим",
       "role": "Костя",
       "url": "/performances/nelehalka/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Ведмідь",
+      "url": "/performances/kockyy/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
@@ -195,18 +213,6 @@
       "url": "/performances/myshi/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
-      "role": "Батько",
-      "url": "/performances/wooden_miracle/"
-    },
-    {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Кицин дім&#8221;&nbsp;С.Бедусенко",
-      "role": "Півень",
-      "url": "/performances/kytsyn_dim/"
-    },
-    {
       "director": "Кузик&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Коза-дереза&#8221; Микола&nbsp;Лисенко",
       "role": "Рак, Дід, Дід",
@@ -235,12 +241,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Балу",
       "url": "/performances/mauhli/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Ведмідь",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",

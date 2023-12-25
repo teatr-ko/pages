@@ -34,39 +34,13 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/leopold/04_cr_gal_ix.jpg"
-        },
-        "name": "День народження Кота&nbsp;Леопольда",
-        "url": "/performances/leopold/"
-      }
-    ],
-    [
-      {
-        "image": {
-          "name": "",
-          "url": "/korg/kol/portals/teatr/performances/wooden_miracle/01_cr_gal_ix.jpg"
-        },
-        "name": "Дерев’яне&nbsp;диво",
-        "url": "/performances/wooden_miracle/"
-      },
-      {
-        "image": {
-          "name": "",
-          "url": "/korg/kol/portals/teatr/performances/dujmovochka/logo_cr_gal_ix.jpg"
-        },
-        "name": "Дюймовочка",
-        "url": "/performances/dujmovochka/"
-      }
-    ],
-    [
-      {
-        "image": {
-          "name": "",
           "url": "/korg/kol/portals/teatr/performances/zymovi_pryhody/01_cr_gal_ix.jpg"
         },
         "name": "Зимові&nbsp;пригоди",
         "url": "/performances/zymovi_pryhody/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -74,9 +48,7 @@
         },
         "name": "Золоте&nbsp;курча",
         "url": "/performances/kurcha/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -84,14 +56,6 @@
         },
         "name": "Івасик -&nbsp;Телесик",
         "url": "/performances/telesyk/"
-      },
-      {
-        "image": {
-          "name": "",
-          "url": "/korg/kol/portals/teatr/performances/kystyn_dim/03_cr_gal_ix.jpg"
-        },
-        "name": "Кицин&nbsp;дім",
-        "url": "/performances/kytsyn_dim/"
       }
     ],
     [

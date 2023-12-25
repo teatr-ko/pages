@@ -70,6 +70,24 @@
       {
         "image": {
           "name": "",
+          "url": "/korg/kol/portals/teatr/performances/leopold/04_cr_gal_ix.jpg"
+        },
+        "name": "День народження Кота&nbsp;Леопольда",
+        "url": "/performances/leopold/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/wooden_miracle/01_cr_gal_ix.jpg"
+        },
+        "name": "Дерев’яне&nbsp;диво",
+        "url": "/performances/wooden_miracle/"
+      },
+      {
+        "image": {
+          "name": "",
           "url": "/korg/kol/portals/teatr/performances/dialog/16.02_05_small_ix_crop.jpg"
         },
         "name": "Діалог, якого не&nbsp;було",
@@ -88,13 +106,21 @@
       {
         "image": {
           "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dujmovochka/logo_cr_gal_ix.jpg"
+        },
+        "name": "Дюймовочка",
+        "url": "/performances/dujmovochka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
           "url": "/korg/kol/portals/teatr/performances/zvidky_berytsia_dity/01_small_ix_crop.jpg"
         },
         "name": "Звідки беруться&nbsp;діти",
         "url": "/performances/zvidky_berytsia_dity/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -102,7 +128,9 @@
         },
         "name": "Іродова&nbsp;морока",
         "url": "/performances/moroka/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -110,6 +138,14 @@
         },
         "name": "Качечка&nbsp;Крячечка",
         "url": "/performances/kachechka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kystyn_dim/03_cr_gal_ix.jpg"
+        },
+        "name": "Кицин&nbsp;дім",
+        "url": "/performances/kytsyn_dim/"
       }
     ],
     [

@@ -354,6 +354,18 @@
       "url": "/performances/darmoidy/"
     },
     {
+      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
+      "role": "Дурень",
+      "url": "/performances/wooden_miracle/"
+    },
+    {
+      "director": "Лисенко&nbsp;Людмила",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
+      "role": "Кріт",
+      "url": "/performances/dujmovochka/"
+    },
+    {
       "director": "Коломійцев&nbsp;Олексій",
       "performance": "<span class=\"dquo\">&#8220;</span>Дівка на відданню, або На милованє нема силованє&#8221; Іван Озаркевич (за мотивами п&#8217;єси І.Котляревського  &#8220;Наталка&nbsp;Полтавка&#8221;)",
       "role": "Дід",
@@ -442,6 +454,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Отак загинув Гуска&#8221; Микола&nbsp;Куліш",
       "role": "Дідок, Квартирант",
       "url": "/performances/huska/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
+      "role": "Господар",
+      "url": "/performances/kockyy/"
     },
     {
       "director": "Луценко&nbsp;Андрій",
@@ -558,18 +576,6 @@
       "url": "/performances/myshi/"
     },
     {
-      "director": "Куцик Олександр,&nbsp;з.а.&nbsp;України",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дерев’яне диво&#8221; Ірина та Ян&nbsp;Златопольські",
-      "role": "Дурень",
-      "url": "/performances/wooden_miracle/"
-    },
-    {
-      "director": "Лисенко&nbsp;Людмила",
-      "performance": "<span class=\"dquo\">&#8220;</span>Дюймовочка&#8221; за мотивами казки Ганса Крістіана&nbsp;Андерсена",
-      "role": "Кріт",
-      "url": "/performances/dujmovochka/"
-    },
-    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Зимові пригоди&#8221; Богдан Базилевич, Олег&nbsp;Кравчук",
       "role": "Святий Миколай, Гудвін,&nbsp;Алхімік",
@@ -610,12 +616,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Акела,&nbsp;Каа",
       "url": "/performances/mauhli/"
-    },
-    {
-      "director": "Цибульський&nbsp;Адам",
-      "performance": "<span class=\"dquo\">&#8220;</span>Пан Коцький&#8221; Наталія Максимчук (за мотивами української народної&nbsp;казки)",
-      "role": "Господар",
-      "url": "/performances/kockyy/"
     },
     {
       "director": "Мосійчук&nbsp;Олег",
