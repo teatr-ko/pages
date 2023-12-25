@@ -170,21 +170,11 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/sonechko/12.02_15_cr_gal_ix.jpg"
-        },
-        "name": "Сонечко в&nbsp;тобі",
-        "url": "/performances/sonechko/"
-      },
-      {
-        "image": {
-          "name": "",
           "url": "/korg/kol/portals/teatr/performances/barbi/23.11.01_cr_gal_ix.jpg"
         },
         "name": "Спасибі,&nbsp;Барбі",
         "url": "/performances/barbi/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -192,7 +182,9 @@
         },
         "name": "Танцюючий&nbsp;Ураган",
         "url": "/performances/dancing_hurricane/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -200,9 +192,7 @@
         },
         "name": "Троє&nbsp;поросят",
         "url": "/performances/three_pigs/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -210,7 +200,9 @@
         },
         "name": "Фарбований&nbsp;лис",
         "url": "/performances/painted_fox/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -218,9 +210,7 @@
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -228,8 +218,7 @@
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      },
-      null
+      }
     ]
   ]
 }

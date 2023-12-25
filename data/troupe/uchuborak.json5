@@ -295,6 +295,12 @@
       "url": "/performances/svatannya/"
     },
     {
+      "director": "Удовенко&nbsp;Костянтин",
+      "performance": "<span class=\"dquo\">&#8220;</span>Сонечко в тобі&#8221; Євген&nbsp;Тищук",
+      "role": "Копокоміко",
+      "url": "/performances/sonechko/"
+    },
+    {
       "director": "Юрців&nbsp;Василь",
       "performance": "<span class=\"dquo\">&#8220;</span>Сосиски, консерви і небо в алмазах&#8221;&nbsp;М.Супонін",
       "role": "Кіт",
@@ -401,12 +407,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Пригоди Червоної Шапочки&#8221; С.Львівська,&nbsp;Б.Мельничук",
       "role": "Червона&nbsp;Шапочка",
       "url": "/performances/ch_shapochka/"
-    },
-    {
-      "director": "Удовенко&nbsp;Костянтин",
-      "performance": "<span class=\"dquo\">&#8220;</span>Сонечко в тобі&#8221; Євген Тищук (переклад з російської&nbsp;Р.Коломієць)",
-      "role": "Копокоміко",
-      "url": "/performances/sonechko/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

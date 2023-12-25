@@ -442,6 +442,12 @@
       "url": "/performances/sobacha_budka/"
     },
     {
+      "director": "Удовенко&nbsp;Костянтин",
+      "performance": "<span class=\"dquo\">&#8220;</span>Сонечко в тобі&#8221; Євген&nbsp;Тищук",
+      "role": "Арлекін",
+      "url": "/performances/sonechko/"
+    },
+    {
       "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
       "performance": "<span class=\"dquo\">&#8220;</span>Сто тисяч&#8221; Іван&nbsp;Карпенко-Карий",
       "role": "Невідомий",
@@ -568,12 +574,6 @@
       "url": "/performances/sv_morhayko/"
     },
     {
-      "director": "Удовенко&nbsp;Костянтин",
-      "performance": "<span class=\"dquo\">&#8220;</span>Сонечко в тобі&#8221; Євген Тищук (переклад з російської&nbsp;Р.Коломієць)",
-      "role": "Арлекін",
-      "url": "/performances/sonechko/"
-    },
-    {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Танцюючий Ураган&#8221; Богдан&nbsp;Базилевич",
       "role": "Мінус",
@@ -596,7 +596,7 @@
   "staff": [
     {
       "director": "Удовенко&nbsp;Костянтин",
-      "performance": "<span class=\"dquo\">&#8220;</span>Сонечко в тобі&#8221; Євген Тищук (переклад з російської&nbsp;Р.Коломієць)",
+      "performance": "<span class=\"dquo\">&#8220;</span>Сонечко в тобі&#8221; Євген&nbsp;Тищук",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/sonechko/"
     }

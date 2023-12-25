@@ -260,11 +260,21 @@
       {
         "image": {
           "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sonechko/12.02_15_cr_gal_ix.jpg"
+        },
+        "name": "Сонечко в&nbsp;тобі",
+        "url": "/performances/sonechko/"
+      },
+      {
+        "image": {
+          "name": "",
           "url": "/korg/kol/portals/teatr/performances/almazy/29.11.01_small_ix_crop.jpg"
         },
         "name": "Сосиски, консерви і небо в&nbsp;алмазах",
         "url": "/performances/almazy/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -272,9 +282,7 @@
         },
         "name": "Стійкий олов’яний&nbsp;солдатик",
         "url": "/performances/ol_soldatyk/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -282,7 +290,9 @@
         },
         "name": "Суєта",
         "url": "/performances/sueta/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -290,9 +300,7 @@
         },
         "name": "Таїни сільського&nbsp;цвинтаря",
         "url": "/performances/taina_cv/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -300,7 +308,9 @@
         },
         "name": "Територія&nbsp;Б",
         "url": "/performances/terytoria/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -308,7 +318,8 @@
         },
         "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
         "url": "/performances/lubov/"
-      }
+      },
+      null
     ]
   ]
 }
