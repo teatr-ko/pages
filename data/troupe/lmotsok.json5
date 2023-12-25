@@ -289,6 +289,12 @@
       "url": "/performances/huska/"
     },
     {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Королиха, Співачка",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
       "director": "Чиборак&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>Сто тисяч&#8221; Іван&nbsp;Карпенко-Карий",
       "role": "Параска",
@@ -359,12 +365,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Курочка Ряба&#8221;&nbsp;Н.Шейко-Медведєва",
       "role": "Баба",
       "url": "/performances/kurochka_ryaba/"
-    },
-    {
-      "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Королиха, Співачка",
-      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",

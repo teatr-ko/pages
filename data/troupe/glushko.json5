@@ -51,6 +51,12 @@
       "url": "/performances/myluvannya/"
     },
     {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Цигани",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
       "director": "Мельничук&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>Собача будка&#8221; Смілянець&nbsp;Марина",
       "role": "Рома",
@@ -133,12 +139,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Пастка для орла&#8221; за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
       "role": "Бобер",
       "url": "/performances/eagle_trap/"
-    },
-    {
-      "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Цигани",
-      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",

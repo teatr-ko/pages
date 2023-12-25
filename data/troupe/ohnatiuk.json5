@@ -266,6 +266,12 @@
     },
     {
       "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Співачка, Королівна",
+      "url": "/performances/po_shchuchomy/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Рятуйте, мене женять!&#8221; за п&#8217;єсою Франца&nbsp;Крьоца",
       "role": "Резель&nbsp;Шобер",
       "url": "/performances/resque_me/"
@@ -377,12 +383,6 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Пастка для орла&#8221; за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
       "role": "Білка",
       "url": "/performances/eagle_trap/"
-    },
-    {
-      "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Співачка, Королівна",
-      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",
