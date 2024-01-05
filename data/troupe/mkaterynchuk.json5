@@ -295,12 +295,6 @@
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Співачка",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
-      "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Сватання на Гончарівці&#8221; Григорій&nbsp;Квітка-Основ&#8217;яненко",
       "role": "Дівчата, Одарка",
       "url": "/performances/svatannya/"
@@ -406,6 +400,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Пастка для орла&#8221; за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
       "role": "Їжак",
       "url": "/performances/eagle_trap/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Співачка",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",

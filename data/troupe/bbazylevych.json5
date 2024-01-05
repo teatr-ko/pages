@@ -518,12 +518,6 @@
       "url": "/performances/kockyy/"
     },
     {
-      "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Гаврило",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
       "director": "Голенко&nbsp;Максим",
       "performance": "<span class=\"dquo\">&#8220;</span>Повернення&#8221; О.Мардань (за п’єсою «Ніч святого&nbsp;Валентина»)",
       "role": "Господар",
@@ -648,6 +642,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Шер-Хан, Балу",
       "url": "/performances/mauhli/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Гаврило",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",

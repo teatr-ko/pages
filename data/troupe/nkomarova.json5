@@ -436,12 +436,6 @@
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Цигани",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
-      "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Рятуйте, мене женять!&#8221; за п&#8217;єсою Франца&nbsp;Крьоца",
       "role": "Катаріна&nbsp;Віммер",
       "url": "/performances/resque_me/"
@@ -529,6 +523,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Котигорошко&#8221;&nbsp;А.Шиян",
       "role": "Сестра змієва,&nbsp;перша, Бабуся",
       "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Цигани",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",

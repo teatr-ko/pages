@@ -28,12 +28,6 @@
     },
     {
       "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Галька",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
-      "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Сватання на Гончарівці&#8221; Григорій&nbsp;Квітка-Основ&#8217;яненко",
       "role": "Дівчата",
       "url": "/performances/svatannya/"
@@ -85,6 +79,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Вовки",
       "url": "/performances/mauhli/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Галька",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

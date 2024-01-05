@@ -462,12 +462,6 @@
       "url": "/performances/kockyy/"
     },
     {
-      "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Цигани",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
       "director": "Луценко&nbsp;Андрій",
       "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав&nbsp;Мирович",
       "role": "Мілан",
@@ -628,6 +622,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Акела,&nbsp;Каа",
       "url": "/performances/mauhli/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Цигани",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Цибульський&nbsp;Адам",

@@ -340,12 +340,6 @@
       "url": "/performances/huska/"
     },
     {
-      "director": "Мосійчук&nbsp;Олег",
-      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
-      "role": "Баба",
-      "url": "/performances/po_shchuchomy/"
-    },
-    {
       "director": "Луценко&nbsp;Андрій",
       "performance": "<span class=\"dquo\">&#8220;</span>Пограбування опівночі&#8221; Мирослав&nbsp;Мирович",
       "role": "Злодійка, Ілонка",
@@ -446,6 +440,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Котигорошко&#8221;&nbsp;А.Шиян",
       "role": "Бабуся, Сестра змієва,&nbsp;перша",
       "url": "/performances/kotyhoroshko/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Баба",
+      "url": "/performances/po_shchuchomy/"
     },
     {
       "director": "Медюсев&nbsp;Володимир",

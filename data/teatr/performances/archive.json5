@@ -242,21 +242,11 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/87_cr_gal_ix.jpeg"
-        },
-        "name": "По щучому&nbsp;велінню",
-        "url": "/performances/po_shchuchomy/"
-      },
-      {
-        "image": {
-          "name": "",
           "url": "/korg/kol/portals/teatr/performances/povernennya/29.11.01_small_ix_crop.jpg"
         },
         "name": "Повернення",
         "url": "/performances/povernennya/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -264,7 +254,9 @@
         },
         "name": "Подорож у країну&nbsp;мрій",
         "url": "/performances/podorozh/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "А я тебе іще&nbsp;кохаю…",
@@ -272,9 +264,7 @@
         },
         "name": "Романс про&nbsp;закоханих",
         "url": "/performances/romans/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -282,7 +272,9 @@
         },
         "name": "Сонечко в&nbsp;тобі",
         "url": "/performances/sonechko/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -290,9 +282,7 @@
         },
         "name": "Сосиски, консерви і небо в&nbsp;алмазах",
         "url": "/performances/almazy/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -300,7 +290,9 @@
         },
         "name": "Стійкий олов’яний&nbsp;солдатик",
         "url": "/performances/ol_soldatyk/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -308,9 +300,7 @@
         },
         "name": "Суєта",
         "url": "/performances/sueta/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -318,7 +308,9 @@
         },
         "name": "Таїни сільського&nbsp;цвинтаря",
         "url": "/performances/taina_cv/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -326,9 +318,7 @@
         },
         "name": "Територія&nbsp;Б",
         "url": "/performances/terytoria/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -336,7 +326,9 @@
         },
         "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
         "url": "/performances/lubov/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -344,7 +336,8 @@
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      }
+      },
+      null
     ]
   ]
 }
