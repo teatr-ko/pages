@@ -37,14 +37,15 @@ jobs:
         uses: addnab/docker-run-action@v3
         with:
           image: andriyg/pages-processor:0.0.8
-          options: -v ${{ github.workspace }}:/pages --user=${{ env.UID }}      
+          options: -v ${{ github.workspace }}:/pages --user=${{ env.UID }}   
+          run: java -jar /pages-processor.jar
+          
 
-      - run: |
-          set -x |
-          du -sh pages |
-          git status |
-          set -e |
-          echo "Failure!" |
+      - run: 
+          set -x -e ;
+          du -sh pages ;
+          git status ;
+          echo "Failure!" ;
           false
 
     
