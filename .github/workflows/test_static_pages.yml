@@ -32,13 +32,13 @@ jobs:
       - name: Resolve UID and GID
         run: |
          echo "UID=$(id -u)" >> $GITHUB_ENV |
-         cat $GITHUB_ENV 
+         ls -ld $GITHUB_ENV 
 
       - name: Generate pages
         uses: addnab/docker-run-action@v3
         with:
           image: andriyg/pages-processor:0.0.8
-          options: -v ${{ github.workspace }}:/pages --user "${{ env.UID_AND_GID }}"      
+          options: -v ${{ github.workspace }}:/pages --user "${{ env.UID }}"      
 
       - run: |
           du -sh pages |
