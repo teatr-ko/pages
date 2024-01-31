@@ -30,7 +30,7 @@ jobs:
           ls -ld data pages .
           
       - name: Resolve UID and GID
-        run: echo "UID_AND_GID=(id -u):$(id -g)" >> $GITHUB_ENV
+        run: echo "UID_AND_GID=$(id -u):$(id -g)" >> $GITHUB_ENV
 
       - name: Generate pages
         uses: addnab/docker-run-action@v3
