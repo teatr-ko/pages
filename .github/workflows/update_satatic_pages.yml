@@ -79,7 +79,7 @@ jobs:
         uses: addnab/docker-run-action@v3
         with:
           image: andriyg/pages-processor:0.0.8
-          options: -v ${{ github.workspace }}:/pages -v ${{ github.workspace }}/pages:/pages/pages "--user ${{ env.UID }}"      
+          options: -v ${{ github.workspace }}:/pages -v ${{ github.workspace }}/pages:/pages/pages --user=${{ env.UID }}       
           run: |
             set -x -e 
             ls -ld data pages . 
