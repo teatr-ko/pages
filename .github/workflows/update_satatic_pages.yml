@@ -81,12 +81,11 @@ jobs:
 
       - name: Generate pages
         run: |
-          set -x && \
-          mkdir -pv tmp && \
-          curl --header 'Authorization: token ${{ secrets.GITHUB_TOKEN }}' \
-            --location https://maven.pkg.github.com/andriyg76/pages-processor/ee/andriyg/os/pages-processor/0.0.6/pages-processor-0.0.6.jar \
-            -o ./tmp/pages-processor.jar --fail &&
-          java -jar ./tmp/pages-processor.jar
+          docker run \
+            --rm \
+            --volume $PWD/..:/pages \
+            --user "$(id -u):$(id -g)" \
+            andriyg/pages-processor:0.0.8
 
       - name: Commit changes
         run: |
@@ -98,17 +97,6 @@ jobs:
             xargs --null git commit -m "site generation" \
               || { if [[ "$?" -ne 123 ]] ; then false ; fi } && \
           git push -v
-
-      - name: executing remote ssh commands using password
-        uses: appleboy/ssh-action@v0.1.10
-        with:
-          host: ${{ vars.DEPLOY_HOST }}
-          username: ${{ vars.DEPLOY_USER }}
-          key:  ${{ secrets.SSH_KEY }}
-          script: |
-            set -x -e
-            cd ng
-            git pull -v
 
       - name: send telegram message
         uses: appleboy/telegram-action@master
