@@ -40,10 +40,11 @@ jobs:
           options: -v ${{ github.workspace }}:/pages --user=${{ env.UID }}      
 
       - run: |
+          set -x |
           du -sh pages |
           git status |
           set -e |
-          echo "Failure!"
+          echo "Failure!" |
           false
 
     
