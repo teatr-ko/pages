@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: build and push static site
+name: test run generator
 
 # Controls when the action will run. 
 on:
@@ -28,6 +28,9 @@ jobs:
       - run: mkdir -pv pages |
           ls -ld data pages .
           
+      - name: Resolve UID and GID
+        run: echo "UID_AND_GID=(id -u):$(id -g)" >> $GITHUB_ENV
+
       - name: Generate pages
         uses: addnab/docker-run-action@v3
         with:
