@@ -1,0 +1,29 @@
+{{#partial "caption"}}
+    Головна
+{{/partial}}
+
+{{#partial "keywords"}}
+    {{ keywords }}
+{{/partial}}
+
+{{#partial "content"}}
+	<div id="content">
+        {{> parts/firstpage_greeting }}
+    {{#each items}}
+        <hr/>
+        {{#if caption}}
+            {{#if link}}
+                <h1 class="header_t"><a href="{{ link }}">{{{ caption }}}</a></h1>
+            {{else}}
+                <h1 class="header_t">{{{ caption }}}</h1>
+            {{/if}}
+            {{#if date}}
+                <div class='currentDate'>{{{ date }}}</div>
+            {{/if}}
+        {{/if}}
+        {{{body}}}
+    {{/each}}
+    </div>
+{{/partial}}
+
+{{> default }}
