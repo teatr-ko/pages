@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "news/8/index.html",
+    "output": "news/8/firstpage.html",
     "template": "news/page"
   },
   "navigate_url": "/news/",

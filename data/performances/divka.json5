@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "performances/divka/index.html",
+    "output": "performances/divka/firstpage.html",
     "template": "teatr/performance"
   },
   "addition": "<p style=\"text-align: center;\"><span style=\"font-size: large;\">Прем&rsquo;єра не відбулася</span></p>",

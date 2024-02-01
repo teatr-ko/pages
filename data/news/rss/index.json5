@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "news/rss/index.html",
+    "output": "news/rss/firstpage.html",
     "template": "redirect"
   },
   "redirect": "/news.rss"

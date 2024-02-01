@@ -1,0 +1,207 @@
+name = "main_teatr"
+[[items]]
+caption = "Головна"
+id = 9
+items = []
+level = 1
+url = "/"
+
+[[items]]
+caption = "Історія"
+id = 10
+level = 1
+url = "#"
+
+[[items.items]]
+caption = "1848 - 1864 рр."
+id = 18
+items = []
+level = 2
+url = "/history/1848/"
+
+[[items.items]]
+caption = "1864 - 1918 рр."
+id = 19
+items = []
+level = 2
+url = "/history/1864/"
+
+[[items.items]]
+caption = "1918 - 1939 рр."
+id = 20
+items = []
+level = 2
+url = "/history/1918/"
+
+[[items.items]]
+caption = "1939 - 1989 рр."
+id = 21
+items = []
+level = 2
+url = "/history/1939/"
+
+[[items.items]]
+caption = "1989 - 2010 рр."
+id = 27
+items = []
+level = 2
+url = "/history/1989/"
+
+[[items.items]]
+caption = "2011 - 2020рр."
+id = 38
+items = []
+level = 2
+url = "/history/2020/"
+
+[[items]]
+caption = "Легенди театру"
+id = 31
+items = []
+level = 1
+url = "/legendy/"
+
+[[items]]
+caption = "Керівництво"
+id = 26
+items = []
+level = 1
+url = "/manager/"
+
+[[items]]
+caption = "Репертуар"
+id = 11
+level = 1
+url = "#"
+
+[[items.items]]
+caption = "Для дорослих"
+id = 17
+items = []
+level = 2
+url = "/performances_group/for_m/"
+
+[[items.items]]
+caption = "Мала сцена"
+id = 28
+items = []
+level = 2
+url = "/performances_group/sm_stage/"
+
+[[items.items]]
+caption = "Для дітей"
+id = 16
+items = []
+level = 2
+url = "/performances_group/for_kids/"
+
+[[items.items]]
+caption = "Архів вистав"
+id = 24
+items = []
+level = 2
+url = "/performances_group/archive/"
+
+[[items]]
+caption = "Трупа"
+id = 12
+items = []
+level = 1
+url = "/troupe/"
+
+[[items]]
+caption = "Коломийські представлення"
+id = 14
+level = 1
+url = "/kol_presentations/"
+
+[[items.items]]
+caption = "I фестиваль - 2008 р."
+id = 22
+items = []
+level = 2
+url = "/kol_presentations/2008/"
+
+[[items.items]]
+caption = "ІІ фестиваль - 2010 р."
+id = 23
+items = []
+level = 2
+url = "/kol_presentations/2010/"
+
+[[items.items]]
+caption = "ІІI фестиваль - 2011 р."
+id = 25
+items = []
+level = 2
+url = "/kol_presentations/2011/"
+
+[[items.items]]
+caption = "IV фестиваль - 2012 р."
+id = 29
+items = []
+level = 2
+url = "/kol_presentations/2012/"
+
+[[items.items]]
+caption = "V фестиваль - 2013 р."
+id = 30
+items = []
+level = 2
+url = "/kol_presentations/2013/"
+
+[[items.items]]
+caption = "VI фестиваль - 2014 р."
+id = 32
+items = []
+level = 2
+url = "/kol_presentations/2014/"
+
+[[items.items]]
+caption = "VII фестиваль - 2015 р."
+id = 33
+items = []
+level = 2
+url = "/kol_presentations/2015/"
+
+[[items.items]]
+caption = "VIII фестиваль - 2016 р."
+id = 34
+items = []
+level = 2
+url = "/kol_presentations/2016/"
+
+[[items.items]]
+caption = "IX фестиваль - 2017 р."
+id = 35
+items = []
+level = 2
+url = "/kol_presentations/2017/"
+
+[[items.items]]
+caption = "X фестиваль - 2018 р."
+id = 37
+items = []
+level = 2
+url = "/kol_presentations/2018/"
+
+[[items.items]]
+caption = "XI фестиваль - 2019 р."
+id = 39
+items = []
+level = 2
+url = "/kol_presentations/2019/"
+
+[[items.items]]
+caption = "XIІ фестиваль - 2021 р."
+id = 40
+items = []
+level = 2
+url = "/kol_presentations/2021/"
+
+[[items]]
+caption = "Архів"
+id = 36
+items = []
+level = 1
+url = "/archive/"
