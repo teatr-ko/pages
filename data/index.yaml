@@ -4,6 +4,18 @@ _page:
 
 items:
 
+  - body: "<p style=\"text-align: center;\"><strong><span style=\"font-family: 'book antiqua', palatino;\
+      \ font-size: large; color: #800000;\">ВАЖЛИВА&nbsp;ІНФОРМАЦІЯ!</span></strong></p>\r\n<p style=\"\
+      text-align: center;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: large;\
+      \ color: #800000;\">У приміщенні Коломийського театру за адресою: пл.Вічевий майдан,&nbsp;7,</span></strong></p>\r\
+      \n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'book antiqua', palatino;\
+      \ font-size: large; color: #800000;\">знаходиться&nbsp;</span></strong><strong><span style=\"font-family:\
+      \ 'book antiqua', palatino; font-size: large; color: #800000;\">УКРИТТЯ.</span></strong></p>\r\n\
+      <p style=\"text-align: center;\">&nbsp;</p>"
+    caption:
+    date: 24 лютого 2022&nbsp;р.
+    link:
+
   - body: "<p>❄️ Нам всім так хочеться дива&#8230; З початком зими приходить час добрих різдвяних&nbsp;вистав❄️\r\
       </p><p>Театр приймає замовлення!☃️Інформація і колективне бронювання за телефонами: 096 651 03 82,\
       \ 099 198 57&nbsp;70</p>"
@@ -11,29 +23,7 @@ items:
     date: 01 грудня 2023&nbsp;р.
     link: https://teatr.kolomyya.org/news/item/58450
 
-  - body: "<p class=\"header_t\" style=\"text-align: center;\"><a href=\"/korg/kol/portals/teatr/page/01_gallery.jpg\"\
-      \ rel=\"\" title><img class=\"l lightbox\" height=\"100\" src=\"/korg/kol/portals/teatr/page/01__gal_ix.jpg\"\
-      \ style=\"float: left;\" width=\"150\"/></a><span style=\"font-family: book antiqua, palatino;\"\
-      >Шановні пані&nbsp;та&nbsp;панове!</span></p>\n<p align=\"center\" style=\"text-align: center;\"\
-      ><span style=\"font-family: book antiqua, palatino; font-size: medium;\"><strong><span style=\"\
-      color: #3366ff;\">Вітаємо на офіційній веб-сторінці першого українського театру на західноукраїнських\
-      \ землях, одного із найстаріших театрів України - Коломийського академічного обласного українського\
-      \ драматичного театру імені&nbsp;Івана&nbsp;Озаркевича.</span></strong></span> </p>\n<hr style=\"\
-      padding-left: 30px;\"/>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'book\
-      \ antiqua', palatino; font-size: large; color: #800000;\">ВАЖЛИВА&nbsp;ІНФОРМАЦІЯ!</span></strong></p>\n\
-      <p style=\"text-align: center;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size:\
-      \ large; color: #800000;\">У приміщенні Коломийського театру за адресою: пл.Вічевий&nbsp;майдан,&nbsp;7,</span></strong></p>\n\
-      <p style=\"text-align: center;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size:\
-      \ large; color: #800000;\">знаходиться </span></strong><strong><span style=\"font-family: 'book\
-      \ antiqua', palatino; font-size: large; color: #800000;\">УКРИТТЯ.</span></strong></p>\n<p style=\"\
-      text-align: center;\"> </p>\n<hr/>\n<table border=\"0\">\n<tbody>\n<tr>\n<td><img alt=\"\" class=\"\
-      l\" height=\"99\" src=\"/korg/kol/news/2023/58450/photo_5420401779167842197_x_gallery.jpg\" width=\"\
-      120\"/></td>\n<td style=\"font-size: medium;\"><span style=\"font-size: medium;\">❄️ Нам всім так\
-      \ хочеться дива&#8230; З початком зими приходить час добрих різдвяних вистав❄️</span><br/><span\
-      \ style=\"font-size: medium;\">Театр приймає замовлення!☃️Інформація і колективне бронювання за\
-      \ телефонами: <a href=\"%20tel:+38%20096%20651%2003%2082\">096 651 03 82</a>, <a href=\"tel:+38%20099%20198%2057%2070\"\
-      >099 198 57 70</a></span></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<hr/>\n<p> </p>\n<p style=\"\
-      text-align: center;\"><img alt=\"stand_iup\" class=\"l\" height=\"450\" src=\"/korg/kol/page/stand_up_04.jpg\"\
+  - body: "<p style=\"text-align: center;\"><img alt=\"stand_iup\" class=\"l\" height=\"450\" src=\"/korg/kol/page/stand_up_04.jpg\"\
       \ width=\"270\"/></p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"\
       > </p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"><span style=\"\
       font-size: large;\"> Дорогі глядачі, у зв&#8217;язку з трауром, захід перенесено&nbsp;на&nbsp;02.04!\
