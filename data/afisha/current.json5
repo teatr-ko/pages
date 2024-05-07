@@ -3,7 +3,35 @@
     "output": "afisha/current/firstpage.html",
     "template": "teatr/afisha"
   },
-  "items": [],
+  "items": [
+    {
+      "author": "Іван&nbsp;Карпенко-Карий",
+      "date": "Субота,&nbsp;11.05.24",
+      "genre": "Комедія",
+      "performance": "Сто&nbsp;тисяч",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://teatr.kolomyya.org/performances/sto_tysiach/"
+    },
+    {
+      "author": "Євген Тищук (переклад Василя&nbsp;Лужковського)",
+      "date": "Неділя,&nbsp;12.05.24",
+      "genre": "Казка для дітей",
+      "performance": "Спасибі,&nbsp;Барбі",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://teatr.kolomyya.org/performances/barbi/"
+    },
+    {
+      "author": "Тарас&nbsp;Шевченко",
+      "date": null,
+      "genre": "народна драма",
+      "performance": "Мати-наймичка",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://teatr.kolomyya.org/performances/maty/"
+    }
+  ],
   "other_my": "Червень&nbsp;2024",
   "other_period": "наступний",
   "other_url": "/afisha/next/",
