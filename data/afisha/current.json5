@@ -30,6 +30,60 @@
       "place": "м.Коломия -&nbsp;театр",
       "time": "18:00",
       "url": "https://teatr.kolomyya.org/performances/maty/"
+    },
+    {
+      "author": "Мирослав&nbsp;Мирович",
+      "date": "Субота,&nbsp;18.05.24",
+      "genre": "Комедія",
+      "performance": "Пограбування&nbsp;опівночі",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://teatr.kolomyya.org/performances/porhabuvanniya/"
+    },
+    {
+      "author": "Н.Шейко-Медведєва",
+      "date": "Неділя,&nbsp;19.05.24",
+      "genre": "Казка",
+      "performance": "Курочка&nbsp;Ряба",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://teatr.kolomyya.org/performances/kurochka_ryaba/"
+    },
+    {
+      "author": "за твором Ольги&nbsp;Кобилянської",
+      "date": null,
+      "genre": "драматична легенда",
+      "performance": "У неділю рано зілля&nbsp;копала",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://teatr.kolomyya.org/performances/y_nediliu_rano/"
+    },
+    {
+      "author": "Я.Стельмах",
+      "date": "Субота,&nbsp;25.05.24",
+      "genre": "Комедія",
+      "performance": "Коханий&nbsp;нелюб",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://teatr.kolomyya.org/performances/kohanyi_nelub/"
+    },
+    {
+      "author": "за п’єсою А.Шиян &#8220;Летючий&nbsp;корабель&#8221;",
+      "date": "Неділя,&nbsp;26.05.24",
+      "genre": "музична казка",
+      "performance": "Правда і&nbsp;Кривда",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "13:00",
+      "url": "https://teatr.kolomyya.org/performances/pravdaikryvda/"
+    },
+    {
+      "author": "Іван&nbsp;Карпенко-Карий",
+      "date": null,
+      "genre": "комедія",
+      "performance": "Мартин&nbsp;Боруля",
+      "place": "м.Коломия -&nbsp;театр",
+      "time": "18:00",
+      "url": "https://teatr.kolomyya.org/performances/martyn_borylia/"
     }
   ],
   "other_my": "Червень&nbsp;2024",
