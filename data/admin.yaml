@@ -1,4 +1,4 @@
 _page:
-  output: admin/firstpage.html
+  output: admin/index.html
   template: redirect
 redirect: https://admin.teatr.kolomyya.org/admin/
