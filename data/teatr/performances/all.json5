@@ -1,0 +1,746 @@
+{
+  "_page": {
+    "output": "performances/for_m/index.html",
+    "template": "teatr/performances"
+  },
+  "afisha": [
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/constrictor/08_cr_gal_ix.jpg"
+        },
+        "name": "Boa&nbsp;constrictor",
+        "url": "/performances/constrictor/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/equus/14_small_ix_crop.jpg"
+        },
+        "name": "<span class=\"caps\">EQUUS</span>",
+        "url": "/performances/equus/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/annychka/01_cr_gal_ix.jpg"
+        },
+        "name": "Анничка",
+        "url": "/performances/annychka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/bilja_kovchega/bilja_kovchega_cr_gal_ix.jpg"
+        },
+        "name": "Біля ковчега о&nbsp;восьмій",
+        "url": "/performances/bilja_kovchega/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/bremenski/01_cr_gal_ix.jpg"
+        },
+        "name": "Бременські&nbsp;музиканти",
+        "url": "/performances/bremenski/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/houseforscrap/houseforscrap_small_ix_crop.jpg"
+        },
+        "name": "Будинок на&nbsp;злам",
+        "url": "/performances/houseforscrap/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/vii/08_cr_gal_ix.jpg"
+        },
+        "name": "Вій",
+        "url": "/performances/vii/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/vinni/1_rio_cr_gal_ix.jpg"
+        },
+        "name": "Вінні-Пух та його&nbsp;друзі",
+        "url": "/performances/vinni/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/8_liubliachyh/04_small_ix_crop.jpg"
+        },
+        "name": "Вісім люблячих&nbsp;жінок ",
+        "url": "/performances/8_liubliachyh/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/myshi/v/myshi_cr_gal_ix.jpg"
+        },
+        "name": "Всі миші люблять&nbsp;сир",
+        "url": "/performances/myshi/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/hamlet/08_small_ix_crop.jpg"
+        },
+        "name": "Гамлет",
+        "url": "/performances/hamlet/"
+      },
+      {
+        "image": {
+          "name": "2016 р. Фото - Роман&nbsp;Захарчук",
+          "url": "/korg/kol/portals/teatr/performances/hutsulskyi_rik/rik.jpg_cr_gal_ix.jpeg"
+        },
+        "name": "Гуцульський&nbsp;рік",
+        "url": "/performances/hutsulskyi_rik/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/darmoidy/16.02_05_small_ix_crop.jpg"
+        },
+        "name": "Дармоїди",
+        "url": "/performances/darmoidy/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/leopold/04_cr_gal_ix.jpg"
+        },
+        "name": "День народження Кота&nbsp;Леопольда",
+        "url": "/performances/leopold/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/wooden_miracle/01_cr_gal_ix.jpg"
+        },
+        "name": "Дерев’яне&nbsp;диво",
+        "url": "/performances/wooden_miracle/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dialog/16.02_05_small_ix_crop.jpg"
+        },
+        "name": "Діалог, якого не&nbsp;було",
+        "url": "/performances/dialog/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/divka/17.02_01_small_ix_crop.jpg"
+        },
+        "name": "Дівка на відданню, або На милованє нема&nbsp;силованє",
+        "url": "/performances/divka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dujmovochka/logo_cr_gal_ix.jpg"
+        },
+        "name": "Дюймовочка",
+        "url": "/performances/dujmovochka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zaycyamy/03_cr_gal_ix.jpg"
+        },
+        "name": "За двома&nbsp;зайцями",
+        "url": "/performances/zaycyamy/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zvidky_berytsia_dity/01_small_ix_crop.jpg"
+        },
+        "name": "Звідки беруться&nbsp;діти",
+        "url": "/performances/zvidky_berytsia_dity/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zemlya/zemlia_cr_gal_ix.jpeg"
+        },
+        "name": "Земля",
+        "url": "/performances/zemlya/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zymovi_pryhody/01_cr_gal_ix.jpg"
+        },
+        "name": "Зимові&nbsp;пригоди",
+        "url": "/performances/zymovi_pryhody/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kurcha/золоте_курча_cr_gal_ix.jpg"
+        },
+        "name": "Золоте&nbsp;курча",
+        "url": "/performances/kurcha/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/telesyk/25_cr_gal_ix.jpg"
+        },
+        "name": "Івасик -&nbsp;Телесик",
+        "url": "/performances/telesyk/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/moroka/140793486_cr_gal_ix.jpg"
+        },
+        "name": "Іродова&nbsp;морока",
+        "url": "/performances/moroka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_cr_gal_ix.jpg"
+        },
+        "name": "Кайдашева&nbsp;сім’я",
+        "url": "/performances/simya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/stonecross/stonecross_1_cr_gal_ix.jpg"
+        },
+        "name": "Камінний&nbsp;хрест",
+        "url": "/performances/stonecross/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kachechka/kachechka_small_ix_crop.jpg"
+        },
+        "name": "Качечка&nbsp;Крячечка",
+        "url": "/performances/kachechka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kystyn_dim/03_cr_gal_ix.jpg"
+        },
+        "name": "Кицин&nbsp;дім",
+        "url": "/performances/kytsyn_dim/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/puss_in_boots/photo_2021-11-23_14.39.52_cr_gal_ix.jpeg"
+        },
+        "name": "Кіт у&nbsp;чоботях",
+        "url": "/performances/puss_in_boots/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/koza/koza_dereza_cr_gal_ix.jpg"
+        },
+        "name": "Коза-дереза",
+        "url": "/performances/koza_dereza/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/when_animals/zviri_cr_gal_ix.jpg"
+        },
+        "name": "Коли ще звірі&nbsp;говорили",
+        "url": "/performances/when_animals/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kontrakt/12.02_01_cr_gal_ix.jpg"
+        },
+        "name": "Контракт",
+        "url": "/performances/kontrakt/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kotyhoroshko/kotygoroshko_cr_gal_ix.jpg"
+        },
+        "name": "Котигорошко",
+        "url": "/performances/kotyhoroshko/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_cr_gal_ix.jpg"
+        },
+        "name": "Коханий&nbsp;нелюб",
+        "url": "/performances/kohanyi_nelub/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kohantsi/27_small_ix_crop.jpg"
+        },
+        "name": "Коханці",
+        "url": "/performances/kohantsi/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/01_cr_gal_ix.jpg"
+        },
+        "name": "Курочка&nbsp;Ряба",
+        "url": "/performances/kurochka_ryaba/"
+      },
+      {
+        "image": {
+          "name": "ЕЗОП. Коломийський академічний обласний український драматичний театр імені Івана&nbsp;Озаркевича",
+          "url": "/korg/kol/portals/teatr/performances/ezop/ezop_cr_gal_ix.jpg"
+        },
+        "name": "Лисиця й Виноград&nbsp;(Езоп)",
+        "url": "/performances/ezop/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/martyn_borylia/main_cr_gal_ix.jpg"
+        },
+        "name": "Мартин&nbsp;Боруля",
+        "url": "/performances/martyn_borylia/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/maty-najmychka/04_cr_gal_ix.jpg"
+        },
+        "name": "Мати-наймичка",
+        "url": "/performances/maty/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_11_cr_gal_ix.jpg"
+        },
+        "name": "Мауглі",
+        "url": "/performances/mauhli/"
+      },
+      {
+        "image": {
+          "name": "Фото Роман&nbsp;Захарчук",
+          "url": "/korg/kol/portals/teatr/performances/miss_julie/01_cr_gal_ix.jpg"
+        },
+        "name": "Міс&nbsp;Жулі",
+        "url": "/performances/miss_julie/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dulska/01_cr_gal_ix.jpg"
+        },
+        "name": "Мораль пані&nbsp;Дульської",
+        "url": "/performances/dulska/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/myluvannya/01_cr_gal_ix.jpg"
+        },
+        "name": "На милування нема&nbsp;силування",
+        "url": "/performances/myluvannya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/nedotorka/01_small_ix_crop.jpg"
+        },
+        "name": "Недоторка",
+        "url": "/performances/nedotorka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/nelehalka/01_small_ix_crop.jpg"
+        },
+        "name": "Нелегалка",
+        "url": "/performances/nelehalka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/nich_na_polonyni/06_small_ix_crop.jpg"
+        },
+        "name": "Ніч на&nbsp;полонині",
+        "url": "/performances/nich_na_polonyni/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/rozvahy/04.12_18_small_ix_crop.jpg"
+        },
+        "name": "Нічні розваги з молодим&nbsp;Козерогом",
+        "url": "/performances/rozvahy/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/huska/16.02_20_small_ix_crop.jpg"
+        },
+        "name": "Отак загинув&nbsp;Гуска",
+        "url": "/performances/huska/"
+      },
+      {
+        "image": {
+          "name": "Наталія Максимчук (за мотивами української народної казки) &#8220;Пан&nbsp;Коцький&#8221;",
+          "url": "/korg/kol/portals/teatr/performances/kockyy/136810119_small_ix_crop.jpg"
+        },
+        "name": "Пан&nbsp;Коцький",
+        "url": "/performances/kockyy/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/eagle_trap/eagle_trap_cr_gal_ix.jpg"
+        },
+        "name": "Пастка для&nbsp;орла",
+        "url": "/performances/eagle_trap/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sirnychok/01_small_ix_crop.jpg"
+        },
+        "name": "Підступний&nbsp;сірничок",
+        "url": "/performances/sirnychok/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/po_shchuchomy/87_cr_gal_ix.jpeg"
+        },
+        "name": "По щучому&nbsp;велінню",
+        "url": "/performances/po_shchuchomy/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/povernennya/29.11.01_small_ix_crop.jpg"
+        },
+        "name": "Повернення",
+        "url": "/performances/povernennya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/97_cr_gal_ix.png"
+        },
+        "name": "Пограбування&nbsp;опівночі",
+        "url": "/performances/porhabuvanniya/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/podorozh/04_small_ix_crop.jpg"
+        },
+        "name": "Подорож у країну&nbsp;мрій",
+        "url": "/performances/podorozh/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/popelyushka/popelushka_cr_gal_ix.jpg"
+        },
+        "name": "Попелюшка",
+        "url": "/performances/popelyushka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/pravdaikryvda/pravda_cr_gal_ix.jpg"
+        },
+        "name": "Правда і&nbsp;Кривда",
+        "url": "/performances/pravdaikryvda/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ch_shapochka/червона_шапочка_rio_cr_gal_ix.jpg"
+        },
+        "name": "Пригоди Червоної&nbsp;Шапочки",
+        "url": "/performances/ch_shapochka/"
+      },
+      {
+        "image": {
+          "name": "А я тебе іще&nbsp;кохаю…",
+          "url": "/korg/kol/portals/teatr/performances/kochayu/romans1_small_ix_crop.jpg"
+        },
+        "name": "Романс про&nbsp;закоханих",
+        "url": "/performances/romans/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/resque_me/resque_me_cr_gal_ix.jpg"
+        },
+        "name": "Рятуйте, мене&nbsp;женять!",
+        "url": "/performances/resque_me/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/svatannya/сватання_на_гончарівці_cr_gal_ix.jpg"
+        },
+        "name": "Сватання на&nbsp;Гончарівці",
+        "url": "/performances/svatannya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sv_morhayko/29.11.01_cr_gal_ix.jpg"
+        },
+        "name": "Світлофор&nbsp;Моргайко",
+        "url": "/performances/sv_morhayko/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sobacha_budka/sobacha_budka_cr_gal_ix.jpg"
+        },
+        "name": "Собача&nbsp;будка",
+        "url": "/performances/sobacha_budka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sonechko/12.02_15_cr_gal_ix.jpg"
+        },
+        "name": "Сонечко в&nbsp;тобі",
+        "url": "/performances/sonechko/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/almazy/29.11.01_small_ix_crop.jpg"
+        },
+        "name": "Сосиски, консерви і небо в&nbsp;алмазах",
+        "url": "/performances/almazy/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/barbi/23.11.01_cr_gal_ix.jpg"
+        },
+        "name": "Спасибі,&nbsp;Барбі",
+        "url": "/performances/barbi/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ol_soldatyk/23.11.01_small_ix_crop.jpg"
+        },
+        "name": "Стійкий олов’яний&nbsp;солдатик",
+        "url": "/performances/ol_soldatyk/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sto_tysiach/sto_tysiach_main_cr_gal_ix.jpg"
+        },
+        "name": "Сто&nbsp;тисяч",
+        "url": "/performances/sto_tysiach/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sueta/04_small_ix_crop.jpg"
+        },
+        "name": "Суєта",
+        "url": "/performances/sueta/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/taina_cv/16.02_13_small_ix_crop.jpg"
+        },
+        "name": "Таїни сільського&nbsp;цвинтаря",
+        "url": "/performances/taina_cv/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dancing_tornado/tornado_cr_gal_ix.jpg"
+        },
+        "name": "Танцюючий&nbsp;Ураган",
+        "url": "/performances/dancing_hurricane/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/terytoria/05.12_18_small_ix_crop.jpg"
+        },
+        "name": "Територія&nbsp;Б",
+        "url": "/performances/terytoria/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/three_ideal_marriage/три_ідеальних_подружжя_cr_gal_ix.jpg"
+        },
+        "name": "Три ідеальні&nbsp;подружжя",
+        "url": "/performances/three_ideal_marriage/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/lubov/00_small_ix_crop.jpg"
+        },
+        "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
+        "url": "/performances/lubov/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/three_pigs/three_pigs_cr_gal_ix.jpg"
+        },
+        "name": "Троє&nbsp;поросят",
+        "url": "/performances/three_pigs/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/y_nediliu_rano/y_nediliu_rano_1_cr_gal_ix.jpg"
+        },
+        "name": "У неділю рано зілля&nbsp;копала",
+        "url": "/performances/y_nediliu_rano/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/faraony/faraony_cr_gal_ix.jpg"
+        },
+        "name": "Фараони",
+        "url": "/performances/faraony/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/painted_fox/фарбований_лис111_cr_gal_ix.jpg"
+        },
+        "name": "Фарбований&nbsp;лис",
+        "url": "/performances/painted_fox/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/1_rio_fh_gal_ix.jpg"
+        },
+        "name": "Чарівна&nbsp;рукавичка",
+        "url": "/performances/ch_rukavychka/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zymovi_prygody_2/chydo_cr_gal_ix.jpg"
+        },
+        "name": "Чудо Святого&nbsp;Миколая",
+        "url": "/performances/zymovi_prygody_2/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/yak_didy/12_cr_gal_ix.jpg"
+        },
+        "name": "Як наші діди&nbsp;парубкували",
+        "url": "/performances/yak_didy/"
+      }
+    ]
+  ]
+}

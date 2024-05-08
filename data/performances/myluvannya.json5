@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "performances/myluvannya/firstpage.html",
+    "output": "performances/myluvannya/index.html",
     "template": "teatr/performance"
   },
   "addition": "<blockquote>\r\n<p style=\"padding-left: 60px;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Коломийський театр прем&rsquo;єру цієї вистави вперше здійснив у липні 1848 року&hellip; Тоді її назва була &laquo;Жовнір-чарівник&raquo;&hellip; </span></strong></span></p>\r\n<p style=\"padding-left: 60px;\"><span style=\"color: #333333;\"><strong><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Пройшли роки&hellip; Однак, денщик &laquo;их благородия&raquo; Шельменко продовжує дивувати, чудити, смішити&hellip;</span></strong></span></p>\r\n</blockquote>",

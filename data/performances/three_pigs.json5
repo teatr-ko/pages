@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "performances/three_pigs/firstpage.html",
+    "output": "performances/three_pigs/index.html",
     "template": "teatr/performance"
   },
   "addition": "<blockquote><hr />\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Жили собі троє братів, троє поросят. Цілісінькими днями вони гралися, співали, жартували. Та ось, літо добігає кінця і постає питання, де ж зимувати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Старші брати нашвидкуруч побудували собі будиночки, один із соломи, другий з гілочок, а молодший вирішив будувати з цегли, такий дім, щоб був наче фортеця. Довго потішалися над ним старші брати.</strong></span></p>\r\n<p style=\"text-align: justify; padding-left: 30px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium; color: #333333;\"><strong>Та коли прийшло лихо і голодний Вовк намагався дістатися та з&rsquo;їсти поросят, чий задум був найвдалішим?</strong></span></p>\r\n</blockquote>",

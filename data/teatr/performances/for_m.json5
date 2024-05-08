@@ -1,0 +1,206 @@
+{
+  "_page": {
+    "output": "performances_group/for_m/index.html",
+    "template": "teatr/performances"
+  },
+  "afisha": [
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/annychka/01_cr_gal_ix.jpg"
+        },
+        "name": "Анничка",
+        "url": "/performances/annychka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/vii/08_cr_gal_ix.jpg"
+        },
+        "name": "Вій",
+        "url": "/performances/vii/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "2016 р. Фото - Роман&nbsp;Захарчук",
+          "url": "/korg/kol/portals/teatr/performances/hutsulskyi_rik/rik.jpg_cr_gal_ix.jpeg"
+        },
+        "name": "Гуцульський&nbsp;рік",
+        "url": "/performances/hutsulskyi_rik/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zaycyamy/03_cr_gal_ix.jpg"
+        },
+        "name": "За двома&nbsp;зайцями",
+        "url": "/performances/zaycyamy/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/zemlya/zemlia_cr_gal_ix.jpeg"
+        },
+        "name": "Земля",
+        "url": "/performances/zemlya/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/simya/изображение_viber_2022-01-26_12-00-51-332_cr_gal_ix.jpg"
+        },
+        "name": "Кайдашева&nbsp;сім’я",
+        "url": "/performances/simya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/stonecross/stonecross_1_cr_gal_ix.jpg"
+        },
+        "name": "Камінний&nbsp;хрест",
+        "url": "/performances/stonecross/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_cr_gal_ix.jpg"
+        },
+        "name": "Коханий&nbsp;нелюб",
+        "url": "/performances/kohanyi_nelub/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "ЕЗОП. Коломийський академічний обласний український драматичний театр імені Івана&nbsp;Озаркевича",
+          "url": "/korg/kol/portals/teatr/performances/ezop/ezop_cr_gal_ix.jpg"
+        },
+        "name": "Лисиця й Виноград&nbsp;(Езоп)",
+        "url": "/performances/ezop/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/martyn_borylia/main_cr_gal_ix.jpg"
+        },
+        "name": "Мартин&nbsp;Боруля",
+        "url": "/performances/martyn_borylia/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/maty-najmychka/04_cr_gal_ix.jpg"
+        },
+        "name": "Мати-наймичка",
+        "url": "/performances/maty/"
+      },
+      {
+        "image": {
+          "name": "Фото Роман&nbsp;Захарчук",
+          "url": "/korg/kol/portals/teatr/performances/miss_julie/01_cr_gal_ix.jpg"
+        },
+        "name": "Міс&nbsp;Жулі",
+        "url": "/performances/miss_julie/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/dulska/01_cr_gal_ix.jpg"
+        },
+        "name": "Мораль пані&nbsp;Дульської",
+        "url": "/performances/dulska/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/porhabuvanniya/97_cr_gal_ix.png"
+        },
+        "name": "Пограбування&nbsp;опівночі",
+        "url": "/performances/porhabuvanniya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/resque_me/resque_me_cr_gal_ix.jpg"
+        },
+        "name": "Рятуйте, мене&nbsp;женять!",
+        "url": "/performances/resque_me/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/svatannya/сватання_на_гончарівці_cr_gal_ix.jpg"
+        },
+        "name": "Сватання на&nbsp;Гончарівці",
+        "url": "/performances/svatannya/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sobacha_budka/sobacha_budka_cr_gal_ix.jpg"
+        },
+        "name": "Собача&nbsp;будка",
+        "url": "/performances/sobacha_budka/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/sto_tysiach/sto_tysiach_main_cr_gal_ix.jpg"
+        },
+        "name": "Сто&nbsp;тисяч",
+        "url": "/performances/sto_tysiach/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/three_ideal_marriage/три_ідеальних_подружжя_cr_gal_ix.jpg"
+        },
+        "name": "Три ідеальні&nbsp;подружжя",
+        "url": "/performances/three_ideal_marriage/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/y_nediliu_rano/y_nediliu_rano_1_cr_gal_ix.jpg"
+        },
+        "name": "У неділю рано зілля&nbsp;копала",
+        "url": "/performances/y_nediliu_rano/"
+      }
+    ],
+    [
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/faraony/faraony_cr_gal_ix.jpg"
+        },
+        "name": "Фараони",
+        "url": "/performances/faraony/"
+      },
+      {
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/yak_didy/12_cr_gal_ix.jpg"
+        },
+        "name": "Як наші діди&nbsp;парубкували",
+        "url": "/performances/yak_didy/"
+      }
+    ]
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "_page": {
-    "output": "archive/firstpage.html",
+    "output": "archive/index.html",
     "template": "page"
   },
   "body": "<p>Новини</p>",
