@@ -150,12 +150,6 @@
     {
       "next": false,
       "previous": false,
-      "url": "/news/year/2023",
-      "year": 2023
-    },
-    {
-      "next": false,
-      "previous": false,
       "url": "/news/year/2021",
       "year": 2021
     },
@@ -167,9 +161,15 @@
     },
     {
       "next": false,
-      "previous": true,
+      "previous": false,
       "url": "/news/year/2019",
       "year": 2019
+    },
+    {
+      "next": false,
+      "previous": true,
+      "url": "/news/year/2018",
+      "year": 2018
     },
     {
       "next": false,
