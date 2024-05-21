@@ -13,8 +13,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/01_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/kurochka_ryaba/01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/зображення_viber_2024-05-17_13-46-48-692.jpg",
+      "url_small": null
     },
     {
       "title": "",
@@ -30,6 +30,11 @@
       "title": "",
       "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/04_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/kurochka_ryaba/04_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kurochka_ryaba/01.jpg",
+      "url_small": null
     }
   ],
   "genre": "Казка",
