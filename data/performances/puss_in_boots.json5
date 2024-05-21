@@ -59,9 +59,9 @@
           "role": "Жак&nbsp;Простак"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Кінел&nbsp;Степан",
-          "page_url": "/troupe/kinel/",
+          "page_url": null,
           "role": "Жак&nbsp;Простак"
         }
       ],
@@ -122,9 +122,9 @@
           "role": "Людожер"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Кінел&nbsp;Степан",
-          "page_url": "/troupe/kinel/",
+          "page_url": null,
           "role": "Людожер"
         }
       ],

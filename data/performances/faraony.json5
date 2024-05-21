@@ -227,9 +227,9 @@
           "role": "Павлик"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Кінел&nbsp;Степан",
-          "page_url": "/troupe/kinel/",
+          "page_url": null,
           "role": "Павлик"
         },
         {

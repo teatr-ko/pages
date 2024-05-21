@@ -124,9 +124,9 @@
           "role": "Кабан"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Кінел&nbsp;Степан",
-          "page_url": "/troupe/kinel/",
+          "page_url": null,
           "role": "Кабан"
         }
       ],
@@ -191,9 +191,9 @@
           "role": "Пес&nbsp;2-й"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Кінел&nbsp;Степан",
-          "page_url": "/troupe/kinel/",
+          "page_url": null,
           "role": "Пес&nbsp;2-й"
         }
       ],
