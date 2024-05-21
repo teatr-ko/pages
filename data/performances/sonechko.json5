@@ -114,9 +114,9 @@
           "role": "Копокоміко"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "page_url": null,
           "role": "Копокоміко"
         },
         {

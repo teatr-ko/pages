@@ -167,9 +167,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "page_url": null,
           "role": "4&nbsp;нечисть"
         }
       ],
@@ -178,9 +178,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "page_url": null,
           "role": "4 повитуха&nbsp;(зерно)"
         }
       ],
@@ -266,9 +266,9 @@
           "role": "Плакальниці"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "page_url": null,
           "role": "Плакальниці"
         },
         {

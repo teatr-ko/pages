@@ -139,9 +139,9 @@
           "role": "Глядачі анатомічного&nbsp;театру"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "page_url": null,
           "role": "Глядачі анатомічного&nbsp;театру"
         },
         {
@@ -268,9 +268,9 @@
           "role": "Пацієнти&nbsp;клініки"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Пронюк&nbsp;Тетяна",
-          "page_url": "/troupe/tpronuyk/",
+          "page_url": null,
           "role": "Пацієнти&nbsp;клініки"
         },
         {

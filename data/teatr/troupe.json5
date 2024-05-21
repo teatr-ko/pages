@@ -135,17 +135,6 @@
         "url": "/troupe/rmardariy/"
       },
       {
-        "full_name": "Мельничук&nbsp;Дмитро",
-        "has_page": true,
-        "image": {
-          "name": "Мельничук&nbsp;Дмитро",
-          "url": "/korg/kol/portals/teatr/troup/107/melnuchyk__gal_ix.jpg"
-        },
-        "url": "/troupe/melnychuk_d/"
-      }
-    ],
-    [
-      {
         "full_name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
         "has_page": true,
         "image": {
@@ -153,7 +142,9 @@
           "url": "/korg/kol/portals/teatr/troup/lmotsok/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/lmotsok/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
         "has_page": true,
@@ -162,9 +153,7 @@
           "url": "/korg/kol/portals/teatr/troup/znovytskiy/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/znovytskiy/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Новосад&nbsp;Дмитро",
         "has_page": true,
@@ -173,7 +162,9 @@
           "url": "/korg/kol/portals/teatr/troup/novosad_d/novosad__gal_ix.jpg"
         },
         "url": "/troupe/novosad_d/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Первун&nbsp;Світлана",
         "has_page": true,
@@ -182,9 +173,7 @@
           "url": "/korg/kol/portals/teatr/troup/spervun/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/spervun/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Петрик&nbsp;Інна",
         "has_page": true,
@@ -193,15 +182,6 @@
           "url": "/korg/kol/portals/teatr/troup/petryk_i/petryk__gal_ix.jpg"
         },
         "url": "/troupe/petryk_i/"
-      },
-      {
-        "full_name": "Пронюк&nbsp;Тетяна",
-        "has_page": true,
-        "image": {
-          "name": "Пронюк&nbsp;Тетяна",
-          "url": "/korg/kol/portals/teatr/troup/tpronuyk/main_fh_gal_ix.jpg"
-        },
-        "url": "/troupe/tpronuyk/"
       }
     ],
     [
