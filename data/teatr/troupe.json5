@@ -195,6 +195,17 @@
         "url": "/troupe/huhorska/"
       },
       {
+        "full_name": "Феняк&nbsp;Вікторія",
+        "has_page": true,
+        "image": {
+          "name": "Феняк&nbsp;Вікторія",
+          "url": "/korg/kol/portals/teatr/troup/dsc09941-edit-3_cr_gal_ix.jpg"
+        },
+        "url": "/troupe/185/"
+      }
+    ],
+    [
+      {
         "full_name": "Філімонов&nbsp;Артур",
         "has_page": true,
         "image": {
@@ -202,9 +213,7 @@
           "url": "/korg/kol/portals/teatr/troup/filimonov/main__gal_ix.jpg"
         },
         "url": "/troupe/filimonov/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Філімонова&nbsp;Олександра",
         "has_page": true,
@@ -213,7 +222,9 @@
           "url": "/korg/kol/portals/teatr/troup/oskrygunec/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/oskrygunec/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Чиборак&nbsp;Уляна",
         "has_page": true,
@@ -222,9 +233,7 @@
           "url": "/korg/kol/portals/teatr/troup/uchuborak/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/uchuborak/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Якубів&nbsp;Ольга",
         "has_page": true,
@@ -233,8 +242,7 @@
           "url": "/korg/kol/portals/teatr/troup/ohnatiuk/iacubiv_main_1__gal_ix.jpg"
         },
         "url": "/troupe/ohnatiuk/"
-      },
-      null
+      }
     ]
   ]
 }
