@@ -13,8 +13,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/kohanuy_nelyb_a3_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/kohanuy_nelyb_a3_gallery.jpg"
     },
     {
       "title": "",
@@ -85,6 +85,11 @@
       "title": "",
       "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/15_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/15_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kohanyi_nelub/01_gallery.jpg"
     }
   ],
   "genre": "Комедія",

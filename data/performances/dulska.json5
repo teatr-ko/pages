@@ -13,8 +13,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/dulska/01_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/dulska/01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/dulska/dylska_a3_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dulska/dylska_a3_gallery.jpg"
     },
     {
       "title": "",
@@ -105,6 +105,11 @@
       "title": "",
       "url": "/korg/kol/portals/teatr/performances/dulska/19_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/dulska/19_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/dulska/01_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/dulska/01_gallery.jpg"
     }
   ],
   "genre": "Трагікомедія",
