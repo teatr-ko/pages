@@ -13,8 +13,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_11_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_11_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/mauhli/maygli_a3_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/maygli_a3_gallery.jpg"
     },
     {
       "title": "",
@@ -65,6 +65,11 @@
       "title": "",
       "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_01_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mauhli/12.02_11_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mauhli/12.02_11_gallery.jpg"
     }
   ],
   "genre": "Музична&nbsp;казка",
