@@ -13,8 +13,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.01_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/barbi/barbi_af_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/barbi_af_gallery.jpg"
     },
     {
       "title": "",
@@ -65,6 +65,11 @@
       "title": "",
       "url": "/korg/kol/portals/teatr/performances/barbi/23.11.11_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.11_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/barbi/23.11.01_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/barbi/23.11.01_gallery.jpg"
     }
   ],
   "genre": "Казка для&nbsp;дітей",
