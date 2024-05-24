@@ -13,8 +13,8 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/yak_didy/12_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/yak_didy/12_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/yak_didy/didu_a3_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/yak_didy/didu_a3_gallery.jpg"
     },
     {
       "title": "",
@@ -70,6 +70,11 @@
       "title": "",
       "url": "/korg/kol/portals/teatr/performances/yak_didy/01_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/yak_didy/01_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/yak_didy/12_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/yak_didy/12_gallery.jpg"
     }
   ],
   "genre": "комедія",
