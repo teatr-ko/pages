@@ -13,8 +13,8 @@
   "gallery": [
     {
       "title": "Фото Роман&nbsp;Захарчук",
-      "url": "/korg/kol/portals/teatr/performances/miss_julie/01_cr_gal_ix.jpg",
-      "url_small": "/korg/kol/portals/teatr/performances/miss_julie/01_gallery.jpg"
+      "url": "/korg/kol/portals/teatr/performances/miss_julie/міс_жулі_(2)_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/miss_julie/міс_жулі_(2)_gallery.jpg"
     },
     {
       "title": "Фото Роман&nbsp;Захарчук",
@@ -85,6 +85,11 @@
       "title": "Фото Роман&nbsp;Захарчук",
       "url": "/korg/kol/portals/teatr/performances/miss_julie/15_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/miss_julie/15_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/miss_julie/01_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/miss_julie/01_gallery.jpg"
     }
   ],
   "genre": "Драма",
