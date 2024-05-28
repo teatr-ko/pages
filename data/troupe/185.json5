@@ -12,7 +12,14 @@
     "url": "/korg/kol/portals/teatr/troup/вікторія_феняк_fh_gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/вікторія_феняк_gallery.jpg"
   },
-  "kids_roles": [],
+  "kids_roles": [
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "<span class=\"dquo\">&#8220;</span>Танцюючий Ураган&#8221; Богдан&nbsp;Базилевич",
+      "role": "Яринка",
+      "url": "/performances/dancing_hurricane/"
+    }
+  ],
   "on_the_stage": "15.02.23",
   "staff": []
 }
