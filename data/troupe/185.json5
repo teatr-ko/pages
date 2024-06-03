@@ -15,6 +15,12 @@
       "url": "/performances/vii/"
     },
     {
+      "director": "Сєдлер&nbsp;(Siedler)&nbsp;Мірослав&nbsp;(Miroslav)",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мораль пані Дульської&#8221; Габріеля&nbsp;Запольська",
+      "role": "Меля&nbsp;Дульська",
+      "url": "/performances/dulska/"
+    },
+    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
       "role": "Катерина",
@@ -26,6 +32,12 @@
     "url_small": "/korg/kol/portals/teatr/troup/вікторія_феняк_gallery.jpg"
   },
   "kids_roles": [
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Котигорошко&#8221;&nbsp;А.Шиян",
+      "role": "Оленка – його&nbsp;сестра",
+      "url": "/performances/kotyhoroshko/"
+    },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Кіт у чоботях&#8221; Шарль&nbsp;Перро",
