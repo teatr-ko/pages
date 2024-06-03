@@ -7,7 +7,14 @@
   "date_of_birth": "30.09.00",
   "full_name": "Феняк&nbsp;Вікторія",
   "gallery": [],
-  "grown_roles": [],
+  "grown_roles": [
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>Фараони&#8221;&nbsp;О.Коломієць",
+      "role": "Катерина",
+      "url": "/performances/faraony/"
+    }
+  ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/вікторія_феняк_fh_gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/вікторія_феняк_gallery.jpg"
