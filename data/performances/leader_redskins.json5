@@ -10,24 +10,126 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/вождь_червоношкірих_оʼгенрі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/1_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/1_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/2_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/2_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/3_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/3_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/4_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/4_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/5_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/5_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/6_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/6_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/7_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/7_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/8_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/8_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/9_вождь_червоношкірих_оʼгенрі_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/9_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/leader_redskins/10_вождь_червоношкірих_оʼгенрі_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/leader_redskins/10_вождь_червоношкірих_оʼгенрі_gallery.jpg"
+    }
+  ],
   "genre": "музична&nbsp;казка",
   "name": "Вождь&nbsp;червоношкірих",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Білл"
+        }
+      ],
       "role": "Білл"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Джонні"
+        }
+      ],
       "role": "Джонні"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Гнатюк&nbsp;Орися",
+          "page_url": null,
+          "role": "Маріонетки"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Маріонетки"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Маріонетки"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Маріонетки"
+        }
+      ],
       "role": "Маріонетки"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Сем"
+        }
+      ],
       "role": "Сем"
     }
   ],

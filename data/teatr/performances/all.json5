@@ -86,7 +86,10 @@
         "url": "/performances/8_liubliachyh/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/leader_redskins/вождь_червоношкірих_оʼгенрі_cr_gal_ix.jpg"
+        },
         "name": "Вождь&nbsp;червоношкірих",
         "url": "/performances/leader_redskins/"
       }
