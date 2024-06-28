@@ -10,7 +10,43 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/cipollino/чиполіно_джанні_родарі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/cipollino/чиполіно_джанні_родарі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/cipollino/1_чиполіно_джанні_родарі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/cipollino/1_чиполіно_джанні_родарі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/cipollino/2_чиполіно_джанні_родарі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/cipollino/2_чиполіно_джанні_родарі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/cipollino/3_чиполіно_джанні_родарі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/cipollino/3_чиполіно_джанні_родарі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/cipollino/4_чиполіно_джанні_родарі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/cipollino/4_чиполіно_джанні_родарі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/cipollino/5_чиполіно_джанні_родарі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/cipollino/5_чиполіно_джанні_родарі_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/cipollino/6_чиполіно_джанні_родарі_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/cipollino/6_чиполіно_джанні_родарі_gallery.jpg"
+    }
+  ],
   "genre": "казка",
   "name": "Чиполіно",
   "personages": [

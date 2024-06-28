@@ -726,7 +726,10 @@
     ],
     [
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/cipollino/чиполіно_джанні_родарі_cr_gal_ix.jpg"
+        },
         "name": "Чиполіно",
         "url": "/performances/cipollino/"
       },
