@@ -204,14 +204,18 @@
     ],
     [
       {
+        "image": null,
+        "name": "Чиполіно",
+        "url": "/performances/cipollino/"
+      },
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/zymovi_prygody_2/chydo_cr_gal_ix.jpg"
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      },
-      null
+      }
     ]
   ]
 }

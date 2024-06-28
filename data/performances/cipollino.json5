@@ -1,0 +1,97 @@
+{
+  "_page": {
+    "output": "performances/cipollino/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "",
+  "additional_director_info": "",
+  "author": "Джанні Родарі",
+  "director": "Сініков&nbsp;Віталій",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "казка",
+  "name": "Чиполіно",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Вишенька"
+    },
+    {
+      "persons": [],
+      "role": "Гарбуз"
+    },
+    {
+      "persons": [],
+      "role": "Графині Вишні"
+    },
+    {
+      "persons": [],
+      "role": "Груша"
+    },
+    {
+      "persons": [],
+      "role": "Моркоу"
+    },
+    {
+      "persons": [],
+      "role": "Полковник Помідор"
+    },
+    {
+      "persons": [],
+      "role": "Принц Лимон"
+    },
+    {
+      "persons": [],
+      "role": "Редисочка"
+    },
+    {
+      "persons": [],
+      "role": "Чиполіно"
+    },
+    {
+      "persons": [],
+      "role": "Чиполоне"
+    }
+  ],
+  "premiere": "17.07.2022",
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Сініков&nbsp;Віталій",
+      "page_url": null,
+      "role": "Режисер-постановник"
+    },
+    {
+      "has_page": false,
+      "name": "Поклад&nbsp;Ігор",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Сенюк&nbsp;Оксана",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Захаркевич&nbsp;Євгенія",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Романенчук&nbsp;Тетяна",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+      "page_url": "/troupe/rmardariy/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
+}
