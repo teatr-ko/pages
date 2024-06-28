@@ -1,0 +1,61 @@
+{
+  "_page": {
+    "output": "performances/leader_redskins/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "",
+  "additional_director_info": "",
+  "author": "ОʼГенрі",
+  "director": "Сініков&nbsp;Віталій",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "музична&nbsp;казка",
+  "name": "Вождь&nbsp;червоношкірих",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Білл"
+    },
+    {
+      "persons": [],
+      "role": "Джонні"
+    },
+    {
+      "persons": [],
+      "role": "Маріонетки"
+    },
+    {
+      "persons": [],
+      "role": "Сем"
+    }
+  ],
+  "premiere": "04.02.2024",
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Захаркевич&nbsp;Євгенія",
+      "page_url": null,
+      "role": "Сценограф та художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Гайденко&nbsp;Ігор",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Романенчук&nbsp;Тетяна",
+      "page_url": null,
+      "role": "Хореографія"
+    },
+    {
+      "has_page": true,
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+      "page_url": "/troupe/rmardariy/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
+}
