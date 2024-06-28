@@ -15,43 +15,136 @@
   "name": "Чиполіно",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Вишенька"
+        }
+      ],
       "role": "Вишенька"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Гарбуз"
+        }
+      ],
       "role": "Гарбуз"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Гвардійці&nbsp;Лимончики"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Гвардійці&nbsp;Лимончики"
+        }
+      ],
+      "role": "Гвардійці Лимончики"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Графині&nbsp;Вишні"
+        },
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Графині&nbsp;Вишні"
+        }
+      ],
       "role": "Графині Вишні"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Груша"
+        }
+      ],
       "role": "Груша"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Моркоу"
+        }
+      ],
       "role": "Моркоу"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Полковник&nbsp;Помідор"
+        }
+      ],
       "role": "Полковник Помідор"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Принц&nbsp;Лимон"
+        }
+      ],
       "role": "Принц Лимон"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Гнатюк&nbsp;Орися",
+          "page_url": null,
+          "role": "Редисочка"
+        }
+      ],
       "role": "Редисочка"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Чиполіно"
+        }
+      ],
       "role": "Чиполіно"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Чиполоне"
+        }
+      ],
       "role": "Чиполоне"
     }
   ],
