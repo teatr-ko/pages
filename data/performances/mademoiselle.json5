@@ -28,13 +28,56 @@
     },
     {
       "persons": [],
+      "role": "Лаура"
+    },
+    {
+      "persons": [],
+      "role": "Мадам Карльє"
+    },
+    {
+      "persons": [],
       "role": "Марі"
     },
     {
       "persons": [],
       "role": "Мсьє Клебер"
+    },
+    {
+      "persons": [],
+      "role": "Пепітта"
     }
   ],
   "premiere": "21.01.2024",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Мосійчук&nbsp;Олег",
+      "page_url": null,
+      "role": "Режисер-постановник"
+    },
+    {
+      "has_page": false,
+      "name": "Мосійчук&nbsp;Олег",
+      "page_url": null,
+      "role": "Сценографія та музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Захаркевич&nbsp;Євгенія",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Романенчук&nbsp;Тетяна",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Філімонов&nbsp;Артур",
+      "page_url": "/troupe/filimonov/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }
