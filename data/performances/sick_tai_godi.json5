@@ -10,7 +10,13 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/sick_tai_godi/хворий_тай_годі!_жан-батист_мольер_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/sick_tai_godi/хворий_тай_годі!_жан-батист_мольер_gallery.jpg"
+    }
+  ],
   "genre": "комедія",
   "name": "Хворий тай&nbsp;годі!",
   "personages": [
@@ -115,6 +121,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Маски"
+        },
         {
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
