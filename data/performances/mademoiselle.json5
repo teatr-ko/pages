@@ -15,35 +15,91 @@
   "name": "Мадмуазель, негайно&nbsp;одягніться!",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Гнатюк&nbsp;Орися",
+          "page_url": null,
+          "role": "Аріана&nbsp;Кларенс"
+        }
+      ],
       "role": "Аріана Кларенс"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов&nbsp;Артур",
+          "page_url": "/troupe/filimonov/",
+          "role": "Блез&nbsp;Д&#8217;амбріє"
+        }
+      ],
       "role": "Блез Д'амбріє"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Женев&#8217;єва"
+        }
+      ],
       "role": "Женев'єва"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Лаура"
+        }
+      ],
       "role": "Лаура"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Мадам&nbsp;Карльє"
+        }
+      ],
       "role": "Мадам Карльє"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Марі"
+        }
+      ],
       "role": "Марі"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Мсьє&nbsp;Клебер"
+        }
+      ],
       "role": "Мсьє Клебер"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Пепітта"
+        }
+      ],
       "role": "Пепітта"
     }
   ],
