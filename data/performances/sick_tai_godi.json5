@@ -15,7 +15,14 @@
   "name": "Хворий тай&nbsp;годі!",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Гнатюк&nbsp;Орися",
+          "page_url": null,
+          "role": "Ангел"
+        }
+      ],
       "role": "Ангел"
     },
     {
@@ -63,15 +70,36 @@
       "role": "Беральд"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Добродій де&nbsp;Бонфуа"
+        }
+      ],
       "role": "Добродій де Бонфуа"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Добродій&nbsp;Діафуарус"
+        }
+      ],
       "role": "Добродій Діафуарус"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Клеант"
+        }
+      ],
       "role": "Клеант"
     },
     {
@@ -86,15 +114,54 @@
       "role": "Луїзон"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Маски"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Маски"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Маски"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Маски"
+        }
+      ],
       "role": "Маски"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Тома&nbsp;Діафуарус"
+        }
+      ],
       "role": "Тома Діафуарус"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Туанетта"
+        }
+      ],
       "role": "Туанетта"
     }
   ],
