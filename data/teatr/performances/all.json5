@@ -356,7 +356,10 @@
         "url": "/performances/ezop/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/mademoiselle/мадмуазель,_негайно_одягніться!_клод_маньє_cr_gal_ix.jpg"
+        },
         "name": "Мадмуазель, негайно&nbsp;одягніться!",
         "url": "/performances/mademoiselle/"
       }

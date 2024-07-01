@@ -10,7 +10,33 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mademoiselle/мадмуазель,_негайно_одягніться!_клод_маньє_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mademoiselle/мадмуазель,_негайно_одягніться!_клод_маньє_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mademoiselle/1_мадмуазель,_негайно_одягніться!_клод_маньє_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mademoiselle/1_мадмуазель,_негайно_одягніться!_клод_маньє_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mademoiselle/2_мадмуазель,_негайно_одягніться!_клод_маньє_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mademoiselle/2_мадмуазель,_негайно_одягніться!_клод_маньє_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mademoiselle/3_мадмуазель,_негайно_одягніться!_клод_маньє_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mademoiselle/3_мадмуазель,_негайно_одягніться!_клод_маньє_gallery.jpg"
+    },
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mademoiselle/4_мадмуазель,_негайно_одягніться!_клод_маньє_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mademoiselle/4_мадмуазель,_негайно_одягніться!_клод_маньє_gallery.jpg"
+    }
+  ],
   "genre": "LAMOURна&nbsp;комедія",
   "name": "Мадмуазель, негайно&nbsp;одягніться!",
   "personages": [
