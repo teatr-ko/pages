@@ -16,6 +16,10 @@
   "personages": [
     {
       "persons": [],
+      "role": "Ангел"
+    },
+    {
+      "persons": [],
       "role": "Анжеліка"
     },
     {
@@ -32,7 +36,31 @@
     },
     {
       "persons": [],
+      "role": "Добродій де Бонфуа"
+    },
+    {
+      "persons": [],
+      "role": "Добродій Діафуарус"
+    },
+    {
+      "persons": [],
+      "role": "Клеант"
+    },
+    {
+      "persons": [],
       "role": "Луїзон"
+    },
+    {
+      "persons": [],
+      "role": "Маски"
+    },
+    {
+      "persons": [],
+      "role": "Тома Діафуарус"
+    },
+    {
+      "persons": [],
+      "role": "Туанетта"
     }
   ],
   "premiere": "11.12.2022",
@@ -59,6 +87,12 @@
       "has_page": true,
       "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
       "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    },
+    {
+      "has_page": true,
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+      "page_url": "/troupe/rmardariy/",
       "role": "Асистент&nbsp;режисера"
     }
   ]
