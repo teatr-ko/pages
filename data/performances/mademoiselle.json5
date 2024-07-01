@@ -1,0 +1,40 @@
+{
+  "_page": {
+    "output": "performances/mademoiselle/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "",
+  "additional_director_info": "",
+  "author": "Клод Маньє",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "LAMOURна&nbsp;комедія",
+  "name": "Мадмуазель, негайно&nbsp;одягніться!",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Аріана Кларенс"
+    },
+    {
+      "persons": [],
+      "role": "Блез Д'амбріє"
+    },
+    {
+      "persons": [],
+      "role": "Женев'єва"
+    },
+    {
+      "persons": [],
+      "role": "Марі"
+    },
+    {
+      "persons": [],
+      "role": "Мсьє Клебер"
+    }
+  ],
+  "premiere": "21.01.2024",
+  "staff": []
+}
