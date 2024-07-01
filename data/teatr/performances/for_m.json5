@@ -194,13 +194,21 @@
         "url": "/performances/faraony/"
       },
       {
+        "image": null,
+        "name": "Хворий тай&nbsp;годі!",
+        "url": "/performances/sick_tai_godi/"
+      }
+    ],
+    [
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/yak_didy/didu_a3_cr_gal_ix.jpg"
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      }
+      },
+      null
     ]
   ]
 }

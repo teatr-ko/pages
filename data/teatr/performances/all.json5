@@ -726,13 +726,20 @@
     ],
     [
       {
+        "image": null,
+        "name": "Хворий тай&nbsp;годі!",
+        "url": "/performances/sick_tai_godi/"
+      },
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/ch_rukavychka/1_rio_fh_gal_ix.jpg"
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -740,9 +747,7 @@
         },
         "name": "Чиполіно",
         "url": "/performances/cipollino/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -750,7 +755,9 @@
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -758,7 +765,8 @@
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      }
+      },
+      null
     ]
   ]
 }
