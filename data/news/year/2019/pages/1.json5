@@ -61,6 +61,12 @@
     {
       "next": false,
       "previous": false,
+      "url": "/news/year/2024",
+      "year": 2024
+    },
+    {
+      "next": false,
+      "previous": false,
       "url": "/news/year/2021",
       "year": 2021
     },

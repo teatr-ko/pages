@@ -1,0 +1,52 @@
+{
+  "_page": {
+    "output": "news/year/2024/pg/1/index.html",
+    "template": "news/page"
+  },
+  "navigate_url": "/news/year/2024/pg/",
+  "news": [
+    {
+      "date": "02 липня 2024&nbsp;р.",
+      "lead": "<p><img class=\"news_lead\" src=\"/korg/kol/понад_120_дітей_коломийщини_взяли_участь_у_районному_святі_до_дня_захисту_дітей_small_index.jpg\"/>У розважальних заходах за участю аніматорів та перегляді вистави «Коза-Дереза» взяли участь понад 120 дітей, які проживають на території громад Коломийського&nbsp;району&#8230;</p>",
+      "title": "Понад 120 дітей Коломийщини взяли участь у районному святі до Дня захисту дітей",
+      "url": "/news/item/58451"
+    }
+  ],
+  "page": 1,
+  "pages": [
+    1
+  ],
+  "pages_cnt": 1,
+  "years": [
+    {
+      "next": false,
+      "previous": false,
+      "url": null,
+      "year": 2024
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2021",
+      "year": 2021
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2020",
+      "year": 2020
+    },
+    {
+      "next": false,
+      "previous": true,
+      "url": "/news/year/2019",
+      "year": 2019
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2003",
+      "year": 2003
+    }
+  ]
+}
