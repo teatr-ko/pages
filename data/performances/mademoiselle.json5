@@ -61,7 +61,7 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Філімонов&nbsp;Артур",
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/filimonov/",
           "role": "Блез&nbsp;Д&#8217;амбріє"
         }
@@ -78,7 +78,7 @@
         },
         {
           "has_page": true,
-          "name": "Філімонова&nbsp;Олександра",
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/oskrygunec/",
           "role": "Женев&#8217;єва"
         }
@@ -193,7 +193,7 @@
     },
     {
       "has_page": true,
-      "name": "Філімонов&nbsp;Артур",
+      "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
       "page_url": "/troupe/filimonov/",
       "role": "Асистент&nbsp;режисера"
     }
