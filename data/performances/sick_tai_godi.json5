@@ -90,6 +90,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Добродій&nbsp;Діафуарус"
+        },
+        {
+          "has_page": true,
           "name": "Лаюк&nbsp;Любомир",
           "page_url": "/troupe/laiuk_l/",
           "role": "Добродій&nbsp;Діафуарус"
@@ -110,6 +116,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Луїзон"
+        },
         {
           "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
@@ -160,6 +172,12 @@
           "has_page": true,
           "name": "Гливко&nbsp;Дмитро",
           "page_url": "/troupe/glyvko/",
+          "role": "Тома&nbsp;Діафуарус"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
           "role": "Тома&nbsp;Діафуарус"
         }
       ],
