@@ -47,6 +47,12 @@
           "name": "Гнатюк&nbsp;Орися",
           "page_url": null,
           "role": "Аріана&nbsp;Кларенс"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Аріана&nbsp;Кларенс"
         }
       ],
       "role": "Аріана Кларенс"
@@ -69,6 +75,12 @@
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "Женев&#8217;єва"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова&nbsp;Олександра",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Женев&#8217;єва"
         }
       ],
       "role": "Женев'єва"
@@ -80,6 +92,12 @@
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
           "role": "Лаура"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Лаура"
         }
       ],
       "role": "Лаура"
@@ -90,6 +108,12 @@
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
+          "role": "Мадам&nbsp;Карльє"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
           "role": "Мадам&nbsp;Карльє"
         }
       ],
@@ -113,12 +137,24 @@
           "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Мсьє&nbsp;Клебер"
+        },
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Мсьє&nbsp;Клебер"
         }
       ],
       "role": "Мсьє Клебер"
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Пепітта"
+        },
         {
           "has_page": true,
           "name": "Якубів&nbsp;Ольга",
