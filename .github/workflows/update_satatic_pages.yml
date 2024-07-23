@@ -115,9 +115,9 @@ jobs:
         if: success()
         uses: stegzilla/discord-notify@v4
         with:
-          webhookUrl: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
+          webhook_url: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
           username: "Github"
-          avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          avatar_url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
           title: Teatr site updated and deployed
           message: |
             ${{ github.actor }} created commit:
@@ -129,9 +129,9 @@ jobs:
         if: failure()
         uses: stegzilla/discord-notify@v4
         with:
-          webhookUrl: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
+          webhook_url: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
           username: "Github"
-          avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          avatar_url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
           title: Failed to generate and deploy teatr site on
           message: |
             ${{ github.actor }} created commit:
