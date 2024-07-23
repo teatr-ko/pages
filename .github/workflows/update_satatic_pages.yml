@@ -110,14 +110,43 @@ jobs:
             set -x -e
             cd ng
             git pull -v
-
-      - name: send telegram message
-        uses: appleboy/telegram-action@master
+            
+      - name: send discord notification
+        if: success()
+        uses: discord-actions/message@v2
         with:
-          to: ${{ secrets.TELEGRAM_TO }}
-          token: ${{ secrets.TELEGRAM_TOKEN }}
+          webhookUrl: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
+          username: "Github"
+          avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
           message: |
             ${{ github.actor }} created commit:
             Site updated: ${{ github.event.commits[0].message }}
             Repository: ${{ github.repository }}
             See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
+
+      - name: notify discord failure notification
+        if: failure()
+        uses: discord-actions/message@v2
+        with:
+          webhookUrl: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
+          username: "Github"
+          avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          message: |
+            Failed to build and deploy site on:
+            ${{ github.actor }} created commit:
+            Site updated: ${{ github.event.commits[0].message }}
+            Repository: ${{ github.repository }}
+            See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
+
+          
+
+#      - name: send telegram message
+#        uses: appleboy/telegram-action@master
+#        with:
+#          to: ${{ secrets.TELEGRAM_TO }}
+#          token: ${{ secrets.TELEGRAM_TOKEN }}
+#          message: |
+#            ${{ github.actor }} created commit:
+#            Site updated: ${{ github.event.commits[0].message }}
+#            Repository: ${{ github.repository }}
+#            See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
