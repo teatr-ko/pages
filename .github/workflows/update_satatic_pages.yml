@@ -113,11 +113,12 @@ jobs:
             
       - name: send discord notification
         if: success()
-        uses: discord-actions/message@v2
+        uses: stegzilla/discord-notify@v4
         with:
           webhookUrl: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
           username: "Github"
           avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          title: Teatr site updated and deployed
           message: |
             ${{ github.actor }} created commit:
             Site updated: ${{ github.event.commits[0].message }}
@@ -126,13 +127,13 @@ jobs:
 
       - name: notify discord failure notification
         if: failure()
-        uses: discord-actions/message@v2
+        uses: stegzilla/discord-notify@v4
         with:
           webhookUrl: https://discord.com/api/webhooks/1265303895194730516/ujDVTZeS43EK7W4jiOh1VpBWHpo5T8MssaUcht2oz2q1IkYe7CrcGsD8LHl60nxD8W6D
           username: "Github"
           avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          title: Failed to generate and deploy teatr site on
           message: |
-            Failed to build and deploy site on:
             ${{ github.actor }} created commit:
             Site updated: ${{ github.event.commits[0].message }}
             Repository: ${{ github.repository }}
