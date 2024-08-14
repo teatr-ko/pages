@@ -10,40 +10,138 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/flower/flower_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/flower/flower_gallery.jpg"
+    }
+  ],
   "genre": "музична&nbsp;драма",
   "name": "Квітка",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Бернард Шустер (Слава&nbsp;Шустрік)"
+        },
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Бернард Шустер (Слава&nbsp;Шустрік)"
+        }
+      ],
       "role": "Бернард Шустер (Слава Шустрік)"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Кінел&nbsp;Степан",
+          "page_url": null,
+          "role": "Володимир&nbsp;Івасюк"
+        }
+      ],
       "role": "Володимир Івасюк"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Володимир&nbsp;Цісик"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Володимир&nbsp;Цісик"
+        }
+      ],
       "role": "Володимир Цісик"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Едді&nbsp;Ракович"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Едді&nbsp;Ракович"
+        }
+      ],
       "role": "Едді Ракович"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Гнатюк&nbsp;Орися",
+          "page_url": null,
+          "role": "Іванна&nbsp;Цісик"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Іванна&nbsp;Цісик"
+        }
+      ],
       "role": "Іванна Цісик"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Квітка Цісик&nbsp;(Кейсі)"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Квітка Цісик&nbsp;(Кейсі)"
+        }
+      ],
       "role": "Квітка Цісик (Кейсі)"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Мадлен"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Мадлен"
+        }
+      ],
       "role": "Мадлен"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Марія&nbsp;Цісик"
+        }
+      ],
       "role": "Марія Цісик"
     }
   ],

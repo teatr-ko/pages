@@ -68,7 +68,10 @@
         "url": "/performances/stonecross/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/flower/flower_cr_gal_ix.jpg"
+        },
         "name": "Квітка",
         "url": "/performances/flower/"
       }
