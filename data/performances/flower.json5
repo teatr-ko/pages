@@ -1,0 +1,52 @@
+{
+  "_page": {
+    "output": "performances/flower/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "",
+  "additional_director_info": "",
+  "author": "Олег Миколайчук-Низовець",
+  "director": "Невєдров&nbsp;Валерій",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "музична&nbsp;драма",
+  "name": "Квітка",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Бернард Шустер (Слава Шустрік)"
+    },
+    {
+      "persons": [],
+      "role": "Володимир Івасюк"
+    },
+    {
+      "persons": [],
+      "role": "Володимир Цісик"
+    },
+    {
+      "persons": [],
+      "role": "Едді Ракович"
+    },
+    {
+      "persons": [],
+      "role": "Іванна Цісик"
+    },
+    {
+      "persons": [],
+      "role": "Квітка Цісик (Кейсі)"
+    },
+    {
+      "persons": [],
+      "role": "Мадлен"
+    },
+    {
+      "persons": [],
+      "role": "Марія Цісик"
+    }
+  ],
+  "premiere": "26.03.2023",
+  "staff": []
+}
