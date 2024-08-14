@@ -48,5 +48,42 @@
     }
   ],
   "premiere": "26.03.2023",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Невєдров&nbsp;Валерій",
+      "page_url": null,
+      "role": "Режисер-постановник"
+    },
+    {
+      "has_page": false,
+      "name": "Очеретіна&nbsp;Олена",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Кривʼюк&nbsp;Володимир",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Пригродський&nbsp;Юрій",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Романенчук&nbsp;Тетяна",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Якубів&nbsp;Ольга",
+      "page_url": "/troupe/ohnatiuk/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }
