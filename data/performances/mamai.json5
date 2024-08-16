@@ -10,7 +10,13 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/mamai/про_що_співає_козак_мамай_a3_(jpg)_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/mamai/про_що_співає_козак_мамай_a3_(jpg)_gallery.jpg"
+    }
+  ],
   "genre": "",
   "name": "Про що співає козак&nbsp;Мамай",
   "personages": [
