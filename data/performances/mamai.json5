@@ -48,5 +48,36 @@
     }
   ],
   "premiere": "04.08.2024",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Ягупова&nbsp;Наталія",
+      "page_url": null,
+      "role": "Художник-постановник"
+    },
+    {
+      "has_page": false,
+      "name": "Гоноболіна&nbsp;Ольга з.&nbsp;х.&nbsp;України",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": false,
+      "name": "Яворський&nbsp;Костянтин",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Сагалюк&nbsp;Катерина",
+      "page_url": "/troupe/novyckak/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }
