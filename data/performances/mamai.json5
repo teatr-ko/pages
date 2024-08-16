@@ -3,7 +3,7 @@
     "output": "performances/mamai/index.html",
     "template": "teatr/performance"
   },
-  "addition": "",
+  "addition": "<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58452/\" target=\"_blank\">Артисти Коломийського та Херсонського театрів презентували спільну&nbsp;постановку</a></h1>",
   "additional_director_info": "",
   "author": "Борис Чуприна",
   "director": "Драпіковський&nbsp;Дмитро",
