@@ -15,35 +15,109 @@
   "name": "Про що співає козак&nbsp;Мамай",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Гнатюк&nbsp;Орися",
+          "page_url": null,
+          "role": "ЗІРКА Nº1, ЖІНКА&nbsp;Nº1"
+        },
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "ЗІРКА Nº1, ЖІНКА&nbsp;Nº1"
+        }
+      ],
       "role": "ЗІРКА Nº1, ЖІНКА Nº1"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "ЛАДА, ЗІРКА&nbsp;Nº3"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "ЛАДА, ЗІРКА&nbsp;Nº3"
+        }
+      ],
       "role": "ЛАДА, ЗІРКА Nº3"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "МАТИ, ЗІРКА&nbsp;Nº2"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "МАТИ, ЗІРКА&nbsp;Nº2"
+        }
+      ],
       "role": "МАТИ, ЗІРКА Nº2"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "МОЛОДИК,&nbsp;МАМАЙ"
+        }
+      ],
       "role": "МОЛОДИК, МАМАЙ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "ПОВНЯ,&nbsp;БЕЙ"
+        }
+      ],
       "role": "ПОВНЯ, БЕЙ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
+          "role": "СЕВЕРИН,&nbsp;ВІЗИР"
+        }
+      ],
       "role": "СЕВЕРИН, ВІЗИР"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "СПОДАЧ,&nbsp;АЛІ"
+        }
+      ],
       "role": "СПОДАЧ, АЛІ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "ЯВІР"
+        }
+      ],
       "role": "ЯВІР"
     }
   ],
