@@ -150,13 +150,20 @@
     ],
     [
       {
+        "image": null,
+        "name": "Про що співає козак&nbsp;Мамай",
+        "url": "/performances/mamai/"
+      },
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/resque_me/resque_me_cr_gal_ix.jpg"
         },
         "name": "Рятуйте, мене&nbsp;женять!",
         "url": "/performances/resque_me/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -164,9 +171,7 @@
         },
         "name": "Сватання на&nbsp;Гончарівці",
         "url": "/performances/svatannya/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -174,7 +179,9 @@
         },
         "name": "Собача&nbsp;будка",
         "url": "/performances/sobacha_budka/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -182,9 +189,7 @@
         },
         "name": "Сто&nbsp;тисяч",
         "url": "/performances/sto_tysiach/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -192,7 +197,9 @@
         },
         "name": "Три ідеальні&nbsp;подружжя",
         "url": "/performances/three_ideal_marriage/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -200,9 +207,7 @@
         },
         "name": "У неділю рано зілля&nbsp;копала",
         "url": "/performances/y_nediliu_rano/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -210,7 +215,9 @@
         },
         "name": "Фараони",
         "url": "/performances/faraony/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -218,9 +225,7 @@
         },
         "name": "Хворий, та й&nbsp;годі!",
         "url": "/performances/sick_tai_godi/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -228,8 +233,7 @@
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      },
-      null
+      }
     ]
   ]
 }

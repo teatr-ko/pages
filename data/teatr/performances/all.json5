@@ -564,13 +564,20 @@
     ],
     [
       {
+        "image": null,
+        "name": "Про що співає козак&nbsp;Мамай",
+        "url": "/performances/mamai/"
+      },
+      {
         "image": {
           "name": "А я тебе іще&nbsp;кохаю…",
           "url": "/korg/kol/portals/teatr/performances/kochayu/romans1_small_ix_crop.jpg"
         },
         "name": "Романс про&nbsp;закоханих",
         "url": "/performances/romans/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -578,9 +585,7 @@
         },
         "name": "Рятуйте, мене&nbsp;женять!",
         "url": "/performances/resque_me/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -588,7 +593,9 @@
         },
         "name": "Сватання на&nbsp;Гончарівці",
         "url": "/performances/svatannya/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -596,9 +603,7 @@
         },
         "name": "Світлофор&nbsp;Моргайко",
         "url": "/performances/sv_morhayko/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -606,7 +611,9 @@
         },
         "name": "Собача&nbsp;будка",
         "url": "/performances/sobacha_budka/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -614,9 +621,7 @@
         },
         "name": "Сонечко в&nbsp;тобі",
         "url": "/performances/sonechko/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -624,7 +629,9 @@
         },
         "name": "Сосиски, консерви і небо в&nbsp;алмазах",
         "url": "/performances/almazy/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -632,9 +639,7 @@
         },
         "name": "Спасибі,&nbsp;Барбі",
         "url": "/performances/barbi/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -642,7 +647,9 @@
         },
         "name": "Стійкий олов’яний&nbsp;солдатик",
         "url": "/performances/ol_soldatyk/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -650,9 +657,7 @@
         },
         "name": "Сто&nbsp;тисяч",
         "url": "/performances/sto_tysiach/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -660,7 +665,9 @@
         },
         "name": "Суєта",
         "url": "/performances/sueta/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -668,9 +675,7 @@
         },
         "name": "Таїни сільського&nbsp;цвинтаря",
         "url": "/performances/taina_cv/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -678,7 +683,9 @@
         },
         "name": "Танцюючий&nbsp;Ураган",
         "url": "/performances/dancing_hurricane/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -686,9 +693,7 @@
         },
         "name": "Територія&nbsp;Б",
         "url": "/performances/terytoria/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -696,7 +701,9 @@
         },
         "name": "Три ідеальні&nbsp;подружжя",
         "url": "/performances/three_ideal_marriage/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -704,9 +711,7 @@
         },
         "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
         "url": "/performances/lubov/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -714,7 +719,9 @@
         },
         "name": "Троє&nbsp;поросят",
         "url": "/performances/three_pigs/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -722,9 +729,7 @@
         },
         "name": "У неділю рано зілля&nbsp;копала",
         "url": "/performances/y_nediliu_rano/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -732,7 +737,9 @@
         },
         "name": "Фараони",
         "url": "/performances/faraony/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -740,9 +747,7 @@
         },
         "name": "Фарбований&nbsp;лис",
         "url": "/performances/painted_fox/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -750,7 +755,9 @@
         },
         "name": "Хворий, та й&nbsp;годі!",
         "url": "/performances/sick_tai_godi/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -758,9 +765,7 @@
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -768,7 +773,9 @@
         },
         "name": "Чиполіно",
         "url": "/performances/cipollino/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -776,9 +783,7 @@
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -786,8 +791,7 @@
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      },
-      null
+      }
     ]
   ]
 }

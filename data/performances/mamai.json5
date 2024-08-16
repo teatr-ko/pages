@@ -1,0 +1,52 @@
+{
+  "_page": {
+    "output": "performances/mamai/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "",
+  "additional_director_info": "",
+  "author": "Борис Чуприна",
+  "director": "Драпіковський&nbsp;Дмитро",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "",
+  "name": "Про що співає козак&nbsp;Мамай",
+  "personages": [
+    {
+      "persons": [],
+      "role": "ЗІРКА Nº1, ЖІНКА Nº1"
+    },
+    {
+      "persons": [],
+      "role": "ЛАДА, ЗІРКА Nº3"
+    },
+    {
+      "persons": [],
+      "role": "МАТИ, ЗІРКА Nº2"
+    },
+    {
+      "persons": [],
+      "role": "МОЛОДИК, МАМАЙ"
+    },
+    {
+      "persons": [],
+      "role": "ПОВНЯ, БЕЙ"
+    },
+    {
+      "persons": [],
+      "role": "СЕВЕРИН, ВІЗИР"
+    },
+    {
+      "persons": [],
+      "role": "СПОДАЧ, АЛІ"
+    },
+    {
+      "persons": [],
+      "role": "ЯВІР"
+    }
+  ],
+  "premiere": "04.08.2024",
+  "staff": []
+}
