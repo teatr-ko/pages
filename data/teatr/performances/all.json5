@@ -716,15 +716,20 @@
         "url": "/performances/lubov/"
       },
       {
+        "image": null,
+        "name": "Тричі мені являлася любов… («Таїна&nbsp;буття»)",
+        "url": "/performances/love/"
+      }
+    ],
+    [
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/three_pigs/three_pigs_cr_gal_ix.jpg"
         },
         "name": "Троє&nbsp;поросят",
         "url": "/performances/three_pigs/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -732,7 +737,9 @@
         },
         "name": "У неділю рано зілля&nbsp;копала",
         "url": "/performances/y_nediliu_rano/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -740,9 +747,7 @@
         },
         "name": "Фараони",
         "url": "/performances/faraony/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -750,7 +755,9 @@
         },
         "name": "Фарбований&nbsp;лис",
         "url": "/performances/painted_fox/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -758,9 +765,7 @@
         },
         "name": "Хворий, та й&nbsp;годі!",
         "url": "/performances/sick_tai_godi/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -768,7 +773,9 @@
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -776,9 +783,7 @@
         },
         "name": "Чиполіно",
         "url": "/performances/cipollino/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -786,7 +791,9 @@
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -794,7 +801,8 @@
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      }
+      },
+      null
     ]
   ]
 }
