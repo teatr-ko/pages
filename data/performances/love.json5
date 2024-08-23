@@ -10,59 +10,258 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/love/тричі_мені_являлася_любов..._а3_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/love/тричі_мені_являлася_любов..._а3_gallery.jpg"
+    }
+  ],
   "genre": "Сцени з&nbsp;життя",
   "name": "Тричі мені являлася любов… («Таїна&nbsp;буття»)",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "Ворожбит"
+        },
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Ворожбит"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Ворожбит"
+        }
+      ],
       "role": "Ворожбит"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Голос&nbsp;другий"
+        },
+        {
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
+          "role": "Голос&nbsp;другий"
+        }
+      ],
       "role": "Голос другий"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Голос&nbsp;п`ятий"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Голос&nbsp;п`ятий"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Голос&nbsp;п`ятий"
+        }
+      ],
       "role": "Голос п`ятий"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гливко&nbsp;Дмитро",
+          "page_url": "/troupe/glyvko/",
+          "role": "Голос&nbsp;перший"
+        }
+      ],
       "role": "Голос перший"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Гнатюк&nbsp;Орися",
+          "page_url": null,
+          "role": "Голос&nbsp;сьомий"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Голос&nbsp;сьомий"
+        }
+      ],
       "role": "Голос сьомий"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Голос&nbsp;третій"
+        },
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "Голос&nbsp;третій"
+        }
+      ],
       "role": "Голос третій"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Голос&nbsp;четвертий"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Голос&nbsp;четвертий"
+        }
+      ],
       "role": "Голос четвертий"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Голос&nbsp;шостий"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Голос&nbsp;шостий"
+        }
+      ],
       "role": "Голос шостий"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Іван&nbsp;Франко"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Іван&nbsp;Франко"
+        }
+      ],
       "role": "Іван Франко"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Ольга&nbsp;Рошкевич"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Ольга&nbsp;Рошкевич"
+        }
+      ],
       "role": "Ольга Рошкевич"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Ольга&nbsp;Хоружинська"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Ольга&nbsp;Хоружинська"
+        }
+      ],
       "role": "Ольга Хоружинська"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Целіна&nbsp;Журовська"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Целіна&nbsp;Журовська"
+        }
+      ],
       "role": "Целіна Журовська"
     }
   ],
   "premiere": "25.08.2024",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Богаченко&nbsp;Галина",
+      "page_url": null,
+      "role": "Хормейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Opaнжування&nbsp;музики"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+      "page_url": "/troupe/filimonov/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

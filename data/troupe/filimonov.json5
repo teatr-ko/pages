@@ -484,6 +484,12 @@
       "url": "/performances/lubov/"
     },
     {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "<span class=\"dquo\">&#8220;</span>Тричі мені являлася любов… («Таїна буття»)&#8221; Тетяна&nbsp;Іващенко",
+      "role": "Іван&nbsp;Франко, Голос&nbsp;четвертий",
+      "url": "/performances/love/"
+    },
+    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>У неділю рано зілля копала&#8221; за твором Ольги&nbsp;Кобилянської",
       "role": "Гриць, Цигани,&nbsp;гуцули",
@@ -623,6 +629,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Сонечко в тобі&#8221; Євген&nbsp;Тищук",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/sonechko/"
+    },
+    {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "<span class=\"dquo\">&#8220;</span>Тричі мені являлася любов… («Таїна буття»)&#8221; Тетяна&nbsp;Іващенко",
+      "role": "Асистент&nbsp;режисера",
+      "url": "/performances/love/"
     }
   ]
 }

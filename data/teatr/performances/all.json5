@@ -716,7 +716,10 @@
         "url": "/performances/lubov/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/love/тричі_мені_являлася_любов..._а3_cr_gal_ix.jpg"
+        },
         "name": "Тричі мені являлася любов… («Таїна&nbsp;буття»)",
         "url": "/performances/love/"
       }
