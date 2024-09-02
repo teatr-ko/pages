@@ -3,7 +3,7 @@
     "output": "troupe/novyckak/index.html",
     "template": "teatr/trouper"
   },
-  "addition": "",
+  "addition": "<p>&nbsp;</p>\r\n<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58452/\"><span style=\"font-size: medium;\">Артисти Коломийського та Херсонського театрів презентували&nbsp;спільну&nbsp;постановку</span></a></h1>\r\n<p><a href=\"https://teatr.kolomyya.org/news/item/58452/\">&nbsp;</a></p>",
   "date_of_birth": "10.07.00",
   "full_name": "Сагалюк&nbsp;Катерина",
   "gallery": [],
