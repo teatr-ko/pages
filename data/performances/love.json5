@@ -3,7 +3,7 @@
     "output": "performances/love/index.html",
     "template": "teatr/performance"
   },
-  "addition": "",
+  "addition": "<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58454/\"><span style=\"font-size: medium;\">&laquo;Тричі мені являлася любов&hellip;&raquo;. Актори Коломийського театру потішили&nbsp;прем&rsquo;єрою.</span></a></h1>",
   "additional_director_info": "",
   "author": "Тетяна Іващенко",
   "director": "Кузик&nbsp;Сергій",
