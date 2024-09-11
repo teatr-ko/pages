@@ -151,14 +151,7 @@
       "role": "Принц Лимон"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Гнатюк&nbsp;Орися",
-          "page_url": null,
-          "role": "Редисочка"
-        }
-      ],
+      "persons": [],
       "role": "Редисочка"
     },
     {

@@ -21,14 +21,7 @@
   "name": "Хворий, та й&nbsp;годі!",
   "personages": [
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Гнатюк&nbsp;Орися",
-          "page_url": null,
-          "role": "Ангел"
-        }
-      ],
+      "persons": [],
       "role": "Ангел"
     },
     {

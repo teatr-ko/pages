@@ -53,12 +53,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гнатюк&nbsp;Орися",
-          "page_url": null,
-          "role": "ЗІРКА Nº1, ЖІНКА&nbsp;Nº1"
-        },
-        {
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",

@@ -142,12 +142,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гнатюк&nbsp;Орися",
-          "page_url": null,
-          "role": "Голос&nbsp;сьомий"
-        },
-        {
           "has_page": true,
           "name": "Феняк&nbsp;Вікторія",
           "page_url": "/troupe/185/",
