@@ -7,7 +7,14 @@
   "date_of_birth": "06.09.93",
   "full_name": "Гнатюк&nbsp;Орися",
   "gallery": [],
-  "grown_roles": [],
+  "grown_roles": [
+    {
+      "director": "Сікорський&nbsp;Вадим",
+      "performance": "<span class=\"dquo\">&#8220;</span>Анничка&#8221; Іван&nbsp;Озаркевич",
+      "role": "Анничка",
+      "url": "/performances/annychka/"
+    }
+  ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/hnatyuk/гнатюк_fh_gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/hnatyuk/гнатюк_gallery.jpg"
