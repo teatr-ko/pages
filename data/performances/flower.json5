@@ -3,7 +3,7 @@
     "output": "performances/flower/index.html",
     "template": "teatr/performance"
   },
-  "addition": "",
+  "addition": "<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58455/\"><span style=\"font-size: medium;\">Озарківчани на фестивалі у&nbsp;Дніпрі</span></a></h1>",
   "additional_director_info": "",
   "author": "Олег Миколайчук-Низовець",
   "director": "Невєдров&nbsp;Валерій",
