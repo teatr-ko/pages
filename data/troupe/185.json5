@@ -51,6 +51,12 @@
       "url": "/performances/leader_redskins/"
     },
     {
+      "director": "Мартищук&nbsp;Володимир",
+      "performance": "<span class=\"dquo\">&#8220;</span>Всі миші люблять сир&#8221; Дюла Урбан (вірші Оксани&nbsp;Сенатович)",
+      "role": "Ружа",
+      "url": "/performances/myshi/"
+    },
+    {
       "director": "Кузик&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Коза-дереза&#8221; Микола&nbsp;Лисенко",
       "role": "Дівчина",
@@ -65,7 +71,7 @@
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Кіт у чоботях&#8221; Шарль&nbsp;Перро",
-      "role": "Принцеса",
+      "role": "Принцеса, Кіт у&nbsp;Чоботях",
       "url": "/performances/puss_in_boots/"
     },
     {
@@ -81,10 +87,22 @@
       "url": "/performances/popelyushka/"
     },
     {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Пригоди Червоної Шапочки&#8221; С.Львівська,&nbsp;Б.Мельничук",
+      "role": "Червона&nbsp;Шапочка",
+      "url": "/performances/ch_shapochka/"
+    },
+    {
       "director": "Драпіковський&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>Про що співає Козак Мамай&#8221; Борис&nbsp;Чуприна",
       "role": "ЛАДА, ЗІРКА&nbsp;Nº3",
       "url": "/performances/mamai/"
+    },
+    {
+      "director": "Цибульський&nbsp;Адам",
+      "performance": "<span class=\"dquo\">&#8220;</span>Спасибі, Барбі&#8221; Євген Тищук (переклад Василя&nbsp;Лужковського)",
+      "role": "Барбі",
+      "url": "/performances/barbi/"
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
