@@ -21,67 +21,185 @@
   "name": "<span class=\"caps\">TABULA</span> <span class=\"caps\">RASA</span> / ЧИСТА&nbsp;ДОШКА",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "БАБА ПОВИТУХА,&nbsp;ТАНЦІВНИЦЯ"
+        }
+      ],
       "role": "БАБА ПОВИТУХА, ТАНЦІВНИЦЯ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "ДЄДИК"
+        }
+      ],
       "role": "ДЄДИК"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "ЖІНКА В ЧЕРВОНОМУ,&nbsp;СВІДОК"
+        }
+      ],
       "role": "ЖІНКА В ЧЕРВОНОМУ, СВІДОК"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гелецький&nbsp;Володимир",
+          "page_url": "/troupe/vheletskyi/",
+          "role": "КАПІТАН НА&nbsp;КОРАБЛІ"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "КАПІТАН НА&nbsp;КОРАБЛІ"
+        }
+      ],
       "role": "КАПІТАН НА КОРАБЛІ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "ЛІКАР&nbsp;РІЧАРДСОН"
+        }
+      ],
       "role": "ЛІКАР РІЧАРДСОН"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Іванченко&nbsp;Владислав",
+          "page_url": "/troupe/ivanchenko/",
+          "role": "ЛІКАР ФІНЛЕЙ&nbsp;(молодий)"
+        }
+      ],
       "role": "ЛІКАР ФІНЛЕЙ (молодий)"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "ЛІКАР ФІНЛЕЙ&nbsp;(старший)"
+        }
+      ],
       "role": "ЛІКАР ФІНЛЕЙ (старший)"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "МАМА, СЕСТРА&nbsp;ГАББІ"
+        }
+      ],
       "role": "МАМА, СЕСТРА ГАББІ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "МЕДСЕСТРА&nbsp;КЕТРІН"
+        }
+      ],
       "role": "МЕДСЕСТРА КЕТРІН"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "МОЛОДА&nbsp;КАТЕРИНА"
+        }
+      ],
       "role": "МОЛОДА КАТЕРИНА"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "НАЙМАЧ"
+        }
+      ],
       "role": "НАЙМАЧ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Актори&nbsp;театру",
+          "page_url": null,
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        }
+      ],
       "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ, СЕЛЯНИ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "ПОЛІЦЕЙСЬКИЙ,&nbsp;ЯРОСЛАВ"
+        }
+      ],
       "role": "ПОЛІЦЕЙСЬКИЙ, ЯРОСЛАВ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "СЕСТРА&nbsp;МЕГГІ"
+        }
+      ],
       "role": "СЕСТРА МЕГГІ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "СТАРША&nbsp;КАТЕРИНА"
+        }
+      ],
       "role": "СТАРША КАТЕРИНА"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "УКРАЇНА"
+        }
+      ],
       "role": "УКРАЇНА"
     }
   ],
