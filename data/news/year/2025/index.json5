@@ -1,0 +1,52 @@
+{
+  "_page": {
+    "output": "news/year/2025/index.html",
+    "template": "news/page"
+  },
+  "navigate_url": "/news/year/2025/pg/",
+  "news": [
+    {
+      "date": "14 січня 2025&nbsp;р.",
+      "lead": "Загубила дитину і 60 років провела у психлікарні | Чим вразить вистава “Табула раса” Коломийського&nbsp;театру",
+      "title": "Загубила дитину і 60 років провела у психлікарні | Чим вразить вистава “Табула раса” Коломийського театру",
+      "url": "/news/item/58457"
+    }
+  ],
+  "page": 1,
+  "pages": [
+    1
+  ],
+  "pages_cnt": 1,
+  "years": [
+    {
+      "next": false,
+      "previous": false,
+      "url": null,
+      "year": 2025
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2024",
+      "year": 2024
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2023",
+      "year": 2023
+    },
+    {
+      "next": false,
+      "previous": true,
+      "url": "/news/year/2021",
+      "year": 2021
+    },
+    {
+      "next": false,
+      "previous": false,
+      "url": "/news/year/2003",
+      "year": 2003
+    }
+  ]
+}
