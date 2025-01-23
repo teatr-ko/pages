@@ -331,12 +331,6 @@
       "url": "/performances/faraony/"
     },
     {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Вовк, Дядько на&nbsp;возі",
-      "url": "/performances/ch_rukavychka/"
-    },
-    {
       "director": "Горчинський&nbsp;Анатолій",
       "performance": "<span class=\"dquo\">&#8220;</span>Як наші діди парубкували&#8221; Володимир&nbsp;Канівець",
       "role": "Савка, Дід&nbsp;Северин",
@@ -413,6 +407,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Пригоди Червоної Шапочки&#8221; С.Львівська,&nbsp;Б.Мельничук",
       "role": "Чахлик&nbsp;Невмирущий",
       "url": "/performances/ch_shapochka/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Вовк, Дядько на&nbsp;возі",
+      "url": "/performances/ch_rukavychka/"
     },
     {
       "director": "Сініков&nbsp;Віталій",

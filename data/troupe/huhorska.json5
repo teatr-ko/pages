@@ -414,12 +414,6 @@
       "url": "/performances/sick_tai_godi/"
     },
     {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Мишка",
-      "url": "/performances/ch_rukavychka/"
-    },
-    {
       "director": "Горчинський&nbsp;Анатолій",
       "performance": "<span class=\"dquo\">&#8220;</span>Як наші діди парубкували&#8221; Володимир&nbsp;Канівець",
       "role": "Василина",
@@ -496,6 +490,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Спасибі, Барбі&#8221; Євген Тищук (переклад Василя&nbsp;Лужковського)",
       "role": "Маман",
       "url": "/performances/barbi/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Мишка",
+      "url": "/performances/ch_rukavychka/"
     }
   ],
   "on_the_stage": "01.01.98",

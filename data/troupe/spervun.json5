@@ -189,12 +189,6 @@
       "url": "/performances/sick_tai_godi/"
     },
     {
-      "director": "Якубовський&nbsp;С.",
-      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
-      "role": "Мишка",
-      "url": "/performances/ch_rukavychka/"
-    },
-    {
       "director": "Горчинський&nbsp;Анатолій",
       "performance": "<span class=\"dquo\">&#8220;</span>Як наші діди парубкували&#8221; Володимир&nbsp;Канівець",
       "role": "Василина",
@@ -307,6 +301,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Троє поросят&#8221; за п’єсою Віктора&nbsp;Гирича",
       "role": "Наф-Наф",
       "url": "/performances/three_pigs/"
+    },
+    {
+      "director": "Якубовський&nbsp;С.",
+      "performance": "<span class=\"dquo\">&#8220;</span>Чарівна рукавичка&#8221; Ірина і Ян&nbsp;Златопольські",
+      "role": "Мишка",
+      "url": "/performances/ch_rukavychka/"
     },
     {
       "director": "Сініков&nbsp;Віталій",
