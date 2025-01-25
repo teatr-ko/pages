@@ -3,7 +3,7 @@
     "output": "performances/toreador/index.html",
     "template": "teatr/performance"
   },
-  "addition": "",
+  "addition": "<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58458/\">Тореадори з Васюківки. У Коломийському театрі &ndash; прем&rsquo;єра&nbsp;вистави</a></h1>",
   "additional_director_info": "",
   "author": "Всеволод Нестайко",
   "director": "Гусаков&nbsp;Дмитро",
