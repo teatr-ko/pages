@@ -439,6 +439,12 @@
       "url": "/performances/barbi/"
     },
     {
+      "director": "Гусаков&nbsp;Дмитро",
+      "performance": "<span class=\"dquo\">&#8220;</span>Тореадори з Васюківки&#8221; Всеволод&nbsp;Нестайко",
+      "role": "ПАВЛУСЬ",
+      "url": "/performances/toreador/"
+    },
+    {
       "director": "Цибульський&nbsp;Адам",
       "performance": "<span class=\"dquo\">&#8220;</span>Троє поросят&#8221; за п’єсою Віктора&nbsp;Гирича",
       "role": "Ніф-Ніф",
@@ -476,6 +482,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Пастка для орла&#8221; за казкою Лілії Костишин, Богдана&nbsp;Мельничука",
       "role": "Асистент&nbsp;режисера",
       "url": "/performances/eagle_trap/"
+    },
+    {
+      "director": "Гусаков&nbsp;Дмитро",
+      "performance": "<span class=\"dquo\">&#8220;</span>Тореадори з Васюківки&#8221; Всеволод&nbsp;Нестайко",
+      "role": "Асистент&nbsp;режисера",
+      "url": "/performances/toreador/"
     }
   ]
 }

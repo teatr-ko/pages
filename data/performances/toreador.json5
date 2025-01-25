@@ -15,30 +15,139 @@
   "name": "Тореадори з&nbsp;Васюківки",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
+          "role": "АНТОНЧИК"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "АНТОНЧИК"
+        }
+      ],
       "role": "АНТОНЧИК"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "ВАЛЬКА"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "ВАЛЬКА"
+        }
+      ],
       "role": "ВАЛЬКА"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "ГАННА"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "ГАННА"
+        }
+      ],
       "role": "ГАННА"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "ПАВЛУСЬ"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів&nbsp;Ольга",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "ПАВЛУСЬ"
+        }
+      ],
       "role": "ПАВЛУСЬ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
+          "role": "СТЬОПКА"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "СТЬОПКА"
+        }
+      ],
       "role": "СТЬОПКА"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "ЯВА"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "ЯВА"
+        }
+      ],
       "role": "ЯВА"
     }
   ],
   "premiere": "19.01.2025",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Джаман&nbsp;Ігор",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Маник&nbsp;Віталій",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": false,
+      "name": "Захаркевич&nbsp;Євгенія",
+      "page_url": null,
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": true,
+      "name": "Якубів&nbsp;Ольга",
+      "page_url": "/troupe/ohnatiuk/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }
