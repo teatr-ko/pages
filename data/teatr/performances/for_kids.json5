@@ -212,7 +212,10 @@
         "url": "/performances/dancing_hurricane/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/toreador/тореадори_з_васюківки_а3_cr_gal_ix.jpg"
+        },
         "name": "Тореадори з&nbsp;Васюківки",
         "url": "/performances/toreador/"
       }
