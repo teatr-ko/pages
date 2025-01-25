@@ -716,15 +716,20 @@
         "url": "/performances/terytoria/"
       },
       {
+        "image": null,
+        "name": "Тореадори з&nbsp;Васюківки",
+        "url": "/performances/toreador/"
+      }
+    ],
+    [
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/three_ideal_marriage/три_ідеальних_подружжя_cr_gal_ix.jpg"
         },
         "name": "Три ідеальні&nbsp;подружжя",
         "url": "/performances/three_ideal_marriage/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -732,7 +737,9 @@
         },
         "name": "Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
         "url": "/performances/lubov/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -740,9 +747,7 @@
         },
         "name": "Тричі мені являлася любов… («Таїна&nbsp;буття»)",
         "url": "/performances/love/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -750,7 +755,9 @@
         },
         "name": "Троє&nbsp;поросят",
         "url": "/performances/three_pigs/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -758,9 +765,7 @@
         },
         "name": "У неділю рано зілля&nbsp;копала",
         "url": "/performances/y_nediliu_rano/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -768,7 +773,9 @@
         },
         "name": "Фараони",
         "url": "/performances/faraony/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -776,9 +783,7 @@
         },
         "name": "Фарбований&nbsp;лис",
         "url": "/performances/painted_fox/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -786,7 +791,9 @@
         },
         "name": "Хворий, та й&nbsp;годі!",
         "url": "/performances/sick_tai_godi/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -794,9 +801,7 @@
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -804,7 +809,9 @@
         },
         "name": "Чиполіно",
         "url": "/performances/cipollino/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -812,9 +819,7 @@
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -822,8 +827,7 @@
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      },
-      null
+      }
     ]
   ]
 }

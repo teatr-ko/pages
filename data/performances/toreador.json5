@@ -1,0 +1,44 @@
+{
+  "_page": {
+    "output": "performances/toreador/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "",
+  "additional_director_info": "",
+  "author": "Всеволод Нестайко",
+  "director": "Гусаков&nbsp;Дмитро",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "",
+  "name": "Тореадори з&nbsp;Васюківки",
+  "personages": [
+    {
+      "persons": [],
+      "role": "АНТОНЧИК"
+    },
+    {
+      "persons": [],
+      "role": "ВАЛЬКА"
+    },
+    {
+      "persons": [],
+      "role": "ГАННА"
+    },
+    {
+      "persons": [],
+      "role": "ПАВЛУСЬ"
+    },
+    {
+      "persons": [],
+      "role": "СТЬОПКА"
+    },
+    {
+      "persons": [],
+      "role": "ЯВА"
+    }
+  ],
+  "premiere": "19.01.2025",
+  "staff": []
+}

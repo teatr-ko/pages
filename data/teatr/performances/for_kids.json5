@@ -212,15 +212,20 @@
         "url": "/performances/dancing_hurricane/"
       },
       {
+        "image": null,
+        "name": "Тореадори з&nbsp;Васюківки",
+        "url": "/performances/toreador/"
+      }
+    ],
+    [
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/three_pigs/three_pigs_cr_gal_ix.jpg"
         },
         "name": "Троє&nbsp;поросят",
         "url": "/performances/three_pigs/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -228,7 +233,9 @@
         },
         "name": "Фарбований&nbsp;лис",
         "url": "/performances/painted_fox/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -236,9 +243,7 @@
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -246,7 +251,9 @@
         },
         "name": "Чиполіно",
         "url": "/performances/cipollino/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -254,7 +261,8 @@
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      }
+      },
+      null
     ]
   ]
 }
