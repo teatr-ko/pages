@@ -227,9 +227,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Гливко&nbsp;Дмитро",
-          "page_url": "/troupe/glyvko/",
+          "page_url": null,
           "role": "Павлик"
         },
         {

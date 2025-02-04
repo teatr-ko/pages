@@ -98,9 +98,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Гнатюк&nbsp;Орися",
-          "page_url": "/troupe/hnatyuk/",
+          "page_url": null,
           "role": "Анничка"
         },
         {

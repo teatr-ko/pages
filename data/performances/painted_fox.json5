@@ -85,9 +85,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Гливко&nbsp;Дмитро",
-          "page_url": "/troupe/glyvko/",
+          "page_url": null,
           "role": "Вовк"
         }
       ],
@@ -118,9 +118,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Гливко&nbsp;Дмитро",
-          "page_url": "/troupe/glyvko/",
+          "page_url": null,
           "role": "Кабан"
         },
         {
@@ -191,9 +191,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Гливко&nbsp;Дмитро",
-          "page_url": "/troupe/glyvko/",
+          "page_url": null,
           "role": "Пес&nbsp;2-й"
         },
         {
