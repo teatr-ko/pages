@@ -122,9 +122,9 @@
           "role": "Людожер"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Іванченко&nbsp;Владислав",
-          "page_url": "/troupe/ivanchenko/",
+          "page_url": null,
           "role": "Людожер"
         },
         {
