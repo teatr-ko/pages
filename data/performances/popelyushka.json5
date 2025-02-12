@@ -3,7 +3,7 @@
     "output": "performances/popelyushka/index.html",
     "template": "teatr/performance"
   },
-  "addition": "<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58462/\">Відгуки із&nbsp;соцмереж</a></h1>",
+  "addition": "<h1 class=\"header_t\" style=\"text-align: left;\"><a href=\"https://teatr.kolomyya.org/news/item/58462/\"><span class=\"dquo\">&ldquo;</span>Попелюшка&rdquo; ожила на&nbsp;сцені</a></h1>",
   "additional_director_info": "Режисер-постановник&nbsp;-",
   "author": "Шарль Перро",
   "director": "Медюсев&nbsp;Володимир",
