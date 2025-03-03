@@ -137,7 +137,10 @@
       {
         "full_name": "Олійник&nbsp;Максим",
         "has_page": true,
-        "image": null,
+        "image": {
+          "name": "Олійник&nbsp;Максим",
+          "url": "/korg/kol/portals/teatr/troup/oliynyk/олійник_максим_fh_gal_ix.jpg"
+        },
         "url": "/troupe/oliynyk/"
       }
     ],
