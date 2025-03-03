@@ -44,6 +44,12 @@
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Бобер"
+        },
+        {
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
+          "role": "Бобер"
         }
       ],
       "role": "Бобер"
