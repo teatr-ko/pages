@@ -12,7 +12,14 @@
     "url": "/korg/kol/portals/teatr/troup/oliynyk/олійник_максим_fh_gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/oliynyk/олійник_максим_gallery.jpg"
   },
-  "kids_roles": [],
+  "kids_roles": [
+    {
+      "director": "Кузик&nbsp;Анастасія",
+      "performance": "<span class=\"dquo\">&#8220;</span>Біля ковчега о восьмій&#8221; Ульріх&nbsp;Хуб",
+      "role": "Пінгвін&nbsp;3-й",
+      "url": "/performances/bilja_kovchega/"
+    }
+  ],
   "on_the_stage": "25.07.24",
   "staff": []
 }
