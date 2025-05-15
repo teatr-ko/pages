@@ -174,20 +174,20 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
-          "role": "Ворожбит"
-        },
-        {
-          "has_page": true,
-          "name": "Гелецький&nbsp;Володимир",
-          "page_url": "/troupe/vheletskyi/",
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
           "role": "Ворожбит"
         },
         {
           "has_page": true,
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
+          "role": "Ворожбит"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
           "role": "Ворожбит"
         }
       ],
