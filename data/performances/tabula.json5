@@ -85,6 +85,17 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "ЛІКАР&nbsp;ФІНЛЕЙ"
+        }
+      ],
+      "role": "ЛІКАР ФІНЛЕЙ"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "МАМА, СЕСТРА&nbsp;ГАББІ"
