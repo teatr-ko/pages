@@ -7,7 +7,14 @@
   "date_of_birth": "16.04.01",
   "full_name": "Олійник&nbsp;Максим",
   "gallery": [],
-  "grown_roles": [],
+  "grown_roles": [
+    {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "<span class=\"dquo\">&#8220;</span>Тричі мені являлася любов… («Таїна буття»)&#8221; Тетяна&nbsp;Іващенко",
+      "role": "Голос&nbsp;другий",
+      "url": "/performances/love/"
+    }
+  ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/oliynyk/олійник_максим_fh_gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/oliynyk/олійник_максим_gallery.jpg"

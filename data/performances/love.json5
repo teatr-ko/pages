@@ -78,6 +78,12 @@
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Ворожбит"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Ворожбит"
         }
       ],
       "role": "Ворожбит"
@@ -86,8 +92,31 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Голос&nbsp;восьмий"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Голос&nbsp;восьмий"
+        }
+      ],
+      "role": "Голос восьмий"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
+          "role": "Голос&nbsp;другий"
+        },
+        {
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
           "role": "Голос&nbsp;другий"
         }
       ],
@@ -117,14 +146,7 @@
       "role": "Голос п`ятий"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Голос&nbsp;перший"
-        }
-      ],
+      "persons": [],
       "role": "Голос перший"
     },
     {
@@ -144,12 +166,6 @@
           "has_page": true,
           "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
-          "role": "Голос&nbsp;третій"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
           "role": "Голос&nbsp;третій"
         }
       ],
