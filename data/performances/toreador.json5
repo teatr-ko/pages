@@ -23,9 +23,9 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
           "role": "АНТОНЧИК"
         }
       ],
