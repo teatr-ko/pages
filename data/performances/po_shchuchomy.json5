@@ -107,18 +107,18 @@
           "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Гаврило"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Гаврило"
         }
       ],
       "role": "Гаврило"
     },
     {
       "persons": [
-        {
-          "has_page": true,
-          "name": "Петрик&nbsp;Інна",
-          "page_url": "/troupe/petryk_i/",
-          "role": "Галька"
-        },
         {
           "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
@@ -149,14 +149,14 @@
         },
         {
           "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Королиха"
         },
         {
           "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Королиха"
         }
       ],
@@ -166,14 +166,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
-          "role": "Королівна"
-        },
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Королівна"
         },
         {
@@ -192,12 +186,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Сміхотвор"
-        },
-        {
           "has_page": true,
           "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/filimonov/",
@@ -212,12 +200,6 @@
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
-          "role": "Співачка"
-        },
-        {
-          "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
           "role": "Співачка"
         },
         {
@@ -310,8 +292,8 @@
     },
     {
       "has_page": true,
-      "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-      "page_url": "/troupe/bbazylevych/",
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/huhorska/",
       "role": "Асистент&nbsp;режисера"
     }
   ]
