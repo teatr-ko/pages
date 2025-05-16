@@ -97,7 +97,14 @@
       "role": "Баба"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Вісник"
+        }
+      ],
       "role": "Вісник"
     },
     {
@@ -121,6 +128,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Галька"
+        },
+        {
+          "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
           "role": "Галька"
@@ -130,6 +143,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Дід"
+        },
         {
           "has_page": true,
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
@@ -232,42 +251,12 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Глушко&nbsp;Вячеслав",
-          "page_url": "/troupe/glushko/",
-          "role": "Цигани"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Цигани"
-        },
-        {
-          "has_page": true,
-          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/nkomarova/",
-          "role": "Цигани"
-        },
-        {
-          "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "Цигани"
-        },
-        {
-          "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
           "page_url": "/troupe/novyckak/",
-          "role": "Цигани"
-        },
-        {
-          "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
-          "role": "Цигани"
+          "role": "Цигани, весільні&nbsp;гості"
         }
       ],
-      "role": "Цигани"
+      "role": "Цигани, весільні гості"
     }
   ],
   "premiere": "06.08.2006",
