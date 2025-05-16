@@ -6,7 +6,13 @@
   "addition": "",
   "date_of_birth": "27.02.98",
   "full_name": "Глушко&nbsp;Вячеслав",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": " - По щучому&nbsp;велінню",
+      "url": "/korg/kol/portals/teatr/troup/glushko/glushko_main.jpg",
+      "url_small": null
+    }
+  ],
   "grown_roles": [
     {
       "director": "Скрипка&nbsp;Людмила&nbsp;н.а.&nbsp;України",
