@@ -63,9 +63,9 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Білл"
         }
       ],
@@ -75,8 +75,20 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Джонні"
+        },
+        {
+          "has_page": true,
           "name": "Феняк&nbsp;Вікторія",
           "page_url": "/troupe/185/",
+          "role": "Джонні"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Джонні"
         }
       ],
@@ -98,8 +110,26 @@
         },
         {
           "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Маріонетки"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Маріонетки"
+        },
+        {
+          "has_page": true,
           "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/oskrygunec/",
+          "role": "Маріонетки"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "Маріонетки"
         }
       ],
@@ -107,6 +137,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Сем"
+        },
         {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
