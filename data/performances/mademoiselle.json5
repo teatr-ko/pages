@@ -55,6 +55,18 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Блез&nbsp;Д&#8217;амбріє"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Блез&nbsp;Д&#8217;амбріє"
+        },
+        {
+          "has_page": true,
           "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/filimonov/",
           "role": "Блез&nbsp;Д&#8217;амбріє"
@@ -103,12 +115,6 @@
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
           "role": "Мадам&nbsp;Карльє"
-        },
-        {
-          "has_page": true,
-          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/lmotsok/",
-          "role": "Мадам&nbsp;Карльє"
         }
       ],
       "role": "Мадам Карльє"
@@ -119,6 +125,12 @@
           "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
           "page_url": "/troupe/novyckak/",
+          "role": "Марі"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
           "role": "Марі"
         }
       ],
