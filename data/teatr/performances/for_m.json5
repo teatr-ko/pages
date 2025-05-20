@@ -97,12 +97,22 @@
     [
       {
         "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/коханці_index.jpg"
+        },
+        "name": "Коханці",
+        "url": "/performances/kokhantsi/"
+      },
+      {
+        "image": {
           "name": "ЕЗОП. Коломийський академічний обласний український драматичний театр імені Івана&nbsp;Озаркевича",
           "url": "/korg/kol/portals/teatr/performances/ezop/лисиця_й_виноград_cr_gal_ix.jpg"
         },
         "name": "Лисиця й Виноград&nbsp;(Езоп)",
         "url": "/performances/ezop/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -110,9 +120,7 @@
         },
         "name": "Мадмуазель, негайно&nbsp;одягніться!",
         "url": "/performances/mademoiselle/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -120,7 +128,9 @@
         },
         "name": "Мартин&nbsp;Боруля",
         "url": "/performances/martyn_borylia/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -128,9 +138,7 @@
         },
         "name": "Мати-наймичка",
         "url": "/performances/maty/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "Фото Роман&nbsp;Захарчук",
@@ -138,7 +146,9 @@
         },
         "name": "Міс&nbsp;Жулі",
         "url": "/performances/miss_julie/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -146,9 +156,7 @@
         },
         "name": "Мораль пані&nbsp;Дульської",
         "url": "/performances/dulska/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -156,7 +164,9 @@
         },
         "name": "Пограбування&nbsp;опівночі",
         "url": "/performances/porhabuvanniya/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -164,9 +174,7 @@
         },
         "name": "Рятуйте, мене&nbsp;женять!",
         "url": "/performances/resque_me/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -174,7 +182,9 @@
         },
         "name": "Сватання на&nbsp;Гончарівці",
         "url": "/performances/svatannya/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -182,9 +192,7 @@
         },
         "name": "Собача&nbsp;будка",
         "url": "/performances/sobacha_budka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -192,7 +200,9 @@
         },
         "name": "Сто&nbsp;тисяч",
         "url": "/performances/sto_tysiach/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -200,9 +210,7 @@
         },
         "name": "Три ідеальні&nbsp;подружжя",
         "url": "/performances/three_ideal_marriage/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -210,7 +218,9 @@
         },
         "name": "Тричі мені являлася любов… («Таїна&nbsp;буття»)",
         "url": "/performances/love/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -218,9 +228,7 @@
         },
         "name": "У неділю рано зілля&nbsp;копала",
         "url": "/performances/y_nediliu_rano/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -228,7 +236,9 @@
         },
         "name": "Фараони",
         "url": "/performances/faraony/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -236,9 +246,7 @@
         },
         "name": "Хворий, та й&nbsp;годі!",
         "url": "/performances/sick_tai_godi/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -246,8 +254,7 @@
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      },
-      null
+      }
     ]
   ]
 }
