@@ -3,7 +3,7 @@
     "output": "performances/kokhantsi/index.html",
     "template": "teatr/performance"
   },
-  "addition": "",
+  "addition": "<p>У кожного з них своя сім&rsquo;я, влаштоване життя і зона комфорту. Та щороку, того самого дня, вони зустрічаються, щоб продовжити історію ночі, яка мала залишитися у минулому. Натомість, повертаються до неї знову і&nbsp; знову.</p>\r\n<p>Що це: солодка спокуса, продовження інтриги&nbsp; чи справжнє кохання?</p>",
   "additional_director_info": "",
   "author": "Бернард Слейд",
   "director": "Кузик&nbsp;Сергій",
@@ -21,15 +21,78 @@
   "name": "Коханці",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "ДЖОРЖ"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "ДЖОРЖ"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "ДЖОРЖ"
+        }
+      ],
       "role": "ДЖОРЖ"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "ДОРІС"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "ДОРІС"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "ДОРІС"
+        }
+      ],
       "role": "ДОРІС"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "САНТА&nbsp;КЛАУС"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "САНТА&nbsp;КЛАУС"
+        },
+        {
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
+          "role": "САНТА&nbsp;КЛАУС"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "САНТА&nbsp;КЛАУС"
+        }
+      ],
       "role": "САНТА КЛАУС"
     }
   ],
