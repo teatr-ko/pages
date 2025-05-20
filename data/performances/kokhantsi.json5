@@ -4,7 +4,7 @@
     "template": "teatr/performance"
   },
   "addition": "<p>У кожного з них своя сім&rsquo;я, влаштоване життя і зона комфорту. Та щороку, того самого дня, вони зустрічаються, щоб продовжити історію ночі, яка мала залишитися у минулому. Натомість, повертаються до неї знову і&nbsp; знову.</p>\r\n<p>Що це: солодка спокуса, продовження інтриги&nbsp; чи справжнє кохання?</p>",
-  "additional_director_info": "",
+  "additional_director_info": "Режисура, сценографія та музичне оформлення&nbsp;-",
   "author": "Бернард Слейд",
   "director": "Кузик&nbsp;Сергій",
   "director_has_page": false,
@@ -13,7 +13,7 @@
   "gallery": [
     {
       "title": "",
-      "url": "/korg/kol/portals/teatr/performances/коханці_index.jpg",
+      "url": "/korg/kol/portals/teatr/performances/коханці_cr_gal_ix.jpg",
       "url_small": "/korg/kol/portals/teatr/performances/коханці_gallery.jpg"
     }
   ],
