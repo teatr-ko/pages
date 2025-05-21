@@ -93,14 +93,7 @@
       "role": "ЕЛЬФ"
     },
     {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": "/troupe/laiuk_l/",
-          "role": "НУЛИК"
-        }
-      ],
+      "persons": [],
       "role": "НУЛИК"
     },
     {
@@ -195,14 +188,7 @@
       "role": "СНІГОВА КОРОЛЕВА"
     },
     {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": "/troupe/laiuk_l/",
-          "role": "СНІГОВИК"
-        }
-      ],
+      "persons": [],
       "role": "СНІГОВИК"
     },
     {
@@ -223,7 +209,7 @@
       "role": "ФЕЯ"
     }
   ],
-  "premiere": "",
+  "premiere": "05.12.2023",
   "staff": [
     {
       "has_page": false,
