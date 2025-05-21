@@ -61,14 +61,7 @@
       "role": "АНГЕЛ"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "ГНОМ"
-        }
-      ],
+      "persons": [],
       "role": "ГНОМ"
     },
     {
