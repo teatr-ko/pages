@@ -166,8 +166,21 @@
       "role": "Принц Лимон"
     },
     {
-      "persons": [],
-      "role": "Редисочка"
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Редиска"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Редиска"
+        }
+      ],
+      "role": "Редиска"
     },
     {
       "persons": [
