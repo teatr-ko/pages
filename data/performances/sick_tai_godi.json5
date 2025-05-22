@@ -28,6 +28,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Анжеліка"
+        },
+        {
+          "has_page": true,
           "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/oskrygunec/",
           "role": "Анжеліка"
@@ -42,12 +48,30 @@
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
           "role": "Арган"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Арган"
         }
       ],
       "role": "Арган"
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Беліна"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Беліна"
+        },
         {
           "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
@@ -59,6 +83,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Беральд"
+        },
         {
           "has_page": true,
           "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
@@ -75,6 +105,12 @@
           "name": "Максимчук&nbsp;Іван",
           "page_url": "/troupe/maksymchuk_m/",
           "role": "Добродій де&nbsp;Бонфуа"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Добродій де&nbsp;Бонфуа"
         }
       ],
       "role": "Добродій де Бонфуа"
@@ -85,12 +121,6 @@
           "has_page": true,
           "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
-          "role": "Добродій&nbsp;Діафуарус"
-        },
-        {
-          "has_page": true,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": "/troupe/laiuk_l/",
           "role": "Добродій&nbsp;Діафуарус"
         }
       ],
@@ -127,12 +157,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Маски"
-        },
-        {
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
@@ -148,12 +172,6 @@
           "has_page": true,
           "name": "Феняк&nbsp;Вікторія",
           "page_url": "/troupe/185/",
-          "role": "Маски"
-        },
-        {
-          "has_page": true,
-          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/ohnatiuk/",
           "role": "Маски"
         }
       ],
