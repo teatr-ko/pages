@@ -8,6 +8,11 @@
   "full_name": "Катеринчук&nbsp;Марія",
   "gallery": [
     {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/03_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/mkaterynchuk/03_gallery.jpg"
+    },
+    {
       "title": " - Boa&nbsp;constrictor",
       "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/02_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/mkaterynchuk/02_gallery.jpg"
@@ -36,11 +41,6 @@
       "title": " - Всі миші люблять&nbsp;сир",
       "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/19.11.02_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/mkaterynchuk/19.11.02_gallery.jpg"
-    },
-    {
-      "title": " - Гуцульський&nbsp;рік",
-      "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/03_small_ix_crop.jpg",
-      "url_small": "/korg/kol/portals/teatr/troup/mkaterynchuk/03_gallery.jpg"
     },
     {
       "title": " - За двома&nbsp;зайцями",
@@ -146,6 +146,11 @@
       "title": " - Територія&nbsp;Б",
       "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/05.12_02_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/mkaterynchuk/05.12_02_gallery.jpg"
+    },
+    {
+      "title": " - Хворий, та й&nbsp;годі!",
+      "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/main_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/mkaterynchuk/main_gallery.jpg"
     }
   ],
   "grown_roles": [
