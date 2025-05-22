@@ -158,8 +158,20 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Маски"
+        },
+        {
+          "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
+          "role": "Маски"
+        },
+        {
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
           "role": "Маски"
         },
         {
@@ -170,28 +182,33 @@
         },
         {
           "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Маски"
+        },
+        {
+          "has_page": true,
           "name": "Феняк&nbsp;Вікторія",
           "page_url": "/troupe/185/",
+          "role": "Маски"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Маски"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
           "role": "Маски"
         }
       ],
       "role": "Маски"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Тома&nbsp;Діафуарус"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Тома&nbsp;Діафуарус"
-        }
-      ],
+      "persons": [],
       "role": "Тома Діафуарус"
     },
     {
