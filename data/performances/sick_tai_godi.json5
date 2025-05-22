@@ -21,7 +21,14 @@
   "name": "Хворий, та й&nbsp;годі!",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Ангел,&nbsp;співачка"
+        }
+      ],
       "role": "Ангел, співачка"
     },
     {
