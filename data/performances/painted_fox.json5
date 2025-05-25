@@ -66,28 +66,15 @@
   "name": "Фарбований&nbsp;лис",
   "personages": [
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Ведмідь"
-        },
-        {
-          "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
-          "role": "Ведмідь"
-        }
-      ],
+      "persons": [],
       "role": "Ведмідь"
     },
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
           "role": "Вовк"
         }
       ],
@@ -116,20 +103,7 @@
       "role": "Заєць 2-й"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Кабан"
-        },
-        {
-          "has_page": false,
-          "name": "Кінел&nbsp;Степан",
-          "page_url": null,
-          "role": "Кабан"
-        }
-      ],
+      "persons": [],
       "role": "Кабан"
     },
     {
@@ -157,12 +131,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Мавпа&nbsp;2-а"
-        },
-        {
           "has_page": true,
           "name": "Феняк&nbsp;Вікторія",
           "page_url": "/troupe/185/",
@@ -172,34 +140,15 @@
       "role": "Мавпа 2-а"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Пес&nbsp;1-й"
-        },
-        {
-          "has_page": true,
-          "name": "Новосад&nbsp;Дмитро",
-          "page_url": "/troupe/novosad_d/",
-          "role": "Пес&nbsp;1-й"
-        }
-      ],
+      "persons": [],
       "role": "Пес 1-й"
     },
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Пес&nbsp;2-й"
-        },
-        {
-          "has_page": false,
-          "name": "Кінел&nbsp;Степан",
-          "page_url": null,
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
           "role": "Пес&nbsp;2-й"
         }
       ],
