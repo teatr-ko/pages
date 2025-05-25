@@ -64,6 +64,23 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Балет"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Балет"
+        }
+      ],
+      "role": "Балет"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Гарбуз"
@@ -192,10 +209,6 @@
         }
       ],
       "role": "Чиполіно"
-    },
-    {
-      "persons": [],
-      "role": "Чиполоне"
     }
   ],
   "premiere": "17.07.2022",
