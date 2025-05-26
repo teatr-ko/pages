@@ -1,0 +1,50 @@
+{
+  "_page": {
+    "output": "performances/kriachechko/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "<p>Головна героїня потрапляє в халепу. Чи знайдеться той, хто прийде на допомогу? Кому варто довіряти, а від кого краще триматися подалі?</p>\r\n<p>Зворушлива казка про справжню дружбу і довіру.</p>",
+  "additional_director_info": "Режисер-постановник,&nbsp;сценограф",
+  "author": "Наталя Уварова",
+  "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+  "director_has_page": true,
+  "director_page_url": "/troupe/bbazylevych/",
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/photo_2025-05-23_13-41-59_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/photo_2025-05-23_13-41-59_gallery.jpg"
+    }
+  ],
+  "genre": "",
+  "name": "Качечка-крячечка",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Асистент режисера"
+    },
+    {
+      "persons": [],
+      "role": "Вірші(пісні)"
+    },
+    {
+      "persons": [],
+      "role": "Композитор"
+    },
+    {
+      "persons": [],
+      "role": "Режисер-постановник, сценограф"
+    },
+    {
+      "persons": [],
+      "role": "Хореограф"
+    },
+    {
+      "persons": [],
+      "role": "Художник по костюмах"
+    }
+  ],
+  "premiere": "25.05.2025",
+  "staff": []
+}
