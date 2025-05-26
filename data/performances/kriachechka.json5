@@ -1,0 +1,161 @@
+{
+  "_page": {
+    "output": "performances/kriachechka/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "<p>Головна героїня потрапляє в халепу. Чи знайдеться той, хто прийде на допомогу? Кому варто довіряти, а від кого краще триматися подалі?</p>\r\n<p>Зворушлива казка про справжню дружбу і довіру.</p>",
+  "additional_director_info": "Режисер-постановник,&nbsp;сценограф",
+  "author": "Наталя Уварова",
+  "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+  "director_has_page": true,
+  "director_page_url": "/troupe/bbazylevych/",
+  "duration": "",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/photo_2025-05-23_13-41-59_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/photo_2025-05-23_13-41-59_gallery.jpg"
+    }
+  ],
+  "genre": "",
+  "name": "Качечка-крячечка",
+  "personages": [
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Асистент&nbsp;режисера"
+        }
+      ],
+      "role": "Асистент режисера"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Рябий&nbsp;Василь",
+          "page_url": null,
+          "role": "Вірші(пісні)"
+        }
+      ],
+      "role": "Вірші(пісні)"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Качечка-крячечка"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Качечка-крячечка"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Качечка-крячечка"
+        }
+      ],
+      "role": "Качечка-крячечка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Николайчук&nbsp;Іван",
+          "page_url": null,
+          "role": "Композитор"
+        }
+      ],
+      "role": "Композитор"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Гладирук&nbsp;Оксана",
+          "page_url": "/troupe/gladyruk_o/",
+          "role": "Лисичка"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Лисичка"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Лисичка"
+        }
+      ],
+      "role": "Лисичка"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Песик&nbsp;гавчик"
+        },
+        {
+          "has_page": false,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": null,
+          "role": "Песик&nbsp;гавчик"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Песик&nbsp;гавчик"
+        }
+      ],
+      "role": "Песик гавчик"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Режисер-постановник,&nbsp;сценограф"
+        }
+      ],
+      "role": "Режисер-постановник, сценограф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+          "page_url": null,
+          "role": "Хореограф"
+        }
+      ],
+      "role": "Хореограф"
+    },
+    {
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Захаркевич&nbsp;Євгенія",
+          "page_url": null,
+          "role": "Художник по&nbsp;костюмах"
+        }
+      ],
+      "role": "Художник по костюмах"
+    }
+  ],
+  "premiere": "25.05.2025",
+  "staff": []
+}
