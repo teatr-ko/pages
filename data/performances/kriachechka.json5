@@ -23,58 +23,13 @@
     {
       "persons": [
         {
-          "has_page": true,
-          "name": "Сагалюк&nbsp;Катерина",
-          "page_url": "/troupe/novyckak/",
-          "role": "Асистент&nbsp;режисера"
-        }
-      ],
-      "role": "Асистент режисера"
-    },
-    {
-      "persons": [
-        {
           "has_page": false,
-          "name": "Рябий&nbsp;Василь",
+          "name": "Николайчук&nbsp;Іван",
           "page_url": null,
-          "role": "Вірші(пісні)"
-        }
-      ],
-      "role": "Вірші(пісні)"
-    },
-    {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Первун&nbsp;Світлана",
-          "page_url": "/troupe/spervun/",
-          "role": "Качечка-крячечка"
-        },
-        {
-          "has_page": true,
-          "name": "Феняк&nbsp;Вікторія",
-          "page_url": "/troupe/185/",
-          "role": "Качечка-крячечка"
-        },
-        {
-          "has_page": true,
-          "name": "Чиборак&nbsp;Уляна",
-          "page_url": "/troupe/uchuborak/",
           "role": "Качечка-крячечка"
         }
       ],
       "role": "Качечка-крячечка"
-    },
-    {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Николайчук&nbsp;Іван",
-          "page_url": null,
-          "role": "Композитор"
-        }
-      ],
-      "role": "Композитор"
     },
     {
       "persons": [
@@ -121,39 +76,6 @@
         }
       ],
       "role": "Песик гавчик"
-    },
-    {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
-          "role": "Режисер-постановник,&nbsp;сценограф"
-        }
-      ],
-      "role": "Режисер-постановник, сценограф"
-    },
-    {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
-          "page_url": null,
-          "role": "Хореограф"
-        }
-      ],
-      "role": "Хореограф"
-    },
-    {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Захаркевич&nbsp;Євгенія",
-          "page_url": null,
-          "role": "Художник по&nbsp;костюмах"
-        }
-      ],
-      "role": "Художник по костюмах"
     }
   ],
   "premiere": "25.05.2025",
