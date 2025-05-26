@@ -75,9 +75,9 @@
           "role": "Песик&nbsp;гавчик"
         },
         {
-          "has_page": false,
+          "has_page": true,
           "name": "Олійник&nbsp;Максим",
-          "page_url": null,
+          "page_url": "/troupe/oliynyk/",
           "role": "Песик&nbsp;гавчик"
         },
         {
