@@ -140,7 +140,20 @@
       "role": "Добродій Діафуарус"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Добродій&nbsp;Пургон"
+        },
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Добродій&nbsp;Пургон"
+        }
+      ],
       "role": "Добродій Пургон"
     },
     {
