@@ -233,6 +233,17 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
+          "role": "Людина на&nbsp;похороні"
+        }
+      ],
+      "role": "Людина на похороні"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
           "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/lmotsok/",
           "role": "Няня"
