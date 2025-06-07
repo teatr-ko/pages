@@ -173,6 +173,17 @@
       "role": "Перший слуга"
     },
     {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
+          "role": "Слуга"
+        }
+      ],
+      "role": "Слуга"
+    },
+    {
       "persons": [],
       "role": "Степан"
     },

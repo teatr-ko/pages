@@ -142,6 +142,17 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
+          "role": "Ослик&nbsp;Іа-Іа"
+        }
+      ],
+      "role": "Ослик Іа-Іа"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
           "name": "Петрик&nbsp;Інна",
           "page_url": "/troupe/petryk_i/",
           "role": "П&#8217;ятачок"
