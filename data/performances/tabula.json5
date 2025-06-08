@@ -101,6 +101,17 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
+          "role": "МАСОВІ&nbsp;СЦЕНИ"
+        }
+      ],
+      "role": "МАСОВІ СЦЕНИ"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
           "page_url": "/troupe/novyckak/",
           "role": "МЕДСЕСТРА&nbsp;КЕТРІН"
