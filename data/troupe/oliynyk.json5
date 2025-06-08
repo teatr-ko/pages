@@ -21,6 +21,12 @@
       "url": "/performances/vii/"
     },
     {
+      "director": "Чиборак&nbsp;Дмитро",
+      "performance": "<span class=\"dquo\">&#8220;</span>За двома зайцями&#8221; Михайло&nbsp;Старицький",
+      "role": "Шафери&nbsp;Голохвостого",
+      "url": "/performances/zaycyamy/"
+    },
+    {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Кайдашева сім’я&#8221; Іван&nbsp;Нечуй-Левицький",
       "role": "Масові&nbsp;сцени",
@@ -49,6 +55,12 @@
       "performance": "<span class=\"dquo\">&#8220;</span>Мати-наймичка&#8221; Тарас&nbsp;Шевченко",
       "role": "Марко",
       "url": "/performances/maty/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>Сватання на Гончарівці&#8221; Григорій&nbsp;Квітка-Основ&#8217;яненко",
+      "role": "Стецько",
+      "url": "/performances/svatannya/"
     },
     {
       "director": "Кузик&nbsp;Сергій",
