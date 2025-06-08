@@ -174,15 +174,9 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Марко"
-        },
-        {
-          "has_page": false,
-          "name": "Кінел&nbsp;Степан",
-          "page_url": null,
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
           "role": "Марко"
         }
       ],
