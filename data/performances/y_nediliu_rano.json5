@@ -281,12 +281,6 @@
           "role": "Цигани,&nbsp;гуцули"
         },
         {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
@@ -296,6 +290,12 @@
           "has_page": true,
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
           "role": "Цигани,&nbsp;гуцули"
         },
         {
