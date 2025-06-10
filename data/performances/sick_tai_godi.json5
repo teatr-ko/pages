@@ -238,7 +238,14 @@
       "role": "Маски"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
+          "role": "Тома&nbsp;Діафуарус"
+        }
+      ],
       "role": "Тома Діафуарус"
     },
     {
