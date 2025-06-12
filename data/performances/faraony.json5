@@ -102,12 +102,6 @@
           "role": "Грицько"
         },
         {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Грицько"
-        },
-        {
           "has_page": true,
           "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/filimonov/",
@@ -223,12 +217,6 @@
         {
           "has_page": false,
           "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Павлик"
-        },
-        {
-          "has_page": false,
-          "name": "Кінел&nbsp;Степан",
           "page_url": null,
           "role": "Павлик"
         },
