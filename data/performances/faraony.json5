@@ -215,12 +215,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Павлик"
-        },
-        {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
