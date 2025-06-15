@@ -90,35 +90,6 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": "/troupe/laiuk_l/",
-          "role": "Іа-Іа"
-        },
-        {
-          "has_page": true,
-          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/znovytskiy/",
-          "role": "Іа-Іа"
-        },
-        {
-          "has_page": true,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": "/troupe/oliynyk/",
-          "role": "Іа-Іа"
-        },
-        {
-          "has_page": true,
-          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/filimonov/",
-          "role": "Іа-Іа"
-        }
-      ],
-      "role": "Іа-Іа"
-    },
-    {
-      "persons": [
-        {
-          "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
           "page_url": "/troupe/gladyruk_o/",
           "role": "Кролик"
@@ -148,14 +119,37 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Петрик&nbsp;Інна",
-          "page_url": "/troupe/petryk_i/",
-          "role": "П&#8217;ятачок"
+          "name": "Лаюк&nbsp;Любомир",
+          "page_url": "/troupe/laiuk_l/",
+          "role": "Ослик&nbsp;Іа-Іа"
         },
         {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Ослик&nbsp;Іа-Іа"
+        },
+        {
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
+          "role": "Ослик&nbsp;Іа-Іа"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Ослик&nbsp;Іа-Іа"
+        }
+      ],
+      "role": "Ослик Іа-Іа"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
           "role": "П&#8217;ятачок"
         },
         {
@@ -182,12 +176,6 @@
           "role": "Сова"
         },
         {
-          "has_page": false,
-          "name": "Малярчук&nbsp;Любов",
-          "page_url": null,
-          "role": "Сова"
-        },
-        {
           "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
@@ -197,12 +185,6 @@
           "has_page": true,
           "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/huhorska/",
-          "role": "Сова"
-        },
-        {
-          "has_page": true,
-          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/oskrygunec/",
           "role": "Сова"
         }
       ],
