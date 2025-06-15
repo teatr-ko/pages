@@ -76,14 +76,7 @@
   "name": "Вінні-Пух та його&nbsp;друзі",
   "personages": [
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Вінні-Пух"
-        }
-      ],
+      "persons": [],
       "role": "Вінні-Пух"
     },
     {
@@ -137,17 +130,6 @@
         }
       ],
       "role": "Кролик"
-    },
-    {
-      "persons": [
-        {
-          "has_page": true,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": "/troupe/oliynyk/",
-          "role": "Ослик&nbsp;Іа-Іа"
-        }
-      ],
-      "role": "Ослик Іа-Іа"
     },
     {
       "persons": [
