@@ -76,7 +76,14 @@
   "name": "Вінні-Пух та його&nbsp;друзі",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Вінні-Пух"
+        }
+      ],
       "role": "Вінні-Пух"
     },
     {
@@ -91,6 +98,12 @@
           "has_page": true,
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
+          "role": "Іа-Іа"
+        },
+        {
+          "has_page": true,
+          "name": "Олійник&nbsp;Максим",
+          "page_url": "/troupe/oliynyk/",
           "role": "Іа-Іа"
         },
         {
