@@ -1,0 +1,31 @@
+{
+  "_page": {
+    "output": "troupe/layukarsen/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "06.07.06",
+  "full_name": "Лаюк&nbsp;Арсен",
+  "gallery": [
+    {
+      "title": " -&nbsp;Мауглі",
+      "url": "/korg/kol/portals/teatr/troup/img_9281_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/img_9281_gallery.jpg"
+    }
+  ],
+  "grown_roles": [],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/layuk_arsen_index.jpeg",
+    "url_small": "/korg/kol/portals/teatr/troup/layuk_arsen_gallery.jpeg"
+  },
+  "kids_roles": [
+    {
+      "director": "Мельничук&nbsp;Дмитро",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
+      "role": "Батько-вовк",
+      "url": "/performances/mauhli/"
+    }
+  ],
+  "on_the_stage": "06.08.25",
+  "staff": []
+}

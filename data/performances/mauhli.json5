@@ -139,6 +139,24 @@
           "name": "Актори&nbsp;театру",
           "page_url": null,
           "role": "Батько-вовк"
+        },
+        {
+          "has_page": false,
+          "name": "Актори&nbsp;театру",
+          "page_url": null,
+          "role": "Батько-вовк"
+        },
+        {
+          "has_page": false,
+          "name": "Актори&nbsp;театру",
+          "page_url": null,
+          "role": "Батько-вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Арсен",
+          "page_url": "/troupe/layukarsen/",
+          "role": "Батько-вовк"
         }
       ],
       "role": "Батько-вовк"
