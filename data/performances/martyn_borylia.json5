@@ -188,6 +188,12 @@
         },
         {
           "has_page": false,
+          "name": "Актори&nbsp;театру",
+          "page_url": null,
+          "role": "Микола"
+        },
+        {
+          "has_page": false,
           "name": "Глік&nbsp;Богдан",
           "page_url": null,
           "role": "Микола"
@@ -282,6 +288,12 @@
     },
     {
       "persons": [
+        {
+          "has_page": false,
+          "name": "Актори&nbsp;театру",
+          "page_url": null,
+          "role": "Трохим"
+        },
         {
           "has_page": true,
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",

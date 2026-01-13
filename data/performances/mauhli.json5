@@ -133,7 +133,14 @@
       "role": "Балу"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Актори&nbsp;театру",
+          "page_url": null,
+          "role": "Батько-вовк"
+        }
+      ],
       "role": "Батько-вовк"
     },
     {
