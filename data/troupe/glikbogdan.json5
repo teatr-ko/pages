@@ -1,0 +1,24 @@
+{
+  "_page": {
+    "output": "troupe/glikbogdan/index.html",
+    "template": "teatr/trouper"
+  },
+  "addition": "",
+  "date_of_birth": "04.10.96",
+  "full_name": "Глік&nbsp;Богдан",
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/troup/glikbogdan/мартин_боруля_small_ix_crop.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/glikbogdan/мартин_боруля_gallery.jpg"
+    }
+  ],
+  "grown_roles": [],
+  "image": {
+    "url": "/korg/kol/portals/teatr/troup/glikbogdan_index.jpg",
+    "url_small": "/korg/kol/portals/teatr/troup/glikbogdan_gallery.jpg"
+  },
+  "kids_roles": [],
+  "on_the_stage": "27.08.25",
+  "staff": []
+}

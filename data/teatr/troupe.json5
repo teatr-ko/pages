@@ -35,6 +35,17 @@
         "url": "/troupe/gladyruk_o/"
       },
       {
+        "full_name": "Глік&nbsp;Богдан",
+        "has_page": true,
+        "image": {
+          "name": "Глік&nbsp;Богдан",
+          "url": "/korg/kol/portals/teatr/troup/glikbogdan_index.jpg"
+        },
+        "url": "/troupe/glikbogdan/"
+      }
+    ],
+    [
+      {
         "full_name": "Глушко&nbsp;Вячеслав",
         "has_page": true,
         "image": {
@@ -42,9 +53,7 @@
           "url": "/korg/kol/portals/teatr/troup/glushko/glushko_main_fh_gal_ix.jpg"
         },
         "url": "/troupe/glushko/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Катеринчук&nbsp;Марія",
         "has_page": true,
@@ -53,7 +62,9 @@
           "url": "/korg/kol/portals/teatr/troup/mkaterynchuk/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/mkaterynchuk/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
         "has_page": true,
@@ -62,9 +73,7 @@
           "url": "/korg/kol/portals/teatr/troup/nkomarova/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/nkomarova/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
         "has_page": true,
@@ -73,7 +82,9 @@
           "url": "/korg/kol/portals/teatr/troup/okurko/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/okurko/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Лаюк&nbsp;Арсен",
         "has_page": true,
@@ -82,9 +93,7 @@
           "url": "/korg/kol/portals/teatr/troup/layuk_arsen_index.jpeg"
         },
         "url": "/troupe/layukarsen/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Лаюк&nbsp;Любомир",
         "has_page": true,
@@ -93,6 +102,17 @@
           "url": "/korg/kol/portals/teatr/troup/laiuk_l/lajiuk__gal_ix.jpg"
         },
         "url": "/troupe/laiuk_l/"
+      }
+    ],
+    [
+      {
+        "full_name": "Лисенко&nbsp;Анна",
+        "has_page": true,
+        "image": {
+          "name": "Лисенко&nbsp;Анна",
+          "url": "/korg/kol/portals/teatr/troup/img_5563_index.jpeg"
+        },
+        "url": "/troupe/annalysenko/"
       },
       {
         "full_name": "Максимчук&nbsp;Іван",
