@@ -4,11 +4,12 @@
     "template": "teatr/trouper"
   },
   "addition": "",
+  "date_of_birth": "30.01.01",
   "full_name": "Лисенко&nbsp;Анна",
   "gallery": [],
   "grown_roles": [],
   "image": {
-    "url": "/korg/kol/portals/teatr/troup/img_5563_index.jpeg",
+    "url": "/korg/kol/portals/teatr/troup/img_5563_small_index.jpeg",
     "url_small": "/korg/kol/portals/teatr/troup/img_5563_gallery.jpeg"
   },
   "kids_roles": [],
