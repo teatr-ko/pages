@@ -269,6 +269,12 @@
     {
       "persons": [
         {
+          "has_page": false,
+          "name": "Актори&nbsp;театру",
+          "page_url": null,
+          "role": "Цигани, весільні&nbsp;гості"
+        },
+        {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
@@ -278,6 +284,12 @@
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
+          "role": "Цигани, весільні&nbsp;гості"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
           "role": "Цигани, весільні&nbsp;гості"
         },
         {

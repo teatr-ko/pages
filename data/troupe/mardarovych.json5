@@ -6,13 +6,26 @@
   "addition": "",
   "date_of_birth": "08.10.93",
   "full_name": "Мардарович&nbsp;Соломія",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": " - По щучому&nbsp;велінню",
+      "url": "/korg/kol/portals/teatr/troup/mardarovych/photo_2026-01-23_22-35-10_small_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/mardarovych/photo_2026-01-23_22-35-10_gallery.jpg"
+    }
+  ],
   "grown_roles": [],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/012_net_small_index.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/012_net_gallery.jpg"
   },
-  "kids_roles": [],
+  "kids_roles": [
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>По щучому велінню&#8221;&nbsp;М.Кропивницький",
+      "role": "Цигани, весільні&nbsp;гості",
+      "url": "/performances/po_shchuchomy/"
+    }
+  ],
   "on_the_stage": "23.09.25",
   "staff": []
 }
