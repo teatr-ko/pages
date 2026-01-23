@@ -205,6 +205,18 @@
           "role": "Микола"
         },
         {
+          "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Микола"
+        },
+        {
+          "has_page": false,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": null,
+          "role": "Микола"
+        },
+        {
           "has_page": false,
           "name": "Глік&nbsp;Богдан",
           "page_url": null,
@@ -302,9 +314,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Лаюк&nbsp;Любомир",
-          "page_url": "/troupe/laiuk_l/",
+          "page_url": null,
           "role": "Трандалєв"
         },
         {

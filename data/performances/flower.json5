@@ -23,9 +23,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Лаюк&nbsp;Любомир",
-          "page_url": "/troupe/laiuk_l/",
+          "page_url": null,
           "role": "Бернард Шустер (Слава&nbsp;Шустрік)"
         },
         {
