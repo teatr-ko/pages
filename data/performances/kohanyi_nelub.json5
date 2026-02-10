@@ -191,6 +191,12 @@
       "persons": [
         {
           "has_page": false,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": null,
+          "role": "Шумицький"
+        },
+        {
+          "has_page": false,
           "name": "Іванченко&nbsp;Владислав",
           "page_url": null,
           "role": "Шумицький"
