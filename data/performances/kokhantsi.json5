@@ -231,9 +231,9 @@
           "role": "САНТА&nbsp;КЛАУС"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Олійник&nbsp;Максим",
-          "page_url": "/troupe/oliynyk/",
+          "page_url": null,
           "role": "САНТА&nbsp;КЛАУС"
         },
         {

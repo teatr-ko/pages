@@ -153,9 +153,9 @@
     {
       "persons": [
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Гладирук&nbsp;Оксана",
-          "page_url": "/troupe/gladyruk_o/",
+          "page_url": null,
           "role": "Голубка"
         },
         {
@@ -216,9 +216,9 @@
           "role": "Пінгвін&nbsp;3-й"
         },
         {
-          "has_page": true,
+          "has_page": false,
           "name": "Олійник&nbsp;Максим",
-          "page_url": "/troupe/oliynyk/",
+          "page_url": null,
           "role": "Пінгвін&nbsp;3-й"
         }
       ],
