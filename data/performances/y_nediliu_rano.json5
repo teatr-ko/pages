@@ -276,6 +276,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
+          "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Цигани,&nbsp;гуцули"

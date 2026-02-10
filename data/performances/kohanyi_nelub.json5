@@ -196,6 +196,12 @@
           "role": "Шумицький"
         },
         {
+          "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Шумицький"
+        },
+        {
           "has_page": false,
           "name": "Іванченко&nbsp;Владислав",
           "page_url": null,

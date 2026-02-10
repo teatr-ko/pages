@@ -16,16 +16,41 @@
   "grown_roles": [
     {
       "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>Коханий нелюб&#8221;&nbsp;Я.Стельмах",
+      "role": "Шумицький",
+      "url": "/performances/kohanyi_nelub/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Мартин Боруля&#8221; Іван&nbsp;Карпенко-Карий",
       "role": "Микола",
       "url": "/performances/martyn_borylia/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>Рятуйте, мене женять!&#8221; за п&#8217;єсою Франца&nbsp;Крьоца",
+      "role": "Петер&nbsp;Віммер",
+      "url": "/performances/resque_me/"
+    },
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>У неділю рано зілля копала&#8221; за твором Ольги&nbsp;Кобилянської",
+      "role": "Цигани,&nbsp;гуцули",
+      "url": "/performances/y_nediliu_rano/"
     }
   ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/glikbogdan__gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/glikbogdan_gallery.jpg"
   },
-  "kids_roles": [],
+  "kids_roles": [
+    {
+      "director": "Мельничук&nbsp;Дмитро",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
+      "role": "Табакі",
+      "url": "/performances/mauhli/"
+    }
+  ],
   "on_the_stage": "27.08.25",
   "staff": []
 }

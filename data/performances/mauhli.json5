@@ -303,6 +303,12 @@
     {
       "persons": [
         {
+          "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Табакі"
+        },
+        {
           "has_page": false,
           "name": "Олійник&nbsp;Максим",
           "page_url": null,

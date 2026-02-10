@@ -150,6 +150,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Петер&nbsp;Віммер"
+        },
+        {
+          "has_page": true,
           "name": "Новосад&nbsp;Дмитро",
           "page_url": "/troupe/novosad_d/",
           "role": "Петер&nbsp;Віммер"
