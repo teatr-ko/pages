@@ -205,27 +205,27 @@
           "role": "Микола"
         },
         {
+          "has_page": false,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": null,
+          "role": "Микола"
+        },
+        {
+          "has_page": false,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": null,
+          "role": "Микола"
+        },
+        {
+          "has_page": false,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": null,
+          "role": "Микола"
+        },
+        {
           "has_page": true,
           "name": "Глік&nbsp;Богдан",
           "page_url": "/troupe/glikbogdan/",
-          "role": "Микола"
-        },
-        {
-          "has_page": false,
-          "name": "Глік&nbsp;Богдан",
-          "page_url": null,
-          "role": "Микола"
-        },
-        {
-          "has_page": false,
-          "name": "Глік&nbsp;Богдан",
-          "page_url": null,
-          "role": "Микола"
-        },
-        {
-          "has_page": false,
-          "name": "Глік&nbsp;Богдан",
-          "page_url": null,
           "role": "Микола"
         },
         {
@@ -340,6 +340,12 @@
           "has_page": false,
           "name": "Актори&nbsp;театру",
           "page_url": null,
+          "role": "Трохим"
+        },
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Арсен",
+          "page_url": "/troupe/layukarsen/",
           "role": "Трохим"
         },
         {

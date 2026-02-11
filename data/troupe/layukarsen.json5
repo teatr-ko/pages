@@ -8,12 +8,28 @@
   "full_name": "Лаюк&nbsp;Арсен",
   "gallery": [
     {
+      "title": " - Мартин&nbsp;Боруля",
+      "url": "/korg/kol/portals/teatr/troup/layukarsen/img_9286_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/layukarsen/img_9286_gallery.jpg"
+    },
+    {
       "title": " -&nbsp;Мауглі",
       "url": "/korg/kol/portals/teatr/troup/img_9281_index.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/img_9281_gallery.jpg"
+    },
+    {
+      "title": " - Тричі мені являлася любов…  (&#8220;Таїна&nbsp;буття&#8221;)",
+      "url": "/korg/kol/portals/teatr/troup/layukarsen/img_9285_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/layukarsen/img_9285_gallery.jpg"
     }
   ],
   "grown_roles": [
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>Мартин Боруля&#8221; Іван&nbsp;Карпенко-Карий",
+      "role": "Трохим",
+      "url": "/performances/martyn_borylia/"
+    },
     {
       "director": "Кузик&nbsp;Сергій",
       "performance": "<span class=\"dquo\">&#8220;</span>Тричі мені являлася любов…  (&#8220;Таїна буття&#8221;)&#8221; Тетяна&nbsp;Іващенко",
