@@ -13,7 +13,14 @@
       "url_small": "/korg/kol/portals/teatr/troup/img_9281_gallery.jpg"
     }
   ],
-  "grown_roles": [],
+  "grown_roles": [
+    {
+      "director": "Кузик&nbsp;Сергій",
+      "performance": "<span class=\"dquo\">&#8220;</span>Тричі мені являлася любов…  (&#8220;Таїна буття&#8221;)&#8221; Тетяна&nbsp;Іващенко",
+      "role": "Голос&nbsp;восьмий",
+      "url": "/performances/lubov/"
+    }
+  ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/layuk_arsen__gal_ix.jpeg",
     "url_small": "/korg/kol/portals/teatr/troup/layuk_arsen_gallery.jpeg"

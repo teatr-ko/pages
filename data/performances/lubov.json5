@@ -182,7 +182,14 @@
       "role": "Ворожбит"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Арсен",
+          "page_url": "/troupe/layukarsen/",
+          "role": "Голос&nbsp;восьмий"
+        }
+      ],
       "role": "Голос восьмий"
     },
     {
