@@ -8,12 +8,23 @@
   "full_name": "Глік&nbsp;Богдан",
   "gallery": [
     {
+      "title": " - Кайдашева&nbsp;сім’я",
+      "url": "/korg/kol/portals/teatr/troup/glikbogdan/20251012_180415_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/glikbogdan/20251012_180415_gallery.jpg"
+    },
+    {
       "title": " - Мартин&nbsp;Боруля",
       "url": "/korg/kol/portals/teatr/troup/glikbogdan/мартин_боруля_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/glikbogdan/мартин_боруля_gallery.jpg"
     }
   ],
   "grown_roles": [
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>Кайдашева сім’я&#8221; Іван&nbsp;Нечуй-Левицький",
+      "role": "Масові&nbsp;сцени",
+      "url": "/performances/simya/"
+    },
     {
       "director": "Мосійчук&nbsp;Олег",
       "performance": "<span class=\"dquo\">&#8220;</span>Коханий нелюб&#8221;&nbsp;Я.Стельмах",

@@ -212,6 +212,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Масові&nbsp;сцени"
+        },
+        {
+          "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Масові&nbsp;сцени"
