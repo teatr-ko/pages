@@ -177,6 +177,12 @@
         },
         {
           "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "Вовки"
+        },
+        {
+          "has_page": true,
           "name": "Новосад&nbsp;Дмитро",
           "page_url": "/troupe/novosad_d/",
           "role": "Вовки"
