@@ -135,6 +135,17 @@
         "url": "/troupe/lmotsok/"
       },
       {
+        "full_name": "Никируй&nbsp;Олег",
+        "has_page": true,
+        "image": {
+          "name": "Никируй&nbsp;Олег",
+          "url": "/korg/kol/portals/teatr/troup/dsc_7696_cr_gal_ix.jpg"
+        },
+        "url": "/troupe/nikirujoleg/"
+      }
+    ],
+    [
+      {
         "full_name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
         "has_page": true,
         "image": {
@@ -142,9 +153,7 @@
           "url": "/korg/kol/portals/teatr/troup/znovytskiy/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/znovytskiy/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Новосад&nbsp;Дмитро",
         "has_page": true,
@@ -153,7 +162,9 @@
           "url": "/korg/kol/portals/teatr/troup/novosad_d/novosad__gal_ix.jpg"
         },
         "url": "/troupe/novosad_d/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Первун&nbsp;Світлана",
         "has_page": true,
@@ -162,9 +173,7 @@
           "url": "/korg/kol/portals/teatr/troup/spervun/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/spervun/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Петрик&nbsp;Інна",
         "has_page": true,
@@ -173,7 +182,9 @@
           "url": "/korg/kol/portals/teatr/troup/petryk_i/petryk__gal_ix.jpg"
         },
         "url": "/troupe/petryk_i/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Сагалюк&nbsp;Катерина",
         "has_page": true,
@@ -182,9 +193,7 @@
           "url": "/korg/kol/portals/teatr/troup/novyckak/novycka_main_fh_gal_ix.jpg"
         },
         "url": "/troupe/novyckak/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
         "has_page": true,
@@ -193,7 +202,9 @@
           "url": "/korg/kol/portals/teatr/troup/huhorska/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/huhorska/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Феняк&nbsp;Вікторія",
         "has_page": true,
@@ -202,9 +213,7 @@
           "url": "/korg/kol/portals/teatr/troup/вікторія_феняк_fh_gal_ix.jpg"
         },
         "url": "/troupe/185/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
         "has_page": true,
@@ -213,7 +222,9 @@
           "url": "/korg/kol/portals/teatr/troup/filimonov/main__gal_ix.jpg"
         },
         "url": "/troupe/filimonov/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
         "has_page": true,
@@ -222,9 +233,7 @@
           "url": "/korg/kol/portals/teatr/troup/oskrygunec/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/oskrygunec/"
-      }
-    ],
-    [
+      },
       {
         "full_name": "Чиборак&nbsp;Уляна",
         "has_page": true,
@@ -233,7 +242,9 @@
           "url": "/korg/kol/portals/teatr/troup/uchuborak/main_fh_gal_ix.jpg"
         },
         "url": "/troupe/uchuborak/"
-      },
+      }
+    ],
+    [
       {
         "full_name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
         "has_page": true,
@@ -242,7 +253,8 @@
           "url": "/korg/kol/portals/teatr/troup/ohnatiuk/iacubiv_main_1__gal_ix.jpg"
         },
         "url": "/troupe/ohnatiuk/"
-      }
+      },
+      null
     ]
   ]
 }
