@@ -88,6 +88,12 @@
           "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/filimonov/",
           "role": "Акела,&nbsp;Каа"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Акела,&nbsp;Каа"
         }
       ],
       "role": "Акела, Каа"
@@ -107,20 +113,14 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/bbazylevych/",
-          "role": "Балу"
-        },
-        {
-          "has_page": true,
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
           "role": "Балу"
         },
         {
           "has_page": true,
-          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/filimonov/",
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
           "role": "Балу"
         }
       ],
@@ -128,24 +128,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Актори&nbsp;театру",
-          "page_url": null,
-          "role": "Батько-вовк"
-        },
-        {
-          "has_page": false,
-          "name": "Актори&nbsp;театру",
-          "page_url": null,
-          "role": "Батько-вовк"
-        },
-        {
-          "has_page": false,
-          "name": "Актори&nbsp;театру",
-          "page_url": null,
-          "role": "Батько-вовк"
-        },
         {
           "has_page": true,
           "name": "Лаюк&nbsp;Арсен",
