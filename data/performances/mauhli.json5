@@ -95,12 +95,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Багіра"
-        },
-        {
           "has_page": true,
           "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/oskrygunec/",
@@ -200,18 +194,6 @@
           "role": "Вовки"
         },
         {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Вовки"
-        },
-        {
-          "has_page": true,
-          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
-          "page_url": "/troupe/oskrygunec/",
-          "role": "Вовки"
-        },
-        {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
@@ -286,12 +268,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Ракша"
-        },
-        {
           "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
           "page_url": "/troupe/novyckak/",
@@ -313,12 +289,6 @@
           "name": "Глік&nbsp;Богдан",
           "page_url": "/troupe/glikbogdan/",
           "role": "Табакі"
-        },
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "Табакі"
         }
       ],
       "role": "Табакі"
@@ -329,12 +299,6 @@
           "has_page": true,
           "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
-          "role": "Шер-Хан"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
           "role": "Шер-Хан"
         }
       ],
