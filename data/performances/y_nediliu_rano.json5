@@ -305,6 +305,12 @@
           "role": "Цигани,&nbsp;гуцули"
         },
         {
+          "has_page": true,
+          "name": "Никируй&nbsp;Олег",
+          "page_url": "/troupe/nykyrujoleg/",
+          "role": "Цигани,&nbsp;гуцули"
+        },
+        {
           "has_page": false,
           "name": "Олійник&nbsp;Максим",
           "page_url": null,

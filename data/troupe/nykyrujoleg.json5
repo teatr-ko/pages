@@ -6,8 +6,21 @@
   "addition": "",
   "date_of_birth": "17.04.94",
   "full_name": "Никируй&nbsp;Олег",
-  "gallery": [],
-  "grown_roles": [],
+  "gallery": [
+    {
+      "title": " - У неділю рано зілля&nbsp;копала",
+      "url": "/korg/kol/portals/teatr/troup/nykyrujoleg/img_8150_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/nykyrujoleg/img_8150_gallery.jpg"
+    }
+  ],
+  "grown_roles": [
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>У неділю рано зілля копала&#8221; за твором Ольги&nbsp;Кобилянської",
+      "role": "Цигани,&nbsp;гуцули",
+      "url": "/performances/y_nediliu_rano/"
+    }
+  ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/dsc_7696_small_ix_crop.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/dsc_7696_gallery.jpg"
