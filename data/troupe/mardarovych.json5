@@ -16,9 +16,21 @@
       "title": " - По щучому&nbsp;велінню",
       "url": "/korg/kol/portals/teatr/troup/mardarovych/photo_2026-01-23_22-35-10_small_index.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/mardarovych/photo_2026-01-23_22-35-10_gallery.jpg"
+    },
+    {
+      "title": " - У неділю рано зілля&nbsp;копала",
+      "url": "/korg/kol/portals/teatr/troup/mardarovych/img_9164_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/mardarovych/img_9164_gallery.jpg"
     }
   ],
-  "grown_roles": [],
+  "grown_roles": [
+    {
+      "director": "Мосійчук&nbsp;Олег",
+      "performance": "<span class=\"dquo\">&#8220;</span>У неділю рано зілля копала&#8221; за твором Ольги&nbsp;Кобилянської",
+      "role": "Цигани,&nbsp;гуцули",
+      "url": "/performances/y_nediliu_rano/"
+    }
+  ],
   "image": {
     "url": "/korg/kol/portals/teatr/troup/012_net__gal_ix.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/012_net_gallery.jpg"
