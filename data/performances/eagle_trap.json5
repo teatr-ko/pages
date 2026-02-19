@@ -51,12 +51,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Двоглавий&nbsp;Орел"
-        },
-        {
           "has_page": true,
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
