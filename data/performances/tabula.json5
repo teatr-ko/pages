@@ -113,7 +113,14 @@
       "role": "МОЛОДА КАТЕРИНА"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "МОЛОДШИЙ ЛІКАР&nbsp;ФІНЛЕЙ"
+        }
+      ],
       "role": "МОЛОДШИЙ ЛІКАР ФІНЛЕЙ"
     },
     {
@@ -130,9 +137,57 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Актори&nbsp;театру",
-          "page_url": null,
+          "has_page": true,
+          "name": "Лаюк&nbsp;Арсен",
+          "page_url": "/troupe/layukarsen/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Никируй&nbsp;Олег",
+          "page_url": "/troupe/nykyrujoleg/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
           "role": "ПАЦІЄНТИ В ПСИХЛІКАРНІ, ПАСАЖИРИ НА КОРАБЛІ, ЖІНКИ ПОВИТУХИ,&nbsp;СЕЛЯНИ"
         }
       ],
