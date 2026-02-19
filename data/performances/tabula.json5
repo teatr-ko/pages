@@ -79,17 +79,6 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
-          "role": "ЛІКАР&nbsp;ФІНЛЕЙ"
-        }
-      ],
-      "role": "ЛІКАР ФІНЛЕЙ"
-    },
-    {
-      "persons": [
-        {
-          "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "МАМА, СЕСТРА&nbsp;ГАББІ"
@@ -98,14 +87,7 @@
       "role": "МАМА, СЕСТРА ГАББІ"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "МАСОВІ&nbsp;СЦЕНИ"
-        }
-      ],
+      "persons": [],
       "role": "МАСОВІ СЦЕНИ"
     },
     {
@@ -129,6 +111,10 @@
         }
       ],
       "role": "МОЛОДА КАТЕРИНА"
+    },
+    {
+      "persons": [],
+      "role": "МОЛОДШИЙ ЛІКАР ФІНЛЕЙ"
     },
     {
       "persons": [
@@ -184,6 +170,17 @@
         }
       ],
       "role": "СТАРША КАТЕРИНА"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "СТАРШИЙ ЛІКАР&nbsp;ФІНЛЕЙ"
+        }
+      ],
+      "role": "СТАРШИЙ ЛІКАР ФІНЛЕЙ"
     },
     {
       "persons": [
