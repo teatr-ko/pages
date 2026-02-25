@@ -103,20 +103,7 @@
       "role": "Миша"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Сорока"
-        },
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Сорока"
-        }
-      ],
+      "persons": [],
       "role": "Сорока"
     }
   ],
