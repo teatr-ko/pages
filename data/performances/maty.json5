@@ -88,21 +88,9 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Берегиня"
-        },
-        {
           "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
-          "role": "Берегиня"
-        },
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
           "role": "Берегиня"
         },
         {
@@ -172,14 +160,7 @@
       "role": "Лукія"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "Марко"
-        }
-      ],
+      "persons": [],
       "role": "Марко"
     },
     {
