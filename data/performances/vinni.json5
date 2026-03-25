@@ -89,12 +89,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Кролик"
-        },
-        {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
@@ -127,12 +121,6 @@
           "has_page": true,
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
-          "role": "Ослик&nbsp;Іа-Іа"
-        },
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
           "role": "Ослик&nbsp;Іа-Іа"
         },
         {
@@ -169,12 +157,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Сова"
-        },
         {
           "has_page": true,
           "name": "Первун&nbsp;Світлана",
