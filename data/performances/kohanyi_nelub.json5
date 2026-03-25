@@ -125,6 +125,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Оляна"
+        },
+        {
+          "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
           "role": "Оляна"
@@ -158,12 +164,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
-          "role": "Перший&nbsp;слуга"
-        },
-        {
           "has_page": true,
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
@@ -173,14 +173,7 @@
       "role": "Перший слуга"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "Слуга"
-        }
-      ],
+      "persons": [],
       "role": "Слуга"
     },
     {
@@ -192,24 +185,6 @@
         {
           "has_page": false,
           "name": "Глік&nbsp;Богдан",
-          "page_url": null,
-          "role": "Шумицький"
-        },
-        {
-          "has_page": true,
-          "name": "Глік&nbsp;Богдан",
-          "page_url": "/troupe/glikbogdan/",
-          "role": "Шумицький"
-        },
-        {
-          "has_page": false,
-          "name": "Глік&nbsp;Богдан",
-          "page_url": null,
-          "role": "Шумицький"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
           "page_url": null,
           "role": "Шумицький"
         },
