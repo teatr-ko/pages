@@ -24,6 +24,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "АНТОНЧИК"
+        },
+        {
+          "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
           "role": "АНТОНЧИК"

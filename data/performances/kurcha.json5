@@ -60,6 +60,12 @@
         },
         {
           "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Вовк"
+        },
+        {
+          "has_page": true,
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Вовк"
@@ -73,6 +79,12 @@
           "has_page": true,
           "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
+          "role": "Курча"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
           "role": "Курча"
         },
         {
@@ -92,12 +104,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Лисиця"
-        },
         {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
