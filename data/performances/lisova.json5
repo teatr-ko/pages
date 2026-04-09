@@ -1,0 +1,91 @@
+{
+  "_page": {
+    "output": "performances/lisova/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "<p align=\"center\"><span style=\"font-size: medium; font-family: 'book antiqua', palatino;\">Кохання, яке не визнає меж. Вибір, за який доводиться платити.</span></p>\r\n<p align=\"center\"><span style=\"font-size: medium; font-family: 'book antiqua', palatino;\">Тут шелест листя звучить гучніше за слова.</span></p>\r\n<p align=\"center\"><span style=\"font-size: medium; font-family: 'book antiqua', palatino;\">Тут тиша наповнена змістом.</span></p>\r\n<p align=\"center\"><span style=\"font-size: medium; font-family: 'book antiqua', palatino;\">Тут внутрішній голос не дозволяє брехати.</span></p>\r\n<p align=\"center\"><span style=\"font-size: medium; font-family: 'book antiqua', palatino;\">Ми запрошуємо вас у простір, де стирається границя між людиною і природою, де почуття оголюються до болю, а краса стає небезпечною.</span></p>\r\n<p><span style=\"font-size: medium; font-family: 'book antiqua', palatino;\">Історія Мавки і Лукаша &mdash; вічне нагадування про ціну серця, яке обирає не себе.</span></p>",
+  "additional_director_info": "",
+  "author": "Леся Українка",
+  "director": "Мосійчук&nbsp;Олег",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "містерія&nbsp;кохання",
+  "name": "Лісова&nbsp;пісня",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Дядько Лев"
+    },
+    {
+      "persons": [],
+      "role": "Килина"
+    },
+    {
+      "persons": [],
+      "role": "Лісовик"
+    },
+    {
+      "persons": [],
+      "role": "Лукаш"
+    },
+    {
+      "persons": [],
+      "role": "Мавка"
+    },
+    {
+      "persons": [],
+      "role": "Мара"
+    },
+    {
+      "persons": [],
+      "role": "Мати Лукаша"
+    },
+    {
+      "persons": [],
+      "role": "Перелесник"
+    },
+    {
+      "persons": [],
+      "role": "Потерчата, злидні, перелесники"
+    },
+    {
+      "persons": [],
+      "role": "Русалка водяна"
+    },
+    {
+      "persons": [],
+      "role": "Русалка польова"
+    },
+    {
+      "persons": [],
+      "role": "Той, що в скалі сидить"
+    },
+    {
+      "persons": [],
+      "role": "Той, що греблі рве"
+    }
+  ],
+  "premiere": "05.04.2026",
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/huhorska/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
+}
