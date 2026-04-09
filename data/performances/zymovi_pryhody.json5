@@ -91,14 +91,7 @@
   "name": "Зимові&nbsp;пригоди",
   "personages": [
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "Гном"
-        }
-      ],
+      "persons": [],
       "role": "Гном"
     },
     {
@@ -131,12 +124,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Снігова Королева,&nbsp;Сніговик"
-        },
         {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
