@@ -61,14 +61,7 @@
       "role": "АНГЕЛ"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "ГНОМ"
-        }
-      ],
+      "persons": [],
       "role": "ГНОМ"
     },
     {
