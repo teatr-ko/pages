@@ -402,7 +402,10 @@
     ],
     [
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/lisova/правильна_index.jpg"
+        },
         "name": "Лісова&nbsp;пісня",
         "url": "/performances/lisova/"
       },
