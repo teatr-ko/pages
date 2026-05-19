@@ -6,7 +6,13 @@
   "addition": "",
   "date_of_birth": "23.04.96",
   "full_name": "Петрик&nbsp;Інна",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/troup/petryk_i/zp1_7233_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/petryk_i/zp1_7233_gallery.jpg"
+    }
+  ],
   "grown_roles": [
     {
       "director": "Скрипка&nbsp;Людмила&nbsp;н.а.&nbsp;України",
