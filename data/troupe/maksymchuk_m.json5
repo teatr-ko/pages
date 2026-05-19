@@ -6,7 +6,13 @@
   "addition": "",
   "date_of_birth": "23.08.66",
   "full_name": "Максимчук&nbsp;Іван",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/troup/maksymchuk_m/zp1_6810_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/maksymchuk_m/zp1_6810_gallery.jpg"
+    }
+  ],
   "grown_roles": [
     {
       "director": "Скрипка&nbsp;Людмила&nbsp;н.а.&nbsp;України",
