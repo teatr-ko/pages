@@ -275,9 +275,9 @@
     {
       "persons": [
         {
-          "has_page": false,
+          "has_page": true,
           "name": "Глік&nbsp;Богдан",
-          "page_url": null,
+          "page_url": "/troupe/glikbogdan/",
           "role": "Той, що греблі&nbsp;рве"
         },
         {
