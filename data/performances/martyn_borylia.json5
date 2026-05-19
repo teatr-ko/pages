@@ -132,7 +132,14 @@
       "role": "Матвій Дульський"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Микола"
+        }
+      ],
       "role": "Микола"
     },
     {
@@ -181,7 +188,32 @@
       "role": "Палажка"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Служанки"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "Служанки"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Служанки"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Служанки"
+        }
+      ],
       "role": "Служанки"
     },
     {
