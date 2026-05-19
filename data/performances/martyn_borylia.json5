@@ -79,8 +79,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Максимчук&nbsp;Іван",
-          "page_url": "/troupe/maksymchuk_m/",
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
           "role": "Гервасій&nbsp;Гуляницький"
         }
       ],
@@ -110,6 +110,12 @@
           "name": "Гелецький&nbsp;Володимир",
           "page_url": "/troupe/vheletskyi/",
           "role": "Мартин&nbsp;Боруля"
+        },
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Мартин&nbsp;Боруля"
         }
       ],
       "role": "Мартин Боруля"
@@ -118,8 +124,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/rmardariy/",
+          "name": "Никируй&nbsp;Олег",
+          "page_url": "/troupe/nykyrujoleg/",
           "role": "Матвій&nbsp;Дульський"
         }
       ],
@@ -192,9 +198,9 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
           "role": "Трандалєв"
         }
       ],
@@ -206,12 +212,6 @@
           "has_page": true,
           "name": "Лаюк&nbsp;Арсен",
           "page_url": "/troupe/layukarsen/",
-          "role": "Трохим"
-        },
-        {
-          "has_page": true,
-          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
-          "page_url": "/troupe/znovytskiy/",
           "role": "Трохим"
         }
       ],
