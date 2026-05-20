@@ -93,14 +93,7 @@
       "role": "ЕЛЬФ"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
-          "role": "НУЛИК"
-        }
-      ],
+      "persons": [],
       "role": "НУЛИК"
     },
     {
@@ -195,14 +188,7 @@
       "role": "СНІГОВА КОРОЛЕВА"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
-          "role": "СНІГОВИК"
-        }
-      ],
+      "persons": [],
       "role": "СНІГОВИК"
     },
     {
