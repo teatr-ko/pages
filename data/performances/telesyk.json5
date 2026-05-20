@@ -169,11 +169,25 @@
       "role": "Забудько"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Зміючка"
+        }
+      ],
       "role": "Зміючка"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Івасик&nbsp;Телесик"
+        }
+      ],
       "role": "Івасик Телесик"
     },
     {
