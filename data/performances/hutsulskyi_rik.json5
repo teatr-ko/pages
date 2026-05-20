@@ -155,12 +155,6 @@
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Василь"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Василь"
         }
       ],
       "role": "Василь"
@@ -200,12 +194,6 @@
           "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/znovytskiy/",
           "role": "Дячок"
-        },
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "Дячок"
         }
       ],
       "role": "Дячок"
@@ -239,14 +227,7 @@
       "role": "Марцінко"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Микула"
-        }
-      ],
+      "persons": [],
       "role": "Микула"
     },
     {
