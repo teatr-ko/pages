@@ -48,6 +48,20 @@
     "url": "/korg/kol/portals/teatr/troup/dsc_7696_small_ix_crop.jpg",
     "url_small": "/korg/kol/portals/teatr/troup/dsc_7696_gallery.jpg"
   },
-  "kids_roles": [],
-  "staff": []
+  "kids_roles": [
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дармоїди&#8221; В.&nbsp;Селезінка",
+      "role": "Теркатий",
+      "url": "/performances/darmoid/"
+    }
+  ],
+  "staff": [
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дармоїди&#8221; В.&nbsp;Селезінка",
+      "role": "Художник по&nbsp;костюмах",
+      "url": "/performances/darmoid/"
+    }
+  ]
 }

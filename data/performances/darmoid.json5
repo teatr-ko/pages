@@ -21,34 +21,222 @@
   "name": "Дармоїди",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Батько&nbsp;Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Батько&nbsp;Вовк"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Батько&nbsp;Вовк"
+        }
+      ],
       "role": "Батько Вовк"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "Боса"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Боса"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Боса"
+        }
+      ],
       "role": "Боса"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Дідо"
+        },
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Дідо"
+        },
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Дідо"
+        }
+      ],
       "role": "Дідо"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "Колоски"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Колоски"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Колоски"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Колоски"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Колоски"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Колоски"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Колоски"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Колоски"
+        }
+      ],
       "role": "Колоски"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Мала"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Мала"
+        },
+        {
+          "has_page": true,
+          "name": "Чиборак&nbsp;Уляна",
+          "page_url": "/troupe/uchuborak/",
+          "role": "Мала"
+        }
+      ],
       "role": "Мала"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": false,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": null,
+          "role": "Сірий"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Сірий"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Сірий"
+        }
+      ],
       "role": "Сірий"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Арсен",
+          "page_url": "/troupe/layukarsen/",
+          "role": "Теркатий"
+        },
+        {
+          "has_page": true,
+          "name": "Никируй&nbsp;Олег",
+          "page_url": "/troupe/nykyrujoleg/",
+          "role": "Теркатий"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Теркатий"
+        }
+      ],
       "role": "Теркатий"
     }
   ],
   "premiere": "31.05.2026",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Николайчук&nbsp;Іван",
+      "page_url": null,
+      "role": "Музичне&nbsp;оформлення"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Никируй&nbsp;Олег",
+      "page_url": "/troupe/nykyrujoleg/",
+      "role": "Художник по&nbsp;костюмах"
+    },
+    {
+      "has_page": true,
+      "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+      "page_url": "/troupe/rmardariy/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

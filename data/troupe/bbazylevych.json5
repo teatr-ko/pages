@@ -657,6 +657,12 @@
     },
     {
       "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дармоїди&#8221; В.&nbsp;Селезінка",
+      "role": "Дідо",
+      "url": "/performances/darmoid/"
+    },
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
       "performance": "<span class=\"dquo\">&#8220;</span>Дивовижні подарунки&#8221; Богдан&nbsp;Базилевич",
       "role": "САНТА&nbsp;КЛАУС, ГУДВІН, АЛХІМІК, ПІРАТ",
       "url": "/performances/gifts/"
@@ -742,6 +748,12 @@
   ],
   "on_the_stage": "02.02.04",
   "staff": [
+    {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дармоїди&#8221; В.&nbsp;Селезінка",
+      "role": "Режисер-постановник",
+      "url": "/performances/darmoid/"
+    },
     {
       "director": "Мартищук&nbsp;Володимир",
       "performance": "<span class=\"dquo\">&#8220;</span>Дармоїди&#8221; Василь&nbsp;Селезінка",

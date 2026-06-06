@@ -60,6 +60,12 @@
   },
   "kids_roles": [
     {
+      "director": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+      "performance": "<span class=\"dquo\">&#8220;</span>Дармоїди&#8221; В.&nbsp;Селезінка",
+      "role": "Теркатий",
+      "url": "/performances/darmoid/"
+    },
+    {
       "director": "Мельничук&nbsp;Дмитро",
       "performance": "<span class=\"dquo\">&#8220;</span>Мауглі&#8221; Д.Мельничук (за мотивами&nbsp;Р.Кіплінга)",
       "role": "Батько-вовк",
