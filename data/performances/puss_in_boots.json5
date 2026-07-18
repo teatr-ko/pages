@@ -51,21 +51,28 @@
   "name": "Кіт у&nbsp;чоботях",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Жак&nbsp;Простак"
+        }
+      ],
       "role": "Жак Простак"
     },
     {
       "persons": [
         {
           "has_page": true,
-          "name": "Глушко&nbsp;Вячеслав",
-          "page_url": "/troupe/glushko/",
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
           "role": "Кіт у&nbsp;Чоботях"
         },
         {
           "has_page": true,
-          "name": "Петрик&nbsp;Інна",
-          "page_url": "/troupe/petryk_i/",
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
           "role": "Кіт у&nbsp;Чоботях"
         }
       ],
@@ -105,12 +112,6 @@
           "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
           "page_url": "/troupe/novyckak/",
-          "role": "Принцеса"
-        },
-        {
-          "has_page": true,
-          "name": "Феняк&nbsp;Вікторія",
-          "page_url": "/troupe/185/",
           "role": "Принцеса"
         },
         {
