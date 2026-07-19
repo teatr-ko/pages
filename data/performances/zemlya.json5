@@ -155,12 +155,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Білоголова&nbsp;жінка"
-        },
-        {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/okurko/",
