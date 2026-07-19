@@ -144,14 +144,7 @@
       "role": "Пес 1-й"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
-          "role": "Пес&nbsp;2-й"
-        }
-      ],
+      "persons": [],
       "role": "Пес 2-й"
     }
   ],

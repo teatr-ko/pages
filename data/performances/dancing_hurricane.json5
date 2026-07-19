@@ -107,12 +107,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Плюс"
-        },
-        {
           "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
           "page_url": "/troupe/novyckak/",
@@ -146,18 +140,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гливко&nbsp;Дмитро",
-          "page_url": null,
-          "role": "Світлячок"
-        },
-        {
-          "has_page": false,
-          "name": "Кінел&nbsp;Степан",
-          "page_url": null,
-          "role": "Світлячок"
-        },
         {
           "has_page": true,
           "name": "Первун&nbsp;Світлана",

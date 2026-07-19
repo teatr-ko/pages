@@ -102,12 +102,6 @@
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Вовк"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Вовк"
         }
       ],
       "role": "Вовк"
@@ -148,12 +142,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Ніф-Ніф"
-        },
         {
           "has_page": true,
           "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
