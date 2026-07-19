@@ -163,14 +163,7 @@
       "role": "Гриць"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Дончукова, дружина&nbsp;Михайла"
-        }
-      ],
+      "persons": [],
       "role": "Дончукова, дружина Михайла"
     },
     {
@@ -209,12 +202,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Мидора"
-        },
         {
           "has_page": true,
           "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
@@ -308,12 +295,6 @@
           "has_page": true,
           "name": "Никируй&nbsp;Олег",
           "page_url": "/troupe/nykyrujoleg/",
-          "role": "Цигани,&nbsp;гуцули"
-        },
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
           "role": "Цигани,&nbsp;гуцули"
         },
         {

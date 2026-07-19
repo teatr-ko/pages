@@ -129,12 +129,6 @@
           "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
           "role": "Добродій&nbsp;Діафуарус"
-        },
-        {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
-          "role": "Добродій&nbsp;Діафуарус"
         }
       ],
       "role": "Добродій Діафуарус"
@@ -145,12 +139,6 @@
           "has_page": true,
           "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/bbazylevych/",
-          "role": "Добродій&nbsp;Пургон"
-        },
-        {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
           "role": "Добродій&nbsp;Пургон"
         }
       ],
@@ -196,12 +184,6 @@
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
-          "role": "Маски"
-        },
-        {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
           "role": "Маски"
         },
         {

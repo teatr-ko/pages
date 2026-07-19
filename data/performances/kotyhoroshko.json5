@@ -78,12 +78,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Бабуся"
-        },
-        {
           "has_page": true,
           "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
           "page_url": "/troupe/nkomarova/",
@@ -162,12 +156,6 @@
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
           "role": "Котигорошко"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Котигорошко"
         }
       ],
       "role": "Котигорошко"
@@ -191,12 +179,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Оленка – його&nbsp;сестра"
-        },
         {
           "has_page": true,
           "name": "Феняк&nbsp;Вікторія",
