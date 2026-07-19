@@ -179,7 +179,14 @@
       "role": "Полковник Помідор"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Принц&nbsp;Лимон"
+        }
+      ],
       "role": "Принц Лимон"
     },
     {
