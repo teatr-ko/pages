@@ -167,12 +167,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Королиха"
-        },
-        {
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
@@ -205,14 +199,7 @@
       "role": "Королівна"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
-          "role": "Король"
-        }
-      ],
+      "persons": [],
       "role": "Король"
     },
     {
@@ -268,12 +255,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Актори&nbsp;театру",
-          "page_url": null,
-          "role": "Цигани, весільні&nbsp;гості"
-        },
         {
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
