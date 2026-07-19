@@ -224,20 +224,26 @@
         },
         {
           "has_page": true,
-          "name": "Мардарович&nbsp;Соломія",
-          "page_url": "/troupe/mardarovych/",
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
           "role": "Масові&nbsp;сцени"
         },
         {
-          "has_page": false,
-          "name": "Олійник&nbsp;Максим",
-          "page_url": null,
+          "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
           "role": "Масові&nbsp;сцени"
         },
         {
           "has_page": true,
           "name": "Петрик&nbsp;Інна",
           "page_url": "/troupe/petryk_i/",
+          "role": "Масові&nbsp;сцени"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
           "role": "Масові&nbsp;сцени"
         }
       ],
@@ -252,12 +258,6 @@
           "role": "Мелашка"
         },
         {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Мелашка"
-        },
-        {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
           "page_url": "/troupe/uchuborak/",
@@ -268,12 +268,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Мотря"
-        },
         {
           "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
