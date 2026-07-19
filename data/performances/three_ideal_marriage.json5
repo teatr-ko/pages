@@ -83,12 +83,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Ада&nbsp;Гусман"
-        },
-        {
           "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
@@ -125,12 +119,6 @@
           "has_page": true,
           "name": "Петрик&nbsp;Інна",
           "page_url": "/troupe/petryk_i/",
-          "role": "Клара&nbsp;Гусман"
-        },
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
           "role": "Клара&nbsp;Гусман"
         }
       ],
@@ -171,14 +159,7 @@
       "role": "Луїза"
     },
     {
-      "persons": [
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Максимо&nbsp;Рохас"
-        }
-      ],
+      "persons": [],
       "role": "Максимо Рохас"
     },
     {
@@ -200,12 +181,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Лаюк&nbsp;Любомир",
-          "page_url": null,
-          "role": "Хав&#8217;єр&nbsp;Гусман"
-        },
         {
           "has_page": true,
           "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",

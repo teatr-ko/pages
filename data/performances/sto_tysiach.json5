@@ -148,12 +148,6 @@
           "role": "Клим"
         },
         {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Клим"
-        },
-        {
           "has_page": true,
           "name": "Новосад&nbsp;Дмитро",
           "page_url": "/troupe/novosad_d/",
@@ -194,12 +188,6 @@
           "role": "Мотря"
         },
         {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Мотря"
-        },
-        {
           "has_page": true,
           "name": "Сагалюк&nbsp;Катерина",
           "page_url": "/troupe/novyckak/",
@@ -227,12 +215,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Параска"
-        },
         {
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
@@ -266,12 +248,6 @@
           "has_page": true,
           "name": "Глушко&nbsp;Вячеслав",
           "page_url": "/troupe/glushko/",
-          "role": "Роман"
-        },
-        {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
           "role": "Роман"
         }
       ],
