@@ -58,12 +58,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Іванченко&nbsp;Владислав",
-          "page_url": null,
-          "role": "Антон"
-        },
-        {
           "has_page": true,
           "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/filimonov/",
@@ -74,12 +68,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Анюта"
-        },
         {
           "has_page": true,
           "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
@@ -106,12 +94,6 @@
           "has_page": true,
           "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
           "page_url": "/troupe/rmardariy/",
-          "role": "Тарас"
-        },
-        {
-          "has_page": false,
-          "name": "Мельничук&nbsp;Дмитро",
-          "page_url": null,
           "role": "Тарас"
         }
       ],

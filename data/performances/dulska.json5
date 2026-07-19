@@ -118,12 +118,6 @@
     {
       "persons": [
         {
-          "has_page": false,
-          "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
-          "role": "Ганка"
-        },
-        {
           "has_page": true,
           "name": "Катеринчук&nbsp;Марія",
           "page_url": "/troupe/mkaterynchuk/",
@@ -134,12 +128,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Геся&nbsp;Дульська"
-        },
         {
           "has_page": true,
           "name": "Чиборак&nbsp;Уляна",
@@ -179,12 +167,6 @@
     },
     {
       "persons": [
-        {
-          "has_page": false,
-          "name": "Пронюк&nbsp;Тетяна",
-          "page_url": null,
-          "role": "Меля&nbsp;Дульська"
-        },
         {
           "has_page": true,
           "name": "Феняк&nbsp;Вікторія",

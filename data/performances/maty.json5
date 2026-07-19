@@ -106,6 +106,12 @@
       "persons": [
         {
           "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "Дівчата"
+        },
+        {
+          "has_page": true,
           "name": "Первун&nbsp;Світлана",
           "page_url": "/troupe/spervun/",
           "role": "Дівчата"
