@@ -1,0 +1,73 @@
+{
+  "_page": {
+    "output": "performances/kazka_pro_Kseniu/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "<p class=\"x1yc453h\" style=\"text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Зима. Засніжений ліс. Дівчинка, яка вирушає туди, де, здавалося б, не може вижити нічого. Ксеня живе разом із мачухою та її дочкою Паланою. Щодня вона виконує найважчу роботу та терпить постійні кривди. &nbsp;</span></p>\r\n<p class=\"x1yc453h\" style=\"text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Одного дня Палана наказує дівчинці знайти серед зимового лісу суниці та фіалки. Ксеня вирушає на пошуки, хоча добре розуміє, що виконати це завдання неможливо.</span></p>\r\n<p class=\"x1yc453h\" style=\"text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Та саме в лісі на неї чекає зустріч, яка змінить усе. Ксеня потрапляє до Дванадцяти Місяців. Це загадкові володарі природи, кожен із яких має свій характер і силу. Побачивши її доброту, щирість і терпіння, вони вирішують допомогти дівчинці.</span></p>\r\n<p class=\"x1yc453h\" style=\"text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">За мотивами твору Богдана Лепкого &laquo;Казка про Ксеню і Дванадцять місяців&raquo; &ndash; &nbsp;це історія про милосердя та справедливість. Історія, яка нагадує: добро ніколи не зникає без сліду, а справжні дива трапляються з тими, хто у них вірить.</span></p>",
+  "additional_director_info": "",
+  "author": "Богдан Лепкий",
+  "director": "Сініков&nbsp;Віталій",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "Музична&nbsp;казка",
+  "name": "Казка про Ксеню і Дванадцять&nbsp;місяців",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Балет"
+    },
+    {
+      "persons": [],
+      "role": "Ксеня"
+    },
+    {
+      "persons": [],
+      "role": "Мачуха"
+    },
+    {
+      "persons": [],
+      "role": "Палана"
+    },
+    {
+      "persons": [],
+      "role": "Січень (оповідач)"
+    },
+    {
+      "persons": [],
+      "role": "Травень"
+    },
+    {
+      "persons": [],
+      "role": "Червень"
+    }
+  ],
+  "premiere": "20.09.2026",
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Маник&nbsp;Віталій",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": false,
+      "name": "Джаман&nbsp;Ігор",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Воротняк&nbsp;Мирослава, з. д.&nbsp;м.&nbsp;України",
+      "page_url": null,
+      "role": "Балетмейстер"
+    },
+    {
+      "has_page": true,
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
+}
