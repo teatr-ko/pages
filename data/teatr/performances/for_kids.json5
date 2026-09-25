@@ -86,7 +86,10 @@
         "url": "/performances/telesyk/"
       },
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/kazka_pro_Kseniu/афіша_cr_gal_ix.jpg"
+        },
         "name": "Казка про Ксеню і Дванадцять&nbsp;місяців",
         "url": "/performances/kazka_pro_Kseniu/"
       }

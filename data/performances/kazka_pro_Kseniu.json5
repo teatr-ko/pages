@@ -10,36 +10,145 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/kazka_pro_Kseniu/афіша_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/kazka_pro_Kseniu/афіша_gallery.jpg"
+    }
+  ],
   "genre": "Музична&nbsp;казка",
   "name": "Казка про Ксеню і Дванадцять&nbsp;місяців",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "Балет"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Балет"
+        },
+        {
+          "has_page": true,
+          "name": "Петрик&nbsp;Інна",
+          "page_url": "/troupe/petryk_i/",
+          "role": "Балет"
+        },
+        {
+          "has_page": false,
+          "name": "Савчук&nbsp;Ігор",
+          "page_url": null,
+          "role": "Балет"
+        }
+      ],
       "role": "Балет"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Ксеня"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Ксеня"
+        }
+      ],
       "role": "Ксеня"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Мачуха"
+        },
+        {
+          "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Мачуха"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Мачуха"
+        }
+      ],
       "role": "Мачуха"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Палана"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Палана"
+        }
+      ],
       "role": "Палана"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Січень&nbsp;(оповідач)"
+        }
+      ],
       "role": "Січень (оповідач)"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Травень"
+        },
+        {
+          "has_page": true,
+          "name": "Лаюк&nbsp;Арсен",
+          "page_url": "/troupe/layukarsen/",
+          "role": "Травень"
+        }
+      ],
       "role": "Травень"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Никируй&nbsp;Олег",
+          "page_url": "/troupe/nykyrujoleg/",
+          "role": "Червень"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Червень"
+        }
+      ],
       "role": "Червень"
     }
   ],
