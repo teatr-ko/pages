@@ -145,9 +145,9 @@
     {
       "persons": [
         {
-          "has_page": false,
+          "has_page": true,
           "name": "Гладирук&nbsp;Оксана",
-          "page_url": null,
+          "page_url": "/troupe/gladyruk_o/",
           "role": "Горпина"
         },
         {

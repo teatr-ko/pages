@@ -10,47 +10,195 @@
   "director_has_page": false,
   "director_page_url": null,
   "duration": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "",
+      "url": "/korg/kol/portals/teatr/performances/ukradene/photo_2026-09-07_23-19-05_cr_gal_ix.jpg",
+      "url_small": "/korg/kol/portals/teatr/performances/ukradene/photo_2026-09-07_23-19-05_gallery.jpg"
+    }
+  ],
   "genre": "Драма",
   "name": "Украдене&nbsp;щастя",
   "personages": [
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/nkomarova/",
+          "role": "Анна"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонова Олександра,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/oskrygunec/",
+          "role": "Анна"
+        },
+        {
+          "has_page": true,
+          "name": "Якубів Ольга,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/ohnatiuk/",
+          "role": "Анна"
+        }
+      ],
       "role": "Анна"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Новицький&nbsp;Захарій,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/znovytskiy/",
+          "role": "Війт"
+        }
+      ],
       "role": "Війт"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарович&nbsp;Соломія",
+          "page_url": "/troupe/mardarovych/",
+          "role": "Дівчина"
+        },
+        {
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
+          "role": "Дівчина"
+        },
+        {
+          "has_page": true,
+          "name": "Феняк&nbsp;Вікторія",
+          "page_url": "/troupe/185/",
+          "role": "Дівчина"
+        }
+      ],
       "role": "Дівчина"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Курко Оксана,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/okurko/",
+          "role": "Жінка"
+        },
+        {
+          "has_page": true,
+          "name": "Моцок Любов,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/lmotsok/",
+          "role": "Жінка"
+        }
+      ],
       "role": "Жінка"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Кум&nbsp;Бабич"
+        }
+      ],
       "role": "Кум Бабич"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Мардарій&nbsp;Роман,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/rmardariy/",
+          "role": "Микола"
+        }
+      ],
       "role": "Микола"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Базилевич&nbsp;Богдан,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/bbazylevych/",
+          "role": "Михайло"
+        },
+        {
+          "has_page": true,
+          "name": "Філімонов Артур,&nbsp;член&nbsp;НСТДУ",
+          "page_url": "/troupe/filimonov/",
+          "role": "Михайло"
+        }
+      ],
       "role": "Михайло"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Катеринчук&nbsp;Марія",
+          "page_url": "/troupe/mkaterynchuk/",
+          "role": "Настя"
+        },
+        {
+          "has_page": true,
+          "name": "Первун&nbsp;Світлана",
+          "page_url": "/troupe/spervun/",
+          "role": "Настя"
+        },
+        {
+          "has_page": true,
+          "name": "Угорська-Геник Галина,&nbsp;членкиня&nbsp;НСТДУ",
+          "page_url": "/troupe/huhorska/",
+          "role": "Настя"
+        }
+      ],
       "role": "Настя"
     },
     {
-      "persons": [],
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
+          "role": "Хлопець"
+        },
+        {
+          "has_page": true,
+          "name": "Глушко&nbsp;Вячеслав",
+          "page_url": "/troupe/glushko/",
+          "role": "Хлопець"
+        },
+        {
+          "has_page": true,
+          "name": "Никируй&nbsp;Олег",
+          "page_url": "/troupe/nykyrujoleg/",
+          "role": "Хлопець"
+        }
+      ],
       "role": "Хлопець"
     }
   ],
   "premiere": "13.09.2026",
-  "staff": []
+  "staff": [
+    {
+      "has_page": false,
+      "name": "Данько Микола,&nbsp;з.д.м.&nbsp;України",
+      "page_url": null,
+      "role": "Сценограф"
+    },
+    {
+      "has_page": false,
+      "name": "Маник&nbsp;Віталій",
+      "page_url": null,
+      "role": "Композитор"
+    },
+    {
+      "has_page": true,
+      "name": "Комарова&nbsp;Надія, з.а. України,&nbsp;членкиня&nbsp;НСТДУ",
+      "page_url": "/troupe/nkomarova/",
+      "role": "Асистент&nbsp;режисера"
+    }
+  ]
 }

@@ -41,9 +41,9 @@
           "role": "Балет"
         },
         {
-          "has_page": false,
-          "name": "Савчук&nbsp;Ігор",
-          "page_url": null,
+          "has_page": true,
+          "name": "Сагалюк&nbsp;Катерина",
+          "page_url": "/troupe/novyckak/",
           "role": "Балет"
         }
       ],

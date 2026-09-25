@@ -240,7 +240,10 @@
     ],
     [
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ukradene/photo_2026-09-07_23-19-05_cr_gal_ix.jpg"
+        },
         "name": "Украдене&nbsp;щастя",
         "url": "/performances/ukradene/"
       },

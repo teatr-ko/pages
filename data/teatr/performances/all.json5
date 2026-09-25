@@ -134,7 +134,7 @@
       {
         "image": {
           "name": "",
-          "url": "/korg/kol/portals/teatr/performances/photo_2026-05-26_16-14-12__gal_ix.jpg"
+          "url": "/korg/kol/portals/teatr/performances/photo_2026-05-26_16-14-12_cr_gal_ix.jpg"
         },
         "name": "Дармоїди",
         "url": "/performances/darmoid/"
@@ -816,7 +816,10 @@
     ],
     [
       {
-        "image": null,
+        "image": {
+          "name": "",
+          "url": "/korg/kol/portals/teatr/performances/ukradene/photo_2026-09-07_23-19-05_cr_gal_ix.jpg"
+        },
         "name": "Украдене&nbsp;щастя",
         "url": "/performances/ukradene/"
       },
