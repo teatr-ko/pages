@@ -1,0 +1,56 @@
+{
+  "_page": {
+    "output": "performances/ukradene/index.html",
+    "template": "teatr/performance"
+  },
+  "addition": "<p class=\"x1yc453h\" style=\"text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Ода Жінці, яка любить, терпить, страждає і все одно обирає жити. Ода Жінці, яка опиняється пере вибором між почуттям і обов&rsquo;язком, між тим, чого прагне серце і тим, що диктує доля. </span></p>\r\n<p class=\"x1yc453h\" style=\"text-align: center;\"><span style=\"font-family: 'book antiqua', palatino; font-size: medium;\">Кохання, яке неможливо забути. Втрати, які назавжди залишаються з нами. Життя, яке триває навіть тоді, коли здається, що щастя вже втрачено. Та найважливіше запитання залишається: чи має людина право обирати власне щастя, навіть якщо за нього доведеться заплатити найвищу ціну?</span></p>",
+  "additional_director_info": "",
+  "author": "Іван Франко",
+  "director": "Чиборак Дмитро,&nbsp;н.а.&nbsp;України",
+  "director_has_page": false,
+  "director_page_url": null,
+  "duration": "",
+  "gallery": [],
+  "genre": "Драма",
+  "name": "Украдене&nbsp;щастя",
+  "personages": [
+    {
+      "persons": [],
+      "role": "Анна"
+    },
+    {
+      "persons": [],
+      "role": "Війт"
+    },
+    {
+      "persons": [],
+      "role": "Дівчина"
+    },
+    {
+      "persons": [],
+      "role": "Жінка"
+    },
+    {
+      "persons": [],
+      "role": "Кум Бабич"
+    },
+    {
+      "persons": [],
+      "role": "Микола"
+    },
+    {
+      "persons": [],
+      "role": "Михайло"
+    },
+    {
+      "persons": [],
+      "role": "Настя"
+    },
+    {
+      "persons": [],
+      "role": "Хлопець"
+    }
+  ],
+  "premiere": "13.09.2026",
+  "staff": []
+}

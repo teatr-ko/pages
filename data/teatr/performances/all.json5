@@ -816,13 +816,20 @@
     ],
     [
       {
+        "image": null,
+        "name": "Украдене&nbsp;щастя",
+        "url": "/performances/ukradene/"
+      },
+      {
         "image": {
           "name": "",
           "url": "/korg/kol/portals/teatr/performances/faraony/фараони_а3_cr_gal_ix.jpg"
         },
         "name": "Фараони",
         "url": "/performances/faraony/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -830,9 +837,7 @@
         },
         "name": "Фарбований&nbsp;лис",
         "url": "/performances/painted_fox/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -840,7 +845,9 @@
         },
         "name": "Хворий, та й&nbsp;годі!",
         "url": "/performances/sick_tai_godi/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -848,9 +855,7 @@
         },
         "name": "Чарівна&nbsp;рукавичка",
         "url": "/performances/ch_rukavychka/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -858,7 +863,9 @@
         },
         "name": "Чиполіно",
         "url": "/performances/cipollino/"
-      },
+      }
+    ],
+    [
       {
         "image": {
           "name": "",
@@ -866,9 +873,7 @@
         },
         "name": "Чудо Святого&nbsp;Миколая",
         "url": "/performances/zymovi_prygody_2/"
-      }
-    ],
-    [
+      },
       {
         "image": {
           "name": "",
@@ -876,8 +881,7 @@
         },
         "name": "Як наші діди&nbsp;парубкували",
         "url": "/performances/yak_didy/"
-      },
-      null
+      }
     ]
   ]
 }
