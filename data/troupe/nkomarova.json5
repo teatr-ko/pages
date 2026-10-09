@@ -23,11 +23,6 @@
       "url_small": "/korg/kol/portals/teatr/troup/nkomarova/03_gallery.jpg"
     },
     {
-      "title": "",
-      "url": "/korg/kol/portals/teatr/troup/nkomarova/zp1_8000_index.jpg",
-      "url_small": "/korg/kol/portals/teatr/troup/nkomarova/zp1_8000_gallery.jpg"
-    },
-    {
       "title": " - <span class=\"caps\">EQUUS</span>",
       "url": "/korg/kol/portals/teatr/troup/nkomarova/19.11.06_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/nkomarova/19.11.06_gallery.jpg"
@@ -108,6 +103,11 @@
       "url_small": "/korg/kol/portals/teatr/troup/nkomarova/23.04.2_gallery.jpg"
     },
     {
+      "title": " - Лісова&nbsp;пісня",
+      "url": "/korg/kol/portals/teatr/troup/nkomarova/zp1_8000_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/nkomarova/zp1_8000_gallery.jpg"
+    },
+    {
       "title": " - Мораль пані&nbsp;Дульської",
       "url": "/korg/kol/portals/teatr/troup/nkomarova/07.12.01_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/nkomarova/07.12.01_gallery.jpg"
@@ -161,6 +161,11 @@
       "title": " - Територія&nbsp;Б",
       "url": "/korg/kol/portals/teatr/troup/nkomarova/05.12_02_small_ix_crop.jpg",
       "url_small": "/korg/kol/portals/teatr/troup/nkomarova/05.12_02_gallery.jpg"
+    },
+    {
+      "title": " - Украдене&nbsp;щастя",
+      "url": "/korg/kol/portals/teatr/troup/nkomarova/nkz_5516-dxo_deepprime_3_index.jpg",
+      "url_small": "/korg/kol/portals/teatr/troup/nkomarova/nkz_5516-dxo_deepprime_3_gallery.jpg"
     },
     {
       "title": " -&nbsp;Фараони",
