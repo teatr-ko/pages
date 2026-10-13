@@ -213,6 +213,13 @@ items = []
 level = 2
 url = "/kol_presentations/2025/"
 
+[[items.items]]
+caption = "XV фестиваль - 2026 р."
+id = 43
+items = []
+level = 2
+url = "/kol_presentations/2026/"
+
 [[items]]
 caption = "Архів"
 id = 36
