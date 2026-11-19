@@ -149,8 +149,8 @@
       "persons": [
         {
           "has_page": true,
-          "name": "Максимчук&nbsp;Іван",
-          "page_url": "/troupe/maksymchuk_m/",
+          "name": "Глік&nbsp;Богдан",
+          "page_url": "/troupe/glikbogdan/",
           "role": "Груша"
         }
       ],
@@ -216,6 +216,17 @@
         }
       ],
       "role": "Чиполіно"
+    },
+    {
+      "persons": [
+        {
+          "has_page": true,
+          "name": "Максимчук&nbsp;Іван",
+          "page_url": "/troupe/maksymchuk_m/",
+          "role": "Чиполоне"
+        }
+      ],
+      "role": "Чиполоне"
     }
   ],
   "premiere": "17.07.2022",
